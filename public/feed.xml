@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ideaoasis.vercel.app</id>
+    <title>IdeaOasis</title>
+    <updated>2026-03-23T12:02:33.184Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>IdeaOasis</name>
+        <uri>https://ideaoasis.vercel.app</uri>
+    </author>
+    <link rel="alternate" href="https://ideaoasis.vercel.app"/>
+    <link rel="self" href="https://ideaoasis.vercel.app/feed.xml"/>
+    <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 5선. 한국 시장 분석과 네이버 트렌드 데이터까지.</subtitle>
+    <icon>https://ideaoasis.vercel.app/favicon.ico</icon>
+    <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-03-23 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis.vercel.app/?date=2026-03-23</id>
+        <link href="https://ideaoasis.vercel.app/"/>
+        <updated>2026-03-23T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[슬립와이즈 · 레주메크래프트 · 그린트랙 · 네이버리 · 보이스노트 프로]]></summary>
+        <content type="html"><![CDATA[<h3>#1 슬립와이즈</h3><p>스마트폰 마이크로 수면 패턴을 분석하고 맞춤형 수면 개선 코칭을 제공하는 앱</p><h3>#2 레주메크래프트</h3><p>채용 공고를 분석해 맞춤형 이력서를 자동 생성하는 AI 서비스</p><h3>#3 그린트랙</h3><p>일상 소비의 탄소 발자국을 자동 추적하고 친환경 대안을 추천하는 앱</p><h3>#4 네이버리</h3><p>같은 아파트 단지 주민끼리 소통하고 물건을 나누는 초근접 커뮤니티 앱</p><h3>#5 보이스노트 프로</h3><p>음성 메모를 AI가 자동으로 구조화된 회의록으로 변환하는 생산성 도구</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-03-22 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis.vercel.app/?date=2026-03-22</id>
+        <link href="https://ideaoasis.vercel.app/"/>
+        <updated>2026-03-22T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[펫팔 AI · 인보이스플로우 · 포커스메이트 2.0 · 밀프렙 지니어스 · 컨트랙트IQ]]></summary>
+        <content type="html"><![CDATA[<h3>#1 펫팔 AI</h3><p>스마트폰 카메라로 반려동물 건강 상태를 AI가 실시간 분석하는 서비스</p><h3>#2 인보이스플로우</h3><p>AI가 청구서를 자동으로 인식하고 회계 시스템에 입력해주는 B2B SaaS</p><h3>#3 포커스메이트 2.0</h3><p>AI 생산성 코칭이 결합된 가상 코워킹 플랫폼</p><h3>#4 밀프렙 지니어스</h3><p>냉장고 속 재료를 촬영하면 AI가 일주일 식단과 장보기 리스트를 만들어주는 앱</p><h3>#5 컨트랙트IQ</h3><p>프리랜서를 위한 AI 계약서 검토 서비스, 불리한 조항을 즉시 발견</p>]]></content>
+    </entry>
+</feed>

@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Pretendard";
+  src: url("/fonts/Pretendard-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Pretendard";
+  src: url("/fonts/Pretendard-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --font-sans: "Pretendard", system-ui, -apple-system, sans-serif;
+  --color-bg-light: #fafaf9;
+  --color-bg-dark: #1a1a1a;
+  --color-accent: #ff6b6b;
+  --color-accent-hover: #ff5252;
+  --color-surface-light: #ffffff;
+  --color-surface-dark: #262626;
+  --color-border-light: #f4f4f5;
+  --color-border-dark: #3f3f46;
+}
+
+html {
+  font-family: var(--font-sans);
+}
+
+body {
+  background-color: var(--color-bg-light);
+  color: #18181b;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.dark body {
+  background-color: var(--color-bg-dark);
+  color: #fafafa;
+}

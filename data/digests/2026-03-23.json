@@ -1,0 +1,136 @@
+{
+  "date": "2026-03-23",
+  "ideas": [
+    {
+      "id": "ph-100006",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/sleepwise",
+      "title_en": "SleepWise",
+      "tagline_en": "AI sleep optimization using your phone's microphone",
+      "title_ko": "슬립와이즈",
+      "summary_ko": "스마트폰 마이크로 수면 패턴을 분석하고 맞춤형 수면 개선 코칭을 제공하는 앱",
+      "analysis_ko": {
+        "description": "별도 웨어러블 없이 스마트폰 마이크로 코골이, 수면 무호흡, 뒤척임 등을 감지하고 AI가 수면 품질을 분석하여 개선 방안을 제안합니다.",
+        "market_fit": "한국인의 평균 수면 시간은 OECD 최하위 수준이며, 수면 건강에 대한 관심이 급증하고 있습니다. 수면클리닉 대기가 수개월인 상황에서 접근성 높은 대안이 될 수 있습니다.",
+        "competitors_kr": ["삼성 헬스", "슬리피스"],
+        "regulatory_notes": "의료기기가 아닌 '웰니스' 카테고리로 분류되도록 기능 범위를 설계해야 합니다.",
+        "localization_strategy": "한국의 온돌 문화와 연계하여 실내 온도/습도 기반 수면 환경 최적화 기능을 추가하면 차별화됩니다.",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": ["수면 앱", "수면 건강"],
+        "trend_index": 88,
+        "trend_direction": "up",
+        "period": "2025-03 to 2026-03"
+      },
+      "ph_votes": 489,
+      "thumbnail_url": "https://ph-files.imgix.net/placeholder-sleep.png",
+      "created_at": "2026-03-23T05:00:00Z"
+    },
+    {
+      "id": "ph-100007",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/resumecraft",
+      "title_en": "ResumeCraft",
+      "tagline_en": "AI resume builder that matches job descriptions",
+      "title_ko": "레주메크래프트",
+      "summary_ko": "채용 공고를 분석해 맞춤형 이력서를 자동 생성하는 AI 서비스",
+      "analysis_ko": {
+        "description": "채용 공고 URL을 입력하면 AI가 직무 요구사항을 분석하고, 사용자의 경력과 매칭하여 합격률 높은 맞춤형 이력서를 자동 생성합니다.",
+        "market_fit": "한국 취업 시장은 스펙 중심에서 역량 중심으로 전환 중이며, 특히 경력직 이직 시장이 활발합니다. 사람인, 잡코리아 등 기존 플랫폼의 이력서 기능이 기본적인 수준이라 개선 여지가 큽니다.",
+        "competitors_kr": ["잡플래닛", "원티드"],
+        "regulatory_notes": "개인정보 처리 방침에서 이력서 데이터 보관 기간과 삭제 절차를 명확히 해야 합니다.",
+        "localization_strategy": "한국 특유의 자기소개서 문화에 맞춰 '자소서 AI 첨삭' 기능을 추가하면 킬러 피처가 됩니다.",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": ["AI 이력서", "자소서 AI"],
+        "trend_index": 73,
+        "trend_direction": "up",
+        "period": "2025-03 to 2026-03"
+      },
+      "ph_votes": 356,
+      "thumbnail_url": "https://ph-files.imgix.net/placeholder-resume.png",
+      "created_at": "2026-03-23T05:00:00Z"
+    },
+    {
+      "id": "ph-100008",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/greentrack",
+      "title_en": "GreenTrack",
+      "tagline_en": "Carbon footprint tracker for everyday purchases",
+      "title_ko": "그린트랙",
+      "summary_ko": "일상 소비의 탄소 발자국을 자동 추적하고 친환경 대안을 추천하는 앱",
+      "analysis_ko": {
+        "description": "결제 내역을 연동하면 각 구매의 탄소 배출량을 자동 계산하고, 더 친환경적인 대안 제품이나 서비스를 추천합니다.",
+        "market_fit": "한국은 2050 탄소중립을 선언했고, ESG 경영이 기업 화두입니다. MZ세대의 가치 소비 트렌드와 맞물려 개인 단위 탄소 관리에 대한 관심이 높아지고 있습니다.",
+        "competitors_kr": ["에코마일리지"],
+        "regulatory_notes": "오픈뱅킹 API를 통한 결제 내역 접근 시 금융위원회 규정을 준수해야 합니다.",
+        "localization_strategy": "서울시 에코마일리지, 탄소포인트제 등 정부 인센티브 프로그램과 연동하면 실질적 보상 제공이 가능합니다.",
+        "difficulty": "Hard"
+      },
+      "naver_trends": null,
+      "ph_votes": 312,
+      "thumbnail_url": "https://ph-files.imgix.net/placeholder-green.png",
+      "created_at": "2026-03-23T05:00:00Z"
+    },
+    {
+      "id": "ph-100009",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/neighborly",
+      "title_en": "Neighborly",
+      "tagline_en": "Hyperlocal community app for apartment buildings",
+      "title_ko": "네이버리",
+      "summary_ko": "같은 아파트 단지 주민끼리 소통하고 물건을 나누는 초근접 커뮤니티 앱",
+      "analysis_ko": {
+        "description": "같은 아파트 단지나 동네 주민끼리 중고 거래, 공동 구매, 돌봄 품앗이, 단지 내 공지사항 등을 공유하는 초근접 커뮤니티 플랫폼입니다.",
+        "market_fit": "한국은 전 국민의 60%가 아파트에 거주하는 독특한 주거 구조를 가지고 있어, 아파트 단지 기반 커뮤니티 서비스의 잠재력이 큽니다. 기존 아파트 관리 앱의 커뮤니티 기능이 부실하여 틈새 시장이 존재합니다.",
+        "competitors_kr": ["당근마켓", "아파트아이"],
+        "regulatory_notes": "위치 기반 서비스 신고(방통위)가 필요하며, 미성년자 보호 조치를 포함해야 합니다.",
+        "localization_strategy": "아파트 관리사무소와 제휴하여 공식 소통 채널로 도입하면 빠른 유저 확보가 가능합니다. 입주민 인증 시스템이 핵심입니다.",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": ["아파트 커뮤니티", "동네 앱"],
+        "trend_index": 56,
+        "trend_direction": "flat",
+        "period": "2025-03 to 2026-03"
+      },
+      "ph_votes": 278,
+      "thumbnail_url": "https://ph-files.imgix.net/placeholder-neighbor.png",
+      "created_at": "2026-03-23T05:00:00Z"
+    },
+    {
+      "id": "ph-100010",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/voicenote-pro",
+      "title_en": "VoiceNote Pro",
+      "tagline_en": "Turn voice memos into structured meeting notes with AI",
+      "title_ko": "보이스노트 프로",
+      "summary_ko": "음성 메모를 AI가 자동으로 구조화된 회의록으로 변환하는 생산성 도구",
+      "analysis_ko": {
+        "description": "회의나 강의를 녹음하면 AI가 자동으로 발화자를 구분하고, 핵심 내용 요약, 액션 아이템 추출, 구조화된 회의록을 생성합니다.",
+        "market_fit": "한국 기업 문화는 회의가 많기로 유명하며, 회의록 작성은 주니어의 고충입니다. 특히 한국어 음성 인식의 정확도가 올라가면서 실용성이 크게 향상되었습니다.",
+        "competitors_kr": ["클로바노트", "다글로"],
+        "regulatory_notes": "녹음 시 참석자 전원의 동의가 필요하며(통신비밀보호법), 앱 내 동의 프로세스를 구현해야 합니다.",
+        "localization_strategy": "한국어 존댓말/반말 구분, 직급 호칭 인식 등 한국어 특성에 맞는 기능을 추가하면 네이버 클로바노트와 차별화됩니다.",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": ["AI 회의록", "음성 기록"],
+        "trend_index": 67,
+        "trend_direction": "up",
+        "period": "2025-03 to 2026-03"
+      },
+      "ph_votes": 245,
+      "thumbnail_url": "https://ph-files.imgix.net/placeholder-voice.png",
+      "created_at": "2026-03-23T05:00:00Z"
+    }
+  ],
+  "generated_at": "2026-03-23T05:15:00Z"
+}

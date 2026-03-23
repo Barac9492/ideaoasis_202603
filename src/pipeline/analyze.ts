@@ -1,0 +1,113 @@
+import Anthropic from "@anthropic-ai/sdk";
+import { IdeaSchema, type Idea } from "@/lib/schema";
+import type { PHPost } from "./fetch-ph";
+
+const SYSTEM_PROMPT = `You are an expert startup analyst specializing in the Korean market.
+You will receive a list of products from ProductHunt. Your job:
+1. Select the top 5 most interesting/novel ideas for Korean entrepreneurs
+2. For each, provide a full Korean market analysis
+
+Output ONLY valid JSON array matching this schema for each idea:
+{
+  "id": "ph-{producthunt_id}",
+  "rank": 1-5,
+  "source": "producthunt",
+  "source_url": "{product_url}",
+  "title_en": "{english_name}",
+  "tagline_en": "{english_tagline}",
+  "title_ko": "{korean_translated_name}",
+  "summary_ko": "{korean_one_line_summary}",
+  "analysis_ko": {
+    "description": "{detailed_korean_description_2_3_sentences}",
+    "market_fit": "{korean_market_fit_analysis_2_3_sentences}",
+    "competitors_kr": ["{korean_competitor_names}"],
+    "regulatory_notes": "{korean_regulatory_considerations}",
+    "localization_strategy": "{korean_localization_strategy}",
+    "difficulty": "Easy|Medium|Hard"
+  },
+  "naver_keywords": ["{1_2_korean_search_keywords_for_naver}"],
+  "ph_votes": {votes_count},
+  "thumbnail_url": "{thumbnail_or_null}",
+  "created_at": "{iso_datetime}"
+}
+
+Output ONLY the JSON array, no markdown, no explanation.`;
+
+export async function analyzeProducts(posts: PHPost[]): Promise<{
+  ideas: Idea[];
+  naverKeywords: Map<string, string[]>;
+}> {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) throw new Error("ANTHROPIC_API_KEY is required");
+
+  const client = new Anthropic({ apiKey });
+
+  const userMessage = JSON.stringify(
+    posts.map((p) => ({
+      id: p.id,
+      name: p.name,
+      tagline: p.tagline,
+      url: p.url,
+      votesCount: p.votesCount,
+      thumbnailUrl: p.thumbnailUrl,
+      createdAt: p.createdAt,
+    }))
+  );
+
+  const response = await client.messages.create({
+    model: "claude-sonnet-4-20250514",
+    max_tokens: 4096,
+    temperature: 0.3,
+    system: SYSTEM_PROMPT,
+    messages: [{ role: "user", content: userMessage }],
+  });
+
+  const text =
+    response.content[0].type === "text" ? response.content[0].text : "";
+
+  let rawIdeas: unknown[];
+  try {
+    rawIdeas = JSON.parse(text);
+  } catch {
+    console.error("Claude returned invalid JSON:", text.slice(0, 200));
+    throw new Error("Claude returned invalid JSON");
+  }
+
+  if (!Array.isArray(rawIdeas)) {
+    throw new Error("Claude did not return an array");
+  }
+
+  const ideas: Idea[] = [];
+  const naverKeywords = new Map<string, string[]>();
+
+  for (const raw of rawIdeas) {
+    const obj = raw as Record<string, unknown>;
+    // Extract naver_keywords before validation (not in schema)
+    const keywords = Array.isArray(obj.naver_keywords)
+      ? (obj.naver_keywords as string[])
+      : [];
+
+    // Remove naver_keywords and add naver_trends as null for validation
+    const { naver_keywords: _, ...rest } = obj;
+    const toValidate = { ...rest, naver_trends: null };
+
+    const result = IdeaSchema.safeParse(toValidate);
+    if (result.success) {
+      ideas.push(result.data);
+      if (keywords.length > 0) {
+        naverKeywords.set(result.data.id, keywords);
+      }
+    } else {
+      console.warn(`Skipping idea (validation failed):`, result.error.issues);
+    }
+  }
+
+  if (ideas.length < 3) {
+    throw new Error(
+      `Only ${ideas.length} ideas passed validation (minimum 3 required)`
+    );
+  }
+
+  console.log(`Analyzed ${ideas.length} ideas (${rawIdeas.length} from Claude)`);
+  return { ideas, naverKeywords };
+}

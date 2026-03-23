@@ -1,0 +1,46 @@
+{
+  "week": "2026-W12",
+  "selected_idea": {
+    "id": "ph-100001",
+    "rank": 1,
+    "source": "producthunt",
+    "source_url": "https://www.producthunt.com/posts/petpal-ai",
+    "title_en": "PetPal AI",
+    "tagline_en": "AI-powered pet health monitoring from your phone camera",
+    "title_ko": "펫팔 AI",
+    "summary_ko": "스마트폰 카메라로 반려동물 건강 상태를 AI가 실시간 분석하는 서비스",
+    "analysis_ko": {
+      "description": "반려동물의 행동, 피부, 눈 상태 등을 스마트폰 카메라로 촬영하면 AI가 건강 이상 징후를 감지하고 수의사 방문 필요 여부를 알려줍니다.",
+      "market_fit": "한국 반려동물 시장은 2025년 기준 6조원 규모로, 1인 가구 증가와 함께 펫케어 수요가 급증하고 있습니다.",
+      "competitors_kr": ["핏펫", "펫닥", "라이펫"],
+      "regulatory_notes": "수의사법에 따라 AI 진단 결과를 '진료'가 아닌 '건강 정보 제공'으로 포지셔닝해야 합니다.",
+      "localization_strategy": "카카오톡 알림 연동, 네이버 동물병원 예약 시스템과 통합하면 한국 사용자 경험을 극대화할 수 있습니다.",
+      "difficulty": "Hard"
+    },
+    "naver_trends": {
+      "keywords": ["반려동물 건강", "펫 헬스케어"],
+      "trend_index": 82,
+      "trend_direction": "up",
+      "period": "2025-03 to 2026-03"
+    },
+    "ph_votes": 523,
+    "thumbnail_url": "https://ph-files.imgix.net/placeholder-petpal.png",
+    "created_at": "2026-03-22T05:00:00Z"
+  },
+  "deep_dive_ko": {
+    "market_sizing": "한국 반려동물 시장은 2025년 6조원에서 2028년 10조원으로 성장 전망됩니다. 이 중 펫 헬스케어 부문은 약 1.2조원으로, 연평균 25% 성장률을 보이고 있습니다. 반려동물 등록 수는 2024년 기준 350만 마리를 넘어섰으며, 반려인 가구 비율은 30%에 달합니다. TAM: 1.2조원 (펫 헬스케어), SAM: 3,000억원 (디지털 펫 헬스), SOM: 300억원 (AI 기반 건강 모니터링).",
+    "localization_playbook": [
+      "1단계: 한국어 AI 모델 학습 — 한국 인기 품종(말티즈, 푸들, 진돗개) 특화 데이터셋 구축",
+      "2단계: 카카오톡 채널 개설 — 건강 리포트를 카카오톡으로 전달, 알림 설정",
+      "3단계: 동물병원 제휴 — 네이버 플레이스 등록 동물병원 500곳과 예약 연동",
+      "4단계: 펫보험 제휴 — KB손해보험, 삼성화재 등 펫보험사와 건강 데이터 연계 할인 제공",
+      "5단계: 커뮤니티 구축 — 반려동물 건강 정보 공유 커뮤니티로 확장"
+    ],
+    "comparable_kr_successes": [
+      "핏펫 — 반려동물 소변 검사 키트에서 시작하여 종합 펫 헬스케어 플랫폼으로 성장. 2024년 시리즈B 200억원 투자 유치.",
+      "펫프렌즈 — 반려동물 용품 정기배송에서 시작하여 1,000억원 매출 달성. 이마트에 인수.",
+      "당근마켓 — 동네 기반 신뢰 모델을 구축한 후 다양한 로컬 서비스로 확장. 펫팔도 동물병원 리뷰부터 시작하여 신뢰를 구축할 수 있음."
+    ],
+    "estimated_build_timeline": "MVP 4주: 카메라 인식 + 기본 건강 체크 (피부, 눈), 정식 출시 3개월: 행동 분석 + 수의사 연결 + 카카오톡 연동"
+  }
+}

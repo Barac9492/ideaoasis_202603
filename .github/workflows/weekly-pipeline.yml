@@ -1,0 +1,38 @@
+name: Weekly Pipeline
+
+on:
+  schedule:
+    - cron: "0 21 * * 6" # Saturday 6:00 AM KST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Run weekly pipeline
+        run: npm run generate:weekly
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "IdeaOasis Bot"
+          git config user.email "bot@ideaoasis.kr"
+          git add data/weekly/
+          git diff --staged --quiet || git commit -m "feat: weekly digest $(date +%Y-W%V)"
+          git push
