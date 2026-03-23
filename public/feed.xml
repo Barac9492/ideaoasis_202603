@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-03-23T12:11:55.228Z</updated>
+    <updated>2026-03-23T23:51:27.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -17,9 +17,9 @@
         <title type="html"><![CDATA[IdeaOasis 2026-03-23 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis.vercel.app/?date=2026-03-23</id>
         <link href="https://ideaoasis.vercel.app/"/>
-        <updated>2026-03-23T05:15:00.000Z</updated>
-        <summary type="html"><![CDATA[슬립와이즈 · 레주메크래프트 · 그린트랙 · 네이버리 · 보이스노트 프로]]></summary>
-        <content type="html"><![CDATA[<h3>#1 슬립와이즈</h3><p>스마트폰 마이크로 수면 패턴을 분석하고 맞춤형 수면 개선 코칭을 제공하는 앱</p><h3>#2 레주메크래프트</h3><p>채용 공고를 분석해 맞춤형 이력서를 자동 생성하는 AI 서비스</p><h3>#3 그린트랙</h3><p>일상 소비의 탄소 발자국을 자동 추적하고 친환경 대안을 추천하는 앱</p><h3>#4 네이버리</h3><p>같은 아파트 단지 주민끼리 소통하고 물건을 나누는 초근접 커뮤니티 앱</p><h3>#5 보이스노트 프로</h3><p>음성 메모를 AI가 자동으로 구조화된 회의록으로 변환하는 생산성 도구</p>]]></content>
+        <updated>2026-03-23T12:39:29.159Z</updated>
+        <summary type="html"><![CDATA[조어 AI · 토비라 AI · 패스트레인 · 어니스틀리 · 노미]]></summary>
+        <content type="html"><![CDATA[<h3>#1 조어 AI</h3><p>데이터베이스부터 시작하여 풀스택 웹앱을 자동으로 구축하는 AI 개발 도구</p><h3>#2 토비라 AI</h3><p>AI 에이전트가 사용자를 위해 최적의 거래와 할인 정보를 자동으로 찾아주는 네트워크 플랫폼</p><h3>#3 패스트레인</h3><p>바이럴 영상을 비즈니스용 콘텐츠로 재편집하여 마케팅에 활용할 수 있게 해주는 도구</p><h3>#4 어니스틀리</h3><p>온라인 쇼핑 시 레딧과 유튜브의 실제 사용자 리뷰를 자동으로 찾아서 보여주는 브라우저 확장 프로그램</p><h3>#5 노미</h3><p>무의미한 스크롤링을 자기관리 활동으로 전환해주는 AI 기반 웰니스 앱</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-03-22 — 오늘의 TOP 5]]></title>
