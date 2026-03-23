@@ -18,7 +18,7 @@ const QUERY = `
           id
           name
           tagline
-          url
+          slug
           votesCount
           thumbnail { url }
           createdAt
@@ -73,7 +73,7 @@ async function fetchWithRetry(
         id: Number(edge.node.id),
         name: String(edge.node.name),
         tagline: String(edge.node.tagline),
-        url: String(edge.node.url),
+        url: `https://www.producthunt.com/posts/${edge.node.slug}`,
         votesCount: Number(edge.node.votesCount),
         thumbnailUrl: (edge.node.thumbnail as Record<string, string> | null)?.url ?? null,
         createdAt: String(edge.node.createdAt),
