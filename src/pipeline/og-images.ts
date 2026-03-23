@@ -124,32 +124,16 @@ async function renderOG(element: unknown): Promise<Buffer> {
 export async function generateOGImages(
   digest: DailyDigest
 ): Promise<Map<string, string>> {
-  const cloudinaryUrl = process.env.CLOUDINARY_URL;
+  const ogDir = path.join(process.cwd(), "public", "og");
+  fs.mkdirSync(ogDir, { recursive: true });
   const urls = new Map<string, string>();
 
   // Generate per-idea OG images
   for (const idea of digest.ideas) {
     try {
       const png = await renderOG(ideaOGElement(idea));
-
-      if (cloudinaryUrl) {
-        // Upload to Cloudinary
-        const { v2: cloudinary } = await import("cloudinary");
-        const result = await new Promise<{ secure_url: string }>((resolve, reject) => {
-          const stream = cloudinary.uploader.upload_stream(
-            { folder: "ideaoasis", public_id: idea.id, overwrite: true },
-            (err, result) => (err ? reject(err) : resolve(result!))
-          );
-          stream.end(png);
-        });
-        urls.set(idea.id, result.secure_url);
-      } else {
-        // Local fallback: save to public/og/
-        const ogDir = path.join(process.cwd(), "public", "og");
-        fs.mkdirSync(ogDir, { recursive: true });
-        fs.writeFileSync(path.join(ogDir, `${idea.id}.png`), png);
-        urls.set(idea.id, `/og/${idea.id}.png`);
-      }
+      fs.writeFileSync(path.join(ogDir, `${idea.id}.png`), png);
+      urls.set(idea.id, `/og/${idea.id}.png`);
     } catch (err) {
       console.warn(`Failed to generate OG for ${idea.id}:`, err);
     }
@@ -158,22 +142,8 @@ export async function generateOGImages(
   // Generate daily OG image
   try {
     const dailyPng = await renderOG(dailyOGElement(digest.date));
-    if (cloudinaryUrl) {
-      const { v2: cloudinary } = await import("cloudinary");
-      const result = await new Promise<{ secure_url: string }>((resolve, reject) => {
-        const stream = cloudinary.uploader.upload_stream(
-          { folder: "ideaoasis", public_id: `daily-${digest.date}`, overwrite: true },
-          (err, result) => (err ? reject(err) : resolve(result!))
-        );
-        stream.end(dailyPng);
-      });
-      urls.set("daily", result.secure_url);
-    } else {
-      const ogDir = path.join(process.cwd(), "public", "og");
-      fs.mkdirSync(ogDir, { recursive: true });
-      fs.writeFileSync(path.join(ogDir, `daily-${digest.date}.png`), dailyPng);
-      urls.set("daily", `/og/daily-${digest.date}.png`);
-    }
+    fs.writeFileSync(path.join(ogDir, `daily-${digest.date}.png`), dailyPng);
+    urls.set("daily", `/og/daily-${digest.date}.png`);
   } catch (err) {
     console.warn("Failed to generate daily OG:", err);
   }

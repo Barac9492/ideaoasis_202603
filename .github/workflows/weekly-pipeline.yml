@@ -27,7 +27,6 @@ jobs:
         run: npm run generate:weekly
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
 
       - name: Commit and push
         run: |

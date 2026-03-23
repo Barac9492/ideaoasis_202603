@@ -3,14 +3,13 @@ import path from "node:path";
 import { DailyDigestSchema, type DailyDigest } from "@/lib/schema";
 import { fetchTopProducts } from "./fetch-ph";
 import { analyzeProducts } from "./analyze";
-import { fetchNaverTrends } from "./naver-trends";
 
 async function main() {
   const today = new Date().toISOString().split("T")[0];
   console.log(`[IdeaOasis] Starting daily pipeline for ${today}`);
 
   // Step 1: Fetch from ProductHunt
-  console.log("[1/4] Fetching ProductHunt posts...");
+  console.log("[1/3] Fetching ProductHunt posts...");
   const posts = await fetchTopProducts(today);
   if (posts.length === 0) {
     console.error("No posts fetched from ProductHunt. Skipping today.");
@@ -18,25 +17,13 @@ async function main() {
   }
   console.log(`  Found ${posts.length} posts`);
 
-  // Step 2: Analyze with Claude
-  console.log("[2/4] Analyzing with Claude AI...");
-  const { ideas, naverKeywords } = await analyzeProducts(posts);
+  // Step 2: Analyze with Claude (includes trend estimation)
+  console.log("[2/3] Analyzing with Claude AI...");
+  const ideas = await analyzeProducts(posts);
   console.log(`  ${ideas.length} ideas curated`);
 
-  // Step 3: Fetch Naver Trends (non-blocking)
-  console.log("[3/4] Fetching Naver trends...");
-  const trends = await fetchNaverTrends(naverKeywords);
-  for (const idea of ideas) {
-    const trend = trends.get(idea.id);
-    if (trend) {
-      idea.naver_trends = trend;
-    }
-  }
-  const withTrends = ideas.filter((i) => i.naver_trends !== null).length;
-  console.log(`  ${withTrends}/${ideas.length} ideas have trend data`);
-
-  // Step 4: Validate and write
-  console.log("[4/4] Validating and writing digest...");
+  // Step 3: Validate and write
+  console.log("[3/3] Validating and writing digest...");
   const digest: DailyDigest = {
     date: today,
     ideas,

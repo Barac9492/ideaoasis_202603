@@ -6,6 +6,7 @@ const SYSTEM_PROMPT = `You are an expert startup analyst specializing in the Kor
 You will receive a list of products from ProductHunt. Your job:
 1. Select the top 5 most interesting/novel ideas for Korean entrepreneurs
 2. For each, provide a full Korean market analysis
+3. For each, estimate Korean search interest (0-100 scale) based on your knowledge of Korean market trends
 
 Output ONLY valid JSON array matching this schema for each idea:
 {
@@ -25,18 +26,24 @@ Output ONLY valid JSON array matching this schema for each idea:
     "localization_strategy": "{korean_localization_strategy}",
     "difficulty": "Easy|Medium|Hard"
   },
-  "naver_keywords": ["{1_2_korean_search_keywords_for_naver}"],
+  "naver_trends": {
+    "keywords": ["{1_2_relevant_korean_search_keywords}"],
+    "trend_index": {estimated_0_to_100_korean_search_interest},
+    "trend_direction": "up|down|flat",
+    "period": "estimated"
+  },
   "ph_votes": {votes_count},
   "thumbnail_url": "{thumbnail_or_null}",
   "created_at": "{iso_datetime}"
 }
 
+For naver_trends: estimate based on your knowledge of Korean consumer behavior and market trends.
+Set trend_direction to "up" if the category is growing in Korea, "flat" if stable, "down" if declining.
+If you cannot reasonably estimate, set naver_trends to null.
+
 Output ONLY the JSON array, no markdown, no explanation.`;
 
-export async function analyzeProducts(posts: PHPost[]): Promise<{
-  ideas: Idea[];
-  naverKeywords: Map<string, string[]>;
-}> {
+export async function analyzeProducts(posts: PHPost[]): Promise<Idea[]> {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) throw new Error("ANTHROPIC_API_KEY is required");
 
@@ -78,25 +85,11 @@ export async function analyzeProducts(posts: PHPost[]): Promise<{
   }
 
   const ideas: Idea[] = [];
-  const naverKeywords = new Map<string, string[]>();
 
   for (const raw of rawIdeas) {
-    const obj = raw as Record<string, unknown>;
-    // Extract naver_keywords before validation (not in schema)
-    const keywords = Array.isArray(obj.naver_keywords)
-      ? (obj.naver_keywords as string[])
-      : [];
-
-    // Remove naver_keywords and add naver_trends as null for validation
-    const { naver_keywords: _, ...rest } = obj;
-    const toValidate = { ...rest, naver_trends: null };
-
-    const result = IdeaSchema.safeParse(toValidate);
+    const result = IdeaSchema.safeParse(raw);
     if (result.success) {
       ideas.push(result.data);
-      if (keywords.length > 0) {
-        naverKeywords.set(result.data.id, keywords);
-      }
     } else {
       console.warn(`Skipping idea (validation failed):`, result.error.issues);
     }
@@ -109,5 +102,5 @@ export async function analyzeProducts(posts: PHPost[]): Promise<{
   }
 
   console.log(`Analyzed ${ideas.length} ideas (${rawIdeas.length} from Claude)`);
-  return { ideas, naverKeywords };
+  return ideas;
 }
