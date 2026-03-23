@@ -2,135 +2,177 @@
   "date": "2026-03-23",
   "ideas": [
     {
-      "id": "ph-100006",
+      "id": "ph-1100794",
       "rank": 1,
       "source": "producthunt",
-      "source_url": "https://www.producthunt.com/posts/sleepwise",
-      "title_en": "SleepWise",
-      "tagline_en": "AI sleep optimization using your phone's microphone",
-      "title_ko": "슬립와이즈",
-      "summary_ko": "스마트폰 마이크로 수면 패턴을 분석하고 맞춤형 수면 개선 코칭을 제공하는 앱",
+      "source_url": "https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ideaoasis202603+%28ID%3A+279283%29",
+      "title_en": "Tobira.ai",
+      "tagline_en": "A network where AI agents find deals for their humans",
+      "title_ko": "토비라 AI",
+      "summary_ko": "AI 에이전트가 사용자를 위해 최적의 거래를 찾아주는 네트워크 플랫폼",
       "analysis_ko": {
-        "description": "별도 웨어러블 없이 스마트폰 마이크로 코골이, 수면 무호흡, 뒤척임 등을 감지하고 AI가 수면 품질을 분석하여 개선 방안을 제안합니다.",
-        "market_fit": "한국인의 평균 수면 시간은 OECD 최하위 수준이며, 수면 건강에 대한 관심이 급증하고 있습니다. 수면클리닉 대기가 수개월인 상황에서 접근성 높은 대안이 될 수 있습니다.",
-        "competitors_kr": ["삼성 헬스", "슬리피스"],
-        "regulatory_notes": "의료기기가 아닌 '웰니스' 카테고리로 분류되도록 기능 범위를 설계해야 합니다.",
-        "localization_strategy": "한국의 온돌 문화와 연계하여 실내 온도/습도 기반 수면 환경 최적화 기능을 추가하면 차별화됩니다.",
+        "description": "AI 에이전트들이 네트워크를 형성하여 사용자 대신 온라인에서 최적의 거래와 할인 정보를 자동으로 찾아주는 서비스입니다. 개인의 구매 패턴과 선호도를 학습하여 맞춤형 딜을 추천하고, 가격 비교부터 쿠폰 적용까지 자동화합니다.",
+        "market_fit": "한국의 높은 온라인 쇼핑 비율과 할인 문화에 매우 적합합니다. 특히 쿠팡, 11번가, 네이버쇼핑 등 다양한 플랫폼을 동시에 모니터링하는 기능이 한국 소비자들에게 큰 어필이 될 것입니다. 가격 민감도가 높은 한국 시장 특성상 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "꿀딜",
+          "쿠차",
+          "가격비교닷컴",
+          "다나와"
+        ],
+        "regulatory_notes": "개인정보보호법에 따른 구매 데이터 수집 및 활용 동의 필요, 전자상거래법 준수 필요",
+        "localization_strategy": "주요 한국 쇼핑몰 API 연동, 한국식 할인 문화(적립금, 쿠폰, 타임세일) 반영, 카카오톡 알림 연동",
         "difficulty": "Medium"
       },
       "naver_trends": {
-        "keywords": ["수면 앱", "수면 건강"],
-        "trend_index": 88,
+        "keywords": [
+          "AI 쇼핑",
+          "가격비교"
+        ],
+        "trend_index": 75,
         "trend_direction": "up",
-        "period": "2025-03 to 2026-03"
+        "period": "estimated"
       },
-      "ph_votes": 489,
-      "thumbnail_url": "https://ph-files.imgix.net/placeholder-sleep.png",
-      "created_at": "2026-03-23T05:00:00Z"
+      "ph_votes": 219,
+      "thumbnail_url": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
     },
     {
-      "id": "ph-100007",
+      "id": "ph-1088510",
       "rank": 2,
       "source": "producthunt",
-      "source_url": "https://www.producthunt.com/posts/resumecraft",
-      "title_en": "ResumeCraft",
-      "tagline_en": "AI resume builder that matches job descriptions",
-      "title_ko": "레주메크래프트",
-      "summary_ko": "채용 공고를 분석해 맞춤형 이력서를 자동 생성하는 AI 서비스",
+      "source_url": "https://www.producthunt.com/products/nomie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ideaoasis202603+%28ID%3A+279283%29",
+      "title_en": "Nomie",
+      "tagline_en": "AI wellness app that turns doomscrolling into self‑care",
+      "title_ko": "노미",
+      "summary_ko": "무의미한 스크롤링을 자기관리로 전환해주는 AI 웰니스 앱",
       "analysis_ko": {
-        "description": "채용 공고 URL을 입력하면 AI가 직무 요구사항을 분석하고, 사용자의 경력과 매칭하여 합격률 높은 맞춤형 이력서를 자동 생성합니다.",
-        "market_fit": "한국 취업 시장은 스펙 중심에서 역량 중심으로 전환 중이며, 특히 경력직 이직 시장이 활발합니다. 사람인, 잡코리아 등 기존 플랫폼의 이력서 기능이 기본적인 수준이라 개선 여지가 큽니다.",
-        "competitors_kr": ["잡플래닛", "원티드"],
-        "regulatory_notes": "개인정보 처리 방침에서 이력서 데이터 보관 기간과 삭제 절차를 명확히 해야 합니다.",
-        "localization_strategy": "한국 특유의 자기소개서 문화에 맞춰 '자소서 AI 첨삭' 기능을 추가하면 킬러 피처가 됩니다.",
+        "description": "사용자의 스마트폰 사용 패턴을 분석하여 무의미한 스크롤링 시간을 감지하고, 이를 명상, 운동, 독서 등 건전한 자기관리 활동으로 유도하는 AI 기반 웰니스 앱입니다. 개인화된 알림과 대안 활동을 제안합니다.",
+        "market_fit": "한국의 높은 스마트폰 중독률과 증가하는 멘탈헬스 관심도를 고려할 때 매우 적합한 시장입니다. 특히 2030 세대의 디지털 디톡스와 자기계발 트렌드와 부합하며, 기업 웰니스 프로그램으로도 확장 가능합니다.",
+        "competitors_kr": [
+          "마보",
+          "헤이문",
+          "트로스트",
+          "마인드카페"
+        ],
+        "regulatory_notes": "개인정보보호법에 따른 앱 사용 데이터 수집 동의 필요, 의료기기법 검토 필요",
+        "localization_strategy": "한국형 자기계발 콘텐츠 제공, 카카오톡 채널 연동, 한국 문화에 맞는 명상 및 운동 프로그램 개발",
         "difficulty": "Easy"
       },
       "naver_trends": {
-        "keywords": ["AI 이력서", "자소서 AI"],
-        "trend_index": 73,
+        "keywords": [
+          "디지털 디톡스",
+          "멘탈헬스"
+        ],
+        "trend_index": 82,
         "trend_direction": "up",
-        "period": "2025-03 to 2026-03"
+        "period": "estimated"
       },
-      "ph_votes": 356,
-      "thumbnail_url": "https://ph-files.imgix.net/placeholder-resume.png",
-      "created_at": "2026-03-23T05:00:00Z"
+      "ph_votes": 116,
+      "thumbnail_url": "https://ph-files.imgix.net/493c2007-b93d-4326-bdd0-a375a75af3d0.webp?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
     },
     {
-      "id": "ph-100008",
+      "id": "ph-1104830",
       "rank": 3,
       "source": "producthunt",
-      "source_url": "https://www.producthunt.com/posts/greentrack",
-      "title_en": "GreenTrack",
-      "tagline_en": "Carbon footprint tracker for everyday purchases",
-      "title_ko": "그린트랙",
-      "summary_ko": "일상 소비의 탄소 발자국을 자동 추적하고 친환경 대안을 추천하는 앱",
+      "source_url": "https://www.producthunt.com/products/fastlane-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ideaoasis202603+%28ID%3A+279283%29",
+      "title_en": "Fastlane",
+      "tagline_en": "Remix viral videos into content for your business",
+      "title_ko": "패스트레인",
+      "summary_ko": "바이럴 영상을 비즈니스 콘텐츠로 재편집해주는 AI 도구",
       "analysis_ko": {
-        "description": "결제 내역을 연동하면 각 구매의 탄소 배출량을 자동 계산하고, 더 친환경적인 대안 제품이나 서비스를 추천합니다.",
-        "market_fit": "한국은 2050 탄소중립을 선언했고, ESG 경영이 기업 화두입니다. MZ세대의 가치 소비 트렌드와 맞물려 개인 단위 탄소 관리에 대한 관심이 높아지고 있습니다.",
-        "competitors_kr": ["에코마일리지"],
-        "regulatory_notes": "오픈뱅킹 API를 통한 결제 내역 접근 시 금융위원회 규정을 준수해야 합니다.",
-        "localization_strategy": "서울시 에코마일리지, 탄소포인트제 등 정부 인센티브 프로그램과 연동하면 실질적 보상 제공이 가능합니다.",
-        "difficulty": "Hard"
-      },
-      "naver_trends": null,
-      "ph_votes": 312,
-      "thumbnail_url": "https://ph-files.imgix.net/placeholder-green.png",
-      "created_at": "2026-03-23T05:00:00Z"
-    },
-    {
-      "id": "ph-100009",
-      "rank": 4,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/posts/neighborly",
-      "title_en": "Neighborly",
-      "tagline_en": "Hyperlocal community app for apartment buildings",
-      "title_ko": "네이버리",
-      "summary_ko": "같은 아파트 단지 주민끼리 소통하고 물건을 나누는 초근접 커뮤니티 앱",
-      "analysis_ko": {
-        "description": "같은 아파트 단지나 동네 주민끼리 중고 거래, 공동 구매, 돌봄 품앗이, 단지 내 공지사항 등을 공유하는 초근접 커뮤니티 플랫폼입니다.",
-        "market_fit": "한국은 전 국민의 60%가 아파트에 거주하는 독특한 주거 구조를 가지고 있어, 아파트 단지 기반 커뮤니티 서비스의 잠재력이 큽니다. 기존 아파트 관리 앱의 커뮤니티 기능이 부실하여 틈새 시장이 존재합니다.",
-        "competitors_kr": ["당근마켓", "아파트아이"],
-        "regulatory_notes": "위치 기반 서비스 신고(방통위)가 필요하며, 미성년자 보호 조치를 포함해야 합니다.",
-        "localization_strategy": "아파트 관리사무소와 제휴하여 공식 소통 채널로 도입하면 빠른 유저 확보가 가능합니다. 입주민 인증 시스템이 핵심입니다.",
+        "description": "인기 있는 바이럴 영상의 포맷과 스타일을 분석하여 기업의 마케팅 메시지에 맞게 자동으로 재편집해주는 AI 기반 콘텐츠 제작 도구입니다. 트렌드를 빠르게 캐치하여 브랜드에 맞는 숏폼 콘텐츠를 생성합니다.",
+        "market_fit": "한국의 활발한 숏폼 콘텐츠 시장과 높은 영상 마케팅 수요에 매우 적합합니다. 특히 유튜브 쇼츠, 인스타그램 릴스, 틱톡 등에서 활용도가 높을 것으로 예상되며, 중소기업들의 마케팅 비용 절감에도 기여할 수 있습니다.",
+        "competitors_kr": [
+          "비디오스튜디오",
+          "플렉스클립",
+          "캔바"
+        ],
+        "regulatory_notes": "저작권법 준수 필요, 원본 영상 사용 권한 확인 필요",
+        "localization_strategy": "한국 바이럴 트렌드 데이터베이스 구축, 한글 자막 자동 생성, 한국형 밈과 유행어 반영",
         "difficulty": "Medium"
       },
       "naver_trends": {
-        "keywords": ["아파트 커뮤니티", "동네 앱"],
-        "trend_index": 56,
-        "trend_direction": "flat",
-        "period": "2025-03 to 2026-03"
+        "keywords": [
+          "숏폼 제작",
+          "영상 마케팅"
+        ],
+        "trend_index": 78,
+        "trend_direction": "up",
+        "period": "estimated"
       },
-      "ph_votes": 278,
-      "thumbnail_url": "https://ph-files.imgix.net/placeholder-neighbor.png",
-      "created_at": "2026-03-23T05:00:00Z"
+      "ph_votes": 173,
+      "thumbnail_url": "https://ph-files.imgix.net/f1b457d4-2a3c-4fed-8a5f-bdcfc9c87b16.png?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
     },
     {
-      "id": "ph-100010",
-      "rank": 5,
+      "id": "ph-1076272",
+      "rank": 4,
       "source": "producthunt",
-      "source_url": "https://www.producthunt.com/posts/voicenote-pro",
-      "title_en": "VoiceNote Pro",
-      "tagline_en": "Turn voice memos into structured meeting notes with AI",
-      "title_ko": "보이스노트 프로",
-      "summary_ko": "음성 메모를 AI가 자동으로 구조화된 회의록으로 변환하는 생산성 도구",
+      "source_url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ideaoasis202603+%28ID%3A+279283%29",
+      "title_en": "Honestly",
+      "tagline_en": "Real reviews from Reddit & YouTube when shopping online",
+      "title_ko": "어니스틀리",
+      "summary_ko": "온라인 쇼핑 시 레딧과 유튜브의 실제 리뷰를 보여주는 서비스",
       "analysis_ko": {
-        "description": "회의나 강의를 녹음하면 AI가 자동으로 발화자를 구분하고, 핵심 내용 요약, 액션 아이템 추출, 구조화된 회의록을 생성합니다.",
-        "market_fit": "한국 기업 문화는 회의가 많기로 유명하며, 회의록 작성은 주니어의 고충입니다. 특히 한국어 음성 인식의 정확도가 올라가면서 실용성이 크게 향상되었습니다.",
-        "competitors_kr": ["클로바노트", "다글로"],
-        "regulatory_notes": "녹음 시 참석자 전원의 동의가 필요하며(통신비밀보호법), 앱 내 동의 프로세스를 구현해야 합니다.",
-        "localization_strategy": "한국어 존댓말/반말 구분, 직급 호칭 인식 등 한국어 특성에 맞는 기능을 추가하면 네이버 클로바노트와 차별화됩니다.",
+        "description": "온라인 쇼핑몰에서 상품을 볼 때 해당 제품에 대한 레딧과 유튜브의 실제 사용자 리뷰와 언급을 자동으로 수집하여 보여주는 브라우저 확장 프로그램입니다. 조작되지 않은 진솔한 후기를 통해 구매 결정을 도와줍니다.",
+        "market_fit": "한국 소비자들의 높은 리뷰 의존도와 가짜 리뷰에 대한 우려를 해결할 수 있는 서비스입니다. 다만 한국에서는 레딧보다는 네이버 카페, 클리앙, 디시인사이드 등 로컬 커뮤니티 연동이 더 효과적일 것입니다.",
+        "competitors_kr": [
+          "네이버 쇼핑 리뷰",
+          "다나와 체험단",
+          "언박싱덤"
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 크롤링 관련 저작권 이슈 검토 필요",
+        "localization_strategy": "네이버 카페, 클리앙, 보배드림 등 한국 커뮤니티 연동, 한국어 감정 분석 엔진 적용",
         "difficulty": "Hard"
       },
       "naver_trends": {
-        "keywords": ["AI 회의록", "음성 기록"],
-        "trend_index": 67,
-        "trend_direction": "up",
-        "period": "2025-03 to 2026-03"
+        "keywords": [
+          "상품 리뷰",
+          "구매 후기"
+        ],
+        "trend_index": 65,
+        "trend_direction": "flat",
+        "period": "estimated"
       },
-      "ph_votes": 245,
-      "thumbnail_url": "https://ph-files.imgix.net/placeholder-voice.png",
-      "created_at": "2026-03-23T05:00:00Z"
+      "ph_votes": 149,
+      "thumbnail_url": "https://ph-files.imgix.net/ec98bbf6-2d52-4b63-8f0c-33204981433b.png?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
+    },
+    {
+      "id": "ph-1096052",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/zoer-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ideaoasis202603+%28ID%3A+279283%29",
+      "title_en": "Zoer.ai",
+      "tagline_en": "Build full-stack webapps from the database up",
+      "title_ko": "조어 AI",
+      "summary_ko": "데이터베이스부터 시작하여 풀스택 웹앱을 자동 생성하는 AI 도구",
+      "analysis_ko": {
+        "description": "데이터베이스 스키마를 기반으로 프론트엔드부터 백엔드까지 완전한 웹 애플리케이션을 자동으로 생성해주는 AI 기반 개발 도구입니다. 개발자가 데이터 구조만 정의하면 CRUD 기능과 UI를 포함한 완성된 앱을 제공합니다.",
+        "market_fit": "한국의 높은 개발자 인건비와 스타트업들의 빠른 프로토타이핑 니즈에 적합합니다. 특히 중소기업과 1인 개발자들에게 유용할 것이며, 정부의 디지털 전환 정책과도 부합합니다. 다만 기존 개발자들의 저항이 있을 수 있습니다.",
+        "competitors_kr": [
+          "부트페이",
+          "스트라피",
+          "파이어베이스"
+        ],
+        "regulatory_notes": "소프트웨어 산업진흥법 관련 검토, 생성된 코드의 라이선스 이슈 확인 필요",
+        "localization_strategy": "한국어 코드 주석 생성, 한국 웹 표준 및 접근성 가이드라인 준수, 국내 클라우드 서비스 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "노코드",
+          "웹앱 개발"
+        ],
+        "trend_index": 58,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "ph_votes": 247,
+      "thumbnail_url": "https://ph-files.imgix.net/e1fb32d0-4bd4-41cd-a509-33f711c4b89e.png?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
     }
   ],
-  "generated_at": "2026-03-23T05:15:00Z"
+  "generated_at": "2026-03-23T12:34:01.365Z"
 }
