@@ -1,4 +1,4 @@
-export const SITE_URL = "https://ideaoasis.vercel.app";
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://ideaoasis-202603.vercel.app";
 export const SITE_NAME = "IdeaOasis";
 export const SITE_TITLE = "IdeaOasis - 오늘의 스타트업 아이디어";
 export const SITE_DESCRIPTION =
