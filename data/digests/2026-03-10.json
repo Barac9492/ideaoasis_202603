@@ -1,0 +1,356 @@
+{
+  "date": "2026-03-10",
+  "ideas": [
+    {
+      "id": "ph-1090558",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/visual-translate-by-vozo",
+      "title_en": "Visual Translate by Vozo",
+      "tagline_en": "Translate text in your videos without recreating visuals",
+      "title_ko": "보조 비주얼 번역",
+      "summary_ko": "비디오 내 텍스트를 시각적 요소 재생성 없이 번역하는 AI 도구",
+      "analysis_ko": {
+        "description": "동영상 속 텍스트를 원본 비주얼을 유지하면서 다른 언어로 번역해주는 AI 기반 도구입니다. 기존 영상 편집 없이도 자연스러운 다국어 콘텐츠 제작이 가능합니다.",
+        "market_fit": "한국의 K-콘텐츠 글로벌 진출과 교육 콘텐츠 현지화 수요가 높아 시장 적합성이 매우 좋습니다. 유튜브 크리에이터와 교육 기관의 다국어 콘텐츠 제작 니즈를 충족할 수 있습니다.",
+        "competitors_kr": [
+          "네이버 파파고",
+          "구글 번역",
+          "플리토"
+        ],
+        "regulatory_notes": "개인정보보호법상 영상 내 개인정보 처리 시 동의 필요",
+        "localization_strategy": "한국어-영어/중국어/일본어 번역 특화, K-콘텐츠 제작사 파트너십",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "영상번역",
+          "동영상자막번역"
+        ],
+        "trend_index": 75,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 754,
+      "thumbnail_url": "https://ph-files.imgix.net/beac91f0-5b0c-4702-a32d-8be887488c08.gif?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    },
+    {
+      "id": "ph-1089427",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/chronicle-2-0",
+      "title_en": "Chronicle 2.0",
+      "tagline_en": "AI presentations without the AI slop",
+      "title_ko": "크로니클 2.0",
+      "summary_ko": "고품질 AI 프레젠테이션 제작 도구로 자연스럽고 전문적인 슬라이드 생성",
+      "analysis_ko": {
+        "description": "AI가 생성하는 저품질 콘텐츠 문제를 해결한 프레젠테이션 제작 도구입니다. 전문적이고 자연스러운 슬라이드를 AI로 자동 생성하여 업무 효율성을 높입니다.",
+        "market_fit": "한국 기업의 높은 프레젠테이션 품질 요구와 업무 효율화 니즈에 부합합니다. 대기업과 컨설팅 업계에서 특히 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "미리캔버스",
+          "망고보드",
+          "파워포인트"
+        ],
+        "regulatory_notes": "기업 기밀정보 처리 시 보안 규정 준수 필요",
+        "localization_strategy": "한국 비즈니스 문화에 맞는 템플릿 제공, 한글 폰트 최적화",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI프레젠테이션",
+          "자동슬라이드제작"
+        ],
+        "trend_index": 65,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 744,
+      "thumbnail_url": "https://ph-files.imgix.net/32f798e8-593b-4453-9806-6bbd9a04a244.png?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    },
+    {
+      "id": "ph-1093784",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/claude-code-review",
+      "title_en": "Claude Code Review",
+      "tagline_en": "Multi-agent review catching bugs early in AI-generated code",
+      "title_ko": "클로드 코드 리뷰",
+      "summary_ko": "AI 생성 코드의 버그를 조기 발견하는 다중 에이전트 코드 리뷰 시스템",
+      "analysis_ko": {
+        "description": "AI가 생성한 코드의 품질을 다중 에이전트가 검토하여 버그를 사전에 발견하는 도구입니다. 개발 생산성 향상과 코드 품질 보장을 동시에 달성할 수 있습니다.",
+        "market_fit": "한국 IT 기업의 코드 품질 관리와 개발 효율성 향상 니즈에 매우 적합합니다. 특히 AI 코딩 도구 사용이 증가하는 추세에서 필수적인 솔루션입니다.",
+        "competitors_kr": [
+          "소나큐브",
+          "깃허브 코파일럿",
+          "코드클라이밋"
+        ],
+        "regulatory_notes": "소프트웨어 품질 관리 표준 준수 필요",
+        "localization_strategy": "한국 개발 문화에 맞는 코딩 컨벤션 적용, 한국어 주석 지원",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "코드리뷰",
+          "AI코딩"
+        ],
+        "trend_index": 55,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 558,
+      "thumbnail_url": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    },
+    {
+      "id": "ph-1089714",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/your-next-store-5",
+      "title_en": "Your Next Store",
+      "tagline_en": "AI-first platform for building commerce stores, fast",
+      "title_ko": "유어 넥스트 스토어",
+      "summary_ko": "AI 기반 빠른 전자상거래 스토어 구축 플랫폼",
+      "analysis_ko": {
+        "description": "AI를 활용해 전자상거래 스토어를 빠르고 쉽게 구축할 수 있는 플랫폼입니다. 기술 지식 없이도 전문적인 온라인 쇼핑몰을 단시간에 제작할 수 있습니다.",
+        "market_fit": "한국의 활발한 온라인 쇼핑 시장과 1인 창업 트렌드에 매우 적합합니다. 특히 네이버 스마트스토어, 쿠팡 등과 연동 가능하다면 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "카페24",
+          "메이크샵",
+          "고도몰"
+        ],
+        "regulatory_notes": "전자상거래법, 개인정보보호법, 소비자보호법 준수 필요",
+        "localization_strategy": "한국 결제 시스템 연동, 배송 업체 연결, 세금계산서 발행 기능",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "쇼핑몰제작",
+          "온라인스토어"
+        ],
+        "trend_index": 70,
+        "trend_direction": "flat",
+        "period": "estimated"
+      },
+      "category": "ecommerce",
+      "ph_votes": 369,
+      "thumbnail_url": "https://ph-files.imgix.net/7e2b1515-6f4e-45b9-b87d-ba80670ef45a.png?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    },
+    {
+      "id": "ph-1094032",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/fish-audio-s2",
+      "title_en": "Fish Audio S2",
+      "tagline_en": "Real Expressive AI Voices",
+      "title_ko": "피시 오디오 S2",
+      "summary_ko": "감정 표현이 풍부한 실제 같은 AI 음성 생성 도구",
+      "analysis_ko": {
+        "description": "자연스럽고 감정이 풍부한 AI 음성을 생성하는 도구입니다. 기존 TTS와 달리 실제 사람의 목소리처럼 다양한 감정과 억양을 표현할 수 있습니다.",
+        "market_fit": "한국의 오디오북, 팟캐스트, 유튜브 콘텐츠 제작 시장에서 높은 수요가 예상됩니다. 특히 더빙과 내레이션 업계에 혁신을 가져올 수 있습니다.",
+        "competitors_kr": [
+          "네이버 클로바 더빙",
+          "구글 TTS",
+          "아마존 폴리"
+        ],
+        "regulatory_notes": "음성 합성 기술의 악용 방지를 위한 윤리 가이드라인 필요",
+        "localization_strategy": "한국어 발음 최적화, 한국 성우 음성 데이터 학습",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI음성합성",
+          "TTS"
+        ],
+        "trend_index": 60,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 348,
+      "thumbnail_url": "https://ph-files.imgix.net/96108efb-d4a4-4df4-9af1-8f6bcdc002af.png?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    },
+    {
+      "id": "ph-1091136",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/sitefire-ai",
+      "title_en": "sitefire.ai",
+      "tagline_en": "Marketing suite for the agentic web",
+      "title_ko": "사이트파이어 AI",
+      "summary_ko": "에이전트 웹 환경을 위한 AI 마케팅 통합 솔루션",
+      "analysis_ko": {
+        "description": "AI 에이전트가 주도하는 웹 환경에서 효과적인 마케팅을 위한 통합 솔루션입니다. 자동화된 마케팅 캠페인 관리와 AI 기반 고객 분석을 제공합니다.",
+        "market_fit": "한국 기업의 디지털 마케팅 자동화 니즈와 AI 도입 트렌드에 부합합니다. 특히 중소기업의 마케팅 인력 부족 문제를 해결할 수 있습니다.",
+        "competitors_kr": [
+          "마케팅클라우드",
+          "허브스팟",
+          "세일즈포스"
+        ],
+        "regulatory_notes": "개인정보보호법, 정보통신망법상 마케팅 동의 규정 준수",
+        "localization_strategy": "한국 마케팅 채널 연동, 네이버/카카오 광고 플랫폼 지원",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "마케팅자동화",
+          "AI마케팅"
+        ],
+        "trend_index": 50,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 232,
+      "thumbnail_url": "https://ph-files.imgix.net/34662219-8195-4126-b07d-f05653ed6855.png?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    },
+    {
+      "id": "ph-1090982",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/agent-skills-3",
+      "title_en": "Agent Skills",
+      "tagline_en": "Find skills for Claude Code, Cursor, Copilot & more",
+      "title_ko": "에이전트 스킬즈",
+      "summary_ko": "Claude, Cursor, Copilot 등 AI 코딩 도구용 스킬 검색 플랫폼",
+      "analysis_ko": {
+        "description": "다양한 AI 코딩 도구에서 사용할 수 있는 스킬과 프롬프트를 찾고 공유하는 플랫폼입니다. 개발자들이 AI 도구를 더 효과적으로 활용할 수 있도록 돕습니다.",
+        "market_fit": "한국 개발자들의 AI 코딩 도구 사용 증가와 함께 높은 수요가 예상됩니다. 특히 스타트업과 개발 교육 기관에서 유용할 것입니다.",
+        "competitors_kr": [
+          "깃허브",
+          "스택오버플로우",
+          "벨로그"
+        ],
+        "regulatory_notes": "오픈소스 라이선스 및 지적재산권 관련 주의 필요",
+        "localization_strategy": "한국어 프롬프트 템플릿 제공, 한국 개발 커뮤니티 연동",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI코딩도구",
+          "개발자도구"
+        ],
+        "trend_index": 45,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 202,
+      "thumbnail_url": "https://ph-files.imgix.net/924fd2e1-a264-4aa6-bbb3-63da6203ec61.jpeg?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    },
+    {
+      "id": "ph-1093554",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/new-macaly-agent",
+      "title_en": "New Macaly Agent",
+      "tagline_en": "Nobody tells you what you can ask AI to build",
+      "title_ko": "뉴 마칼리 에이전트",
+      "summary_ko": "AI에게 무엇을 만들어달라고 요청할 수 있는지 안내하는 도구",
+      "analysis_ko": {
+        "description": "사용자가 AI에게 어떤 작업을 요청할 수 있는지 가이드하고 최적의 프롬프트를 제안하는 도구입니다. AI 활용 초보자들의 진입 장벽을 낮춰줍니다.",
+        "market_fit": "한국의 AI 도구 사용 확산과 함께 초보자 교육 수요가 높아 시장 적합성이 좋습니다. 기업 교육과 개인 학습 시장에서 활용 가능합니다.",
+        "competitors_kr": [
+          "챗GPT 가이드",
+          "AI 교육 플랫폼",
+          "프롬프트 엔지니어링 강의"
+        ],
+        "regulatory_notes": "교육 서비스 관련 규정 준수 필요",
+        "localization_strategy": "한국어 프롬프트 예시 제공, 한국 업무 환경에 맞는 사용 사례",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI활용법",
+          "프롬프트엔지니어링"
+        ],
+        "trend_index": 40,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "edtech",
+      "ph_votes": 197,
+      "thumbnail_url": "https://ph-files.imgix.net/be0f949d-aa41-4d86-bac0-9af4fbdfe41a.png?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    },
+    {
+      "id": "ph-1093018",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/sonarly",
+      "title_en": "Sonarly",
+      "tagline_en": "The AI that fixes prod autonomously",
+      "title_ko": "소날리",
+      "summary_ko": "프로덕션 환경의 문제를 자동으로 해결하는 AI 시스템",
+      "analysis_ko": {
+        "description": "프로덕션 환경에서 발생하는 문제를 AI가 자동으로 감지하고 해결하는 시스템입니다. 개발팀의 운영 부담을 크게 줄이고 시스템 안정성을 향상시킵니다.",
+        "market_fit": "한국 IT 기업의 DevOps 자동화 니즈와 운영 효율성 향상 요구에 부합합니다. 특히 24시간 서비스를 운영하는 기업에게 매우 유용합니다.",
+        "competitors_kr": [
+          "네이버클라우드 모니터링",
+          "AWS CloudWatch",
+          "데이터독"
+        ],
+        "regulatory_notes": "시스템 자동 수정 시 보안 및 안정성 검증 필요",
+        "localization_strategy": "한국 클라우드 환경 지원, 한국어 알림 및 로그 분석",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "DevOps자동화",
+          "시스템모니터링"
+        ],
+        "trend_index": 35,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 154,
+      "thumbnail_url": "https://ph-files.imgix.net/49a6eaaa-d9bc-481f-b28b-7041251b1c7f.png?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    },
+    {
+      "id": "ph-1093658",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/spine-swarm",
+      "title_en": "Spine Swarm",
+      "tagline_en": "Manage a team of AI agents that do real work",
+      "title_ko": "스파인 스웜",
+      "summary_ko": "실제 업무를 수행하는 AI 에이전트 팀 관리 플랫폼",
+      "analysis_ko": {
+        "description": "여러 AI 에이전트를 팀으로 구성하여 실제 업무를 분담하고 관리할 수 있는 플랫폼입니다. 각 에이전트가 전문 분야를 담당하여 복잡한 프로젝트를 효율적으로 처리합니다.",
+        "market_fit": "한국 기업의 업무 자동화와 인력 효율성 향상 니즈에 부합하지만, AI 에이전트 개념이 아직 생소하여 시장 교육이 필요합니다.",
+        "competitors_kr": [
+          "업무 자동화 도구",
+          "RPA 솔루션",
+          "협업 플랫폼"
+        ],
+        "regulatory_notes": "AI 에이전트의 업무 처리 시 책임 소재 명확화 필요",
+        "localization_strategy": "한국 업무 프로세스에 맞는 에이전트 템플릿 제공",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI에이전트",
+          "업무자동화"
+        ],
+        "trend_index": 30,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 153,
+      "thumbnail_url": "https://ph-files.imgix.net/8c5430f5-834a-4f5a-94e6-cb3c0d0383db.png?auto=format",
+      "created_at": "2026-03-10T07:01:00Z"
+    }
+  ],
+  "generated_at": "2026-03-24T08:58:09.519Z"
+}

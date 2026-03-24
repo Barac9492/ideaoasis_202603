@@ -5,7 +5,8 @@ import { fetchTopProducts } from "./fetch-ph";
 import { analyzeProducts } from "./analyze";
 
 async function main() {
-  const today = new Date().toISOString().split("T")[0];
+  const dateArg = process.argv[2];
+  const today = dateArg || new Date().toISOString().split("T")[0];
   console.log(`[IdeaOasis] Starting daily pipeline for ${today}`);
 
   // Step 1: Fetch from ProductHunt

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-03-24T05:28:29.265Z</updated>
+    <updated>2026-03-24T09:27:17.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -28,5 +28,45 @@
         <updated>2026-03-22T05:15:00.000Z</updated>
         <summary type="html"><![CDATA[펫팔 AI · 인보이스플로우 · 포커스메이트 2.0 · 밀프렙 지니어스 · 컨트랙트IQ]]></summary>
         <content type="html"><![CDATA[<h3>#1 펫팔 AI</h3><p>스마트폰 카메라로 반려동물 건강 상태를 AI가 실시간 분석하는 서비스</p><h3>#2 인보이스플로우</h3><p>AI가 청구서를 자동으로 인식하고 회계 시스템에 입력해주는 B2B SaaS</p><h3>#3 포커스메이트 2.0</h3><p>AI 생산성 코칭이 결합된 가상 코워킹 플랫폼</p><h3>#4 밀프렙 지니어스</h3><p>냉장고 속 재료를 촬영하면 AI가 일주일 식단과 장보기 리스트를 만들어주는 앱</p><h3>#5 컨트랙트IQ</h3><p>프리랜서를 위한 AI 계약서 검토 서비스, 불리한 조항을 즉시 발견</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-03-20 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis.vercel.app/?date=2026-03-20</id>
+        <link href="https://ideaoasis.vercel.app/"/>
+        <updated>2026-03-24T09:15:12.935Z</updated>
+        <summary type="html"><![CDATA[프로덕트브릿지 · 애즈터보 · 컴포저 2 · 어셈블리 2.0 · 클로드 코드 채널 · 깃에이전트 · 구글 AI 스튜디오 2.0 · 빌트포데브스 · 비스디프 · AI 스킬 매니저]]></summary>
+        <content type="html"><![CDATA[<h3>#1 프로덕트브릿지</h3><p>여러 플랫폼에서 고객 피드백을 자동으로 수집하고 분석하는 AI 에이전트</p><h3>#2 애즈터보</h3><p>실제 사람처럼 보이는 AI 배우로 광고를 제작하는 플랫폼</p><h3>#3 컴포저 2</h3><p>빠르고 효율적인 최첨단 AI 코딩 모델</p><h3>#4 어셈블리 2.0</h3><p>서비스 기업을 위한 현대적인 고객 포털 구축 플랫폼</p><h3>#5 클로드 코드 채널</h3><p>텔레그램과 디스코드를 통해 클로드 AI와 코딩 대화를 나누는 도구</p><h3>#6 깃에이전트</h3><p>Git 저장소를 AI 에이전트로 변환하는 도구</p><h3>#7 구글 AI 스튜디오 2.0</h3><p>안티그래비티와 파이어베이스 기반의 풀스택 개발 플랫폼</p><h3>#8 빌트포데브스</h3><p>개발자들이 실제로 제품을 어떻게 경험하는지 분석하는 도구</p><h3>#9 비스디프</h3><p>디자인과 코드 간의 차이를 시각적으로 비교하고 해결하는 도구</p><h3>#10 AI 스킬 매니저</h3><p>모든 AI 기술과 역량을 한 곳에서 관리하는 플랫폼</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-03-17 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis.vercel.app/?date=2026-03-17</id>
+        <link href="https://ideaoasis.vercel.app/"/>
+        <updated>2026-03-24T09:10:21.077Z</updated>
+        <summary type="html"><![CDATA[마누스 AI 컴퓨터 · 라이트닝 로드 · 코덱스 서브에이전트 · 키라 4.0 · 엠타시어 · DLSS 5 · 에이전트디스커스 · 킵스 AI 캠페인 · 오션 오케스트레이터 · 저스리크루트]]></summary>
+        <content type="html"><![CDATA[<h3>#1 마누스 AI 컴퓨터</h3><p>데스크톱에서 파일, 앱, 워크플로우를 자동화하는 AI 도구</p><h3>#2 라이트닝 로드</h3><p>실제 데이터를 AI 훈련용 데이터셋으로 빠르게 변환하는 도구</p><h3>#3 코덱스 서브에이전트</h3><p>복잡한 작업을 위한 병렬 커스텀 AI 에이전트 시스템</p><h3>#4 키라 4.0</h3><p>친구들을 공유 가능한 콘텐츠로 변환하는 소셜 플랫폼</p><h3>#5 엠타시어</h3><p>MCP 서버와 클라이언트를 관리하는 오픈소스 플랫폼</p><h3>#6 DLSS 5</h3><p>실시간 컴퓨터 그래픽스의 GPT 혁신 기술</p><h3>#7 에이전트디스커스</h3><p>AI 에이전트들이 제품을 토론하는 프로덕트헌트 플랫폼</p><h3>#8 킵스 AI 캠페인</h3><p>리드 검증, 대량 아웃리치, 기념일 알림을 제공하는 AI 마케팅 도구</p><h3>#9 오션 오케스트레이터</h3><p>IDE에서 원클릭으로 AI 작업을 실행하는 워크플로우 도구</p><h3>#10 저스리크루트</h3><p>전화 스크리닝과 1차 면접을 처리하는 AI 채용 시스템</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-03-16 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis.vercel.app/?date=2026-03-16</id>
+        <link href="https://ideaoasis.vercel.app/"/>
+        <updated>2026-03-24T09:08:53.608Z</updated>
+        <summary type="html"><![CDATA[뮬런 · 글램 AI · 엑스호크 · 젯브레인즈 에어 · 노크 · 레프그로우 2.0 · 페이시스 · GLM-5 터보 · 도넬리 · 마스코 코드]]></summary>
+        <content type="html"><![CDATA[<h3>#1 뮬런</h3><p>사용자의 업무 패턴을 학습하는 개인화된 AI 어시스턴트</p><h3>#2 글램 AI</h3><p>트렌드에 맞춰 개인 사진으로 바이럴 콘텐츠를 생성하는 AI 도구</p><h3>#3 엑스호크</h3><p>코딩 세션과 코드를 컨텍스트 시스템으로 변환하는 개발 도구</p><h3>#4 젯브레인즈 에어</h3><p>여러 AI 코딩 어시스턴트를 통합 실행하는 개발 환경</p><h3>#5 노크</h3><p>맥북을 두드려서 맥을 제어하는 제스처 인터페이스</p><h3>#6 레프그로우 2.0</h3><p>추천 마케팅을 통해 매출을 증대시키는 플랫폼</p><h3>#7 페이시스</h3><p>웹의 모든 기능을 활용한 인터랙티브 프레젠테이션 도구</p><h3>#8 GLM-5 터보</h3><p>오픈클로우 전용 고속 에이전트 AI 모델</p><h3>#9 도넬리</h3><p>무료로 제공되는 개인용 오픈클로우 인스턴스와 AI 사용량</p><h3>#10 마스코 코드</h3><p>클로드 코드를 모니터링하는 마스코트 도구</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-03-13 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis.vercel.app/?date=2026-03-13</id>
+        <link href="https://ideaoasis.vercel.app/"/>
+        <updated>2026-03-24T09:04:33.958Z</updated>
+        <summary type="html"><![CDATA[퍼플렉시티 컴퓨터 스킬 · 지스택 · 구글 애스크 맵스 · 피나클 · 퍼펙틀리 · 파커 바이 퍼펙틀리 · 프리 · 파웰 바이 핵맘바 · 리플라이리스AI · 독스마인드]]></summary>
+        <content type="html"><![CDATA[<h3>#1 퍼플렉시티 컴퓨터 스킬</h3><p>반복 가능한 명령어로 컴퓨터 기능을 확장하는 AI 자동화 도구</p><h3>#2 지스택</h3><p>개리 탄의 클로드 코드 설정을 그대로 사용할 수 있는 개발 환경 도구</p><h3>#3 구글 애스크 맵스</h3><p>질문으로 길찾기하고 몰입형 내비게이션을 제공하는 구글 지도 AI 기능</p><h3>#4 피나클</h3><p>스마트폰을 뇌 성능 코치로 변환하는 인지능력 향상 앱</p><h3>#5 퍼펙틀리</h3><p>며칠 만에 채용을 완료하는 최초의 AI 네이티브 채용 에이전시</p><h3>#6 파커 바이 퍼펙틀리</h3><p>AI 기반 커리어 슈퍼 커넥터 서비스</p><h3>#7 프리</h3><p>누구나 운영자가 될 수 있게 해주는 비즈니스 운영 플랫폼</p><h3>#8 파웰 바이 핵맘바</h3><p>문서 검토 시간을 80% 단축하는 AI 문서 분석 도구</p><h3>#9 리플라이리스AI</h3><p>저렴한 가격으로 받은편지함 제로를 달성하는 AI 이메일 앱</p><h3>#10 독스마인드</h3><p>노션이 만들었어야 할 AI 에디터</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-03-10 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis.vercel.app/?date=2026-03-10</id>
+        <link href="https://ideaoasis.vercel.app/"/>
+        <updated>2026-03-24T08:58:09.519Z</updated>
+        <summary type="html"><![CDATA[보조 비주얼 번역 · 크로니클 2.0 · 클로드 코드 리뷰 · 유어 넥스트 스토어 · 피시 오디오 S2 · 사이트파이어 AI · 에이전트 스킬즈 · 뉴 마칼리 에이전트 · 소날리 · 스파인 스웜]]></summary>
+        <content type="html"><![CDATA[<h3>#1 보조 비주얼 번역</h3><p>비디오 내 텍스트를 시각적 요소 재생성 없이 번역하는 AI 도구</p><h3>#2 크로니클 2.0</h3><p>고품질 AI 프레젠테이션 제작 도구로 자연스럽고 전문적인 슬라이드 생성</p><h3>#3 클로드 코드 리뷰</h3><p>AI 생성 코드의 버그를 조기 발견하는 다중 에이전트 코드 리뷰 시스템</p><h3>#4 유어 넥스트 스토어</h3><p>AI 기반 빠른 전자상거래 스토어 구축 플랫폼</p><h3>#5 피시 오디오 S2</h3><p>감정 표현이 풍부한 실제 같은 AI 음성 생성 도구</p><h3>#6 사이트파이어 AI</h3><p>에이전트 웹 환경을 위한 AI 마케팅 통합 솔루션</p><h3>#7 에이전트 스킬즈</h3><p>Claude, Cursor, Copilot 등 AI 코딩 도구용 스킬 검색 플랫폼</p><h3>#8 뉴 마칼리 에이전트</h3><p>AI에게 무엇을 만들어달라고 요청할 수 있는지 안내하는 도구</p><h3>#9 소날리</h3><p>프로덕션 환경의 문제를 자동으로 해결하는 AI 시스템</p><h3>#10 스파인 스웜</h3><p>실제 업무를 수행하는 AI 에이전트 팀 관리 플랫폼</p>]]></content>
     </entry>
 </feed>

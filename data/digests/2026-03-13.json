@@ -1,0 +1,361 @@
+{
+  "date": "2026-03-13",
+  "ideas": [
+    {
+      "id": "ph-1089910",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/perplexity-computer-skills",
+      "title_en": "Perplexity Computer Skills",
+      "tagline_en": "Extend Computer's capabilities with repeatable instructions",
+      "title_ko": "퍼플렉시티 컴퓨터 스킬",
+      "summary_ko": "반복 가능한 명령어로 컴퓨터 기능을 확장하는 AI 자동화 도구",
+      "analysis_ko": {
+        "description": "사용자가 정의한 반복 가능한 명령어를 통해 컴퓨터 작업을 자동화하는 AI 기반 도구입니다. 복잡한 업무 프로세스를 간단한 명령어로 실행할 수 있어 생산성을 크게 향상시킵니다.",
+        "market_fit": "한국의 높은 업무 자동화 수요와 디지털 전환 트렌드에 매우 적합합니다. 특히 반복 업무가 많은 대기업과 중소기업에서 높은 관심을 보일 것으로 예상됩니다.",
+        "competitors_kr": [
+          "UiPath Korea",
+          "Automation Anywhere Korea",
+          "로보틱스 프로세스 자동화 솔루션"
+        ],
+        "regulatory_notes": "개인정보보호법과 기업 보안 정책 준수 필요, 금융권 도입 시 추가 보안 인증 요구됨",
+        "localization_strategy": "한국어 명령어 처리 기능 강화, 국내 주요 업무 소프트웨어와의 연동, 한국 기업 문화에 맞는 워크플로우 템플릿 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "업무자동화",
+          "RPA"
+        ],
+        "trend_index": 75,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 479,
+      "thumbnail_url": "https://ph-files.imgix.net/338f77ce-6557-46e6-8c16-a0093217e6e6.jpeg?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    },
+    {
+      "id": "ph-1096315",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/gstack",
+      "title_en": "GStack",
+      "tagline_en": "Use Garry Tan's exact Claude Code setup",
+      "title_ko": "지스택",
+      "summary_ko": "개리 탄의 클로드 코드 설정을 그대로 사용할 수 있는 개발 환경 도구",
+      "analysis_ko": {
+        "description": "Y Combinator 사장 개리 탄이 사용하는 Claude AI 코딩 환경을 그대로 복제할 수 있는 개발 도구입니다. 검증된 AI 코딩 워크플로우를 통해 개발 생산성을 극대화할 수 있습니다.",
+        "market_fit": "한국의 활발한 스타트업 생태계와 AI 개발 열풍에 매우 적합합니다. 특히 Y Combinator에 대한 높은 관심도를 고려할 때 초기 도입층 확보가 용이할 것입니다.",
+        "competitors_kr": [
+          "GitHub Copilot",
+          "Cursor",
+          "국내 AI 코딩 도구들"
+        ],
+        "regulatory_notes": "소프트웨어 라이선스 및 지적재산권 관련 검토 필요",
+        "localization_strategy": "한국어 코드 주석 지원, 국내 개발 커뮤니티와의 연계, K-스타트업 성공사례 마케팅 활용",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI코딩",
+          "개발도구"
+        ],
+        "trend_index": 68,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 455,
+      "thumbnail_url": "https://ph-files.imgix.net/e85203b2-9ad1-42cc-9be9-5f3f2317e3af.svg?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    },
+    {
+      "id": "ph-1096482",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/ask-maps-by-google",
+      "title_en": "Ask Maps by Google",
+      "tagline_en": "Ask Maps questions, drive with immersive navigation.",
+      "title_ko": "구글 애스크 맵스",
+      "summary_ko": "질문으로 길찾기하고 몰입형 내비게이션을 제공하는 구글 지도 AI 기능",
+      "analysis_ko": {
+        "description": "자연어 질문을 통해 길찾기를 할 수 있고, 더욱 몰입감 있는 내비게이션 경험을 제공하는 구글 지도의 새로운 AI 기능입니다. 기존 검색 방식을 혁신적으로 개선했습니다.",
+        "market_fit": "네이버 지도와 카카오맵이 강세인 한국 시장에서 차별화된 AI 기능으로 경쟁력을 확보할 수 있습니다. 특히 해외여행객과 글로벌 서비스 이용자들에게 어필할 것입니다.",
+        "competitors_kr": [
+          "네이버 지도",
+          "카카오맵",
+          "티맵"
+        ],
+        "regulatory_notes": "위치정보보호법 준수 필요, 개인위치정보 수집·이용 동의 절차 강화",
+        "localization_strategy": "한국어 자연어 처리 고도화, 한국 특화 POI 정보 강화, 대중교통 연계 서비스 확대",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI내비게이션",
+          "스마트지도"
+        ],
+        "trend_index": 45,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 412,
+      "thumbnail_url": "https://ph-files.imgix.net/8f7f09ac-f703-445f-b346-229f2a3d09d5.png?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    },
+    {
+      "id": "ph-1085799",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/pinnacle",
+      "title_en": "Pinnacle",
+      "tagline_en": "Turn your phone into a brain performance coach",
+      "title_ko": "피나클",
+      "summary_ko": "스마트폰을 뇌 성능 코치로 변환하는 인지능력 향상 앱",
+      "analysis_ko": {
+        "description": "스마트폰을 활용하여 개인의 뇌 성능을 측정하고 향상시키는 AI 기반 코칭 앱입니다. 인지능력 훈련과 개인화된 뇌 건강 관리 솔루션을 제공합니다.",
+        "market_fit": "한국의 높은 교육열과 자기계발 문화, 그리고 치매 예방에 대한 관심 증가로 인해 큰 시장 잠재력을 가지고 있습니다. 특히 중장년층과 수험생 시장에서 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "루모시티",
+          "브레인HQ",
+          "국내 두뇌훈련 앱들"
+        ],
+        "regulatory_notes": "의료기기법 검토 필요, 건강 관련 효과 광고 시 식약처 승인 요구",
+        "localization_strategy": "한국형 인지능력 평가 기준 적용, K-MMSE 등 국내 표준과 연계, 한국어 언어 인지 훈련 콘텐츠 개발",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "뇌훈련",
+          "인지능력"
+        ],
+        "trend_index": 52,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "healthtech",
+      "ph_votes": 327,
+      "thumbnail_url": "https://ph-files.imgix.net/c0e3d6f0-5be1-480a-8e8b-e3cd1700a35b.png?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    },
+    {
+      "id": "ph-1096947",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/perfectly",
+      "title_en": "Perfectly",
+      "tagline_en": "The first AI-native recruiting agency. Fill roles in days.",
+      "title_ko": "퍼펙틀리",
+      "summary_ko": "며칠 만에 채용을 완료하는 최초의 AI 네이티브 채용 에이전시",
+      "analysis_ko": {
+        "description": "AI 기술을 핵심으로 하는 채용 에이전시로, 기존 몇 주에서 몇 달 걸리던 채용 과정을 며칠로 단축시킵니다. AI가 후보자 매칭부터 면접 스케줄링까지 전 과정을 자동화합니다.",
+        "market_fit": "한국의 심각한 구인난과 빠른 채용 수요에 매우 적합합니다. 특히 IT 스타트업과 급성장 기업들의 빠른 인재 확보 니즈를 충족할 수 있습니다.",
+        "competitors_kr": [
+          "사람인",
+          "잡코리아",
+          "로켓펀치",
+          "원티드"
+        ],
+        "regulatory_notes": "직업안정법 및 개인정보보호법 준수 필요, 채용 과정에서의 AI 편향성 방지 대책 마련",
+        "localization_strategy": "한국 채용 문화 이해 기반 알고리즘 개발, 국내 주요 채용 플랫폼과의 연동, 한국어 이력서 분석 기능 강화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI채용",
+          "헤드헌팅"
+        ],
+        "trend_index": 58,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 201,
+      "thumbnail_url": "https://ph-files.imgix.net/89014365-8e96-489d-a908-56d37787758f.jpeg?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    },
+    {
+      "id": "ph-1096954",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/parker-by-perfectly",
+      "title_en": "Parker by Perfectly",
+      "tagline_en": "Your AI career super-connector",
+      "title_ko": "파커 바이 퍼펙틀리",
+      "summary_ko": "AI 기반 커리어 슈퍼 커넥터 서비스",
+      "analysis_ko": {
+        "description": "AI를 활용하여 개인의 커리어와 최적의 기회를 연결해주는 플랫폼입니다. 개인의 스킬, 경험, 목표를 분석하여 맞춤형 커리어 기회를 제안하고 네트워킹을 지원합니다.",
+        "market_fit": "한국의 높은 이직률과 커리어 전환 트렌드, 그리고 네트워킹의 중요성이 증가하는 시장 환경에 매우 적합합니다. MZ세대의 능동적 커리어 관리 문화와도 잘 맞습니다.",
+        "competitors_kr": [
+          "링크드인",
+          "원티드",
+          "브런치",
+          "커리어리"
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 채용 정보 제공 시 관련 규정 검토 필요",
+        "localization_strategy": "한국 기업 문화와 채용 관행 반영, 국내 주요 기업 정보 데이터베이스 구축, 한국형 커리어 패스 모델 개발",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "커리어플랫폼",
+          "AI매칭"
+        ],
+        "trend_index": 42,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 160,
+      "thumbnail_url": "https://ph-files.imgix.net/8a91371d-15a0-4141-b4cb-f4bd69b0578a.png?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    },
+    {
+      "id": "ph-1096958",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/pre-2",
+      "title_en": "Pre",
+      "tagline_en": "Pre makes anybody an operator.",
+      "title_ko": "프리",
+      "summary_ko": "누구나 운영자가 될 수 있게 해주는 비즈니스 운영 플랫폼",
+      "analysis_ko": {
+        "description": "복잡한 비즈니스 운영 업무를 단순화하여 누구나 쉽게 운영자 역할을 수행할 수 있게 해주는 플랫폼입니다. 자동화된 워크플로우와 직관적인 인터페이스를 통해 운영 효율성을 극대화합니다.",
+        "market_fit": "한국의 1인 창업 붐과 소상공인 디지털 전환 수요에 매우 적합합니다. 특히 운영 인력이 부족한 중소기업과 스타트업에서 높은 관심을 보일 것으로 예상됩니다.",
+        "competitors_kr": [
+          "아임웹",
+          "카페24",
+          "고도몰",
+          "메이크샵"
+        ],
+        "regulatory_notes": "전자상거래법 및 개인정보보호법 준수 필요",
+        "localization_strategy": "한국 비즈니스 관행에 맞는 운영 템플릿 제공, 국내 결제 시스템 연동, 세무·회계 시스템과의 연계",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "비즈니스자동화",
+          "운영관리"
+        ],
+        "trend_index": 38,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 151,
+      "thumbnail_url": "https://ph-files.imgix.net/ed08292a-889d-43e5-b607-5fad36ed69b8.x-icon?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    },
+    {
+      "id": "ph-1094829",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/fowel-by-hackmamba",
+      "title_en": "Fowel by Hackmamba",
+      "tagline_en": "Reduce documentation review time by 80% instantly",
+      "title_ko": "파웰 바이 핵맘바",
+      "summary_ko": "문서 검토 시간을 80% 단축하는 AI 문서 분석 도구",
+      "analysis_ko": {
+        "description": "AI를 활용하여 문서 검토 과정을 자동화하고 검토 시간을 대폭 단축시키는 도구입니다. 기술 문서, 계약서, 보고서 등 다양한 문서의 핵심 내용을 빠르게 분석하고 요약합니다.",
+        "market_fit": "한국 기업들의 높은 문서 업무 비중과 효율성 개선 니즈에 매우 적합합니다. 특히 법무팀, 컨설팅 회사, 대기업의 기획팀에서 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "한글과컴퓨터 AI",
+          "네이버 클로바",
+          "국내 문서 자동화 솔루션들"
+        ],
+        "regulatory_notes": "기업 기밀 정보 처리 시 보안 규정 준수 필요, 금융·의료 분야 도입 시 추가 인증 요구",
+        "localization_strategy": "한국어 문서 분석 정확도 향상, 국내 문서 양식 및 법률 용어 학습, 한글 문서 처리 최적화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "문서자동화",
+          "AI분석"
+        ],
+        "trend_index": 35,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 132,
+      "thumbnail_url": "https://ph-files.imgix.net/5863abc8-2d06-41c9-8a3a-56c479631e4d.png?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    },
+    {
+      "id": "ph-1095590",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/replylessai",
+      "title_en": "ReplylessAI",
+      "tagline_en": "AI Email app that's affordable, Hit Inbox Zero",
+      "title_ko": "리플라이리스AI",
+      "summary_ko": "저렴한 가격으로 받은편지함 제로를 달성하는 AI 이메일 앱",
+      "analysis_ko": {
+        "description": "AI를 활용하여 이메일을 자동으로 분류, 요약, 응답하여 받은편지함을 효율적으로 관리할 수 있는 저렴한 이메일 관리 앱입니다. 중요한 이메일을 우선순위에 따라 처리합니다.",
+        "market_fit": "한국 직장인들의 높은 이메일 업무 부담과 생산성 향상 니즈에 적합합니다. 특히 중소기업과 개인사업자들이 부담 없는 가격으로 이용할 수 있어 시장 진입이 용이할 것입니다.",
+        "competitors_kr": [
+          "네이버 메일",
+          "다음 메일",
+          "Gmail",
+          "아웃룩"
+        ],
+        "regulatory_notes": "개인정보보호법 및 정보통신망법 준수 필요, 이메일 내용 처리 시 암호화 의무",
+        "localization_strategy": "한국어 이메일 처리 최적화, 국내 기업 이메일 문화 반영, 한국 시간대 기반 스마트 알림 기능",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "이메일관리",
+          "AI비서"
+        ],
+        "trend_index": 28,
+        "trend_direction": "flat",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 127,
+      "thumbnail_url": "https://ph-files.imgix.net/369599c2-f31c-488c-88f2-3829ebfbdd07.png?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    },
+    {
+      "id": "ph-1095945",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/doxmind-3",
+      "title_en": "doXmind",
+      "tagline_en": "The AI editor Notion should have built",
+      "title_ko": "독스마인드",
+      "summary_ko": "노션이 만들었어야 할 AI 에디터",
+      "analysis_ko": {
+        "description": "노션의 기능을 뛰어넘는 AI 기반 문서 편집기로, 더욱 스마트한 문서 작성과 편집 기능을 제공합니다. AI가 문맥을 이해하여 자동으로 내용을 제안하고 구조화합니다.",
+        "market_fit": "한국에서 높은 인기를 얻고 있는 노션의 대안으로서 큰 잠재력을 가지고 있습니다. 특히 문서 작업이 많은 기획자, 마케터, 연구원들에게 어필할 것으로 예상됩니다.",
+        "competitors_kr": [
+          "노션",
+          "옵시디언",
+          "로그시크",
+          "미리캔버스"
+        ],
+        "regulatory_notes": "클라우드 서비스 관련 개인정보보호법 준수 필요",
+        "localization_strategy": "한국어 AI 글쓰기 기능 강화, 한국 문서 작성 관습 반영, 국내 협업 도구들과의 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI에디터",
+          "스마트문서"
+        ],
+        "trend_index": 32,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 124,
+      "thumbnail_url": "https://ph-files.imgix.net/c3227851-d68a-44e6-a638-09f93651299e.svg?auto=format",
+      "created_at": "2026-03-13T07:01:00Z"
+    }
+  ],
+  "generated_at": "2026-03-24T09:04:33.958Z"
+}
