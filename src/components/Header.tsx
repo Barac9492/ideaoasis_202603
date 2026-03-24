@@ -14,7 +14,7 @@ export function Header() {
       <div className="max-w-2xl mx-auto px-4 h-14 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <span className="text-xl font-bold text-zinc-900 dark:text-zinc-50">
-            Idea<span className="text-[#FF6B6B]">Oasis</span>
+            Idea<span className="text-[#2563EB]">Oasis</span>
           </span>
         </Link>
 

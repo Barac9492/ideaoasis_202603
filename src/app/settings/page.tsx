@@ -109,7 +109,7 @@ export default function SettingsPage() {
                   disabled={!profile.is_premium}
                   className={`flex items-center gap-2 px-4 py-3 rounded-xl text-sm font-medium transition-colors ${
                     selected
-                      ? "bg-[#FF6B6B]/10 text-[#FF6B6B] border-2 border-[#FF6B6B]"
+                      ? "bg-[#2563EB]/10 text-[#2563EB] border-2 border-[#2563EB]"
                       : "bg-zinc-50 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400 border-2 border-transparent hover:border-zinc-200 dark:hover:border-zinc-700"
                   } ${!profile.is_premium ? "opacity-50 cursor-not-allowed" : ""}`}
                 >
@@ -124,7 +124,7 @@ export default function SettingsPage() {
             <button
               onClick={save}
               disabled={saving}
-              className="px-5 py-2.5 rounded-lg bg-[#FF6B6B] text-white text-sm font-medium hover:bg-[#FF5252] transition-colors disabled:opacity-50"
+              className="px-5 py-2.5 rounded-lg bg-[#2563EB] text-white text-sm font-medium hover:bg-[#1D4ED8] transition-colors disabled:opacity-50"
             >
               {saving ? "저장 중..." : saved ? "저장됨!" : "저장"}
             </button>

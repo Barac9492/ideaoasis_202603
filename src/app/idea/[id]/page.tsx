@@ -44,7 +44,7 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
         {/* Header */}
         <div className="space-y-3">
           <div className="flex items-center gap-3">
-            <span className="w-8 h-8 flex items-center justify-center bg-[#FF6B6B] text-white text-sm font-bold rounded-full">
+            <span className="w-8 h-8 flex items-center justify-center bg-[#2563EB] text-white text-sm font-bold rounded-full">
               {idea.rank}
             </span>
             <span className="text-sm text-zinc-400">{date}</span>
@@ -52,7 +52,7 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
           <h1 className="text-3xl font-bold text-zinc-900 dark:text-zinc-50">
             {idea.title_ko}
           </h1>
-          <p className="text-lg text-zinc-500 dark:text-zinc-400">
+          <p className="text-lg text-zinc-500 dark:text-zinc-400 font-[var(--font-serif)] italic">
             {idea.tagline_en}
           </p>
           <div className="flex items-center gap-3">
@@ -62,7 +62,7 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
               href={idea.source_url}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm text-[#FF6B6B] hover:underline"
+              className="text-sm text-[#2563EB] hover:underline"
             >
               ProductHunt →
             </a>

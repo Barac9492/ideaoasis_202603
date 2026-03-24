@@ -58,11 +58,11 @@ async function main() {
     const ideasHtml = matchingIdeas
       .map(
         (idea) => `
-        <div style="margin-bottom: 20px; padding: 16px; border-left: 3px solid #FF6B6B; background: #fafafa; border-radius: 8px;">
+        <div style="margin-bottom: 20px; padding: 16px; border-left: 3px solid #2563EB; background: #fafafa; border-radius: 8px;">
           <h3 style="margin: 0 0 4px 0; color: #18181b;">#${idea.rank} ${idea.title_ko}</h3>
           <p style="margin: 0 0 8px 0; color: #71717a; font-size: 14px;">${idea.tagline_en}</p>
           <p style="margin: 0; color: #3f3f46; font-size: 14px;">${idea.summary_ko}</p>
-          <a href="${SITE_URL}/idea/${idea.id}/" style="display: inline-block; margin-top: 8px; color: #FF6B6B; font-size: 14px; text-decoration: none;">자세히 보기 →</a>
+          <a href="${SITE_URL}/idea/${idea.id}/" style="display: inline-block; margin-top: 8px; color: #2563EB; font-size: 14px; text-decoration: none;">자세히 보기 →</a>
         </div>`
       )
       .join("");

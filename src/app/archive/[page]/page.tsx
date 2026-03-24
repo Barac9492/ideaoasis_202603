@@ -41,7 +41,7 @@ export default async function ArchivePage({
                   <li key={idea.id}>
                     <Link
                       href={`/idea/${idea.id}/`}
-                      className="text-sm text-zinc-600 dark:text-zinc-400 hover:text-[#FF6B6B] transition-colors"
+                      className="text-sm text-zinc-600 dark:text-zinc-400 hover:text-[#2563EB] transition-colors"
                     >
                       <span className="text-zinc-400 mr-2">#{idea.rank}</span>
                       {idea.title_ko}

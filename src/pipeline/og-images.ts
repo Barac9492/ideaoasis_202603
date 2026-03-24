@@ -47,7 +47,7 @@ function ideaOGElement(idea: Idea) {
                 props: {
                   style: {
                     width: 40, height: 40, borderRadius: 20,
-                    background: "#FF6B6B", color: "white",
+                    background: "#2563EB", color: "white",
                     display: "flex", alignItems: "center", justifyContent: "center",
                     fontSize: 18, fontWeight: 700,
                   },
@@ -98,7 +98,7 @@ function dailyOGElement(date: string) {
         width: 1200, height: 630,
         display: "flex", flexDirection: "column",
         alignItems: "center", justifyContent: "center",
-        background: "linear-gradient(135deg, #FF6B6B 0%, #FF8E8E 100%)",
+        background: "linear-gradient(135deg, #2563EB 0%, #3B82F6 100%)",
         fontFamily: "Pretendard", color: "white",
       },
       children: [

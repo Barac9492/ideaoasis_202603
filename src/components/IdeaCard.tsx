@@ -13,19 +13,19 @@ export function IdeaCard({
   return (
     <Link
       href={`/idea/${idea.id}/`}
-      className="group block relative bg-white dark:bg-zinc-900 rounded-2xl border border-zinc-100 dark:border-zinc-800 p-5 pl-6 hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 border-l-4 border-l-[#FF6B6B]"
+      className="group block relative bg-white dark:bg-zinc-900 rounded-2xl border border-zinc-100 dark:border-zinc-800 p-5 pl-6 hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 border-l-4 border-l-[#2563EB]"
     >
       {showRank && (
-        <span className="absolute -top-3 -left-1 w-7 h-7 flex items-center justify-center bg-[#FF6B6B] text-white text-xs font-bold rounded-full shadow-sm">
+        <span className="absolute -top-3 -left-1 w-7 h-7 flex items-center justify-center bg-[#2563EB] text-white text-xs font-bold rounded-full shadow-sm">
           {idea.rank}
         </span>
       )}
 
       <div className="space-y-2">
-        <h3 className="text-lg font-bold text-zinc-900 dark:text-zinc-50 group-hover:text-[#FF6B6B] transition-colors">
+        <h3 className="text-lg font-bold text-zinc-900 dark:text-zinc-50 group-hover:text-[#2563EB] transition-colors">
           {idea.title_ko}
         </h3>
-        <p className="text-sm text-zinc-500 dark:text-zinc-400">
+        <p className="text-sm text-zinc-500 dark:text-zinc-400 font-[var(--font-serif)] italic">
           {idea.tagline_en}
         </p>
         <p className="text-sm text-zinc-700 dark:text-zinc-300 leading-relaxed line-clamp-2">

@@ -60,7 +60,7 @@ export function PremiumGate({ ideas }: { ideas: Idea[] }) {
               </p>
               <Link
                 href="/login/"
-                className="mt-4 inline-block px-5 py-2.5 rounded-lg bg-[#FF6B6B] text-white text-sm font-medium hover:bg-[#FF5252] transition-colors"
+                className="mt-4 inline-block px-5 py-2.5 rounded-lg bg-[#2563EB] text-white text-sm font-medium hover:bg-[#1D4ED8] transition-colors"
               >
                 시작하기
               </Link>

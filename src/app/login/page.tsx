@@ -33,7 +33,7 @@ export default function LoginPage() {
   return (
     <main className="max-w-sm mx-auto px-4 py-16">
       <h1 className="text-2xl font-bold text-zinc-900 dark:text-zinc-50 text-center mb-8">
-        Idea<span className="text-[#FF6B6B]">Oasis</span> 로그인
+        Idea<span className="text-[#2563EB]">Oasis</span> 로그인
       </h1>
 
       {sent ? (
@@ -77,7 +77,7 @@ export default function LoginPage() {
               <div className="w-full border-t border-zinc-200 dark:border-zinc-700" />
             </div>
             <div className="relative flex justify-center text-xs">
-              <span className="bg-[#FAFAF9] dark:bg-[#1A1A1A] px-2 text-zinc-400">
+              <span className="bg-[#FAFAF9] dark:bg-[#111111] px-2 text-zinc-400">
                 또는
               </span>
             </div>
@@ -90,11 +90,11 @@ export default function LoginPage() {
               onChange={(e) => setEmail(e.target.value)}
               placeholder="이메일 주소"
               required
-              className="w-full px-4 py-3 rounded-xl border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 text-zinc-900 dark:text-zinc-50 text-sm placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-[#FF6B6B]/50"
+              className="w-full px-4 py-3 rounded-xl border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 text-zinc-900 dark:text-zinc-50 text-sm placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-[#2563EB]/50"
             />
             <button
               type="submit"
-              className="w-full px-4 py-3 rounded-xl bg-[#FF6B6B] text-white text-sm font-medium hover:bg-[#FF5252] transition-colors"
+              className="w-full px-4 py-3 rounded-xl bg-[#2563EB] text-white text-sm font-medium hover:bg-[#1D4ED8] transition-colors"
             >
               이메일로 로그인
             </button>

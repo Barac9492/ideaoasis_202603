@@ -24,7 +24,7 @@ export function AuthButton() {
     return (
       <Link
         href="/login/"
-        className="px-3 py-1.5 text-sm font-medium rounded-lg bg-[#FF6B6B] text-white hover:bg-[#FF5252] transition-colors"
+        className="px-3 py-1.5 text-sm font-medium rounded-lg bg-[#2563EB] text-white hover:bg-[#1D4ED8] transition-colors"
       >
         로그인
       </Link>
@@ -35,7 +35,7 @@ export function AuthButton() {
     <div className="relative">
       <button
         onClick={() => setOpen(!open)}
-        className="w-8 h-8 rounded-full bg-[#FF6B6B] text-white text-sm font-bold flex items-center justify-center"
+        className="w-8 h-8 rounded-full bg-[#2563EB] text-white text-sm font-bold flex items-center justify-center"
       >
         {user.email?.[0]?.toUpperCase() ?? "U"}
       </button>
