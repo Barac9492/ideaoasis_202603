@@ -34,7 +34,8 @@
       },
       "ph_votes": 248,
       "thumbnail_url": "https://ph-files.imgix.net/e1fb32d0-4bd4-41cd-a509-33f711c4b89e.png?auto=format",
-      "created_at": "2026-03-23T07:01:00Z"
+      "created_at": "2026-03-23T07:01:00Z",
+      "category": "healthtech"
     },
     {
       "id": "ph-1100794",
@@ -69,7 +70,8 @@
       },
       "ph_votes": 223,
       "thumbnail_url": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format",
-      "created_at": "2026-03-23T07:01:00Z"
+      "created_at": "2026-03-23T07:01:00Z",
+      "category": "saas"
     },
     {
       "id": "ph-1104830",
@@ -103,7 +105,8 @@
       },
       "ph_votes": 174,
       "thumbnail_url": "https://ph-files.imgix.net/f1b457d4-2a3c-4fed-8a5f-bdcfc9c87b16.png?auto=format",
-      "created_at": "2026-03-23T07:01:00Z"
+      "created_at": "2026-03-23T07:01:00Z",
+      "category": "productivity"
     },
     {
       "id": "ph-1076272",
@@ -137,7 +140,8 @@
       },
       "ph_votes": 150,
       "thumbnail_url": "https://ph-files.imgix.net/ec98bbf6-2d52-4b63-8f0c-33204981433b.png?auto=format",
-      "created_at": "2026-03-23T07:01:00Z"
+      "created_at": "2026-03-23T07:01:00Z",
+      "category": "lifestyle"
     },
     {
       "id": "ph-1088510",
@@ -171,7 +175,8 @@
       },
       "ph_votes": 117,
       "thumbnail_url": "https://ph-files.imgix.net/493c2007-b93d-4326-bdd0-a375a75af3d0.webp?auto=format",
-      "created_at": "2026-03-23T07:01:00Z"
+      "created_at": "2026-03-23T07:01:00Z",
+      "category": "saas"
     }
   ],
   "generated_at": "2026-03-23T12:39:29.159Z"

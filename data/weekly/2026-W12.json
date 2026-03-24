@@ -12,20 +12,28 @@
     "analysis_ko": {
       "description": "반려동물의 행동, 피부, 눈 상태 등을 스마트폰 카메라로 촬영하면 AI가 건강 이상 징후를 감지하고 수의사 방문 필요 여부를 알려줍니다.",
       "market_fit": "한국 반려동물 시장은 2025년 기준 6조원 규모로, 1인 가구 증가와 함께 펫케어 수요가 급증하고 있습니다.",
-      "competitors_kr": ["핏펫", "펫닥", "라이펫"],
+      "competitors_kr": [
+        "핏펫",
+        "펫닥",
+        "라이펫"
+      ],
       "regulatory_notes": "수의사법에 따라 AI 진단 결과를 '진료'가 아닌 '건강 정보 제공'으로 포지셔닝해야 합니다.",
       "localization_strategy": "카카오톡 알림 연동, 네이버 동물병원 예약 시스템과 통합하면 한국 사용자 경험을 극대화할 수 있습니다.",
       "difficulty": "Hard"
     },
     "naver_trends": {
-      "keywords": ["반려동물 건강", "펫 헬스케어"],
+      "keywords": [
+        "반려동물 건강",
+        "펫 헬스케어"
+      ],
       "trend_index": 82,
       "trend_direction": "up",
       "period": "2025-03 to 2026-03"
     },
     "ph_votes": 523,
     "thumbnail_url": "https://ph-files.imgix.net/placeholder-petpal.png",
-    "created_at": "2026-03-22T05:00:00Z"
+    "created_at": "2026-03-22T05:00:00Z",
+    "category": "healthtech"
   },
   "deep_dive_ko": {
     "market_sizing": "한국 반려동물 시장은 2025년 6조원에서 2028년 10조원으로 성장 전망됩니다. 이 중 펫 헬스케어 부문은 약 1.2조원으로, 연평균 25% 성장률을 보이고 있습니다. 반려동물 등록 수는 2024년 기준 350만 마리를 넘어섰으며, 반려인 가구 비율은 30%에 달합니다. TAM: 1.2조원 (펫 헬스케어), SAM: 3,000억원 (디지털 펫 헬스), SOM: 300억원 (AI 기반 건강 모니터링).",

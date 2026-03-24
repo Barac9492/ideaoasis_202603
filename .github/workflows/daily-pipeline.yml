@@ -39,3 +39,10 @@ jobs:
           git add data/ public/feed.xml public/og/
           git diff --staged --quiet || git commit -m "feat: daily digest $(date +%Y-%m-%d)"
           git push
+
+      - name: Send category alerts
+        run: npm run send-alerts
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ThemeToggle } from "./ThemeToggle";
+import { AuthButton } from "./AuthButton";
 
 const navItems = [
   { href: "/", label: "홈" },
@@ -28,6 +29,7 @@ export function Header() {
             </Link>
           ))}
           <ThemeToggle />
+          <AuthButton />
         </nav>
       </div>
     </header>

@@ -13,20 +13,28 @@
       "analysis_ko": {
         "description": "반려동물의 행동, 피부, 눈 상태 등을 스마트폰 카메라로 촬영하면 AI가 건강 이상 징후를 감지하고 수의사 방문 필요 여부를 알려줍니다.",
         "market_fit": "한국 반려동물 시장은 2025년 기준 6조원 규모로, 1인 가구 증가와 함께 펫케어 수요가 급증하고 있습니다. 특히 비대면 건강 관리 니즈가 높아 시장 적합성이 매우 높습니다.",
-        "competitors_kr": ["핏펫", "펫닥", "라이펫"],
+        "competitors_kr": [
+          "핏펫",
+          "펫닥",
+          "라이펫"
+        ],
         "regulatory_notes": "수의사법에 따라 AI 진단 결과를 '진료'가 아닌 '건강 정보 제공'으로 포지셔닝해야 합니다.",
         "localization_strategy": "카카오톡 알림 연동, 네이버 동물병원 예약 시스템과 통합하면 한국 사용자 경험을 극대화할 수 있습니다.",
         "difficulty": "Hard"
       },
       "naver_trends": {
-        "keywords": ["반려동물 건강", "펫 헬스케어"],
+        "keywords": [
+          "반려동물 건강",
+          "펫 헬스케어"
+        ],
         "trend_index": 82,
         "trend_direction": "up",
         "period": "2025-03 to 2026-03"
       },
       "ph_votes": 523,
       "thumbnail_url": "https://ph-files.imgix.net/placeholder-petpal.png",
-      "created_at": "2026-03-22T05:00:00Z"
+      "created_at": "2026-03-22T05:00:00Z",
+      "category": "healthtech"
     },
     {
       "id": "ph-100002",
@@ -40,20 +48,28 @@
       "analysis_ko": {
         "description": "종이 청구서, PDF, 이메일 등 다양한 형태의 청구서를 AI가 자동으로 인식하고 데이터를 추출하여 회계 시스템에 자동 입력합니다.",
         "market_fit": "한국 중소기업의 70%가 여전히 수동으로 세금계산서를 처리하고 있어, 자동화 수요가 큽니다. 전자세금계산서 의무화와 맞물려 시장 진입 타이밍이 좋습니다.",
-        "competitors_kr": ["자비스", "더존비즈온", "웅진씽크빅 비즈"],
+        "competitors_kr": [
+          "자비스",
+          "더존비즈온",
+          "웅진씽크빅 비즈"
+        ],
         "regulatory_notes": "전자세금계산서 표준(국세청 e-세로)과의 호환성이 필수입니다.",
         "localization_strategy": "국세청 홈택스 API 연동과 한국 회계 기준(K-IFRS) 지원이 핵심 차별점이 될 수 있습니다.",
         "difficulty": "Medium"
       },
       "naver_trends": {
-        "keywords": ["전자세금계산서", "회계 자동화"],
+        "keywords": [
+          "전자세금계산서",
+          "회계 자동화"
+        ],
         "trend_index": 65,
         "trend_direction": "up",
         "period": "2025-03 to 2026-03"
       },
       "ph_votes": 412,
       "thumbnail_url": "https://ph-files.imgix.net/placeholder-invoice.png",
-      "created_at": "2026-03-22T05:00:00Z"
+      "created_at": "2026-03-22T05:00:00Z",
+      "category": "saas"
     },
     {
       "id": "ph-100003",
@@ -67,20 +83,27 @@
       "analysis_ko": {
         "description": "화상으로 연결된 파트너와 함께 작업하면서 AI가 집중 패턴을 분석하고 맞춤형 생산성 코칭을 제공하는 서비스입니다.",
         "market_fit": "한국의 재택근무 비율이 30%를 넘어서면서 '혼자 일하는 외로움'을 해결할 수 있는 서비스에 대한 수요가 높습니다. 특히 프리랜서와 1인 창업자 시장이 유망합니다.",
-        "competitors_kr": ["스터디윗미", "열품타"],
+        "competitors_kr": [
+          "스터디윗미",
+          "열품타"
+        ],
         "regulatory_notes": "개인정보보호법에 따른 화상 데이터 처리 동의 절차가 필요합니다.",
         "localization_strategy": "한국 사용자들은 '스터디 카페' 문화에 익숙하므로, 온라인 스터디 카페 컨셉으로 포지셔닝하면 자연스럽게 수용될 수 있습니다.",
         "difficulty": "Medium"
       },
       "naver_trends": {
-        "keywords": ["가상 코워킹", "재택근무 생산성"],
+        "keywords": [
+          "가상 코워킹",
+          "재택근무 생산성"
+        ],
         "trend_index": 45,
         "trend_direction": "flat",
         "period": "2025-03 to 2026-03"
       },
       "ph_votes": 387,
       "thumbnail_url": "https://ph-files.imgix.net/placeholder-focus.png",
-      "created_at": "2026-03-22T05:00:00Z"
+      "created_at": "2026-03-22T05:00:00Z",
+      "category": "productivity"
     },
     {
       "id": "ph-100004",
@@ -94,20 +117,28 @@
       "analysis_ko": {
         "description": "냉장고 사진을 찍으면 AI가 현재 보유한 식재료를 인식하고, 영양 균형을 고려한 일주일 식단과 추가 장보기 리스트를 자동으로 생성합니다.",
         "market_fit": "한국의 밀키트 시장이 4조원을 돌파했고, '오늘 뭐 먹지?' 고민은 한국인의 일상적 페인포인트입니다. 특히 맞벌이 부부와 1인 가구에서 수요가 높을 것으로 예상됩니다.",
-        "competitors_kr": ["만개의레시피", "해먹남녀", "프레시코드"],
+        "competitors_kr": [
+          "만개의레시피",
+          "해먹남녀",
+          "프레시코드"
+        ],
         "regulatory_notes": "식품 알레르기 정보 표시 의무에 주의해야 합니다.",
         "localization_strategy": "쿠팡/마켓컬리 장보기 API와 연동하여 원클릭 장보기 기능을 추가하면 강력한 차별점이 됩니다.",
         "difficulty": "Medium"
       },
       "naver_trends": {
-        "keywords": ["밀프렙", "식단 관리 앱"],
+        "keywords": [
+          "밀프렙",
+          "식단 관리 앱"
+        ],
         "trend_index": 71,
         "trend_direction": "up",
         "period": "2025-03 to 2026-03"
       },
       "ph_votes": 298,
       "thumbnail_url": "https://ph-files.imgix.net/placeholder-meal.png",
-      "created_at": "2026-03-22T05:00:00Z"
+      "created_at": "2026-03-22T05:00:00Z",
+      "category": "lifestyle"
     },
     {
       "id": "ph-100005",
@@ -121,20 +152,27 @@
       "analysis_ko": {
         "description": "프리랜서가 계약서를 업로드하면 AI가 불리한 조항, 누락된 보호 조항, 시장 대비 보수 수준 등을 분석하여 협상 포인트를 제안합니다.",
         "market_fit": "한국 프리랜서 인구가 800만 명을 돌파했고, 대부분 계약서 검토 없이 계약을 체결하고 있어 분쟁 위험이 높습니다. 법률 서비스 접근성이 낮은 프리랜서에게 큰 가치를 제공합니다.",
-        "competitors_kr": ["로톡", "법률N"],
+        "competitors_kr": [
+          "로톡",
+          "법률N"
+        ],
         "regulatory_notes": "변호사법에 따라 AI 법률 조언은 '법률 정보 제공'으로 한정해야 하며, 변호사 연결 서비스와 결합하는 것이 안전합니다.",
         "localization_strategy": "크몽, 숨고 등 한국 프리랜서 플랫폼과 제휴하여 계약 체결 시 자동 검토 서비스를 제공하면 빠른 사용자 확보가 가능합니다.",
         "difficulty": "Hard"
       },
       "naver_trends": {
-        "keywords": ["프리랜서 계약서", "AI 법률"],
+        "keywords": [
+          "프리랜서 계약서",
+          "AI 법률"
+        ],
         "trend_index": 38,
         "trend_direction": "up",
         "period": "2025-03 to 2026-03"
       },
       "ph_votes": 256,
       "thumbnail_url": "https://ph-files.imgix.net/placeholder-contract.png",
-      "created_at": "2026-03-22T05:00:00Z"
+      "created_at": "2026-03-22T05:00:00Z",
+      "category": "saas"
     }
   ],
   "generated_at": "2026-03-22T05:15:00Z"

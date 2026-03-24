@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-03-23T23:51:27.802Z</updated>
+    <updated>2026-03-24T00:47:05.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -10,7 +10,7 @@
     </author>
     <link rel="alternate" href="https://ideaoasis.vercel.app"/>
     <link rel="self" href="https://ideaoasis.vercel.app/feed.xml"/>
-    <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 5선. 한국 시장 분석과 네이버 트렌드 데이터까지.</subtitle>
+    <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
     <entry>

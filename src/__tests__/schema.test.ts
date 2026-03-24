@@ -42,8 +42,7 @@ describe("WeeklyDigestSchema", () => {
 
 describe("IdeaSchema", () => {
   it("accepts null naver_trends", () => {
-    const idea = digest2.ideas.find((i) => i.naver_trends === null);
-    expect(idea).toBeDefined();
+    const idea = { ...digest1.ideas[0], naver_trends: null };
     const result = IdeaSchema.safeParse(idea);
     expect(result.success).toBe(true);
   });

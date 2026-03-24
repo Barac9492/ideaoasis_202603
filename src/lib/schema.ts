@@ -18,7 +18,7 @@ export const NaverTrendsSchema = z.object({
 
 export const IdeaSchema = z.object({
   id: z.string(),
-  rank: z.number().int().min(1).max(10),
+  rank: z.number().int().min(1).max(15),
   source: z.literal("producthunt"),
   source_url: z.string().url(),
   title_en: z.string(),
@@ -27,6 +27,7 @@ export const IdeaSchema = z.object({
   summary_ko: z.string(),
   analysis_ko: AnalysisSchema,
   naver_trends: NaverTrendsSchema.nullable(),
+  category: z.string(),
   ph_votes: z.number().int(),
   thumbnail_url: z.string().nullable(),
   created_at: z.string(),
@@ -34,7 +35,7 @@ export const IdeaSchema = z.object({
 
 export const DailyDigestSchema = z.object({
   date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
-  ideas: z.array(IdeaSchema).min(1).max(10),
+  ideas: z.array(IdeaSchema).min(1).max(15),
   generated_at: z.string(),
 });
 

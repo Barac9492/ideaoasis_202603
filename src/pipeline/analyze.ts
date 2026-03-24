@@ -1,17 +1,19 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { IdeaSchema, type Idea } from "@/lib/schema";
+import { CATEGORY_IDS } from "@/lib/categories";
 import type { PHPost } from "./fetch-ph";
 
 const SYSTEM_PROMPT = `You are an expert startup analyst specializing in the Korean market.
 You will receive a list of products from ProductHunt. Your job:
-1. Select the top 5 most interesting/novel ideas for Korean entrepreneurs
+1. Select the top 10 most interesting/novel ideas for Korean entrepreneurs
 2. For each, provide a full Korean market analysis
 3. For each, estimate Korean search interest (0-100 scale) based on your knowledge of Korean market trends
+4. For each, assign exactly one category from this list: ${CATEGORY_IDS.join(", ")}
 
 Output ONLY valid JSON array matching this schema for each idea:
 {
   "id": "ph-{producthunt_id}",
-  "rank": 1-5,
+  "rank": 1-10,
   "source": "producthunt",
   "source_url": "{product_url}",
   "title_en": "{english_name}",
@@ -32,6 +34,7 @@ Output ONLY valid JSON array matching this schema for each idea:
     "trend_direction": "up|down|flat",
     "period": "estimated"
   },
+  "category": "{one_of_the_category_ids}",
   "ph_votes": {votes_count},
   "thumbnail_url": "{thumbnail_or_null}",
   "created_at": "{iso_datetime}"
@@ -63,7 +66,7 @@ export async function analyzeProducts(posts: PHPost[]): Promise<Idea[]> {
 
   const response = await client.messages.create({
     model: "claude-sonnet-4-20250514",
-    max_tokens: 4096,
+    max_tokens: 8192,
     temperature: 0.3,
     system: SYSTEM_PROMPT,
     messages: [{ role: "user", content: userMessage }],

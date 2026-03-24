@@ -11,15 +11,18 @@
     "test:watch": "vitest",
     "generate": "tsx src/pipeline/run.ts",
     "generate:weekly": "tsx src/pipeline/run-weekly.ts",
-    "generate:rss": "tsx src/pipeline/rss.ts"
+    "generate:rss": "tsx src/pipeline/rss.ts",
+    "send-alerts": "tsx src/pipeline/send-alerts.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
     "@resvg/resvg-js": "^2.6.2",
+    "@supabase/supabase-js": "^2.100.0",
     "feed": "^4.2.2",
     "next": "^15.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "resend": "^6.9.4",
     "satori": "^0.12.0",
     "zod": "^3.24.0"
   },

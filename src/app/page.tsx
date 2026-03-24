@@ -1,5 +1,5 @@
 import { getLatestDigest } from "@/lib/data";
-import { IdeaCard } from "@/components/IdeaCard";
+import { PremiumGate } from "@/components/PremiumGate";
 
 export default function Home() {
   const digest = getLatestDigest();
@@ -19,7 +19,7 @@ export default function Home() {
     <main className="max-w-2xl mx-auto px-4 py-8">
       <div className="space-y-1 mb-8">
         <h1 className="text-2xl font-bold text-zinc-900 dark:text-zinc-50">
-          오늘의 스타트업 아이디어 TOP 5
+          오늘의 스타트업 아이디어 TOP {digest.ideas.length}
         </h1>
         <p className="text-sm text-zinc-400 dark:text-zinc-500">
           {digest.date} · 마지막 업데이트{" "}
@@ -30,11 +30,7 @@ export default function Home() {
         </p>
       </div>
 
-      <div className="space-y-5">
-        {digest.ideas.map((idea) => (
-          <IdeaCard key={idea.id} idea={idea} />
-        ))}
-      </div>
+      <PremiumGate ideas={digest.ideas} />
     </main>
   );
 }

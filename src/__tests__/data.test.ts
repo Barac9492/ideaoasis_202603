@@ -26,10 +26,9 @@ describe("data readers", () => {
   });
 
   it("getIdeaById finds idea across digests", () => {
-    const result = getIdeaById("ph-100006");
+    const result = getIdeaById("ph-100001");
     expect(result).not.toBeNull();
-    expect(result!.idea.title_ko).toBe("슬립와이즈");
-    expect(result!.date).toBe("2026-03-23");
+    expect(result!.date).toBe("2026-03-22");
   });
 
   it("getDigestsPaginated returns correct page", () => {
