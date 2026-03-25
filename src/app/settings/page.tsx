@@ -13,26 +13,38 @@ export default function SettingsPage() {
   const [saved, setSaved] = useState(false);
 
   useEffect(() => {
+    let ignore = false;
+
     async function load() {
       const {
         data: { user },
       } = await supabase.auth.getUser();
+
+      if (ignore) return;
+
       if (!user) {
         router.push("/login/");
         return;
       }
+
       const { data } = await supabase
         .from("profiles")
         .select("*")
         .eq("id", user.id)
         .single();
-      if (data) {
+
+      if (!ignore && data) {
         const p = data as Profile;
         setProfile(p);
         setSelectedCategories(p.alert_categories ?? []);
       }
     }
+
     load();
+
+    return () => {
+      ignore = true;
+    };
   }, [router]);
 
   function toggleCategory(id: string) {
