@@ -12,7 +12,8 @@
     "generate": "tsx src/pipeline/run.ts",
     "generate:weekly": "tsx src/pipeline/run-weekly.ts",
     "generate:rss": "tsx src/pipeline/rss.ts",
-    "send-alerts": "tsx src/pipeline/send-alerts.ts"
+    "send-alerts": "tsx src/pipeline/send-alerts.ts",
+    "check:supabase": "tsx src/pipeline/check-supabase.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",

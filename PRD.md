@@ -280,7 +280,7 @@ This is a lifestyle business at month 6, ramen profitable at month 12. Not a ven
 
 ## Implementation Priority (Next 30 Days)
 
-- [ ] **Set up Supabase** — create project, run SQL, add env vars to Vercel. The auth system is built but non-functional without this.
+- [x] **Set up Supabase** — create project, run SQL, add env vars to Vercel. The auth system is built but non-functional without this.
 - [x] **Remove OAuth buttons** — email magic link only until Google/GitHub OAuth is configured. Unblock the login flow.
 - [x] **Add Reddit source** — expand from 10 PH ideas to 15-20 candidates across PH + Reddit. Claude still picks top 10.
 - [x] **Real Naver DataLab** — replace Claude estimation with actual API data. Add the trend line chart.
