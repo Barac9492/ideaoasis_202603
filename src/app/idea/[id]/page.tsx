@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getAllIdeaIds, getIdeaById } from "@/lib/data";
 import { TrendIndicator } from "@/components/TrendIndicator";
+import { TrendChart } from "@/components/TrendChart";
 import { DifficultyBadge } from "@/components/DifficultyBadge";
 import { SourceBadge } from "@/components/SourceBadge";
 import { KakaoShare } from "@/components/KakaoShare";
@@ -160,6 +161,14 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
             네이버 트렌드
           </h2>
           <TrendIndicator trends={idea.naver_trends} size="md" />
+          {idea.naver_trends?.trend_data && idea.naver_trends.trend_data.length >= 2 && (
+            <div className="pt-2">
+              <p className="text-xs text-zinc-400 dark:text-zinc-500 mb-2">
+                12개월 검색량 추이
+              </p>
+              <TrendChart data={idea.naver_trends.trend_data} />
+            </div>
+          )}
         </div>
 
         {/* Regulatory + Localization */}

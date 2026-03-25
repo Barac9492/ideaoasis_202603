@@ -56,7 +56,18 @@ export function TrendIndicator({
           </span>
         ))}
       </div>
-      <p className="text-xs text-zinc-400">{trends.period}</p>
+      <p className="text-xs text-zinc-400">
+        {trends.period}
+        {trends.trend_data && trends.trend_data.length > 0 ? (
+          <span className="ml-2 px-1.5 py-0.5 rounded bg-blue-50 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 font-medium">
+            실제 데이터
+          </span>
+        ) : (
+          <span className="ml-2 px-1.5 py-0.5 rounded bg-zinc-100 text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400 font-medium">
+            AI 추정
+          </span>
+        )}
+      </p>
     </div>
   );
 }

@@ -4,6 +4,7 @@ import { DailyDigestSchema, type DailyDigest } from "@/lib/schema";
 import { fetchTopProducts } from "./fetch-ph";
 import { fetchRedditPosts } from "./fetch-reddit";
 import { analyzeProducts } from "./analyze";
+import { enrichWithNaverTrends } from "./fetch-naver-trends";
 import type { SourcePost } from "./source-types";
 
 async function main() {
@@ -54,12 +55,16 @@ async function main() {
   console.log(`  Total candidates: ${allPosts.length}`);
 
   // Step 2: Analyze with Claude (picks top 10 across all sources)
-  console.log("[2/3] Analyzing with Claude AI...");
+  console.log("[2/4] Analyzing with Claude AI...");
   const ideas = await analyzeProducts(allPosts);
   console.log(`  ${ideas.length} ideas curated`);
 
-  // Step 3: Validate and write
-  console.log("[3/3] Validating and writing digest...");
+  // Step 3: Enrich with real Naver DataLab trends (fallback to Claude estimation)
+  console.log("[3/4] Fetching Naver DataLab trends...");
+  await enrichWithNaverTrends(ideas);
+
+  // Step 4: Validate and write
+  console.log("[4/4] Validating and writing digest...");
   const digest: DailyDigest = {
     date: today,
     ideas,

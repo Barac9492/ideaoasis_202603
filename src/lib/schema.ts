@@ -9,11 +9,17 @@ export const AnalysisSchema = z.object({
   difficulty: z.enum(["Easy", "Medium", "Hard"]),
 });
 
+export const NaverTrendPointSchema = z.object({
+  period: z.string(),
+  ratio: z.number().min(0).max(100),
+});
+
 export const NaverTrendsSchema = z.object({
   keywords: z.array(z.string()),
   trend_index: z.number().min(0).max(100),
   trend_direction: z.enum(["up", "down", "flat"]),
   period: z.string(),
+  trend_data: z.array(NaverTrendPointSchema).nullable().optional(),
 });
 
 export const IdeaSchema = z.object({
@@ -53,6 +59,7 @@ export const WeeklyDigestSchema = z.object({
 });
 
 export type Analysis = z.infer<typeof AnalysisSchema>;
+export type NaverTrendPoint = z.infer<typeof NaverTrendPointSchema>;
 export type NaverTrends = z.infer<typeof NaverTrendsSchema>;
 export type Idea = z.infer<typeof IdeaSchema>;
 export type DailyDigest = z.infer<typeof DailyDigestSchema>;
