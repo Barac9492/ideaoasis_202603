@@ -286,5 +286,5 @@ This is a lifestyle business at month 6, ramen profitable at month 12. Not a ven
 - [ ] **Real Naver DataLab** — replace Claude estimation with actual API data. Add the trend line chart.
 - [x] **SEO basics** — sitemap.xml, robots.txt, JSON-LD structured data, OG/Twitter meta tags, Korean keywords.
 - [ ] **Disquiet launch post** — first real distribution test.
-- [ ] **Analytics** — Plausible, track daily visitors and premium conversion.
+- [x] **Analytics** — Plausible, track daily visitors and premium conversion.
 - [ ] **Stripe integration** — ₩9,900/month. Start collecting revenue.

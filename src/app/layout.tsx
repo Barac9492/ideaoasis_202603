@@ -52,6 +52,11 @@ export default function RootLayout({
             `,
           }}
         />
+        <script
+          defer
+          data-domain="ideaoasis-202603.vercel.app"
+          src="https://plausible.io/js/script.js"
+        />
       </head>
       <body className="min-h-screen antialiased">
           <Header />

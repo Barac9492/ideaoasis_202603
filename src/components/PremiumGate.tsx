@@ -61,6 +61,11 @@ export function PremiumGate({ ideas }: { ideas: Idea[] }) {
               <Link
                 href="/login/"
                 className="mt-4 inline-block px-5 py-2.5 rounded-lg bg-[#2563EB] text-white text-sm font-medium hover:bg-[#1D4ED8] transition-colors"
+                onClick={() => {
+                  if (typeof window !== "undefined" && (window as unknown as { plausible?: (event: string) => void }).plausible) {
+                    (window as unknown as { plausible: (event: string) => void }).plausible("Premium CTA Click");
+                  }
+                }}
               >
                 시작하기
               </Link>
