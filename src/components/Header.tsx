@@ -5,6 +5,7 @@ import { AuthButton } from "./AuthButton";
 const navItems = [
   { href: "/", label: "홈" },
   { href: "/archive/1/", label: "아카이브" },
+  { href: "/pricing/", label: "요금제" },
   { href: "/about/", label: "About" },
 ];
 

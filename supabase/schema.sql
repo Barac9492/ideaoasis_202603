@@ -13,6 +13,7 @@ create table if not exists public.profiles (
   id uuid references auth.users(id) on delete cascade primary key,
   email text not null,
   is_premium boolean not null default false,
+  stripe_customer_id text unique,
   alert_categories text[] not null default '{}',
   created_at timestamptz not null default now()
 );

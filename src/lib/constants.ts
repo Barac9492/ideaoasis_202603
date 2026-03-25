@@ -8,3 +8,7 @@ export const FREE_IDEAS_LIMIT = 5;
 export const DIGESTS_PER_ARCHIVE_PAGE = 20;
 export const OG_WIDTH = 1200;
 export const OG_HEIGHT = 630;
+
+// Stripe pricing
+export const PRICE_MONTHLY = 9900; // ₩9,900/month
+export const PRICE_YEARLY = 99000; // ₩99,000/year (2 months free)

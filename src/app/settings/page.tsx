@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 import { supabase, type Profile } from "@/lib/supabase";
 import { CATEGORIES } from "@/lib/categories";
 
@@ -74,7 +75,7 @@ export default function SettingsPage() {
             계정
           </h2>
           <p className="text-sm text-zinc-500">{profile.email}</p>
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-3">
             <span
               className={`px-2.5 py-1 text-xs font-medium rounded-full ${
                 profile.is_premium
@@ -84,6 +85,14 @@ export default function SettingsPage() {
             >
               {profile.is_premium ? "프리미엄" : "무료"}
             </span>
+            {!profile.is_premium && (
+              <Link
+                href="/pricing/"
+                className="px-3 py-1 text-xs font-medium rounded-full bg-[#2563EB] text-white hover:bg-[#1D4ED8] transition-colors"
+              >
+                업그레이드
+              </Link>
+            )}
           </div>
         </div>
 

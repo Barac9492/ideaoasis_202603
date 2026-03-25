@@ -59,7 +59,7 @@ export function PremiumGate({ ideas }: { ideas: Idea[] }) {
                 알림을 받아보세요
               </p>
               <Link
-                href="/login/"
+                href="/pricing/"
                 className="mt-4 inline-block px-5 py-2.5 rounded-lg bg-[#2563EB] text-white text-sm font-medium hover:bg-[#1D4ED8] transition-colors"
                 onClick={() => {
                   if (typeof window !== "undefined" && (window as unknown as { plausible?: (event: string) => void }).plausible) {
@@ -67,7 +67,7 @@ export function PremiumGate({ ideas }: { ideas: Idea[] }) {
                   }
                 }}
               >
-                시작하기
+                프리미엄 구독하기
               </Link>
             </div>
           </div>
