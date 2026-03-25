@@ -1,24 +1,42 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getAllIdeaIds, getIdeaById } from "@/lib/data";
 import { TrendIndicator } from "@/components/TrendIndicator";
 import { DifficultyBadge } from "@/components/DifficultyBadge";
 import { KakaoShare } from "@/components/KakaoShare";
-import { SITE_URL } from "@/lib/constants";
+import { SITE_URL, SITE_NAME } from "@/lib/constants";
 
 export function generateStaticParams() {
   return getAllIdeaIds().map((id) => ({ id }));
 }
 
-export function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
-  // Note: generateMetadata in static export mode works synchronously with the data
-  // but Next.js types require Promise params in app router
+export function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
   return params.then(({ id }) => {
     const result = getIdeaById(id);
     if (!result) return { title: "아이디어를 찾을 수 없습니다" };
+    const { idea, date } = result;
+    const pageUrl = `${SITE_URL}/idea/${idea.id}/`;
     return {
-      title: `${result.idea.title_ko} — IdeaOasis`,
-      description: result.idea.summary_ko,
+      title: `${idea.title_ko} — IdeaOasis`,
+      description: idea.summary_ko,
+      openGraph: {
+        title: `${idea.title_ko} — IdeaOasis`,
+        description: idea.summary_ko,
+        url: pageUrl,
+        siteName: SITE_NAME,
+        locale: "ko_KR",
+        type: "article",
+        publishedTime: `${date}T07:00:00+09:00`,
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: idea.title_ko,
+        description: idea.summary_ko,
+      },
+      alternates: {
+        canonical: pageUrl,
+      },
     };
   });
 }
@@ -31,8 +49,31 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
   const { idea, date } = result;
   const pageUrl = `${SITE_URL}/idea/${idea.id}/`;
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: idea.title_ko,
+    description: idea.summary_ko,
+    datePublished: `${date}T07:00:00+09:00`,
+    url: pageUrl,
+    inLanguage: "ko",
+    publisher: {
+      "@type": "Organization",
+      name: SITE_NAME,
+      url: SITE_URL,
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": pageUrl,
+    },
+  };
+
   return (
     <main className="max-w-2xl mx-auto px-4 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Link
         href="/"
         className="inline-flex items-center gap-1 text-sm text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300 mb-6 transition-colors"

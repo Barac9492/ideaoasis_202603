@@ -2,16 +2,32 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { SITE_URL, SITE_NAME, SITE_TITLE, SITE_DESCRIPTION } from "@/lib/constants";
 
 export const metadata: Metadata = {
-  title: "IdeaOasis - 오늘의 스타트업 아이디어",
-  description:
-    "매일 아침, 실리콘밸리에서 온 스타트업 아이디어 5선. 한국 시장 분석과 네이버 트렌드 데이터까지.",
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
+  metadataBase: new URL(SITE_URL),
   alternates: {
     types: {
       "application/atom+xml": "/feed.xml",
     },
+    canonical: "/",
   },
+  openGraph: {
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    url: SITE_URL,
+    siteName: SITE_NAME,
+    locale: "ko_KR",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+  },
+  keywords: ["스타트업 아이디어", "사이드 프로젝트", "창업 아이디어 2026", "한국 시장 분석", "ProductHunt 한국어"],
 };
 
 export default function RootLayout({
