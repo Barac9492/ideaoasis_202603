@@ -1,86 +1,53 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { supabase, isSupabaseConfigured, type Profile } from "@/lib/supabase";
-import { FREE_IDEAS_LIMIT } from "@/lib/constants";
+import { useState, useMemo } from "react";
 import type { Idea } from "@/lib/schema";
 import { IdeaCard } from "./IdeaCard";
-import Link from "next/link";
+
+type SortKey = "rank" | "overall" | "market_opportunity" | "timing";
+
+const SORT_OPTIONS: { key: SortKey; label: string }[] = [
+  { key: "rank", label: "랭킹" },
+  { key: "overall", label: "점수" },
+  { key: "market_opportunity", label: "시장기회" },
+  { key: "timing", label: "타이밍" },
+];
+
+function sortIdeas(ideas: Idea[], sortBy: SortKey): Idea[] {
+  if (sortBy === "rank") return [...ideas].sort((a, b) => a.rank - b.rank);
+  return [...ideas].sort((a, b) => (b.score?.[sortBy] ?? 0) - (a.score?.[sortBy] ?? 0));
+}
 
 export function PremiumGate({ ideas }: { ideas: Idea[] }) {
-  const [isPremium, setIsPremium] = useState(false);
-  const [loading, setLoading] = useState(true);
+  const [sortBy, setSortBy] = useState<SortKey>("rank");
 
-  useEffect(() => {
-    if (!isSupabaseConfigured) {
-      setLoading(false);
-      return;
-    }
-    async function check() {
-      const {
-        data: { user },
-      } = await supabase.auth.getUser();
-      if (user) {
-        const { data } = await supabase
-          .from("profiles")
-          .select("is_premium")
-          .eq("id", user.id)
-          .single();
-        setIsPremium((data as Profile | null)?.is_premium ?? false);
-      }
-      setLoading(false);
-    }
-    check();
-  }, []);
-
-  const freeIdeas = ideas.slice(0, FREE_IDEAS_LIMIT);
-  const premiumIdeas = ideas.slice(FREE_IDEAS_LIMIT);
+  const hasScores = ideas.some((idea) => idea.score);
+  const sorted = useMemo(() => sortIdeas(ideas, sortBy), [ideas, sortBy]);
 
   return (
     <div className="space-y-5">
-      {freeIdeas.map((idea) => (
-        <IdeaCard key={idea.id} idea={idea} />
-      ))}
-
-      {premiumIdeas.length > 0 && !loading && !isPremium && (
-        <div className="relative">
-          <div className="space-y-5 opacity-40 blur-[2px] pointer-events-none select-none">
-            {premiumIdeas.map((idea) => (
-              <IdeaCard key={idea.id} idea={idea} />
-            ))}
-          </div>
-          <div className="absolute inset-0 flex items-center justify-center">
-            <div className="bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-700 rounded-2xl p-6 text-center shadow-lg max-w-sm">
-              <p className="text-lg font-bold text-zinc-900 dark:text-zinc-50">
-                +{premiumIdeas.length}개 아이디어 더 보기
-              </p>
-              <p className="mt-1 text-sm text-zinc-500 dark:text-zinc-400">
-                프리미엄 구독으로 매일 {ideas.length}개 전체 아이디어와 카테고리
-                알림을 받아보세요
-              </p>
-              <Link
-                href="/pricing/"
-                className="mt-4 inline-block px-5 py-2.5 rounded-lg bg-[#2563EB] text-white text-sm font-medium hover:bg-[#1D4ED8] transition-colors"
-                onClick={() => {
-                  if (typeof window !== "undefined" && (window as unknown as { plausible?: (event: string) => void }).plausible) {
-                    (window as unknown as { plausible: (event: string) => void }).plausible("Premium CTA Click");
-                  }
-                }}
-              >
-                프리미엄 구독하기
-              </Link>
-            </div>
-          </div>
+      {hasScores && (
+        <div className="flex items-center gap-2 text-sm">
+          <span className="text-zinc-400 dark:text-zinc-500">정렬:</span>
+          {SORT_OPTIONS.map((opt) => (
+            <button
+              key={opt.key}
+              onClick={() => setSortBy(opt.key)}
+              className={`px-3 py-1 rounded-lg transition-colors ${
+                sortBy === opt.key
+                  ? "bg-[#2563EB] text-white"
+                  : "bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400 hover:bg-zinc-200 dark:hover:bg-zinc-700"
+              }`}
+            >
+              {opt.label}
+            </button>
+          ))}
         </div>
       )}
 
-      {premiumIdeas.length > 0 && isPremium && (
-        <>
-          {premiumIdeas.map((idea) => (
-            <IdeaCard key={idea.id} idea={idea} />
-          ))}
-        </>
-      )}
+      {sorted.map((idea) => (
+        <IdeaCard key={idea.id} idea={idea} showRank={sortBy === "rank"} />
+      ))}
     </div>
   );
 }

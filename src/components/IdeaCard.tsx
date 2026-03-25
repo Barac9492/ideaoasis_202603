@@ -3,6 +3,8 @@ import type { Idea } from "@/lib/schema";
 import { DifficultyBadge } from "./DifficultyBadge";
 import { SourceBadge } from "./SourceBadge";
 import { TrendIndicator } from "./TrendIndicator";
+import { ScoreBadge } from "./ScoreBadge";
+import { BookmarkButton } from "./BookmarkButton";
 
 export function IdeaCard({
   idea,
@@ -21,6 +23,9 @@ export function IdeaCard({
           {idea.rank}
         </span>
       )}
+      <div className="absolute top-3 right-3">
+        <BookmarkButton ideaId={idea.id} />
+      </div>
 
       <div className="space-y-2">
         <h3 className="text-lg font-bold text-zinc-900 dark:text-zinc-50 group-hover:text-[#2563EB] transition-colors">
@@ -40,6 +45,12 @@ export function IdeaCard({
             ▲ {idea.ph_votes}
           </span>
           <TrendIndicator trends={idea.naver_trends} size="sm" />
+          <ScoreBadge score={idea.score} />
+          {(idea.analysis_ko.competitors_kr_detailed?.length ?? 0) > 0 && (
+            <span className="px-2 py-0.5 text-xs font-medium rounded-full bg-red-50 text-red-600 dark:bg-red-900/30 dark:text-red-400">
+              🇰🇷 경쟁사 있음
+            </span>
+          )}
         </div>
       </div>
     </Link>

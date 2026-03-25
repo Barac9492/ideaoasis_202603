@@ -1,0 +1,931 @@
+{
+  "date": "2026-03-25",
+  "ideas": [
+    {
+      "id": "ph-1101851",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/agentplace-ai-agents",
+      "title_en": "Agentplace AI Agents",
+      "tagline_en": "Create specialized AI agents for real tasks and workflows",
+      "title_ko": "에이전트플레이스 AI 에이전트",
+      "summary_ko": "실제 업무와 워크플로우를 위한 전문 AI 에이전트 생성 플랫폼",
+      "analysis_ko": {
+        "description": "기업의 실제 업무 프로세스에 특화된 AI 에이전트를 생성하고 배포할 수 있는 플랫폼입니다. 복잡한 워크플로우를 자동화하고 업무 효율성을 극대화하는 맞춤형 AI 솔루션을 제공합니다.",
+        "market_fit": "한국 기업들의 디지털 전환 가속화와 AI 도입 확산으로 매우 높은 시장 적합성을 보입니다. 특히 제조업, 금융업, 서비스업에서 업무 자동화 수요가 급증하고 있어 시장 진입 시기가 매우 적절합니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오 i",
+          "LG CNS AI 플랫폼",
+          "삼성SDS Brity"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바",
+            "founded_year": 2017,
+            "funding_status": "Corporate backed",
+            "differentiation": "범용 AI 플랫폼 대비 특정 업무 워크플로우에 특화된 에이전트 생성에 집중"
+          },
+          {
+            "name": "카카오 i",
+            "founded_year": 2017,
+            "funding_status": "Corporate backed",
+            "differentiation": "대화형 AI 중심에서 벗어나 실제 업무 프로세스 자동화에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 데이터 3법 준수 필요. 금융, 의료 등 규제 산업 진출 시 추가 인증 요구",
+        "localization_strategy": "한국어 자연어 처리 최적화, 국내 ERP/그룹웨어 연동, 한국 기업 문화에 맞는 워크플로우 템플릿 제공",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 에이전트",
+          "업무자동화"
+        ],
+        "trend_index": 100,
+        "trend_direction": "up",
+        "period": "2025-03-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-03-01",
+            "ratio": 45
+          },
+          {
+            "period": "2025-04-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 30
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 43
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 35
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 42
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 461,
+      "thumbnail_url": "https://ph-files.imgix.net/a2d767c5-498a-410b-8ef1-b7a9831f0b56.jpeg?auto=format",
+      "created_at": "2026-03-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 25,
+        "timing": 90,
+        "overall": 67
+      }
+    },
+    {
+      "id": "ph-1106349",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/auto-mode-by-claude-code",
+      "title_en": "Auto Mode by Claude Code",
+      "tagline_en": "Let Claude make permission decisions on your behalf",
+      "title_ko": "클로드 자동 모드",
+      "summary_ko": "사용자 대신 AI가 권한 결정을 자동으로 처리하는 지능형 권한 관리 시스템",
+      "analysis_ko": {
+        "description": "복잡한 권한 관리 프로세스를 AI가 자동으로 처리하여 업무 효율성을 높이는 솔루션입니다. 사용자의 패턴을 학습하여 적절한 권한 결정을 내리고 보안성과 편의성을 동시에 제공합니다.",
+        "market_fit": "한국의 엄격한 보안 문화와 복잡한 조직 구조로 인해 권한 관리 자동화 수요가 높습니다. 특히 대기업과 공공기관에서 보안과 효율성을 동시에 추구하는 트렌드에 부합합니다.",
+        "competitors_kr": [
+          "안랩 EPP",
+          "이글루시큐리티",
+          "펜타시큐리티"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "안랩 EPP",
+            "founded_year": 1995,
+            "funding_status": "Public company",
+            "differentiation": "기존 룰 기반 권한 관리 대비 AI 기반 지능형 자동 결정 시스템"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 정보보안 관련 규정 준수 필요. 공공기관 진출 시 보안성 평가 필수",
+        "localization_strategy": "한국 기업 조직문화 반영한 권한 체계, 국산 보안 솔루션과의 연동성 강화",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "권한관리",
+          "보안자동화"
+        ],
+        "trend_index": 65,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 383,
+      "thumbnail_url": "https://ph-files.imgix.net/2e7743db-7998-4af0-9b6b-9a6ca5961a6b.jpeg?auto=format",
+      "created_at": "2026-03-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 30,
+        "timing": 80,
+        "overall": 62
+      }
+    },
+    {
+      "id": "ph-1105802",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/layerproof-matte",
+      "title_en": "LayerProof Matte",
+      "tagline_en": "Repurpose social media posts with unique content per format",
+      "title_ko": "레이어프루프 매트",
+      "summary_ko": "플랫폼별 최적화된 고유 콘텐츠로 소셜미디어 게시물을 재활용하는 크리에이터 도구",
+      "analysis_ko": {
+        "description": "하나의 콘텐츠를 다양한 소셜미디어 플랫폼에 맞게 자동으로 최적화하여 재가공하는 도구입니다. 각 플랫폼의 특성에 맞는 포맷과 스타일로 변환하여 크리에이터의 생산성을 극대화합니다.",
+        "market_fit": "한국의 활발한 소셜미디어 생태계와 인플루언서 마케팅 시장 성장으로 높은 수요가 예상됩니다. 특히 유튜브, 인스타그램, 틱톡을 동시에 운영하는 크리에이터들에게 필수 도구가 될 수 있습니다.",
+        "competitors_kr": [
+          "비바리퍼블리카 토스피드",
+          "크리에이터링크",
+          "인플루언서마케팅"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "크리에이터링크",
+            "founded_year": 2019,
+            "funding_status": "Series A $5M",
+            "differentiation": "단순 매칭 플랫폼 대비 콘텐츠 자동 최적화 및 재가공 기능에 특화"
+          }
+        ],
+        "regulatory_notes": "저작권법, 개인정보보호법 준수 필요. 플랫폼별 API 정책 변화에 대응 필요",
+        "localization_strategy": "한국 소셜미디어 트렌드 반영, 한글 폰트 및 디자인 최적화, 국내 플랫폼 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "소셜미디어 관리",
+          "콘텐츠 제작"
+        ],
+        "trend_index": 27,
+        "trend_direction": "down",
+        "period": "2025-03-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-04-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 63
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 46
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 27
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 188,
+      "thumbnail_url": "https://ph-files.imgix.net/245d17d1-e4c9-43d7-a717-24ae154481d1.png?auto=format",
+      "created_at": "2026-03-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 70,
+        "timing": 85,
+        "overall": 78
+      }
+    },
+    {
+      "id": "reddit-1s3ex09",
+      "rank": 4,
+      "source": "reddit",
+      "source_url": "https://www.reddit.com/r/SideProject/comments/1s3ex09/i_built_a_database_of_38000_used_car_weaknesses/",
+      "title_en": "Used Car Database",
+      "tagline_en": "Database of 38,000+ used car weaknesses covering 987 models and 5,335 engines",
+      "title_ko": "중고차 약점 데이터베이스",
+      "summary_ko": "987개 모델과 5,335개 엔진의 38,000개 이상 중고차 약점을 정리한 종합 데이터베이스",
+      "analysis_ko": {
+        "description": "중고차 구매 시 발생할 수 있는 잠재적 문제점들을 사전에 파악할 수 있도록 돕는 종합 데이터베이스입니다. 차량 모델별, 엔진별 약점과 고장 이력을 체계적으로 정리하여 소비자의 현명한 구매 결정을 지원합니다.",
+        "market_fit": "한국의 활발한 중고차 시장과 정보 비대칭성 문제로 인해 매우 높은 시장 적합성을 보입니다. 연간 300만대 이상의 중고차 거래가 이루어지는 시장에서 필수적인 정보 서비스로 자리잡을 수 있습니다.",
+        "competitors_kr": [
+          "엔카",
+          "KB차차차",
+          "SK엔카",
+          "보배드림"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "엔카",
+            "founded_year": 2000,
+            "funding_status": "Public company",
+            "differentiation": "단순 매물 정보 제공 대비 차량별 상세 약점 및 고장 이력 데이터에 특화"
+          },
+          {
+            "name": "KB차차차",
+            "founded_year": 2017,
+            "funding_status": "Corporate backed",
+            "differentiation": "금융 서비스 중심에서 벗어나 순수 기술적 약점 정보에 집중"
+          }
+        ],
+        "regulatory_notes": "자동차관리법, 소비자보호법 준수 필요. 허위 정보 제공 시 법적 책임 발생 가능",
+        "localization_strategy": "한국 출시 차량 모델 중심 데이터 구축, 국내 정비업체 연동, 한국어 검색 최적화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "중고차",
+          "차량점검"
+        ],
+        "trend_index": 59,
+        "trend_direction": "down",
+        "period": "2025-03-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-03-01",
+            "ratio": 99
+          },
+          {
+            "period": "2025-04-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 92
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 85
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 74
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 59
+          }
+        ]
+      },
+      "category": "ecommerce",
+      "ph_votes": 34,
+      "thumbnail_url": null,
+      "created_at": "2026-03-25T16:03:32.000Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 75,
+        "timing": 80,
+        "overall": 80
+      }
+    },
+    {
+      "id": "reddit-1s377fv",
+      "rank": 5,
+      "source": "reddit",
+      "source_url": "https://v.redd.it/t3ijjkq026rg1",
+      "title_en": "Cram and Conquer",
+      "tagline_en": "Flashcard learning platform with cats, detailed progress tracking, and customizable interface",
+      "title_ko": "크램 앤 컨커",
+      "summary_ko": "고양이 캐릭터와 상세한 진도 추적 기능을 갖춘 개인화 가능한 플래시카드 학습 플랫폼",
+      "analysis_ko": {
+        "description": "게이미피케이션 요소와 귀여운 고양이 캐릭터를 활용한 플래시카드 학습 플랫폼입니다. 상세한 학습 진도 추적과 높은 커스터마이징 기능을 제공하여 개인화된 학습 경험을 제공합니다.",
+        "market_fit": "한국의 치열한 교육 환경과 자기주도학습 트렌드에 매우 적합합니다. 특히 수능, 공무원 시험, 자격증 준비생들의 암기 학습 수요가 높아 시장 진입 가능성이 큽니다.",
+        "competitors_kr": [
+          "퀴즐렛",
+          "아이스크림에듀",
+          "천재교육 밀크T",
+          "웅진씽크빅"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "아이스크림에듀",
+            "founded_year": 2007,
+            "funding_status": "Corporate backed",
+            "differentiation": "초중등 교육과정 중심 대비 모든 연령대 대상 개인화 학습에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 청소년보호법 준수 필요. 교육 콘텐츠 관련 규제 확인 필요",
+        "localization_strategy": "한국 교육과정 연계 콘텐츠, 한글 학습 최적화, 국내 교육 트렌드 반영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "플래시카드",
+          "암기학습"
+        ],
+        "trend_index": 58,
+        "trend_direction": "flat",
+        "period": "2025-03-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-04-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 55
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 86
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 58
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 32,
+      "thumbnail_url": "https://external-preview.redd.it/djl4aHcwcjAyNnJnMVpKx18zu2Al60haJHCIipoecy1_uH38KnrawZp01IuI.png?width=140&height=78&format=jpg&auto=webp&s=93d24311711aaed8e0d2f6ed1c775ebc95b61fc9",
+      "created_at": "2026-03-25T10:43:05.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 85,
+        "timing": 85,
+        "overall": 81
+      }
+    },
+    {
+      "id": "ph-1099959",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/flowershow",
+      "title_en": "Flowershow",
+      "tagline_en": "Publish your markdown as a beautiful website – in seconds",
+      "title_ko": "플라워쇼",
+      "summary_ko": "마크다운 문서를 몇 초 만에 아름다운 웹사이트로 변환하는 퍼블리싱 도구",
+      "analysis_ko": {
+        "description": "개발자와 콘텐츠 크리에이터가 마크다운 형식의 문서를 즉시 웹사이트로 변환할 수 있는 도구입니다. 복잡한 웹 개발 지식 없이도 전문적인 웹사이트를 빠르게 제작할 수 있습니다.",
+        "market_fit": "한국의 개발자 커뮤니티와 기술 블로거들 사이에서 높은 수요가 예상됩니다. 특히 개인 포트폴리오, 기술 문서, 프로젝트 소개 사이트 제작에 활용도가 높을 것으로 보입니다.",
+        "competitors_kr": [
+          "깃허브 페이지",
+          "네이버 블로그",
+          "티스토리",
+          "벨로그"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "벨로그",
+            "founded_year": 2018,
+            "funding_status": "Seed $2M",
+            "differentiation": "블로그 플랫폼 대비 독립적인 웹사이트 생성과 완전한 커스터마이징 가능"
+          }
+        ],
+        "regulatory_notes": "저작권법, 개인정보보호법 준수 필요. 호스팅 서비스 관련 규제 확인 필요",
+        "localization_strategy": "한글 마크다운 최적화, 한국형 웹사이트 템플릿 제공, 국내 호스팅 서비스 연동",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "마크다운",
+          "웹사이트 제작"
+        ],
+        "trend_index": 31,
+        "trend_direction": "down",
+        "period": "2025-03-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-03-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 38
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 36
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 30
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 38
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 47
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 27
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 31
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 154,
+      "thumbnail_url": "https://ph-files.imgix.net/1190ddc8-fc71-4943-84c8-080e0b317efd.x-icon?auto=format",
+      "created_at": "2026-03-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 90,
+        "timing": 75,
+        "overall": 73
+      }
+    },
+    {
+      "id": "reddit-1s3fe0n",
+      "rank": 7,
+      "source": "reddit",
+      "source_url": "https://www.reddit.com/r/SideProject/comments/1s3fe0n/i_built_a_simple_app_to_stop_myself_from_losing/",
+      "title_en": "KeepMeClose",
+      "tagline_en": "Simple app to stop yourself from losing touch with people",
+      "title_ko": "킵미클로즈",
+      "summary_ko": "소중한 사람들과의 연락을 놓치지 않도록 도와주는 인맥 관리 앱",
+      "analysis_ko": {
+        "description": "바쁜 일상 속에서 소중한 사람들과의 연락을 체계적으로 관리할 수 있도록 돕는 앱입니다. 연락 주기를 설정하고 알림을 통해 인간관계 유지를 지원하는 간단하지만 실용적인 도구입니다.",
+        "market_fit": "한국의 개인주의 문화 확산과 바쁜 직장 생활로 인한 인간관계 소홀함 문제에 대한 해결책으로 적합합니다. 특히 2030세대의 인맥 관리 니즈에 부합하는 서비스입니다.",
+        "competitors_kr": [
+          "카카오톡",
+          "네이버 주소록",
+          "구글 연락처"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법 준수 필요. 연락처 정보 처리 시 동의 절차 필수",
+        "localization_strategy": "한국 문화에 맞는 연락 주기 설정, 명절/기념일 알림 기능, 카카오톡 연동",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "인맥관리",
+          "연락처 관리"
+        ],
+        "trend_index": 17,
+        "trend_direction": "up",
+        "period": "2025-03-01 ~ 2026-02-01",
+        "trend_data": [
+          {
+            "period": "2025-03-01",
+            "ratio": 45
+          },
+          {
+            "period": "2025-04-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 38
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 33
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 43
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 22
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 8
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 28
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 17
+          }
+        ]
+      },
+      "category": "lifestyle",
+      "ph_votes": 14,
+      "thumbnail_url": null,
+      "created_at": "2026-03-25T16:20:35.000Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 85,
+        "timing": 70,
+        "overall": 72
+      }
+    },
+    {
+      "id": "ph-1102734",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/pendium-2",
+      "title_en": "Pendium",
+      "tagline_en": "Help AI agents recommend you more often to the right people",
+      "title_ko": "펜디움",
+      "summary_ko": "AI 에이전트가 적절한 사람들에게 나를 더 자주 추천하도록 돕는 개인 브랜딩 플랫폼",
+      "analysis_ko": {
+        "description": "AI 기반 추천 시스템에서 개인의 전문성과 경력이 더 잘 노출되도록 최적화하는 플랫폼입니다. 개인 브랜딩과 네트워킹을 AI 시대에 맞게 진화시킨 혁신적인 서비스입니다.",
+        "market_fit": "한국의 강한 네트워킹 문화와 개인 브랜딩 트렌드 확산으로 시장 적합성이 높습니다. 특히 프리랜서, 컨설턴트, 전문직 종사자들의 개인 마케팅 수요가 증가하고 있어 적절한 시기입니다.",
+        "competitors_kr": [
+          "링크드인",
+          "원티드",
+          "로켓펀치",
+          "브런치"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "원티드",
+            "founded_year": 2013,
+            "funding_status": "Series D $140M",
+            "differentiation": "채용 중심 플랫폼 대비 AI 추천 최적화와 개인 브랜딩에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 온라인상 허위정보 규제 준수 필요",
+        "localization_strategy": "한국 비즈니스 문화 반영, 국내 주요 플랫폼 연동, 한국어 프로필 최적화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "개인브랜딩",
+          "네트워킹"
+        ],
+        "trend_index": 31,
+        "trend_direction": "down",
+        "period": "2025-03-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-04-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 50
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 45
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 35
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 31
+          }
+        ]
+      },
+      "category": "social",
+      "ph_votes": 254,
+      "thumbnail_url": "https://ph-files.imgix.net/ac15d628-a75c-4c54-b7ee-f7f5bda99b00.png?auto=format",
+      "created_at": "2026-03-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 60,
+        "timing": 75,
+        "overall": 68
+      }
+    },
+    {
+      "id": "ph-1106716",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/turboquant",
+      "title_en": "TurboQuant",
+      "tagline_en": "New LLM compression algorithm by Google",
+      "title_ko": "터보퀀트",
+      "summary_ko": "구글이 개발한 새로운 대규모 언어모델 압축 알고리즘",
+      "analysis_ko": {
+        "description": "대규모 언어모델의 크기를 획기적으로 줄이면서도 성능을 유지하는 구글의 최신 압축 기술입니다. 제한된 컴퓨팅 자원으로도 고성능 AI 모델을 활용할 수 있게 해주는 혁신적인 솔루션입니다.",
+        "market_fit": "한국 기업들의 AI 도입 비용 부담과 인프라 제약 문제를 해결할 수 있어 높은 시장 적합성을 보입니다. 특히 중소기업과 스타트업의 AI 접근성을 크게 향상시킬 수 있습니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오브레인",
+          "LG AI연구원"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바",
+            "founded_year": 2017,
+            "funding_status": "Corporate backed",
+            "differentiation": "자체 모델 개발 대비 기존 모델의 효율적 압축과 최적화에 특화"
+          }
+        ],
+        "regulatory_notes": "AI 관련 규제, 데이터 보안 규정 준수 필요. 구글 기술 의존성 리스크 고려",
+        "localization_strategy": "한국어 모델 최적화, 국내 클라우드 서비스 연동, 한국 기업 맞춤 솔루션 제공",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 압축",
+          "모델 최적화"
+        ],
+        "trend_index": 42,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 234,
+      "thumbnail_url": "https://ph-files.imgix.net/6a466fde-56ef-4591-bdf1-de8cac3cc417.png?auto=format",
+      "created_at": "2026-03-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 20,
+        "timing": 85,
+        "overall": 62
+      }
+    },
+    {
+      "id": "reddit-1s39her",
+      "rank": 10,
+      "source": "reddit",
+      "source_url": "https://v.redd.it/n57lserfr6rg1",
+      "title_en": "AI Camera App",
+      "tagline_en": "AI-powered camera application with first paying user milestone",
+      "title_ko": "AI 카메라 앱",
+      "summary_ko": "첫 유료 사용자를 확보한 AI 기반 카메라 애플리케이션",
+      "analysis_ko": {
+        "description": "인공지능 기술을 활용하여 사진 촬영과 편집을 자동화하는 카메라 앱입니다. 사용자의 촬영 패턴을 학습하여 최적의 설정을 제안하고 실시간으로 이미지를 향상시키는 기능을 제공합니다.",
+        "market_fit": "한국의 높은 스마트폰 보급률과 SNS 문화로 인한 사진 촬영 수요 증가로 시장 적합성이 높습니다. 특히 인스타그램, 틱톡 등에서 고품질 콘텐츠를 원하는 사용자들에게 어필할 수 있습니다.",
+        "competitors_kr": [
+          "스노우",
+          "B612",
+          "VSCO",
+          "라이트룸 모바일"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스노우",
+            "founded_year": 2015,
+            "funding_status": "Corporate backed (Naver)",
+            "differentiation": "뷰티 필터 중심 대비 AI 기반 자동 최적화와 전문적 사진 편집에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 초상권 관련 규정 준수 필요. 앱스토어 정책 준수 필수",
+        "localization_strategy": "한국인 선호 필터 개발, 한글 UI 최적화, 국내 SNS 플랫폼 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 카메라",
+          "사진편집"
+        ],
+        "trend_index": 48,
+        "trend_direction": "down",
+        "period": "2025-03-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-03-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 53
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 48
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 17,
+      "thumbnail_url": "https://external-preview.redd.it/OGYzZjdvcmZyNnJnMcvVAk_tcaV0Giz8cSBFxtU1OQ_gh9lsVyb5K_EEqZ5B.png?width=140&height=78&format=jpg&auto=webp&s=96a0f29249e552f66d9a356151ba46cd302084d5",
+      "created_at": "2026-03-25T12:35:48.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 65,
+        "timing": 80,
+        "overall": 71
+      }
+    }
+  ],
+  "generated_at": "2026-03-25T23:36:53.460Z"
+}

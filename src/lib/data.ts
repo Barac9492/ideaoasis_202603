@@ -91,6 +91,18 @@ export function getAllIdeaIds(): string[] {
   return ids;
 }
 
+export function getAllIdeasMap(): Record<string, Idea> {
+  const map: Record<string, Idea> = {};
+  for (const date of getAllDigestDates()) {
+    const digest = getDigestByDate(date);
+    if (!digest) continue;
+    for (const idea of digest.ideas) {
+      map[idea.id] = idea;
+    }
+  }
+  return map;
+}
+
 export function getAllWeeklyDates(): string[] {
   const dir = path.join(DATA_DIR, "weekly");
   if (!fs.existsSync(dir)) return [];

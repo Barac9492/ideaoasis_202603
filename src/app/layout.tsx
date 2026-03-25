@@ -28,6 +28,12 @@ export const metadata: Metadata = {
     description: SITE_DESCRIPTION,
   },
   keywords: ["스타트업 아이디어", "사이드 프로젝트", "창업 아이디어 2026", "한국 시장 분석", "ProductHunt 한국어"],
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+    ],
+  },
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({

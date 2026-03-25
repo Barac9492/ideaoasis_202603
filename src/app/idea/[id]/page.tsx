@@ -7,6 +7,9 @@ import { TrendChart } from "@/components/TrendChart";
 import { DifficultyBadge } from "@/components/DifficultyBadge";
 import { SourceBadge } from "@/components/SourceBadge";
 import { KakaoShare } from "@/components/KakaoShare";
+import { ScoreBreakdown } from "@/components/ScoreBreakdown";
+import { CompetitorTracker } from "@/components/CompetitorTracker";
+import { BookmarkButton } from "@/components/BookmarkButton";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 
 const SOURCE_LABELS: Record<string, string> = {
@@ -155,6 +158,14 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
           )}
         </div>
 
+        {/* Score Breakdown */}
+        <ScoreBreakdown score={idea.score} />
+
+        {/* Korean Competitor Tracker */}
+        {idea.analysis_ko.competitors_kr_detailed && idea.analysis_ko.competitors_kr_detailed.length > 0 && (
+          <CompetitorTracker competitors={idea.analysis_ko.competitors_kr_detailed} />
+        )}
+
         {/* Naver Trends */}
         <div className="bg-white dark:bg-zinc-900 rounded-2xl border border-zinc-100 dark:border-zinc-800 p-6 space-y-4">
           <h2 className="text-lg font-bold text-zinc-900 dark:text-zinc-50">
@@ -191,8 +202,9 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
           </div>
         </div>
 
-        {/* Share */}
-        <div className="flex gap-3">
+        {/* Share + Bookmark */}
+        <div className="flex items-center gap-3">
+          <BookmarkButton ideaId={idea.id} />
           <KakaoShare
             title={idea.title_ko}
             description={idea.summary_ko}

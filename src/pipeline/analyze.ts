@@ -27,9 +27,23 @@ Output ONLY valid JSON array matching this schema for each idea:
     "description": "{detailed_korean_description_2_3_sentences}",
     "market_fit": "{korean_market_fit_analysis_2_3_sentences}",
     "competitors_kr": ["{korean_competitor_names}"],
+    "competitors_kr_detailed": [
+      {
+        "name": "{korean_company_name}",
+        "founded_year": 2024,
+        "funding_status": "{e.g. Seed $1M, Series A, bootstrapped, unknown}",
+        "differentiation": "{how_the_original_idea_differs_from_this_korean_competitor}"
+      }
+    ],
     "regulatory_notes": "{korean_regulatory_considerations}",
     "localization_strategy": "{korean_localization_strategy}",
     "difficulty": "Easy|Medium|Hard"
+  },
+  "score": {
+    "market_opportunity": {0-100, based on Korean TAM size, growth rate, competitive density},
+    "execution_difficulty": {0-100, higher means EASIER to execute. Based on tech complexity, regulatory burden, capital requirements},
+    "timing": {0-100, how ready is the Korean market right now},
+    "overall": {weighted: round(market_opportunity * 0.4 + execution_difficulty * 0.3 + timing * 0.3)}
   },
   "naver_trends": {
     "keywords": ["{1_2_relevant_korean_search_keywords}"],
@@ -46,6 +60,16 @@ Output ONLY valid JSON array matching this schema for each idea:
 For naver_trends: estimate based on your knowledge of Korean consumer behavior and market trends.
 Set trend_direction to "up" if the category is growing in Korea, "flat" if stable, "down" if declining.
 If you cannot reasonably estimate, set naver_trends to null.
+
+For competitors_kr_detailed: identify REAL Korean startups/companies building the same or very similar product.
+Only include confirmed companies you are confident exist. Return empty array [] if no Korean competitor exists.
+Keep competitors_kr as the simple name list (same as before), and competitors_kr_detailed as the enriched version.
+
+For score: evaluate each dimension independently.
+- market_opportunity: Korean TAM size, growth trajectory, how crowded the space is (higher = bigger opportunity)
+- execution_difficulty: higher means EASIER (less technical complexity, lighter regulatory burden, lower capital needed)
+- timing: how ready Korean consumers/businesses are for this (higher = market is ready now)
+- overall: MUST equal round(market_opportunity * 0.4 + execution_difficulty * 0.3 + timing * 0.3)
 
 Output ONLY the JSON array, no markdown, no explanation.`;
 
@@ -70,7 +94,7 @@ export async function analyzeProducts(posts: SourcePost[]): Promise<Idea[]> {
 
   const response = await client.messages.create({
     model: "claude-sonnet-4-20250514",
-    max_tokens: 8192,
+    max_tokens: 12288,
     temperature: 0.3,
     system: SYSTEM_PROMPT,
     messages: [{ role: "user", content: userMessage }],

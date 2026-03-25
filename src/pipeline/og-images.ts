@@ -9,11 +9,11 @@ let fontBold: ArrayBuffer | null = null;
 
 function loadFonts() {
   if (!fontRegular) {
-    const regularPath = path.join(process.cwd(), "public/fonts/Pretendard-Regular.woff2");
+    const regularPath = path.join(process.cwd(), "public/fonts/Pretendard-Regular.otf");
     fontRegular = fs.readFileSync(regularPath).buffer as ArrayBuffer;
   }
   if (!fontBold) {
-    const boldPath = path.join(process.cwd(), "public/fonts/Pretendard-Bold.woff2");
+    const boldPath = path.join(process.cwd(), "public/fonts/Pretendard-Bold.otf");
     fontBold = fs.readFileSync(boldPath).buffer as ArrayBuffer;
   }
   return [

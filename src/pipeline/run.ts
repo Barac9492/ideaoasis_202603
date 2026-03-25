@@ -5,6 +5,7 @@ import { fetchTopProducts } from "./fetch-ph";
 import { fetchRedditPosts } from "./fetch-reddit";
 import { analyzeProducts } from "./analyze";
 import { enrichWithNaverTrends } from "./fetch-naver-trends";
+import { generateOGImages } from "./og-images";
 import type { SourcePost } from "./source-types";
 
 async function main() {
@@ -13,7 +14,7 @@ async function main() {
   console.log(`[IdeaOasis] Starting daily pipeline for ${today}`);
 
   // Step 1: Fetch from multiple sources
-  console.log("[1/3] Fetching from sources...");
+  console.log("[1/5] Fetching from sources...");
 
   const [phPosts, redditPosts] = await Promise.all([
     fetchTopProducts(today),
@@ -55,16 +56,16 @@ async function main() {
   console.log(`  Total candidates: ${allPosts.length}`);
 
   // Step 2: Analyze with Claude (picks top 10 across all sources)
-  console.log("[2/4] Analyzing with Claude AI...");
+  console.log("[2/5] Analyzing with Claude AI...");
   const ideas = await analyzeProducts(allPosts);
   console.log(`  ${ideas.length} ideas curated`);
 
   // Step 3: Enrich with real Naver DataLab trends (fallback to Claude estimation)
-  console.log("[3/4] Fetching Naver DataLab trends...");
+  console.log("[3/5] Fetching Naver DataLab trends...");
   await enrichWithNaverTrends(ideas);
 
   // Step 4: Validate and write
-  console.log("[4/4] Validating and writing digest...");
+  console.log("[4/5] Validating and writing digest...");
   const digest: DailyDigest = {
     date: today,
     ideas,
@@ -78,7 +79,18 @@ async function main() {
   const outPath = path.join(outDir, `${today}.json`);
   fs.writeFileSync(outPath, JSON.stringify(validated, null, 2));
 
-  console.log(`[IdeaOasis] Done! Wrote ${outPath}`);
+  console.log(`  Wrote ${outPath}`);
+
+  // Step 5: Generate OG images for social sharing
+  console.log("[5/5] Generating OG images...");
+  try {
+    const ogUrls = await generateOGImages(validated);
+    console.log(`  Generated ${ogUrls.size} OG images`);
+  } catch (err) {
+    console.warn("  OG image generation failed (non-fatal):", err);
+  }
+
+  console.log(`[IdeaOasis] Done!`);
 }
 
 main().catch((err) => {

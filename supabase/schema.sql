@@ -66,6 +66,39 @@ create index if not exists idx_profiles_is_premium
   where is_premium = true;
 
 -- ============================================================
+-- saved_ideas table: user bookmarks with private notes
+-- ============================================================
+create table if not exists public.saved_ideas (
+  id uuid default gen_random_uuid() primary key,
+  user_id uuid references auth.users(id) on delete cascade not null,
+  idea_id text not null,
+  notes text not null default '',
+  saved_at timestamptz not null default now(),
+  unique (user_id, idea_id)
+);
+
+alter table public.saved_ideas enable row level security;
+
+create policy "Users can read own saved ideas"
+  on public.saved_ideas for select
+  using (auth.uid() = user_id);
+
+create policy "Users can insert own saved ideas"
+  on public.saved_ideas for insert
+  with check (auth.uid() = user_id);
+
+create policy "Users can update own saved ideas"
+  on public.saved_ideas for update
+  using (auth.uid() = user_id);
+
+create policy "Users can delete own saved ideas"
+  on public.saved_ideas for delete
+  using (auth.uid() = user_id);
+
+create index if not exists idx_saved_ideas_user_id
+  on public.saved_ideas (user_id);
+
+-- ============================================================
 -- Auth config (run these in Supabase Dashboard → Authentication → Settings):
 --
 --   1. Enable Email provider (magic link / OTP)

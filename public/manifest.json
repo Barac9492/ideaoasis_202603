@@ -1,0 +1,16 @@
+{
+  "name": "IdeaOasis",
+  "short_name": "IdeaOasis",
+  "description": "매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF9",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

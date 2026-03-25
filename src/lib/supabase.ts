@@ -22,3 +22,11 @@ export interface Profile {
   alert_categories: string[];
   created_at: string;
 }
+
+export interface SavedIdea {
+  id: string;
+  user_id: string;
+  idea_id: string;
+  notes: string;
+  saved_at: string;
+}
