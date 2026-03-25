@@ -285,6 +285,6 @@ This is a lifestyle business at month 6, ramen profitable at month 12. Not a ven
 - [x] **Add Reddit source** — expand from 10 PH ideas to 15-20 candidates across PH + Reddit. Claude still picks top 10.
 - [x] **Real Naver DataLab** — replace Claude estimation with actual API data. Add the trend line chart.
 - [x] **SEO basics** — sitemap.xml, robots.txt, JSON-LD structured data, OG/Twitter meta tags, Korean keywords.
-- [ ] **Disquiet launch post** — first real distribution test.
+- [x] **Disquiet launch post** — first real distribution test.
 - [x] **Analytics** — Plausible, track daily visitors and premium conversion.
 - [x] **Stripe integration** — ₩9,900/month. Start collecting revenue.
