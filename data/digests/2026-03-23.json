@@ -2,76 +2,75 @@
   "date": "2026-03-23",
   "ideas": [
     {
-      "id": "ph-1096052",
-      "rank": 1,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/posts/zoer-ai-2",
-      "title_en": "Zoer.ai",
-      "tagline_en": "Build full-stack webapps from the database up",
-      "title_ko": "조어 AI",
-      "summary_ko": "데이터베이스부터 시작하여 풀스택 웹앱을 자동으로 구축하는 AI 개발 도구",
-      "analysis_ko": {
-        "description": "데이터베이스 스키마를 기반으로 완전한 웹 애플리케이션을 자동 생성하는 AI 기반 개발 플랫폼입니다. 개발자가 데이터베이스 구조만 정의하면 프론트엔드부터 백엔드까지 전체 스택을 자동으로 생성해줍니다.",
-        "market_fit": "한국의 스타트업과 중소기업들이 빠른 MVP 개발을 위해 노코드/로우코드 솔루션에 대한 수요가 높아지고 있어 시장 적합성이 매우 좋습니다. 특히 개발자 부족 문제를 겪고 있는 기업들에게 매력적인 솔루션이 될 것입니다.",
-        "competitors_kr": [
-          "아웃시스템즈",
-          "멘딕스",
-          "파워플랫폼",
-          "버블"
-        ],
-        "regulatory_notes": "개인정보보호법과 데이터 보안 규정 준수가 필요하며, 생성된 코드의 보안성 검증이 중요합니다.",
-        "localization_strategy": "한국어 UI/UX 제공, 한국 기업들이 자주 사용하는 데이터베이스 시스템 지원, 국내 클라우드 서비스와의 연동 기능 강화",
-        "difficulty": "Medium"
-      },
-      "naver_trends": {
-        "keywords": [
-          "노코드",
-          "웹앱개발"
-        ],
-        "trend_index": 75,
-        "trend_direction": "up",
-        "period": "estimated"
-      },
-      "ph_votes": 248,
-      "thumbnail_url": "https://ph-files.imgix.net/e1fb32d0-4bd4-41cd-a509-33f711c4b89e.png?auto=format",
-      "created_at": "2026-03-23T07:01:00Z",
-      "category": "healthtech"
-    },
-    {
       "id": "ph-1100794",
-      "rank": 2,
+      "rank": 1,
       "source": "producthunt",
       "source_url": "https://www.producthunt.com/posts/tobira-ai",
       "title_en": "Tobira.ai",
       "tagline_en": "A network where AI agents find deals for their humans",
       "title_ko": "토비라 AI",
-      "summary_ko": "AI 에이전트가 사용자를 위해 최적의 거래와 할인 정보를 자동으로 찾아주는 네트워크 플랫폼",
+      "summary_ko": "AI 에이전트가 사용자를 위해 최적의 거래를 찾아주는 네트워크 플랫폼",
       "analysis_ko": {
-        "description": "AI 에이전트들이 네트워크를 형성하여 사용자 개개인의 취향과 필요에 맞는 최적의 상품 거래와 할인 정보를 자동으로 발굴하고 추천하는 플랫폼입니다. 개인화된 쇼핑 어시스턴트 역할을 수행합니다.",
-        "market_fit": "한국은 할인과 적립에 민감한 소비 문화를 가지고 있어 이런 서비스에 대한 수요가 매우 높습니다. 특히 온라인 쇼핑 비중이 높고 가격 비교 문화가 발달한 한국 시장에 매우 적합합니다.",
+        "description": "AI 에이전트들이 네트워크를 형성하여 사용자 대신 온라인에서 최적의 상품 거래와 할인 정보를 자동으로 찾아주는 플랫폼입니다. 개인화된 쇼핑 어시스턴트 역할을 하며, 사용자의 선호도와 구매 패턴을 학습하여 맞춤형 딜을 제공합니다.",
+        "market_fit": "한국의 높은 온라인 쇼핑 비중과 할인 문화에 매우 적합합니다. 특히 쿠팡, 11번가 등 이커머스 플랫폼이 발달한 환경에서 가격 비교와 할인 정보에 민감한 한국 소비자들에게 큰 어필이 될 것입니다.",
         "competitors_kr": [
           "다나와",
           "에누리",
-          "쿠팡",
-          "11번가"
+          "쇼핑하우",
+          "가격비교닷컴"
         ],
-        "regulatory_notes": "개인정보 수집 및 활용에 대한 명확한 동의 절차가 필요하며, 전자상거래법 준수가 중요합니다.",
-        "localization_strategy": "한국 주요 쇼핑몰과의 API 연동, 한국식 할인 문화 반영, 적립금/포인트 시스템 통합 지원",
+        "regulatory_notes": "개인정보보호법에 따른 사용자 데이터 처리 및 전자상거래법 준수 필요",
+        "localization_strategy": "네이버쇼핑, 쿠팡, G마켓 등 주요 한국 이커머스 플랫폼과의 API 연동 및 한국어 자연어처리 최적화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 쇼핑",
+          "가격비교"
+        ],
+        "trend_index": 75,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 626,
+      "thumbnail_url": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
+    },
+    {
+      "id": "ph-1096052",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/zoer-ai-2",
+      "title_en": "Zoer.ai",
+      "tagline_en": "Build full-stack webapps from the database up",
+      "title_ko": "조어 AI",
+      "summary_ko": "데이터베이스부터 시작하여 풀스택 웹앱을 자동으로 구축해주는 AI 개발 도구",
+      "analysis_ko": {
+        "description": "데이터베이스 스키마를 기반으로 프론트엔드부터 백엔드까지 완전한 웹 애플리케이션을 자동 생성하는 AI 기반 개발 플랫폼입니다. 개발자가 데이터 구조만 정의하면 전체 애플리케이션이 자동으로 생성됩니다.",
+        "market_fit": "한국의 활발한 스타트업 생태계와 개발자 부족 문제를 해결할 수 있는 솔루션입니다. 특히 빠른 프로토타이핑이 필요한 한국 IT 기업들과 디지털 전환을 추진하는 전통 기업들에게 유용할 것입니다.",
+        "competitors_kr": [
+          "네이버클라우드",
+          "NHN",
+          "카카오엔터프라이즈"
+        ],
+        "regulatory_notes": "클라우드 서비스 보안 인증 및 개인정보보호 관련 규정 준수 필요",
+        "localization_strategy": "한국어 코드 주석 생성, 국내 클라우드 인프라 연동, 한국 개발 관례에 맞는 코드 스타일 적용",
         "difficulty": "Hard"
       },
       "naver_trends": {
         "keywords": [
-          "AI쇼핑",
-          "할인정보"
+          "노코드",
+          "웹개발"
         ],
-        "trend_index": 85,
+        "trend_index": 65,
         "trend_direction": "up",
         "period": "estimated"
       },
-      "ph_votes": 223,
-      "thumbnail_url": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format",
-      "created_at": "2026-03-23T07:01:00Z",
-      "category": "saas"
+      "category": "ai",
+      "ph_votes": 507,
+      "thumbnail_url": "https://ph-files.imgix.net/e1fb32d0-4bd4-41cd-a509-33f711c4b89e.png?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
     },
     {
       "id": "ph-1104830",
@@ -79,34 +78,34 @@
       "source": "producthunt",
       "source_url": "https://www.producthunt.com/posts/fastlane-4",
       "title_en": "Fastlane",
-      "tagline_en": "Remix viral videos into content for your business",
+      "tagline_en": "Create viral content for your product in seconds",
       "title_ko": "패스트레인",
-      "summary_ko": "바이럴 영상을 비즈니스용 콘텐츠로 재편집하여 마케팅에 활용할 수 있게 해주는 도구",
+      "summary_ko": "제품을 위한 바이럴 콘텐츠를 몇 초 만에 생성하는 AI 마케팅 도구",
       "analysis_ko": {
-        "description": "인기 있는 바이럴 영상의 트렌드와 포맷을 분석하여 기업의 브랜드에 맞게 재편집하고 커스터마이징할 수 있는 AI 기반 영상 제작 도구입니다. 트렌드를 빠르게 비즈니스 콘텐츠로 전환할 수 있습니다.",
-        "market_fit": "한국은 숏폼 콘텐츠와 바이럴 마케팅이 매우 활발한 시장으로, 특히 틱톡, 유튜브 쇼츠, 인스타그램 릴스 등에서 트렌드 기반 마케팅이 중요합니다. 중소기업들의 디지털 마케팅 수요가 높아 시장성이 좋습니다.",
+        "description": "AI를 활용하여 제품이나 서비스를 홍보할 수 있는 바이럴 콘텐츠를 자동으로 생성하는 마케팅 도구입니다. SNS 트렌드와 사용자 데이터를 분석하여 높은 참여도를 유도할 수 있는 콘텐츠를 제작합니다.",
+        "market_fit": "한국의 강력한 SNS 문화와 인플루언서 마케팅 시장에 매우 적합합니다. 특히 인스타그램, 틱톡, 유튜브 쇼츠 등에서 활발한 콘텐츠 소비가 이루어지는 한국 시장에서 큰 수요가 있을 것입니다.",
         "competitors_kr": [
-          "비바비디오",
-          "키네마스터",
-          "플렉스클립"
+          "뷰저블",
+          "소셜매트릭스",
+          "버즈빌"
         ],
-        "regulatory_notes": "저작권 및 초상권 문제에 대한 주의가 필요하며, 원본 콘텐츠 사용 권한 확인이 중요합니다.",
-        "localization_strategy": "한국 바이럴 트렌드 데이터베이스 구축, 한국어 자막 자동 생성, K-콘텐츠 스타일 템플릿 제공",
+        "regulatory_notes": "광고 표시 의무 및 개인정보 활용 동의 관련 규정 준수 필요",
+        "localization_strategy": "한국 SNS 플랫폼 특성 반영, K-콘텐츠 트렌드 분석 기능, 한국어 자연어 생성 최적화",
         "difficulty": "Medium"
       },
       "naver_trends": {
         "keywords": [
-          "숏폼마케팅",
-          "바이럴영상"
+          "바이럴마케팅",
+          "콘텐츠제작"
         ],
         "trend_index": 80,
         "trend_direction": "up",
         "period": "estimated"
       },
-      "ph_votes": 174,
+      "category": "creator",
+      "ph_votes": 416,
       "thumbnail_url": "https://ph-files.imgix.net/f1b457d4-2a3c-4fed-8a5f-bdcfc9c87b16.png?auto=format",
-      "created_at": "2026-03-23T07:01:00Z",
-      "category": "productivity"
+      "created_at": "2026-03-23T07:01:00Z"
     },
     {
       "id": "ph-1076272",
@@ -116,32 +115,32 @@
       "title_en": "Honestly",
       "tagline_en": "Real reviews from Reddit & YouTube when shopping online",
       "title_ko": "어니스틀리",
-      "summary_ko": "온라인 쇼핑 시 레딧과 유튜브의 실제 사용자 리뷰를 자동으로 찾아서 보여주는 브라우저 확장 프로그램",
+      "summary_ko": "온라인 쇼핑 시 레딧과 유튜브의 실제 리뷰를 제공하는 브라우저 확장 프로그램",
       "analysis_ko": {
-        "description": "온라인 쇼핑몰에서 상품을 볼 때 레딧, 유튜브 등에서 해당 제품에 대한 실제 사용자들의 솔직한 리뷰와 의견을 자동으로 수집하여 보여주는 브라우저 확장 도구입니다. 가짜 리뷰를 피하고 진짜 후기를 찾을 수 있습니다.",
-        "market_fit": "한국 소비자들은 구매 전 리뷰 확인을 매우 중요하게 생각하며, 네이버 카페, 블로그 후기 등을 적극적으로 활용합니다. 가짜 리뷰 문제가 심각한 한국 시장에서 신뢰할 수 있는 리뷰 서비스에 대한 수요가 높습니다.",
+        "description": "온라인 쇼핑 중에 해당 제품에 대한 레딧과 유튜브의 실제 사용자 리뷰와 의견을 실시간으로 보여주는 브라우저 확장 프로그램입니다. 가짜 리뷰를 걸러내고 진짜 사용자 경험을 제공합니다.",
+        "market_fit": "한국의 높은 온라인 쇼핑 비중과 리뷰 의존도를 고려할 때 매우 유용한 서비스입니다. 특히 가짜 리뷰 문제가 심각한 한국 이커머스 환경에서 신뢰할 수 있는 리뷰 정보를 제공할 수 있습니다.",
         "competitors_kr": [
-          "네이버쇼핑",
-          "다나와",
-          "에누리"
+          "네이버쇼핑 리뷰",
+          "다나와 체험단",
+          "언박싱덕후"
         ],
-        "regulatory_notes": "개인정보보호법 준수 및 크롤링 데이터 사용에 대한 법적 검토가 필요합니다.",
-        "localization_strategy": "한국 커뮤니티 사이트 연동, 한국어 리뷰 분석 기능 강화, 네이버 카페 및 블로그 데이터 통합",
+        "regulatory_notes": "개인정보보호법 및 온라인 리뷰 관련 공정거래위원회 가이드라인 준수 필요",
+        "localization_strategy": "네이버 카페, 디시인사이드 등 한국 커뮤니티 연동, 한국어 리뷰 분석 및 번역 기능 추가",
         "difficulty": "Medium"
       },
       "naver_trends": {
         "keywords": [
-          "상품리뷰",
+          "제품리뷰",
           "쇼핑후기"
         ],
         "trend_index": 70,
         "trend_direction": "flat",
         "period": "estimated"
       },
-      "ph_votes": 150,
+      "category": "ecommerce",
+      "ph_votes": 350,
       "thumbnail_url": "https://ph-files.imgix.net/ec98bbf6-2d52-4b63-8f0c-33204981433b.png?auto=format",
-      "created_at": "2026-03-23T07:01:00Z",
-      "category": "lifestyle"
+      "created_at": "2026-03-23T07:01:00Z"
     },
     {
       "id": "ph-1088510",
@@ -151,33 +150,207 @@
       "title_en": "Nomie",
       "tagline_en": "AI wellness app that turns doomscrolling into self‑care",
       "title_ko": "노미",
-      "summary_ko": "무의미한 스크롤링을 자기관리 활동으로 전환해주는 AI 기반 웰니스 앱",
+      "summary_ko": "무분별한 스크롤링을 자기관리로 전환하는 AI 웰니스 앱",
       "analysis_ko": {
-        "description": "스마트폰 중독과 무분별한 소셜미디어 스크롤링 습관을 AI가 감지하여 건전한 자기관리 활동으로 유도하는 웰니스 애플리케이션입니다. 디지털 디톡스와 정신건강 관리를 동시에 지원합니다.",
-        "market_fit": "한국은 스마트폰 사용률이 세계 최고 수준이며, 특히 젊은 층의 디지털 중독 문제가 심각합니다. 정신건강에 대한 관심이 높아지고 있어 이런 웰니스 앱에 대한 수요가 증가하고 있습니다.",
+        "description": "스마트폰 중독과 무의미한 소셜미디어 스크롤링을 감지하여 이를 건강한 자기관리 활동으로 유도하는 AI 기반 웰니스 애플리케이션입니다. 사용자의 디지털 습관을 분석하고 개선 방안을 제시합니다.",
+        "market_fit": "한국의 높은 스마트폰 사용률과 디지털 웰빙에 대한 관심 증가로 인해 큰 잠재력을 가지고 있습니다. 특히 MZ세대의 멘탈헬스와 디지털 디톡스에 대한 니즈가 높아지고 있어 적절한 타이밍입니다.",
         "competitors_kr": [
           "마보",
-          "토닥",
+          "토닥토닥",
           "마인드카페"
         ],
-        "regulatory_notes": "개인 건강정보 처리에 대한 의료법 및 개인정보보호법 준수가 필요합니다.",
-        "localization_strategy": "한국 문화에 맞는 자기관리 방법 제안, 한국어 AI 상담 기능, 국내 정신건강 전문가와의 협업",
+        "regulatory_notes": "의료기기법 및 개인정보보호법 관련 규정 검토 필요",
+        "localization_strategy": "한국 SNS 앱 연동, 한국 문화에 맞는 웰빙 콘텐츠 제공, 한국어 감정 분석 기능 강화",
         "difficulty": "Easy"
       },
       "naver_trends": {
         "keywords": [
-          "디지털디톡스",
-          "정신건강앱"
+          "디지털웰빙",
+          "스마트폰중독"
         ],
-        "trend_index": 65,
+        "trend_index": 60,
         "trend_direction": "up",
         "period": "estimated"
       },
-      "ph_votes": 117,
+      "category": "healthtech",
+      "ph_votes": 257,
       "thumbnail_url": "https://ph-files.imgix.net/493c2007-b93d-4326-bdd0-a375a75af3d0.webp?auto=format",
-      "created_at": "2026-03-23T07:01:00Z",
-      "category": "saas"
+      "created_at": "2026-03-23T07:01:00Z"
+    },
+    {
+      "id": "ph-1104524",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/claude-usage-tracker",
+      "title_en": "Claude Usage Tracker",
+      "tagline_en": "See exactly how much you spend on Claude, across every tool",
+      "title_ko": "클로드 사용량 트래커",
+      "summary_ko": "모든 도구에서 클로드 AI 사용량과 비용을 정확히 추적하는 관리 도구",
+      "analysis_ko": {
+        "description": "다양한 애플리케이션과 도구에서 사용하는 클로드 AI의 사용량과 비용을 통합적으로 모니터링하고 관리할 수 있는 도구입니다. AI 사용 패턴을 분석하여 비용 최적화 방안을 제시합니다.",
+        "market_fit": "한국 기업들의 AI 도입이 가속화되면서 AI 비용 관리에 대한 니즈가 증가하고 있습니다. 특히 스타트업과 중소기업에서 AI 도구 사용량을 효율적으로 관리하고 싶어하는 수요가 높습니다.",
+        "competitors_kr": [
+          "네이버클라우드",
+          "카카오엔터프라이즈",
+          "LG CNS"
+        ],
+        "regulatory_notes": "기업 데이터 보안 및 개인정보보호 관련 규정 준수 필요",
+        "localization_strategy": "한국 기업 회계 시스템 연동, 원화 기반 비용 분석, 한국어 리포팅 기능 제공",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI비용관리",
+          "클로드"
+        ],
+        "trend_index": 45,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 239,
+      "thumbnail_url": "https://ph-files.imgix.net/f818e0b3-b6c5-4cbc-a865-ecc68b43aa8a.png?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
+    },
+    {
+      "id": "ph-1090890",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/pause-do",
+      "title_en": "Pause.do",
+      "tagline_en": "Interrupt scrolling, tab overload, and AI autopilot",
+      "title_ko": "포즈 두",
+      "summary_ko": "무분별한 스크롤링과 탭 과부하, AI 자동화를 중단시키는 디지털 웰빙 도구",
+      "analysis_ko": {
+        "description": "사용자가 무의식적으로 하는 스크롤링, 과도한 브라우저 탭 사용, AI 도구의 자동화에 의존하는 행동을 감지하고 중단시켜 의식적인 디지털 사용을 유도하는 도구입니다.",
+        "market_fit": "한국의 높은 디지털 기기 사용률과 업무 효율성에 대한 관심이 높아 좋은 시장 적합성을 보입니다. 특히 재택근무와 디지털 노마드 문화가 확산되면서 집중력 관리 도구에 대한 수요가 증가하고 있습니다.",
+        "competitors_kr": [
+          "포레스트",
+          "타임트리",
+          "집중"
+        ],
+        "regulatory_notes": "브라우저 확장 프로그램 관련 보안 정책 준수 필요",
+        "localization_strategy": "한국 웹사이트 및 앱 패턴 분석, 한국어 알림 메시지, 한국 업무 문화에 맞는 휴식 패턴 제안",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "집중력관리",
+          "디지털디톡스"
+        ],
+        "trend_index": 55,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 152,
+      "thumbnail_url": "https://ph-files.imgix.net/b3d2b567-1cc6-4e5f-b642-e8b6f673ce3b.vnd.microsoft.icon?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
+    },
+    {
+      "id": "ph-1104801",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/iris-10",
+      "title_en": "Iris",
+      "tagline_en": "Send work beautifully, pinned feedback, see what they viewed",
+      "title_ko": "아이리스",
+      "summary_ko": "아름다운 작업물 공유와 고정 피드백, 열람 추적이 가능한 협업 도구",
+      "analysis_ko": {
+        "description": "작업물을 시각적으로 아름답게 공유하고, 특정 부분에 피드백을 고정할 수 있으며, 수신자의 열람 상태를 추적할 수 있는 협업 및 프레젠테이션 도구입니다. 디자이너와 크리에이터를 위한 전문적인 작업물 공유 플랫폼입니다.",
+        "market_fit": "한국의 활발한 디자인 및 크리에이티브 산업과 높은 협업 도구 사용률을 고려할 때 좋은 시장 잠재력을 가지고 있습니다. 특히 에이전시와 스타트업에서 클라이언트와의 소통 도구로 활용도가 높을 것입니다.",
+        "competitors_kr": [
+          "노션",
+          "피그마",
+          "미로"
+        ],
+        "regulatory_notes": "저작권 보호 및 개인정보보호법 관련 규정 준수 필요",
+        "localization_strategy": "한국어 인터페이스, 한국 기업 워크플로우에 맞는 승인 프로세스, 카카오워크 등 국내 협업 도구 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "협업도구",
+          "디자인공유"
+        ],
+        "trend_index": 50,
+        "trend_direction": "flat",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 136,
+      "thumbnail_url": "https://ph-files.imgix.net/6d095dd5-4c73-4723-b346-22d03914a119.gif?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
+    },
+    {
+      "id": "ph-1103756",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/datasieve-2-0",
+      "title_en": "DataSieve 2.0",
+      "tagline_en": "Extract structured data from text, files and archives.",
+      "title_ko": "데이터시브 2.0",
+      "summary_ko": "텍스트, 파일, 아카이브에서 구조화된 데이터를 추출하는 AI 도구",
+      "analysis_ko": {
+        "description": "다양한 형태의 비구조화된 텍스트, 문서 파일, 압축 파일에서 의미 있는 구조화된 데이터를 자동으로 추출하고 정리하는 AI 기반 데이터 처리 도구입니다. 대용량 문서 처리와 데이터 마이닝에 특화되어 있습니다.",
+        "market_fit": "한국 기업들의 디지털 전환과 데이터 활용 니즈가 증가하면서 좋은 시장 기회를 가지고 있습니다. 특히 금융, 법무, 의료 분야에서 대량의 문서를 처리해야 하는 기업들에게 유용할 것입니다.",
+        "competitors_kr": [
+          "솔트룩스",
+          "마인즈랩",
+          "테스트웍스"
+        ],
+        "regulatory_notes": "개인정보보호법, 데이터 3법 관련 규정 준수 및 보안 인증 필요",
+        "localization_strategy": "한국어 문서 처리 최적화, 한국 기업 문서 양식 템플릿 제공, 국내 클라우드 인프라 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "데이터추출",
+          "문서자동화"
+        ],
+        "trend_index": 40,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 131,
+      "thumbnail_url": "https://ph-files.imgix.net/44e10498-be3c-46fa-89f1-e749f9a15ce1.png?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
+    },
+    {
+      "id": "ph-1104299",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/alphaclaw-apex",
+      "title_en": "AlphaClaw Apex",
+      "tagline_en": "OpenClaw harness and fleet manager for Mac",
+      "title_ko": "알파클로 에이펙스",
+      "summary_ko": "맥용 오픈클로 하네스 및 플릿 관리 도구",
+      "analysis_ko": {
+        "description": "맥 환경에서 오픈클로 시스템을 효율적으로 관리하고 여러 인스턴스를 통합 관리할 수 있는 전문적인 개발자 도구입니다. 복잡한 클로 시스템의 배포와 모니터링을 단순화합니다.",
+        "market_fit": "한국의 맥 사용자 비중이 증가하고 있고, 특히 개발자와 디자이너 커뮤니티에서 맥 사용률이 높아 틈새 시장으로서의 가능성이 있습니다. 하지만 매우 전문적인 도구로 시장 규모는 제한적일 것입니다.",
+        "competitors_kr": [
+          "네이버클라우드",
+          "카카오엔터프라이즈"
+        ],
+        "regulatory_notes": "소프트웨어 라이선스 및 보안 관련 규정 준수 필요",
+        "localization_strategy": "한국어 인터페이스, 한국 개발자 커뮤니티 지원, 국내 클라우드 서비스 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "맥개발도구",
+          "플릿관리"
+        ],
+        "trend_index": 25,
+        "trend_direction": "flat",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 119,
+      "thumbnail_url": "https://ph-files.imgix.net/ba933fe2-c961-4c84-b947-55381cf51df9.svg?auto=format",
+      "created_at": "2026-03-23T07:01:00Z"
     }
   ],
-  "generated_at": "2026-03-23T12:39:29.159Z"
+  "generated_at": "2026-03-25T00:55:09.596Z"
 }
