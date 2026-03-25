@@ -4,8 +4,14 @@ import Link from "next/link";
 import { getAllIdeaIds, getIdeaById } from "@/lib/data";
 import { TrendIndicator } from "@/components/TrendIndicator";
 import { DifficultyBadge } from "@/components/DifficultyBadge";
+import { SourceBadge } from "@/components/SourceBadge";
 import { KakaoShare } from "@/components/KakaoShare";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
+
+const SOURCE_LABELS: Record<string, string> = {
+  producthunt: "ProductHunt",
+  reddit: "Reddit",
+};
 
 export function generateStaticParams() {
   return getAllIdeaIds().map((id) => ({ id }));
@@ -98,6 +104,7 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
           </p>
           <div className="flex items-center gap-3">
             <DifficultyBadge difficulty={idea.analysis_ko.difficulty} />
+            <SourceBadge source={idea.source} />
             <span className="text-sm text-zinc-400">▲ {idea.ph_votes}</span>
             <a
               href={idea.source_url}
@@ -105,7 +112,7 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
               rel="noopener noreferrer"
               className="text-sm text-[#2563EB] hover:underline"
             >
-              ProductHunt →
+              {SOURCE_LABELS[idea.source] || idea.source} →
             </a>
           </div>
         </div>

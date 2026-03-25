@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Idea } from "@/lib/schema";
 import { DifficultyBadge } from "./DifficultyBadge";
+import { SourceBadge } from "./SourceBadge";
 import { TrendIndicator } from "./TrendIndicator";
 
 export function IdeaCard({
@@ -34,6 +35,7 @@ export function IdeaCard({
 
         <div className="flex items-center gap-3 pt-1">
           <DifficultyBadge difficulty={idea.analysis_ko.difficulty} />
+          <SourceBadge source={idea.source} />
           <span className="text-xs text-zinc-400 dark:text-zinc-500">
             ▲ {idea.ph_votes}
           </span>

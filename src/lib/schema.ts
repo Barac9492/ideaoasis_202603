@@ -19,7 +19,7 @@ export const NaverTrendsSchema = z.object({
 export const IdeaSchema = z.object({
   id: z.string(),
   rank: z.number().int().min(1).max(15),
-  source: z.literal("producthunt"),
+  source: z.enum(["producthunt", "reddit"]),
   source_url: z.string().url(),
   title_en: z.string(),
   tagline_en: z.string(),

@@ -1,20 +1,23 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { IdeaSchema, type Idea } from "@/lib/schema";
 import { CATEGORY_IDS } from "@/lib/categories";
-import type { PHPost } from "./fetch-ph";
+import type { SourcePost } from "./source-types";
 
 const SYSTEM_PROMPT = `You are an expert startup analyst specializing in the Korean market.
-You will receive a list of products from ProductHunt. Your job:
-1. Select the top 10 most interesting/novel ideas for Korean entrepreneurs
+You will receive a list of products from multiple sources (ProductHunt, Reddit). Your job:
+1. Select the top 10 most interesting/novel ideas for Korean entrepreneurs across ALL sources
 2. For each, provide a full Korean market analysis
 3. For each, estimate Korean search interest (0-100 scale) based on your knowledge of Korean market trends
 4. For each, assign exactly one category from this list: ${CATEGORY_IDS.join(", ")}
+5. DEDUPLICATION: If the same idea/product appears from multiple sources, merge them into one entry using the source with more detail
+
+Each product in the input has a "source" field ("producthunt" or "reddit"). Use it for the id and source fields.
 
 Output ONLY valid JSON array matching this schema for each idea:
 {
-  "id": "ph-{producthunt_id}",
+  "id": "{source_prefix}-{id}" (use "ph-" for producthunt, "reddit-" for reddit),
   "rank": 1-10,
-  "source": "producthunt",
+  "source": "producthunt" or "reddit" (match the input source),
   "source_url": "{product_url}",
   "title_en": "{english_name}",
   "tagline_en": "{english_tagline}",
@@ -35,7 +38,7 @@ Output ONLY valid JSON array matching this schema for each idea:
     "period": "estimated"
   },
   "category": "{one_of_the_category_ids}",
-  "ph_votes": {votes_count},
+  "ph_votes": {votes_count_from_any_source},
   "thumbnail_url": "{thumbnail_or_null}",
   "created_at": "{iso_datetime}"
 }
@@ -46,7 +49,7 @@ If you cannot reasonably estimate, set naver_trends to null.
 
 Output ONLY the JSON array, no markdown, no explanation.`;
 
-export async function analyzeProducts(posts: PHPost[]): Promise<Idea[]> {
+export async function analyzeProducts(posts: SourcePost[]): Promise<Idea[]> {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) throw new Error("ANTHROPIC_API_KEY is required");
 
@@ -55,6 +58,7 @@ export async function analyzeProducts(posts: PHPost[]): Promise<Idea[]> {
   const userMessage = JSON.stringify(
     posts.map((p) => ({
       id: p.id,
+      source: p.source,
       name: p.name,
       tagline: p.tagline,
       url: p.url,
