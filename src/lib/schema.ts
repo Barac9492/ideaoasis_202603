@@ -37,10 +37,21 @@ export const NaverTrendsSchema = z.object({
   trend_data: z.array(NaverTrendPointSchema).nullable().optional(),
 });
 
+export const CategoryHistorySchema = z.object({
+  us_launch: z.string(),
+  kr_equivalent: z.string(),
+  gap_months: z.number(),
+});
+
+export const TimingWindowSchema = z.object({
+  avg_months: z.number(),
+  category_history: z.array(CategoryHistorySchema),
+});
+
 export const IdeaSchema = z.object({
   id: z.string(),
   rank: z.number().int().min(1).max(15),
-  source: z.enum(["producthunt", "reddit"]),
+  source: z.enum(["producthunt", "reddit", "hackernews"]),
   source_url: z.string().url(),
   title_en: z.string(),
   tagline_en: z.string(),
@@ -53,6 +64,7 @@ export const IdeaSchema = z.object({
   thumbnail_url: z.string().nullable(),
   created_at: z.string(),
   score: IdeaScoreSchema.optional(),
+  timing_window: TimingWindowSchema.nullable().optional(),
 });
 
 export const DailyDigestSchema = z.object({
@@ -74,6 +86,8 @@ export const WeeklyDigestSchema = z.object({
   deep_dive_ko: DeepDiveSchema,
 });
 
+export type CategoryHistory = z.infer<typeof CategoryHistorySchema>;
+export type TimingWindow = z.infer<typeof TimingWindowSchema>;
 export type KrCompetitor = z.infer<typeof KrCompetitorSchema>;
 export type IdeaScore = z.infer<typeof IdeaScoreSchema>;
 export type Analysis = z.infer<typeof AnalysisSchema>;

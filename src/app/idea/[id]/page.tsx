@@ -9,12 +9,15 @@ import { SourceBadge } from "@/components/SourceBadge";
 import { KakaoShare } from "@/components/KakaoShare";
 import { ScoreBreakdown } from "@/components/ScoreBreakdown";
 import { CompetitorTracker } from "@/components/CompetitorTracker";
+import { TimingWindow } from "@/components/TimingWindow";
 import { BookmarkButton } from "@/components/BookmarkButton";
+import { Comments } from "@/components/Comments";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 
 const SOURCE_LABELS: Record<string, string> = {
   producthunt: "ProductHunt",
   reddit: "Reddit",
+  hackernews: "Hacker News",
 };
 
 export function generateStaticParams() {
@@ -161,6 +164,9 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
         {/* Score Breakdown */}
         <ScoreBreakdown score={idea.score} />
 
+        {/* Timing Window Analysis */}
+        <TimingWindow timingWindow={idea.timing_window} />
+
         {/* Korean Competitor Tracker */}
         {idea.analysis_ko.competitors_kr_detailed && idea.analysis_ko.competitors_kr_detailed.length > 0 && (
           <CompetitorTracker competitors={idea.analysis_ko.competitors_kr_detailed} />
@@ -211,6 +217,9 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
             pageUrl={pageUrl}
           />
         </div>
+
+        {/* Discussion */}
+        <Comments ideaId={idea.id} />
       </div>
     </main>
   );

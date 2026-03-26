@@ -1,7 +1,7 @@
 /** Unified post type that both ProductHunt and Reddit posts map to */
 export interface SourcePost {
   id: string;
-  source: "producthunt" | "reddit";
+  source: "producthunt" | "reddit" | "hackernews";
   name: string;
   tagline: string;
   url: string;

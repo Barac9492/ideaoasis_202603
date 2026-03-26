@@ -3,6 +3,7 @@ import path from "node:path";
 import { DailyDigestSchema, type DailyDigest } from "@/lib/schema";
 import { fetchTopProducts } from "./fetch-ph";
 import { fetchRedditPosts } from "./fetch-reddit";
+import { fetchHNPosts } from "./fetch-hn";
 import { analyzeProducts } from "./analyze";
 import { enrichWithNaverTrends } from "./fetch-naver-trends";
 import { generateOGImages } from "./og-images";
@@ -16,13 +17,15 @@ async function main() {
   // Step 1: Fetch from multiple sources
   console.log("[1/5] Fetching from sources...");
 
-  const [phPosts, redditPosts] = await Promise.all([
+  const [phPosts, redditPosts, hnPosts] = await Promise.all([
     fetchTopProducts(today),
     fetchRedditPosts(),
+    fetchHNPosts(),
   ]);
 
   console.log(`  ProductHunt: ${phPosts.length} posts`);
   console.log(`  Reddit: ${redditPosts.length} posts`);
+  console.log(`  Hacker News: ${hnPosts.length} posts`);
 
   // Convert to unified SourcePost format
   const allPosts: SourcePost[] = [
@@ -39,6 +42,16 @@ async function main() {
     ...redditPosts.map((p) => ({
       id: p.id,
       source: "reddit" as const,
+      name: p.name,
+      tagline: p.tagline,
+      url: p.url,
+      votesCount: p.votesCount,
+      thumbnailUrl: p.thumbnailUrl,
+      createdAt: p.createdAt,
+    })),
+    ...hnPosts.map((p) => ({
+      id: p.id,
+      source: "hackernews" as const,
       name: p.name,
       tagline: p.tagline,
       url: p.url,

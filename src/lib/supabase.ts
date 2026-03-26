@@ -30,3 +30,12 @@ export interface SavedIdea {
   notes: string;
   saved_at: string;
 }
+
+export interface Comment {
+  id: string;
+  user_id: string;
+  idea_id: string;
+  parent_id: string | null;
+  content: string;
+  created_at: string;
+}

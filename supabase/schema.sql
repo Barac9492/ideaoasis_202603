@@ -99,6 +99,38 @@ create index if not exists idx_saved_ideas_user_id
   on public.saved_ideas (user_id);
 
 -- ============================================================
+-- comments table: threaded discussions on ideas
+-- ============================================================
+create table if not exists public.comments (
+  id uuid default gen_random_uuid() primary key,
+  user_id uuid references auth.users(id) on delete cascade not null,
+  idea_id text not null,
+  parent_id uuid references public.comments(id) on delete cascade,
+  content text not null check (char_length(content) between 1 and 2000),
+  created_at timestamptz not null default now()
+);
+
+alter table public.comments enable row level security;
+
+create policy "Anyone can read comments"
+  on public.comments for select
+  using (true);
+
+create policy "Authenticated users can create comments"
+  on public.comments for insert
+  with check (auth.uid() = user_id);
+
+create policy "Users can delete own comments"
+  on public.comments for delete
+  using (auth.uid() = user_id);
+
+create index if not exists idx_comments_idea_id
+  on public.comments (idea_id);
+
+create index if not exists idx_comments_parent_id
+  on public.comments (parent_id);
+
+-- ============================================================
 -- Auth config (run these in Supabase Dashboard → Authentication → Settings):
 --
 --   1. Enable Email provider (magic link / OTP)

@@ -11,13 +11,18 @@ Claude identifies real Korean startups for each idea. Badge on cards, detailed t
 ### ✅ Idea Bookmarks & Notes
 Users save ideas with private notes. /saved page with NoteEditor. BookmarkButton on cards + detail pages.
 
-## P3 — Next Up
+## Completed (Phase 3 — Community & Sources)
 
-### Timing Window Analysis
-Track the gap between US launch and Korean equivalent appearing per category.
-- **Why:** Unique insight — "this category takes 6-12 months to cross the Pacific"
-- **Effort:** M
-- **Depends on:** Enough historical competitor data
+### ✅ Hacker News as Source #3
+Show HN posts as third idea source via Firebase API. Full 3-source deduplication in Claude prompt. SourceBadge with amber HN label.
+
+### ✅ Timing Window Analysis
+Claude estimates US→Korea time gap per category with real examples (e.g. Notion→Typed). TimingWindow component with color-coded badges and timeline visualization.
+
+### ✅ Discussion Layer
+Threaded comments on idea pages via Supabase. 1-level nesting, auth-gated posting, Korean UI. Comments table with RLS policies.
+
+## P4 — Next Up
 
 ### Personalized Digest
 Replace one-size-fits-all with personalized digests based on saved ideas, categories, and click history.
@@ -25,19 +30,8 @@ Replace one-size-fits-all with personalized digests based on saved ideas, catego
 - **Effort:** L
 - **Depends on:** Click/save tracking, enough user data
 
-### Discussion Layer
-Comments on each idea page (Supabase real-time). Threaded replies, upvotes.
-- **Why:** Community building — where IdeaOasis stops being a publication
-- **Effort:** L
-- **Depends on:** Active user base
-
 ### "I'm Building This" Declarations
 Users claim they're building the Korean version. Social proof + urgency.
 - **Why:** Seed of co-founder matching, engagement hook
 - **Effort:** M
 - **Depends on:** Active user base
-
-### Hacker News as Source #3
-Add Show HN as third idea source. Full 3-source deduplication.
-- **Why:** Surfaces technical/developer-focused ideas
-- **Effort:** S

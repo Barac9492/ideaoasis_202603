@@ -4,20 +4,20 @@ import { CATEGORY_IDS } from "@/lib/categories";
 import type { SourcePost } from "./source-types";
 
 const SYSTEM_PROMPT = `You are an expert startup analyst specializing in the Korean market.
-You will receive a list of products from multiple sources (ProductHunt, Reddit). Your job:
+You will receive a list of products from multiple sources (ProductHunt, Reddit, Hacker News). Your job:
 1. Select the top 10 most interesting/novel ideas for Korean entrepreneurs across ALL sources
 2. For each, provide a full Korean market analysis
 3. For each, estimate Korean search interest (0-100 scale) based on your knowledge of Korean market trends
 4. For each, assign exactly one category from this list: ${CATEGORY_IDS.join(", ")}
 5. DEDUPLICATION: If the same idea/product appears from multiple sources, merge them into one entry using the source with more detail
 
-Each product in the input has a "source" field ("producthunt" or "reddit"). Use it for the id and source fields.
+Each product in the input has a "source" field ("producthunt", "reddit", or "hackernews"). Use it for the id and source fields.
 
 Output ONLY valid JSON array matching this schema for each idea:
 {
-  "id": "{source_prefix}-{id}" (use "ph-" for producthunt, "reddit-" for reddit),
+  "id": "{source_prefix}-{id}" (use "ph-" for producthunt, "reddit-" for reddit, "hn-" for hackernews),
   "rank": 1-10,
-  "source": "producthunt" or "reddit" (match the input source),
+  "source": "producthunt" or "reddit" or "hackernews" (match the input source),
   "source_url": "{product_url}",
   "title_en": "{english_name}",
   "tagline_en": "{english_tagline}",
@@ -54,7 +54,13 @@ Output ONLY valid JSON array matching this schema for each idea:
   "category": "{one_of_the_category_ids}",
   "ph_votes": {votes_count_from_any_source},
   "thumbnail_url": "{thumbnail_or_null}",
-  "created_at": "{iso_datetime}"
+  "created_at": "{iso_datetime}",
+  "timing_window": {
+    "avg_months": {average_months_for_US_to_Korea_equivalent_in_this_category},
+    "category_history": [
+      {"us_launch": "US Product (year)", "kr_equivalent": "KR Equivalent (year)", "gap_months": 24}
+    ]
+  }
 }
 
 For naver_trends: estimate based on your knowledge of Korean consumer behavior and market trends.
@@ -70,6 +76,11 @@ For score: evaluate each dimension independently.
 - execution_difficulty: higher means EASIER (less technical complexity, lighter regulatory burden, lower capital needed)
 - timing: how ready Korean consumers/businesses are for this (higher = market is ready now)
 - overall: MUST equal round(market_opportunity * 0.4 + execution_difficulty * 0.3 + timing * 0.3)
+
+For timing_window: estimate how long it typically takes for this category of product to get a Korean equivalent.
+- avg_months: average months between a US product launching and a Korean clone/equivalent appearing in this category
+- category_history: 1-3 real examples of US→Korea timing you are confident about (e.g. Notion→Typed, Slack→잔디)
+- If you cannot reasonably estimate, set timing_window to null.
 
 Output ONLY the JSON array, no markdown, no explanation.`;
 
