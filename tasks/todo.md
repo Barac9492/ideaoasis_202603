@@ -22,7 +22,15 @@ Claude estimates US→Korea time gap per category with real examples (e.g. Notio
 ### ✅ Discussion Layer
 Threaded comments on idea pages via Supabase. 1-level nesting, auth-gated posting, Korean UI. Comments table with RLS policies.
 
-## P4 — Next Up
+## Completed (Phase 4 — Data Platform)
+
+### ✅ Searchable Idea Database (/explore)
+Full-page search + filter + sort across ALL historical ideas. Category multi-select, score presets, difficulty/source/trend toggles. URL-synced filters for shareable searches. Result count, active filter pills, empty state.
+
+### ✅ Community Signals
+"나도 만들 거예요" (building) + "이거 쓸래요" (interested) buttons on every idea card + detail page. Supabase-backed with auth toggle, optimistic counts. Proprietary demand/supply data moat.
+
+## P5 — Next Up
 
 ### Personalized Digest
 Replace one-size-fits-all with personalized digests based on saved ideas, categories, and click history.
@@ -30,8 +38,17 @@ Replace one-size-fits-all with personalized digests based on saved ideas, catego
 - **Effort:** L
 - **Depends on:** Click/save tracking, enough user data
 
-### "I'm Building This" Declarations
-Users claim they're building the Korean version. Social proof + urgency.
-- **Why:** Seed of co-founder matching, engagement hook
+### Idea Comparison Tool
+Side-by-side comparison of 2-3 ideas: scores, timing, competitors, difficulty.
+- **Why:** Founders always choosing between options — make it frictionless
 - **Effort:** M
-- **Depends on:** Active user base
+
+### Category Intelligence Reports
+Auto-generated per-category weekly snapshots with idea counts, avg scores, trending keywords.
+- **Why:** Premium feature that's trivially automated from existing data
+- **Effort:** S
+
+### Korean Startup Funding Tracker
+Cross-reference categories with Korean VC funding data (TIPS, K-Startup, Crunchbase).
+- **Why:** Connects ideas to real capital flow
+- **Effort:** L

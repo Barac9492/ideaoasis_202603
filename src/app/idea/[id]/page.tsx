@@ -12,6 +12,7 @@ import { CompetitorTracker } from "@/components/CompetitorTracker";
 import { TimingWindow } from "@/components/TimingWindow";
 import { BookmarkButton } from "@/components/BookmarkButton";
 import { Comments } from "@/components/Comments";
+import { SignalButtons } from "@/components/SignalButtons";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 
 const SOURCE_LABELS: Record<string, string> = {
@@ -206,6 +207,14 @@ export default async function IdeaPage({ params }: { params: Promise<{ id: strin
               {idea.analysis_ko.localization_strategy}
             </p>
           </div>
+        </div>
+
+        {/* Community Signals */}
+        <div className="bg-white dark:bg-zinc-900 rounded-2xl border border-zinc-100 dark:border-zinc-800 p-6 space-y-4">
+          <h2 className="text-lg font-bold text-zinc-900 dark:text-zinc-50">
+            커뮤니티 관심도
+          </h2>
+          <SignalButtons ideaId={idea.id} layout="full" />
         </div>
 
         {/* Share + Bookmark */}

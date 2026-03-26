@@ -5,6 +5,7 @@ import { SourceBadge } from "./SourceBadge";
 import { TrendIndicator } from "./TrendIndicator";
 import { ScoreBadge } from "./ScoreBadge";
 import { BookmarkButton } from "./BookmarkButton";
+import { SignalButtons } from "./SignalButtons";
 
 export function IdeaCard({
   idea,
@@ -51,6 +52,9 @@ export function IdeaCard({
               🇰🇷 경쟁사 있음
             </span>
           )}
+          <div className="ml-auto">
+            <SignalButtons ideaId={idea.id} layout="compact" />
+          </div>
         </div>
       </div>
     </Link>

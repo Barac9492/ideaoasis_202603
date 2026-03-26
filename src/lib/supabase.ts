@@ -31,6 +31,14 @@ export interface SavedIdea {
   saved_at: string;
 }
 
+export interface IdeaSignal {
+  id: string;
+  user_id: string;
+  idea_id: string;
+  signal_type: "building" | "interested";
+  created_at: string;
+}
+
 export interface Comment {
   id: string;
   user_id: string;

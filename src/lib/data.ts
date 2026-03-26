@@ -103,6 +103,18 @@ export function getAllIdeasMap(): Record<string, Idea> {
   return map;
 }
 
+export function getAllIdeasWithDates(): { idea: Idea; date: string }[] {
+  const results: { idea: Idea; date: string }[] = [];
+  for (const date of getAllDigestDates()) {
+    const digest = getDigestByDate(date);
+    if (!digest) continue;
+    for (const idea of digest.ideas) {
+      results.push({ idea, date });
+    }
+  }
+  return results;
+}
+
 export function getAllWeeklyDates(): string[] {
   const dir = path.join(DATA_DIR, "weekly");
   if (!fs.existsSync(dir)) return [];

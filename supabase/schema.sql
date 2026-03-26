@@ -131,6 +131,38 @@ create index if not exists idx_comments_parent_id
   on public.comments (parent_id);
 
 -- ============================================================
+-- idea_signals table: community interest signals
+-- ============================================================
+create table if not exists public.idea_signals (
+  id uuid default gen_random_uuid() primary key,
+  user_id uuid references auth.users(id) on delete cascade not null,
+  idea_id text not null,
+  signal_type text not null check (signal_type in ('building', 'interested')),
+  created_at timestamptz not null default now(),
+  unique (user_id, idea_id, signal_type)
+);
+
+alter table public.idea_signals enable row level security;
+
+create policy "Anyone can read signals"
+  on public.idea_signals for select
+  using (true);
+
+create policy "Authenticated users can insert signals"
+  on public.idea_signals for insert
+  with check (auth.uid() = user_id);
+
+create policy "Users can delete own signals"
+  on public.idea_signals for delete
+  using (auth.uid() = user_id);
+
+create index if not exists idx_idea_signals_idea_id
+  on public.idea_signals (idea_id);
+
+create index if not exists idx_idea_signals_user_id
+  on public.idea_signals (user_id);
+
+-- ============================================================
 -- Auth config (run these in Supabase Dashboard → Authentication → Settings):
 --
 --   1. Enable Email provider (magic link / OTP)
