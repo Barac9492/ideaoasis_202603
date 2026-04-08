@@ -1,0 +1,1051 @@
+{
+  "date": "2026-04-08",
+  "ideas": [
+    {
+      "id": "ph-1117753",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/velo-10",
+      "title_en": "Velo",
+      "tagline_en": "Share anything as video messages",
+      "title_ko": "벨로",
+      "summary_ko": "모든 것을 비디오 메시지로 공유하는 플랫폼",
+      "analysis_ko": {
+        "description": "텍스트나 파일 대신 비디오 메시지로 소통할 수 있는 플랫폼입니다. 개인적이고 감정적인 소통을 중시하는 한국 문화에 매우 적합한 서비스로, 특히 MZ세대의 영상 콘텐츠 선호도와 맞아떨어집니다.",
+        "market_fit": "한국은 세계 최고 수준의 모바일 인터넷 속도와 영상 콘텐츠 소비량을 자랑하며, 카카오톡의 음성메시지 기능이 이미 널리 사용되고 있어 비디오 메시지에 대한 수용도가 높습니다. 특히 원격근무와 온라인 교육이 확산되면서 더욱 개인적인 소통 방식에 대한 니즈가 증가하고 있습니다.",
+        "competitors_kr": [
+          "카카오톡",
+          "네이버 밴드",
+          "디스코드"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "카카오톡",
+            "founded_year": 2010,
+            "funding_status": "Public company",
+            "differentiation": "카카오톡은 음성메시지 위주이며, Velo는 비디오 메시지에 특화되어 더 풍부한 표현이 가능"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법에 따른 영상 데이터 처리 및 저장에 대한 규제 준수 필요",
+        "localization_strategy": "한국어 음성인식 및 자막 기능, 카카오톡 연동, 한국 특유의 존댓말 문화 반영한 UI/UX 설계",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "비디오메시지",
+          "영상소통"
+        ],
+        "trend_index": 75,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "social",
+      "ph_votes": 425,
+      "thumbnail_url": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
+      "created_at": "2026-04-08T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 70,
+        "timing": 90,
+        "overall": 81
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Clubhouse (2020)",
+            "kr_equivalent": "스푼라디오 (2021)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "TikTok (2016)",
+            "kr_equivalent": "틱톡 한국진출 (2018)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47666024",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://github.com/matthartman/ghost-pepper",
+      "title_en": "Ghost Pepper",
+      "tagline_en": "Local hold-to-talk speech-to-text for macOS",
+      "title_ko": "고스트 페퍼",
+      "summary_ko": "macOS용 로컬 음성인식 앱으로 데이터가 외부로 전송되지 않는 프라이버시 중심 솔루션",
+      "analysis_ko": {
+        "description": "100% 로컬에서 작동하는 음성-텍스트 변환 앱으로, 사용자 데이터가 외부 서버로 전송되지 않아 프라이버시를 완벽하게 보호합니다. 코딩이나 이메일 작성 등 업무용으로 특히 유용하며, 한국어 지원 시 큰 잠재력을 가집니다.",
+        "market_fit": "한국은 개인정보보호에 대한 관심이 높고, 특히 기업에서 보안이 중요한 업무에 음성인식을 사용하기 어려운 상황입니다. 로컬 처리 방식은 이러한 우려를 해결하며, 높은 맥북 사용률을 가진 한국 개발자들에게 매력적입니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오 음성인식"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바",
+            "founded_year": 2017,
+            "funding_status": "Part of NAVER Corp",
+            "differentiation": "클로바는 클라우드 기반이며, Ghost Pepper는 완전 로컬 처리로 프라이버시 우위"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 음성 데이터 처리에 대한 규제가 있으나, 로컬 처리 방식으로 규제 부담 최소화",
+        "localization_strategy": "한국어 음성인식 모델 최적화, 한글 입력 환경 지원, 한국어 발음 특성 반영한 정확도 개선",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "음성인식",
+          "프라이버시"
+        ],
+        "trend_index": 8,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 39
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 36
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 33
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 32
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 31
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 38
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 8
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 462,
+      "thumbnail_url": null,
+      "created_at": "2026-04-06T19:50:16.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 45,
+        "timing": 85,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Whisper (2022)",
+            "kr_equivalent": "네이버 클로바 개선 (2023)",
+            "gap_months": 18
+          },
+          {
+            "us_launch": "Otter.ai (2016)",
+            "kr_equivalent": "보이스루 (2018)",
+            "gap_months": 30
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1117042",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/flint-6",
+      "title_en": "Flint",
+      "tagline_en": "Launch on-brand pages for every campaign, ad, and prospect",
+      "title_ko": "플린트",
+      "summary_ko": "캠페인, 광고, 잠재고객별 맞춤형 브랜드 페이지를 빠르게 생성하는 마케팅 도구",
+      "analysis_ko": {
+        "description": "마케팅 캠페인마다 개별적이고 일관된 브랜드 경험을 제공하는 랜딩페이지를 쉽게 만들 수 있는 도구입니다. 한국의 활발한 디지털 마케팅 시장과 높은 브랜드 의식에 매우 적합한 솔루션입니다.",
+        "market_fit": "한국은 세계에서 가장 경쟁이 치열한 디지털 마케팅 시장 중 하나이며, 브랜드 일관성과 개인화된 고객 경험을 중시합니다. 특히 이커머스와 스타트업들이 빠른 A/B 테스트와 캠페인 최적화를 위해 이런 도구를 적극 활용할 것입니다.",
+        "competitors_kr": [
+          "아임웹",
+          "카페24",
+          "그로스해킹"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "아임웹",
+            "founded_year": 2012,
+            "funding_status": "Series C $30M",
+            "differentiation": "아임웹은 전체 웹사이트 구축 플랫폼이며, Flint는 캠페인별 특화 페이지에 집중"
+          },
+          {
+            "name": "그로스해킹",
+            "founded_year": 2018,
+            "funding_status": "Series A $5M",
+            "differentiation": "그로스해킹은 분석 중심이며, Flint는 페이지 생성과 브랜딩에 특화"
+          }
+        ],
+        "regulatory_notes": "전자상거래법과 표시광고법 준수를 위한 필수 정보 표시 기능 필요",
+        "localization_strategy": "한국형 디자인 템플릿, 네이버/카카오 광고 플랫폼 연동, 한국 소비자 선호도 반영한 UI/UX",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "랜딩페이지",
+          "마케팅자동화"
+        ],
+        "trend_index": 18,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 77
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 79
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 18
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 258,
+      "thumbnail_url": "https://ph-files.imgix.net/9c15287e-cffa-466c-80e8-85a03721354d.png?auto=format",
+      "created_at": "2026-04-08T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 75,
+        "timing": 85,
+        "overall": 80
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Unbounce (2009)",
+            "kr_equivalent": "아임웹 (2012)",
+            "gap_months": 36
+          },
+          {
+            "us_launch": "Leadpages (2012)",
+            "kr_equivalent": "그로스해킹 (2018)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47673394",
+      "rank": 4,
+      "source": "hackernews",
+      "source_url": "https://locker.dev",
+      "title_en": "Locker",
+      "tagline_en": "Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "title_ko": "로커",
+      "summary_ko": "개인 S3 버킷을 활용한 오픈소스 클라우드 스토리지 대안",
+      "analysis_ko": {
+        "description": "Dropbox나 Google Drive 대신 개인의 S3 버킷을 사용하여 클라우드 스토리지를 구축할 수 있는 오픈소스 솔루션입니다. 데이터 주권과 비용 절감을 동시에 해결하는 혁신적인 접근법입니다.",
+        "market_fit": "한국은 데이터 주권과 보안에 대한 관심이 높으며, 특히 기업들이 해외 클라우드 서비스 사용에 제약을 느끼는 경우가 많습니다. 네이버 클라우드나 KT 클라우드 등 국내 인프라와 결합하면 큰 시장 기회가 있습니다.",
+        "competitors_kr": [
+          "네이버 마이박스",
+          "KT 클라우드",
+          "NHN 토스트"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 마이박스",
+            "founded_year": 2011,
+            "funding_status": "Part of NAVER Corp",
+            "differentiation": "마이박스는 폐쇄형 서비스이며, Locker는 사용자가 직접 인프라를 소유하고 관리"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 데이터 처리 및 저장 위치에 대한 규제 고려 필요",
+        "localization_strategy": "네이버 클라우드 플랫폼 연동, 한국어 인터페이스, 국내 기업 보안 요구사항 반영",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "클라우드스토리지",
+          "데이터주권"
+        ],
+        "trend_index": 14,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 57
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 49
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 14
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 244,
+      "thumbnail_url": null,
+      "created_at": "2026-04-07T11:12:17.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 50,
+        "timing": 80,
+        "overall": 66
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "Dropbox (2008)",
+            "kr_equivalent": "네이버 N드라이브 (2009)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Box (2005)",
+            "kr_equivalent": "다음 클라우드 (2011)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1115197",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/mindsdb-anton-2",
+      "title_en": "MindsDB Anton",
+      "tagline_en": "Business intelligence that doesn't just answer — it acts",
+      "title_ko": "마인즈DB 안톤",
+      "summary_ko": "단순 분석을 넘어 실제 액션을 취하는 AI 기반 비즈니스 인텔리전스 플랫폼",
+      "analysis_ko": {
+        "description": "기존 BI 도구들이 데이터 분석과 시각화에 그쳤다면, Anton은 분석 결과를 바탕으로 실제 비즈니스 액션을 자동으로 실행하는 차세대 BI 솔루션입니다. AI가 패턴을 발견하고 즉시 대응 조치를 취할 수 있어 비즈니스 효율성을 크게 향상시킵니다.",
+        "market_fit": "한국 기업들은 데이터 기반 의사결정에 대한 니즈가 높지만 실행력 부족으로 어려움을 겪고 있습니다. 특히 제조업과 이커머스 분야에서 실시간 대응이 중요한 한국 시장에 매우 적합한 솔루션입니다.",
+        "competitors_kr": [
+          "삼성SDS",
+          "LG CNS",
+          "SK C&C"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "삼성SDS",
+            "founded_year": 1985,
+            "funding_status": "Public company",
+            "differentiation": "삼성SDS는 전통적 BI에 집중하며, Anton은 AI 기반 자동 액션 실행에 특화"
+          }
+        ],
+        "regulatory_notes": "금융 및 개인정보 관련 자동화 액션에 대한 규제 준수 필요",
+        "localization_strategy": "한국 기업 문화에 맞는 승인 프로세스 반영, 국내 ERP 시스템 연동, 한국어 자연어 처리",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "비즈니스인텔리전스",
+          "AI자동화"
+        ],
+        "trend_index": 1,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 4
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 4
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 4
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 4
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 15
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 20
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 18
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 13
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 11
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 6
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 1
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 150,
+      "thumbnail_url": "https://ph-files.imgix.net/0b58c505-2a13-4513-9499-a66ba54029e6.gif?auto=format",
+      "created_at": "2026-04-08T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 40,
+        "timing": 75,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 30,
+        "category_history": [
+          {
+            "us_launch": "Tableau (2003)",
+            "kr_equivalent": "삼성SDS BI (2008)",
+            "gap_months": 60
+          },
+          {
+            "us_launch": "Palantir (2003)",
+            "kr_equivalent": "LG CNS DAP (2018)",
+            "gap_months": 180
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1116818",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/career-ops-on-claude",
+      "title_en": "Career-Ops on Claude",
+      "tagline_en": "An AI-powered Job Search System built on Claude Code",
+      "title_ko": "커리어옵스",
+      "summary_ko": "Claude AI를 활용한 지능형 구직 시스템",
+      "analysis_ko": {
+        "description": "Claude AI를 기반으로 구축된 개인화된 구직 지원 시스템으로, 이력서 최적화부터 면접 준비까지 전 과정을 AI가 도와줍니다. 구직자의 경력과 목표에 맞춰 맞춤형 전략을 제공하는 혁신적인 서비스입니다.",
+        "market_fit": "한국은 취업 경쟁이 매우 치열하고 구직 과정이 복잡하여 AI 기반 구직 도구에 대한 수요가 높습니다. 특히 MZ세대들이 AI 도구 활용에 적극적이며, 개인화된 구직 서비스에 대한 니즈가 큽니다.",
+        "competitors_kr": [
+          "사람인",
+          "잡코리아",
+          "원티드"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "원티드",
+            "founded_year": 2013,
+            "funding_status": "Series D $300M",
+            "differentiation": "원티드는 채용 플랫폼이며, Career-Ops는 개인 구직자를 위한 AI 코칭에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법에 따른 이력서 및 경력 정보 처리 규제 준수 필요",
+        "localization_strategy": "한국 채용 문화 반영, 국내 기업 정보 데이터베이스 구축, 한국어 이력서 및 자기소개서 최적화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI구직",
+          "취업준비"
+        ],
+        "trend_index": 14,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 92
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 82
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 85
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 14
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 123,
+      "thumbnail_url": "https://ph-files.imgix.net/0ec7ef46-3cb1-4694-bb9a-6b4a6c8450cb.png?auto=format",
+      "created_at": "2026-04-08T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 65,
+        "timing": 85,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "LinkedIn (2003)",
+            "kr_equivalent": "사람인 (1998)",
+            "gap_months": -60
+          },
+          {
+            "us_launch": "Indeed (2004)",
+            "kr_equivalent": "잡코리아 (1999)",
+            "gap_months": -60
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1097427",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/passportreader-2",
+      "title_en": "PassportReader",
+      "tagline_en": "Verify passports, ID cards, and digital credentials via API",
+      "title_ko": "패스포트리더",
+      "summary_ko": "여권, 신분증, 디지털 자격증명을 API로 검증하는 서비스",
+      "analysis_ko": {
+        "description": "여권, 신분증, 각종 디지털 자격증명을 API를 통해 자동으로 검증할 수 있는 서비스입니다. 금융, 여행, 숙박 등 신원 확인이 중요한 산업에서 활용도가 높으며, 디지털 전환이 가속화되는 시점에 매우 유용한 솔루션입니다.",
+        "market_fit": "한국은 디지털 신원인증에 대한 수요가 높고, 특히 금융권의 비대면 서비스 확산과 함께 신원 확인 자동화 니즈가 급증하고 있습니다. 정부의 디지털 뉴딜 정책과도 부합하는 서비스입니다.",
+        "competitors_kr": [
+          "한국정보인증",
+          "코스콤",
+          "이니텍"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "한국정보인증",
+            "founded_year": 1999,
+            "funding_status": "Private company",
+            "differentiation": "한국정보인증은 공인인증서 중심이며, PassportReader는 물리적 신분증 검증에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 신용정보법, 전자서명법 등 관련 규제 준수 필요",
+        "localization_strategy": "한국 신분증 및 여권 형식 지원, 국내 금융권 보안 요구사항 반영, 정부 디지털 신원인증 체계 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "신원인증",
+          "디지털신분증"
+        ],
+        "trend_index": 10,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 92
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 44
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 48
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 41
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 44
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 10
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 95,
+      "thumbnail_url": "https://ph-files.imgix.net/48e83c11-841f-40f6-975f-b20c548ed680.png?auto=format",
+      "created_at": "2026-04-08T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 45,
+        "timing": 80,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Jumio (2010)",
+            "kr_equivalent": "한국정보인증 (1999)",
+            "gap_months": -132
+          },
+          {
+            "us_launch": "Onfido (2012)",
+            "kr_equivalent": "이니텍 본인인증 (2015)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1118464",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/lookaway-2",
+      "title_en": "LookAway 2",
+      "tagline_en": "The Mac app your body thanks you for",
+      "title_ko": "룩어웨이 2",
+      "summary_ko": "건강한 컴퓨터 사용을 위한 맥 앱",
+      "analysis_ko": {
+        "description": "장시간 컴퓨터 사용으로 인한 눈의 피로와 자세 문제를 예방하기 위해 주기적으로 휴식을 알려주는 맥 전용 앱입니다. 현대인의 디지털 웰빙을 위한 필수 도구로, 특히 재택근무가 일반화된 시점에 매우 유용합니다.",
+        "market_fit": "한국은 세계에서 가장 긴 근무시간과 높은 컴퓨터 사용률을 가지고 있어 디지털 웰빙에 대한 관심이 급증하고 있습니다. 특히 IT 업계 종사자들과 학생들 사이에서 건강 관리 앱에 대한 수요가 높습니다.",
+        "competitors_kr": [
+          "삼성헬스",
+          "네이버 헬스케어"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "의료기기법상 건강 관련 기능에 대한 규제 검토 필요",
+        "localization_strategy": "한국 직장 문화에 맞는 휴식 패턴 설정, 한국어 건강 가이드 제공, 국내 웰빙 트렌드 반영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "디지털웰빙",
+          "눈건강"
+        ],
+        "trend_index": 16,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 63
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 16
+          }
+        ]
+      },
+      "category": "healthtech",
+      "ph_votes": 208,
+      "thumbnail_url": "https://ph-files.imgix.net/73bb9854-8b63-4628-aab4-4b712ba986b4.png?auto=format",
+      "created_at": "2026-04-08T07:01:00Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 85,
+        "timing": 90,
+        "overall": 78
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "f.lux (2009)",
+            "kr_equivalent": "블루라이트 차단 앱들 (2015)",
+            "gap_months": 72
+          },
+          {
+            "us_launch": "Time Out (2010)",
+            "kr_equivalent": "아이케어 앱들 (2018)",
+            "gap_months": 96
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1117954",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/featdrop",
+      "title_en": "FeatDrop",
+      "tagline_en": "Public changelog for builders to share product updates",
+      "title_ko": "피트드롭",
+      "summary_ko": "제품 업데이트를 공유하는 공개 체인지로그 플랫폼",
+      "analysis_ko": {
+        "description": "개발자와 제품 팀이 사용자들과 투명하게 소통할 수 있도록 제품 업데이트 내역을 공개적으로 공유하는 플랫폼입니다. 사용자 피드백을 받고 제품 개발 과정을 투명하게 보여줌으로써 사용자 참여도와 충성도를 높일 수 있습니다.",
+        "market_fit": "한국 스타트업들이 급증하면서 사용자와의 소통과 투명성에 대한 중요성이 커지고 있습니다. 특히 B2B SaaS 기업들이 고객 신뢰도 향상을 위해 이런 도구를 적극 활용할 것으로 예상됩니다.",
+        "competitors_kr": [
+          "노션",
+          "슬랙"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음",
+        "localization_strategy": "한국어 인터페이스, 국내 개발 커뮤니티 연동, 한국 기업 문화에 맞는 소통 방식 반영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "체인지로그",
+          "제품업데이트"
+        ],
+        "trend_index": 40,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 98,
+      "thumbnail_url": "https://ph-files.imgix.net/3fa5cb0b-6684-485c-8935-5706d51c4ebb.png?auto=format",
+      "created_at": "2026-04-08T07:01:00Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 80,
+        "timing": 75,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Canny (2017)",
+            "kr_equivalent": "국내 피드백 도구들 (2019)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "ProductBoard (2014)",
+            "kr_equivalent": "국내 제품관리 도구들 (2020)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1118293",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/keeby",
+      "title_en": "Keeby",
+      "tagline_en": "Mechanical keyboard sounds for your Mac",
+      "title_ko": "키비",
+      "summary_ko": "맥에서 기계식 키보드 소리를 재현하는 앱",
+      "analysis_ko": {
+        "description": "맥북의 조용한 키보드 대신 기계식 키보드의 만족스러운 타이핑 소리를 재현해주는 앱입니다. 타이핑의 촉각적 피드백을 소리로 보완하여 더 만족스러운 타이핑 경험을 제공합니다.",
+        "market_fit": "한국은 기계식 키보드 마니아층이 두텁고, 특히 개발자와 작가들 사이에서 타이핑 경험에 대한 관심이 높습니다. 맥북 사용자가 많은 한국에서 이런 앱에 대한 수요가 있을 것으로 예상됩니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음",
+        "localization_strategy": "한국 사용자 선호 키보드 소리 추가, 한국어 인터페이스, 국내 기계식 키보드 브랜드 소리 지원",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "기계식키보드",
+          "타이핑소리"
+        ],
+        "trend_index": 8,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 29
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 26
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 29
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 32
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 37
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 40
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 41
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 8
+          }
+        ]
+      },
+      "category": "lifestyle",
+      "ph_votes": 116,
+      "thumbnail_url": "https://ph-files.imgix.net/fb80aea5-1784-4115-ba24-3ebb42e83db0.png?auto=format",
+      "created_at": "2026-04-08T07:01:00Z",
+      "score": {
+        "market_opportunity": 45,
+        "execution_difficulty": 90,
+        "timing": 70,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Mechanical keyboard apps (2020)",
+            "kr_equivalent": "키보드 커스터마이징 앱들 (2021)",
+            "gap_months": 12
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-08T20:32:57.086Z"
+}

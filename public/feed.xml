@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-07T20:35:48.138Z</updated>
+    <updated>2026-04-08T20:33:00.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-08 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-08</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-08T20:32:57.086Z</updated>
+        <summary type="html"><![CDATA[벨로 · 고스트 페퍼 · 플린트 · 로커 · 마인즈DB 안톤 · 커리어옵스 · 패스포트리더 · 룩어웨이 2 · 피트드롭 · 키비]]></summary>
+        <content type="html"><![CDATA[<h3>#1 벨로</h3><p>모든 것을 비디오 메시지로 공유하는 플랫폼</p><h3>#2 고스트 페퍼</h3><p>macOS용 로컬 음성인식 앱으로 데이터가 외부로 전송되지 않는 프라이버시 중심 솔루션</p><h3>#3 플린트</h3><p>캠페인, 광고, 잠재고객별 맞춤형 브랜드 페이지를 빠르게 생성하는 마케팅 도구</p><h3>#4 로커</h3><p>개인 S3 버킷을 활용한 오픈소스 클라우드 스토리지 대안</p><h3>#5 마인즈DB 안톤</h3><p>단순 분석을 넘어 실제 액션을 취하는 AI 기반 비즈니스 인텔리전스 플랫폼</p><h3>#6 커리어옵스</h3><p>Claude AI를 활용한 지능형 구직 시스템</p><h3>#7 패스포트리더</h3><p>여권, 신분증, 디지털 자격증명을 API로 검증하는 서비스</p><h3>#8 룩어웨이 2</h3><p>건강한 컴퓨터 사용을 위한 맥 앱</p><h3>#9 피트드롭</h3><p>제품 업데이트를 공유하는 공개 체인지로그 플랫폼</p><h3>#10 키비</h3><p>맥에서 기계식 키보드 소리를 재현하는 앱</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-07 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-07</id>
