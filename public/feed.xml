@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-09T20:41:09.691Z</updated>
+    <updated>2026-04-10T20:25:57.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-10 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-10</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-10T20:25:54.825Z</updated>
+        <summary type="html"><![CDATA[스파인 통합 플랫폼 · 퍼플렉시티 파이낸스 · CSS 스튜디오 · 민티 · 드리프트 · 마리모 페어 · 클로드 어드바이저 툴 · HLS 리스트림 프록시 · 오렌지 주스 · 녹 데이터 소스]]></summary>
+        <content type="html"><![CDATA[<h3>#1 스파인 통합 플랫폼</h3><p>여러 앱의 정보를 AI가 종합하고 분석하는 통합 연구 도구</p><h3>#2 퍼플렉시티 파이낸스</h3><p>은행부터 증권까지 모든 금융 정보를 한 곳에서 통합 관리하는 AI 금융 플랫폼</p><h3>#3 CSS 스튜디오</h3><p>수동 디자인을 AI 에이전트가 자동으로 코드로 변환하는 웹 디자인 도구</p><h3>#4 민티</h3><p>명확한 커리어 패스 구축을 위한 AI 동반자 서비스</p><h3>#5 드리프트</h3><p>시간이 지나면서 기록이 사라지는 미니멀 저널 앱</p><h3>#6 마리모 페어</h3><p>AI 에이전트를 위한 반응형 파이썬 노트북 환경</p><h3>#7 클로드 어드바이저 툴</h3><p>오퍼스를 조언자로, 소네트나 하이쿠를 실행자로 연결하는 AI 협업 도구</p><h3>#8 HLS 리스트림 프록시</h3><p>무료 스포츠 스트림을 젤리핀으로 연결하는 광고 없는 HLS 프록시</p><h3>#9 오렌지 주스</h3><p>해커뉴스를 더 읽기 쉽게 만드는 작은 UX 개선 도구</p><h3>#10 녹 데이터 소스</h3><p>Stripe, Clerk, Supabase에서 이벤트 기반 메시징을 트리거하는 도구</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-09 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-09</id>

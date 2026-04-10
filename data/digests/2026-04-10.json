@@ -1,0 +1,1132 @@
+{
+  "date": "2026-04-10",
+  "ideas": [
+    {
+      "id": "ph-1118052",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/integrations-in-spine",
+      "title_en": "Integrations in Spine",
+      "tagline_en": "AI that synthesize and researches info across multiple apps",
+      "title_ko": "스파인 통합 플랫폼",
+      "summary_ko": "여러 앱의 정보를 AI가 종합하고 분석하는 통합 연구 도구",
+      "analysis_ko": {
+        "description": "다양한 앱과 플랫폼에 흩어진 정보를 AI가 자동으로 수집하고 종합 분석하여 인사이트를 제공하는 통합 플랫폼입니다. 사용자가 여러 도구를 오가며 정보를 찾는 번거로움을 해결하고 업무 효율성을 크게 향상시킵니다.",
+        "market_fit": "한국 기업들의 디지털 전환이 가속화되면서 SaaS 도구 사용이 급증하고 있어 정보 분산 문제가 심각합니다. 특히 스타트업과 중소기업에서 노션, 슬랙, 구글 워크스페이스 등 다양한 도구를 동시에 사용하는 추세가 강해 시장 수요가 높습니다.",
+        "competitors_kr": [
+          "마인즈랩",
+          "업스테이지",
+          "스켈터랩스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "마인즈랩",
+            "founded_year": 2016,
+            "funding_status": "Series C $50M",
+            "differentiation": "마인즈랩은 대화형 AI에 집중하는 반면, 스파인은 다중 앱 통합과 정보 종합에 특화됨"
+          },
+          {
+            "name": "업스테이지",
+            "founded_year": 2020,
+            "funding_status": "Series B $103M",
+            "differentiation": "업스테이지는 OCR과 문서 AI에 강점이 있지만, 스파인은 실시간 앱 간 데이터 연동과 종합 분석에 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법과 데이터 3법 준수 필요, 기업 데이터 보안 인증 요구됨",
+        "localization_strategy": "한국어 자연어 처리 최적화, 국내 주요 SaaS 도구 우선 연동, 기업 보안 요구사항 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "업무자동화",
+          "AI통합플랫폼"
+        ],
+        "trend_index": 24,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 37
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 24
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 244,
+      "thumbnail_url": "https://ph-files.imgix.net/8c5430f5-834a-4f5a-94e6-cb3c0d0383db.png?auto=format",
+      "created_at": "2026-04-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 65,
+        "timing": 90,
+        "overall": 80
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Zapier (2011)",
+            "kr_equivalent": "오토메이션애니웨어 (2019)",
+            "gap_months": 96
+          },
+          {
+            "us_launch": "Notion (2016)",
+            "kr_equivalent": "타입드 (2020)",
+            "gap_months": 48
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1119928",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/perplexity-finance-2",
+      "title_en": "Perplexity Finance",
+      "tagline_en": "See your full financial life, bank to brokerage in one place",
+      "title_ko": "퍼플렉시티 파이낸스",
+      "summary_ko": "은행부터 증권까지 모든 금융 정보를 한 곳에서 통합 관리하는 AI 금융 플랫폼",
+      "analysis_ko": {
+        "description": "사용자의 모든 금융 계좌 정보를 통합하여 자산 현황, 투자 포트폴리오, 지출 패턴을 AI가 분석하고 개인화된 금융 조언을 제공합니다. 복잡한 금융 데이터를 직관적으로 시각화하여 개인 재무 관리를 혁신합니다.",
+        "market_fit": "한국의 높은 금융 디지털화 수준과 투자 열풍으로 개인 자산 관리에 대한 관심이 급증하고 있습니다. 특히 MZ세대의 다양한 금융 상품 이용과 투자 다변화로 통합 관리 니즈가 매우 높습니다.",
+        "competitors_kr": [
+          "뱅크샐러드",
+          "토스",
+          "카카오페이"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "뱅크샐러드",
+            "founded_year": 2012,
+            "funding_status": "Series D $33M",
+            "differentiation": "뱅크샐러드는 가계부 중심이지만, 퍼플렉시티는 AI 기반 투자 분석과 예측에 특화"
+          },
+          {
+            "name": "토스",
+            "founded_year": 2013,
+            "funding_status": "Series F $410M",
+            "differentiation": "토스는 금융 서비스 제공에 집중하는 반면, 퍼플렉시티는 순수 분석과 조언에 특화"
+          }
+        ],
+        "regulatory_notes": "금융정보보호법, 개인신용정보법 준수 필수, 금융위원회 마이데이터 사업 허가 필요",
+        "localization_strategy": "국내 은행 API 연동, 한국 투자 상품 분석 모델 구축, 금융 규제 완전 준수",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "자산관리",
+          "마이데이터"
+        ],
+        "trend_index": 20,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 63
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 20
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 116,
+      "thumbnail_url": "https://ph-files.imgix.net/db193b4c-13cc-4700-8cde-ebac26d3c247.png?auto=format",
+      "created_at": "2026-04-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 40,
+        "timing": 85,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Mint (2006)",
+            "kr_equivalent": "뱅크샐러드 (2012)",
+            "gap_months": 72
+          },
+          {
+            "us_launch": "Personal Capital (2009)",
+            "kr_equivalent": "토스 (2015)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47702196",
+      "rank": 3,
+      "source": "hackernews",
+      "source_url": "https://cssstudio.ai",
+      "title_en": "CSS Studio",
+      "tagline_en": "Design by hand, code by agent",
+      "title_ko": "CSS 스튜디오",
+      "summary_ko": "수동 디자인을 AI 에이전트가 자동으로 코드로 변환하는 웹 디자인 도구",
+      "analysis_ko": {
+        "description": "디자이너가 직접 그린 디자인을 AI가 실시간으로 CSS 코드로 변환하여 개발자와의 협업을 혁신하는 도구입니다. 브라우저에서 직접 작동하며 기존 코드베이스에 즉시 적용 가능한 코드를 생성합니다.",
+        "market_fit": "한국의 활발한 웹 개발 시장과 디자인-개발 간 소통 문제로 인한 비효율성이 심각합니다. 특히 스타트업과 에이전시에서 빠른 프로토타이핑과 디자인 시스템 구축 니즈가 높아 시장 잠재력이 큽니다.",
+        "competitors_kr": [
+          "프로토파이",
+          "스케치2코드"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "프로토파이",
+            "founded_year": 2014,
+            "funding_status": "Series A $7M",
+            "differentiation": "프로토파이는 프로토타이핑에 집중하지만, CSS 스튜디오는 실제 프로덕션 코드 생성에 특화"
+          }
+        ],
+        "regulatory_notes": "특별한 규제 없음, 소프트웨어 저작권 보호 적용",
+        "localization_strategy": "한국어 UI/UX, 국내 주요 디자인 도구 연동, 한국 웹 표준 준수",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "노코드",
+          "웹디자인자동화"
+        ],
+        "trend_index": 20,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 47
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 56
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 56
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 48
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 64
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 20
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 161,
+      "thumbnail_url": null,
+      "created_at": "2026-04-09T11:23:31.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 70,
+        "timing": 80,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Figma (2016)",
+            "kr_equivalent": "프로토파이 (2014)",
+            "gap_months": -24
+          },
+          {
+            "us_launch": "Webflow (2013)",
+            "kr_equivalent": "아임웹 (2012)",
+            "gap_months": -12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1119796",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/minty-1c214054-b3f7-49f8-a9a2-9a4853c31091",
+      "title_en": "Minty",
+      "tagline_en": "AI companion for building a clear career path",
+      "title_ko": "민티",
+      "summary_ko": "명확한 커리어 패스 구축을 위한 AI 동반자 서비스",
+      "analysis_ko": {
+        "description": "개인의 스킬, 관심사, 목표를 분석하여 맞춤형 커리어 로드맵을 제시하고 지속적인 성장을 지원하는 AI 커리어 코칭 플랫폼입니다. 실시간 피드백과 개인화된 학습 추천으로 커리어 발전을 체계적으로 관리합니다.",
+        "market_fit": "한국의 높은 교육열과 취업 경쟁, 그리고 MZ세대의 커리어 전환 증가로 개인 맞춤형 커리어 코칭 수요가 급증하고 있습니다. 특히 IT 업계의 빠른 변화로 지속적인 스킬 업데이트가 필수가 되면서 시장 기회가 큽니다.",
+        "competitors_kr": [
+          "점프",
+          "프로그래머스",
+          "인프런"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "점프",
+            "founded_year": 2019,
+            "funding_status": "Series A $10M",
+            "differentiation": "점프는 채용 연결에 집중하지만, 민티는 장기적 커리어 성장과 개인 발전에 특화"
+          },
+          {
+            "name": "프로그래머스",
+            "founded_year": 2013,
+            "funding_status": "Series C $30M",
+            "differentiation": "프로그래머스는 코딩 교육 중심이지만, 민티는 전 직군 대상 종합 커리어 코칭 제공"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 직업소개업 관련 규제 검토 필요",
+        "localization_strategy": "한국 기업 문화와 채용 트렌드 반영, 국내 교육 기관 연계, 한국어 커리어 상담 최적화",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "커리어코칭",
+          "AI진로상담"
+        ],
+        "trend_index": 41,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 25
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 38
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 24
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 30
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 41
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 122,
+      "thumbnail_url": "https://ph-files.imgix.net/5270d4ca-db55-4a9a-9162-5ccf254fa599.png?auto=format",
+      "created_at": "2026-04-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 85,
+        "timing": 85,
+        "overall": 83
+      },
+      "timing_window": {
+        "avg_months": 15,
+        "category_history": [
+          {
+            "us_launch": "LinkedIn Learning (2015)",
+            "kr_equivalent": "인프런 (2017)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Coursera (2012)",
+            "kr_equivalent": "패스트캠퍼스 (2015)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1120270",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/drift-a7eecd58-2a1d-4550-8750-d37c3edb2791",
+      "title_en": "Drift",
+      "tagline_en": "Minimalist journal app that fades over time",
+      "title_ko": "드리프트",
+      "summary_ko": "시간이 지나면서 기록이 사라지는 미니멀 저널 앱",
+      "analysis_ko": {
+        "description": "사용자의 일기와 메모가 시간이 지나면서 점진적으로 흐려지고 사라지는 독특한 컨셉의 저널링 앱입니다. 과거에 얽매이지 않고 현재에 집중할 수 있도록 도와주는 철학적 접근을 통해 정신 건강과 마음챙김을 지원합니다.",
+        "market_fit": "한국의 높은 스트레스 사회와 정신건강에 대한 관심 증가로 마음챙김과 명상 앱 시장이 급성장하고 있습니다. 특히 MZ세대의 번아웃 증가와 미니멀 라이프스타일 추구 트렌드가 맞물려 시장 잠재력이 높습니다.",
+        "competitors_kr": [
+          "마보",
+          "하루",
+          "감정일기"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "마보",
+            "founded_year": 2020,
+            "funding_status": "Seed $2M",
+            "differentiation": "마보는 감정 분석에 집중하지만, 드리프트는 시간 기반 소멸 컨셉으로 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 정신건강 관련 의료기기법 검토 필요",
+        "localization_strategy": "한국 문화에 맞는 감정 표현 방식 반영, 한글 폰트 최적화, 국내 명상 콘텐츠 연계",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "일기앱",
+          "마음챙김"
+        ],
+        "trend_index": 24,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 24
+          }
+        ]
+      },
+      "category": "lifestyle",
+      "ph_votes": 172,
+      "thumbnail_url": "https://ph-files.imgix.net/56c805fe-938b-404b-a8fd-999bcec27808.png?auto=format",
+      "created_at": "2026-04-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 90,
+        "timing": 75,
+        "overall": 77
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Day One (2011)",
+            "kr_equivalent": "하루 (2018)",
+            "gap_months": 84
+          },
+          {
+            "us_launch": "Journey (2013)",
+            "kr_equivalent": "감정일기 (2019)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47678844",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://github.com/marimo-team/marimo-pair",
+      "title_en": "Marimo pair",
+      "tagline_en": "Reactive Python notebooks as environments for agents",
+      "title_ko": "마리모 페어",
+      "summary_ko": "AI 에이전트를 위한 반응형 파이썬 노트북 환경",
+      "analysis_ko": {
+        "description": "AI 에이전트가 실시간으로 파이썬 노트북 환경에서 작업할 수 있도록 하는 반응형 개발 도구입니다. 에이전트가 코드를 작성하고 실행하며 결과를 즉시 확인할 수 있어 AI 기반 데이터 분석과 개발 워크플로우를 혁신합니다.",
+        "market_fit": "한국의 급성장하는 AI/ML 시장과 데이터 사이언스 분야에서 개발 생산성 향상에 대한 니즈가 높습니다. 특히 대기업과 연구기관의 AI 도입 가속화로 고급 개발 도구에 대한 수요가 증가하고 있습니다.",
+        "competitors_kr": [
+          "네이버클라우드",
+          "카카오브레인",
+          "업스테이지"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버클라우드",
+            "founded_year": 2017,
+            "funding_status": "Corporate",
+            "differentiation": "네이버클라우드는 클라우드 인프라 중심이지만, 마리모는 개발자 경험과 에이전트 협업에 특화"
+          }
+        ],
+        "regulatory_notes": "특별한 규제 없음, 오픈소스 라이선스 준수",
+        "localization_strategy": "한국어 문서화, 국내 AI 커뮤니티 연계, 한국 기업 사례 구축",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI개발도구",
+          "파이썬노트북"
+        ],
+        "trend_index": 10,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 10
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 10
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 113,
+      "thumbnail_url": null,
+      "created_at": "2026-04-07T17:47:46.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 75,
+        "timing": 70,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 9,
+        "category_history": [
+          {
+            "us_launch": "Jupyter (2014)",
+            "kr_equivalent": "네이버 클로바 노트북 (2018)",
+            "gap_months": 48
+          },
+          {
+            "us_launch": "Google Colab (2017)",
+            "kr_equivalent": "카카오브레인 코랩 (2019)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1120099",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/claude-advisor-tool",
+      "title_en": "Claude Advisor tool",
+      "tagline_en": "Pair Opus as advisor with Sonnet or Haiku as executor",
+      "title_ko": "클로드 어드바이저 툴",
+      "summary_ko": "오퍼스를 조언자로, 소네트나 하이쿠를 실행자로 연결하는 AI 협업 도구",
+      "analysis_ko": {
+        "description": "서로 다른 Claude AI 모델들을 역할별로 분담시켜 복잡한 작업을 효율적으로 처리하는 AI 오케스트레이션 도구입니다. 고급 모델이 전략을 수립하고 경량 모델이 실행을 담당하여 비용 효율성과 성능을 동시에 최적화합니다.",
+        "market_fit": "한국 기업들의 AI 도입이 가속화되면서 비용 효율적인 AI 활용에 대한 관심이 높습니다. 특히 스타트업과 중소기업에서 제한된 예산으로 고급 AI 기능을 활용하고자 하는 니즈가 강합니다.",
+        "competitors_kr": [
+          "네이버 하이퍼클로바",
+          "카카오브레인",
+          "LG AI연구원"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 하이퍼클로바",
+            "founded_year": 2021,
+            "funding_status": "Corporate",
+            "differentiation": "하이퍼클로바는 단일 모델 중심이지만, 클로드 어드바이저는 다중 모델 협업에 특화"
+          }
+        ],
+        "regulatory_notes": "AI 윤리 가이드라인 준수, 개인정보보호법 적용",
+        "localization_strategy": "한국어 프롬프트 최적화, 국내 비즈니스 사례 구축, 한국 기업 워크플로우 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI자동화",
+          "챗봇협업"
+        ],
+        "trend_index": 1,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 3
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 3
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 3
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 3
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 15
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 20
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 18
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 13
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 11
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 6
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 1
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 255,
+      "thumbnail_url": "https://ph-files.imgix.net/ae49ce7d-30a4-457b-823a-2e1ee8d44dbb.png?auto=format",
+      "created_at": "2026-04-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 70,
+        "timing": 75,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "GPT-4 (2023)",
+            "kr_equivalent": "하이퍼클로바X (2023)",
+            "gap_months": 6
+          },
+          {
+            "us_launch": "Claude (2022)",
+            "kr_equivalent": "카카오브레인 KoGPT (2022)",
+            "gap_months": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47689165",
+      "rank": 8,
+      "source": "hackernews",
+      "source_url": "https://github.com/pcruz1905/hls-restream-proxy",
+      "title_en": "HLS Restream Proxy",
+      "tagline_en": "I pipe free sports streams into Jellyfin – no ads, just HLS",
+      "title_ko": "HLS 리스트림 프록시",
+      "summary_ko": "무료 스포츠 스트림을 젤리핀으로 연결하는 광고 없는 HLS 프록시",
+      "analysis_ko": {
+        "description": "무료 스포츠 스트리밍을 개인 미디어 서버인 젤리핀으로 연결하여 광고 없이 깔끔하게 시청할 수 있게 해주는 프록시 도구입니다. HLS 프로토콜을 활용하여 안정적인 스트리밍 환경을 제공합니다.",
+        "market_fit": "한국의 높은 스포츠 관심도와 OTT 서비스 이용 증가, 그리고 개인 미디어 서버 구축 트렌드가 맞물려 시장 잠재력이 있습니다. 특히 해외 스포츠 시청에 대한 니즈가 높아 틈새 시장 기회가 존재합니다.",
+        "competitors_kr": [
+          "아프리카TV",
+          "트위치",
+          "유튜브"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "저작권법 위반 위험 높음, 방송통신위원회 규제 대상 가능성",
+        "localization_strategy": "한국 스포츠 리그 지원, 한국어 UI, 국내 법적 이슈 해결 필요",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "스포츠스트리밍",
+          "개인미디어서버"
+        ],
+        "trend_index": 100,
+        "trend_direction": "up",
+        "period": "2025-10-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-10-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 13
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 13
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 13
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "lifestyle",
+      "ph_votes": 114,
+      "thumbnail_url": null,
+      "created_at": "2026-04-08T12:17:57.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 30,
+        "timing": 50,
+        "overall": 48
+      },
+      "timing_window": null
+    },
+    {
+      "id": "hn-47694036",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "http://oj-hn.com/",
+      "title_en": "Orange Juice",
+      "tagline_en": "Small UX improvements that make HN easier to read",
+      "title_ko": "오렌지 주스",
+      "summary_ko": "해커뉴스를 더 읽기 쉽게 만드는 작은 UX 개선 도구",
+      "analysis_ko": {
+        "description": "해커뉴스의 가독성을 향상시키는 브라우저 확장 프로그램으로, 폰트 개선, 색상 조정, 레이아웃 최적화 등을 통해 사용자 경험을 개선합니다. 개발자 커뮤니티의 니즈를 정확히 파악한 실용적인 도구입니다.",
+        "market_fit": "한국의 활발한 개발자 커뮤니티와 해외 기술 정보에 대한 높은 관심으로 해커뉴스 이용자가 많습니다. 국내 개발자들의 영어 콘텐츠 소비 증가와 UX 개선에 대한 니즈가 맞물려 시장 기회가 있습니다.",
+        "competitors_kr": [
+          "개발자스럽다",
+          "요즘IT",
+          "GeekNews"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "GeekNews",
+            "founded_year": 2016,
+            "funding_status": "bootstrapped",
+            "differentiation": "GeekNews는 한국어 큐레이션 중심이지만, 오렌지 주스는 원본 사이트 UX 개선에 특화"
+          }
+        ],
+        "regulatory_notes": "특별한 규제 없음, 브라우저 확장 프로그램 정책 준수",
+        "localization_strategy": "한국 개발자 커뮤니티 연계, 한국어 번역 기능 추가, 국내 기술 사이트 지원 확장",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "개발자도구",
+          "브라우저확장"
+        ],
+        "trend_index": 11,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 37
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 15
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 18
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 38
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 32
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 11
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 140,
+      "thumbnail_url": null,
+      "created_at": "2026-04-08T18:08:52.000Z",
+      "score": {
+        "market_opportunity": 50,
+        "execution_difficulty": 95,
+        "timing": 70,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 3,
+        "category_history": [
+          {
+            "us_launch": "Grammarly (2009)",
+            "kr_equivalent": "맞춤법 검사기 (2010)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "AdBlock (2009)",
+            "kr_equivalent": "애드블록 코리아 (2010)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1117261",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/knock-data-sources",
+      "title_en": "Knock data sources",
+      "tagline_en": "Trigger event-based messaging from Stripe, Clerk, Supabase",
+      "title_ko": "녹 데이터 소스",
+      "summary_ko": "Stripe, Clerk, Supabase에서 이벤트 기반 메시징을 트리거하는 도구",
+      "analysis_ko": {
+        "description": "다양한 SaaS 플랫폼에서 발생하는 이벤트를 감지하여 자동으로 사용자에게 맞춤형 메시지를 발송하는 이벤트 기반 커뮤니케이션 도구입니다. 결제 완료, 회원가입, 데이터 변경 등의 이벤트에 즉시 반응하여 사용자 경험을 향상시킵니다.",
+        "market_fit": "한국 스타트업들의 SaaS 도구 사용 증가와 고객 커뮤니케이션 자동화 니즈가 높아지고 있습니다. 특히 이커머스와 핀테크 분야에서 실시간 알림과 개인화된 메시징에 대한 수요가 급증하고 있습니다.",
+        "competitors_kr": [
+          "센드버드",
+          "알리고",
+          "비즈뿌리오"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "센드버드",
+            "founded_year": 2013,
+            "funding_status": "Series C $100M",
+            "differentiation": "센드버드는 채팅 플랫폼 중심이지만, 녹은 이벤트 기반 자동화 메시징에 특화"
+          },
+          {
+            "name": "알리고",
+            "founded_year": 2008,
+            "funding_status": "bootstrapped",
+            "differentiation": "알리고는 SMS/카카오톡 발송 중심이지만, 녹은 다중 플랫폼 이벤트 연동에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 정보통신망법 준수, 스팸 방지 규정 적용",
+        "localization_strategy": "카카오톡, 네이버 라인 연동, 한국 결제 시스템 지원, 국내 SaaS 도구 우선 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "마케팅자동화",
+          "이벤트메시징"
+        ],
+        "trend_index": 19,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-02-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 19
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 63
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 19
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 114,
+      "thumbnail_url": "https://ph-files.imgix.net/7f6da474-3d36-4d1b-bdcf-366edb6d0052.png?auto=format",
+      "created_at": "2026-04-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 65,
+        "timing": 80,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Mailchimp (2001)",
+            "kr_equivalent": "스티비 (2014)",
+            "gap_months": 156
+          },
+          {
+            "us_launch": "Intercom (2011)",
+            "kr_equivalent": "채널톡 (2015)",
+            "gap_months": 48
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-10T20:25:54.825Z"
+}
