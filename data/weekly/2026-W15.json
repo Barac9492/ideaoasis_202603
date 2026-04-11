@@ -1,0 +1,131 @@
+{
+  "week": "2026-W15",
+  "selected_idea": {
+    "id": "ph-1120981",
+    "rank": 1,
+    "source": "producthunt",
+    "source_url": "https://www.producthunt.com/posts/claude-for-word-3",
+    "title_en": "Claude for Word",
+    "tagline_en": "Bring Claude natively into your Microsoft Word workflow",
+    "title_ko": "워드용 클로드",
+    "summary_ko": "마이크로소프트 워드에 클로드 AI를 네이티브로 통합한 생산성 도구",
+    "analysis_ko": {
+      "description": "마이크로소프트 워드 내에서 클로드 AI를 직접 사용할 수 있게 해주는 플러그인입니다. 문서 작성, 편집, 번역 등의 작업을 워드 환경에서 바로 AI의 도움을 받아 수행할 수 있습니다.",
+      "market_fit": "한국의 높은 오피스 소프트웨어 사용률과 AI 도구에 대한 관심을 고려할 때 매우 적합합니다. 특히 기업 환경에서 문서 작업 효율성 향상에 대한 니즈가 높습니다.",
+      "competitors_kr": [
+        "네이버 클로바노트",
+        "카카오워크",
+        "한컴오피스 AI"
+      ],
+      "competitors_kr_detailed": [
+        {
+          "name": "네이버 클로바노트",
+          "founded_year": 2021,
+          "funding_status": "네이버 자회사",
+          "differentiation": "워드 전용 통합이 아닌 독립적인 AI 노트 서비스로 차별화"
+        }
+      ],
+      "regulatory_notes": "개인정보보호법 준수 필요, 기업 데이터 보안 고려사항",
+      "localization_strategy": "한글 문서 처리 최적화, 한국어 문법 검사 기능 강화, 기업용 보안 기능 추가",
+      "difficulty": "Medium"
+    },
+    "naver_trends": {
+      "keywords": [
+        "AI 문서작성",
+        "워드 AI"
+      ],
+      "trend_index": 39,
+      "trend_direction": "up",
+      "period": "2025-04-01 ~ 2026-04-01",
+      "trend_data": [
+        {
+          "period": "2025-04-01",
+          "ratio": 28
+        },
+        {
+          "period": "2025-05-01",
+          "ratio": 20
+        },
+        {
+          "period": "2025-06-01",
+          "ratio": 16
+        },
+        {
+          "period": "2025-07-01",
+          "ratio": 38
+        },
+        {
+          "period": "2025-08-01",
+          "ratio": 24
+        },
+        {
+          "period": "2025-09-01",
+          "ratio": 40
+        },
+        {
+          "period": "2025-11-01",
+          "ratio": 28
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 64
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 3
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 31
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 100
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 39
+        }
+      ]
+    },
+    "category": "productivity",
+    "ph_votes": 271,
+    "thumbnail_url": "https://ph-files.imgix.net/c2fafec6-62bf-4292-a3c7-9d4db08d40bc.svg?auto=format",
+    "created_at": "2026-04-11T07:01:00Z",
+    "score": {
+      "market_opportunity": 85,
+      "execution_difficulty": 70,
+      "timing": 90,
+      "overall": 82
+    },
+    "timing_window": {
+      "avg_months": 6,
+      "category_history": [
+        {
+          "us_launch": "Grammarly (2009)",
+          "kr_equivalent": "잡코리아 맞춤법검사기 (2010)",
+          "gap_months": 12
+        }
+      ]
+    }
+  },
+  "deep_dive_ko": {
+    "market_sizing": "한국 오피스 소프트웨어 시장은 약 5,000억원 규모이며, 마이크로소프트 오피스가 80% 이상의 점유율을 보유하고 있습니다. TAM(전체 시장): 국내 사무직 근로자 약 800만명 × 연간 생산성 도구 지출 10만원 = 8조원. SAM(서비스 가능 시장): 오피스 365 사용자 약 300만명 × 월 구독료 1만원 = 연간 3,600억원. SOM(점유 가능 시장): 초기 3년간 기업 고객 1만개사, 개인 사용자 10만명 목표로 연간 100억원 매출 달성 가능. AI 문서 작성 도구 시장은 연평균 45% 성장하고 있어 2027년까지 1,500억원 규모로 확대 예상됩니다.",
+    "localization_playbook": [
+      "1단계: 한글 문서 처리 엔진 최적화 - 한국어 문법 검사, 맞춤법 교정, 존댓말 변환 기능 개발",
+      "2단계: 기업용 보안 기능 강화 - 온프레미스 배포 옵션, 데이터 암호화, 접근 권한 관리 시스템 구축",
+      "3단계: 한국 비즈니스 문서 템플릿 제공 - 보고서, 제안서, 계약서 등 한국 기업 표준 양식 지원",
+      "4단계: 주요 기업 파일럿 프로그램 - 삼성, LG, 현대 등 대기업 IT부서와 협력하여 POC 진행",
+      "5단계: 한국어 AI 모델 고도화 - 네이버 클로바, 카카오브레인과 기술 파트너십 체결",
+      "6단계: 교육기관 진출 - 대학교, 연구기관 대상 학술 논문 작성 지원 기능 특화",
+      "7단계: 중소기업 시장 공략 - 간편한 설치와 저렴한 구독 모델로 시장 확산"
+    ],
+    "comparable_kr_successes": [
+      "뤼튼 — AI 글쓰기 도구로 출시 2년만에 월 활성 사용자 100만명 달성, 기업용 솔루션으로 확장하여 연매출 50억원 기록",
+      "타입캐스트 — AI 음성 합성 기술로 글로벌 시장 진출, 마이크로소프트와 파트너십 체결하여 기업가치 1,000억원 달성",
+      "업스테이지 — OCR과 문서 AI 기술로 네이버와 협력, 기업용 문서 처리 솔루션으로 시리즈B 1,200억원 투자 유치",
+      "마인즈랩 — 대화형 AI 플랫폼으로 대기업 고객 확보, 금융권과 공공기관에 AI 솔루션 공급하여 기업가치 3,000억원 달성"
+    ],
+    "estimated_build_timeline": "MVP 12주, 베타 출시 6개월, 정식 런칭 9개월. 1단계(3개월): 기본 Claude 연동 및 한글 지원, 2단계(6개월): 기업용 보안 기능 및 템플릿 추가, 3단계(9개월): 고급 AI 기능 및 협업 도구 통합 완료"
+  }
+}
