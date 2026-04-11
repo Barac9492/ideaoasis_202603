@@ -1,0 +1,783 @@
+{
+  "date": "2026-04-11",
+  "ideas": [
+    {
+      "id": "ph-1120981",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/claude-for-word-3",
+      "title_en": "Claude for Word",
+      "tagline_en": "Bring Claude natively into your Microsoft Word workflow",
+      "title_ko": "워드용 클로드",
+      "summary_ko": "마이크로소프트 워드에 클로드 AI를 네이티브로 통합한 생산성 도구",
+      "analysis_ko": {
+        "description": "마이크로소프트 워드 내에서 클로드 AI를 직접 사용할 수 있게 해주는 플러그인입니다. 문서 작성, 편집, 번역 등의 작업을 워드 환경에서 바로 AI의 도움을 받아 수행할 수 있습니다.",
+        "market_fit": "한국의 높은 오피스 소프트웨어 사용률과 AI 도구에 대한 관심을 고려할 때 매우 적합합니다. 특히 기업 환경에서 문서 작업 효율성 향상에 대한 니즈가 높습니다.",
+        "competitors_kr": [
+          "네이버 클로바노트",
+          "카카오워크",
+          "한컴오피스 AI"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바노트",
+            "founded_year": 2021,
+            "funding_status": "네이버 자회사",
+            "differentiation": "워드 전용 통합이 아닌 독립적인 AI 노트 서비스로 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수 필요, 기업 데이터 보안 고려사항",
+        "localization_strategy": "한글 문서 처리 최적화, 한국어 문법 검사 기능 강화, 기업용 보안 기능 추가",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 문서작성",
+          "워드 AI"
+        ],
+        "trend_index": 39,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 20
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 16
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 38
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 24
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 64
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 3
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 31
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 39
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 271,
+      "thumbnail_url": "https://ph-files.imgix.net/c2fafec6-62bf-4292-a3c7-9d4db08d40bc.svg?auto=format",
+      "created_at": "2026-04-11T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 70,
+        "timing": 90,
+        "overall": 82
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Grammarly (2009)",
+            "kr_equivalent": "잡코리아 맞춤법검사기 (2010)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47702196",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://cssstudio.ai",
+      "title_en": "CSS Studio",
+      "tagline_en": "Design by hand, code by agent",
+      "title_ko": "CSS 스튜디오",
+      "summary_ko": "손으로 디자인하면 AI 에이전트가 자동으로 코드를 생성해주는 웹 디자인 도구",
+      "analysis_ko": {
+        "description": "웹사이트에서 직접 디자인을 수정하면 AI가 실시간으로 코드를 생성하고 업데이트하는 혁신적인 도구입니다. 디자이너와 개발자 간의 협업 과정을 크게 단순화합니다.",
+        "market_fit": "한국의 활발한 웹 개발 시장과 노코드/로우코드 트렌드에 매우 적합합니다. 특히 스타트업과 중소기업의 빠른 웹사이트 개발 니즈를 충족할 수 있습니다.",
+        "competitors_kr": [
+          "스튜디오",
+          "아임웹",
+          "카페24"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스튜디오",
+            "founded_year": 2018,
+            "funding_status": "Series B $20M",
+            "differentiation": "기존 코드베이스 수정이 아닌 새로운 사이트 제작에 특화된 점에서 차별화"
+          }
+        ],
+        "regulatory_notes": "특별한 규제 이슈 없음",
+        "localization_strategy": "한국어 UI/UX, 한국 웹 표준 준수, 국내 호스팅 서비스 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "노코드",
+          "웹디자인 AI"
+        ],
+        "trend_index": 23,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 47
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 57
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 48
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 23
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 164,
+      "thumbnail_url": null,
+      "created_at": "2026-04-09T11:23:31.000Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 40,
+        "timing": 85,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Webflow (2013)",
+            "kr_equivalent": "스튜디오 (2018)",
+            "gap_months": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1118642",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/clicky-2",
+      "title_en": "Clicky",
+      "tagline_en": "AI buddy next to your cursor on Mac—sees, guides, helps you!",
+      "title_ko": "클리키",
+      "summary_ko": "맥에서 커서 옆에 상주하며 화면을 보고 도움을 주는 AI 어시스턴트",
+      "analysis_ko": {
+        "description": "맥 화면에서 사용자의 커서 근처에 상주하면서 현재 작업을 인식하고 실시간으로 도움을 제공하는 AI 어시스턴트입니다. 화면 내용을 분석하여 상황에 맞는 가이드를 제공합니다.",
+        "market_fit": "한국의 높은 맥 사용률과 생산성 도구에 대한 관심을 고려할 때 좋은 시장 적합성을 보입니다. 특히 크리에이터와 개발자들에게 인기가 있을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오 i"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "화면 캡처 및 개인정보 처리에 대한 사용자 동의 필요",
+        "localization_strategy": "한국어 음성 인식 및 응답, 한국 웹사이트 및 앱 인식 최적화",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 어시스턴트",
+          "맥 생산성"
+        ],
+        "trend_index": 34,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 93
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 82
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 96
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 34
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 109,
+      "thumbnail_url": "https://ph-files.imgix.net/93140ad8-b85f-4336-8b4a-3c2f23329f97.png?auto=format",
+      "created_at": "2026-04-11T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 35,
+        "timing": 80,
+        "overall": 62
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Siri (2011)",
+            "kr_equivalent": "빅스비 (2017)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1120913",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/aperture-4",
+      "title_en": "aperture",
+      "tagline_en": "hiring is broken. we're building the fix.",
+      "title_ko": "애퍼처",
+      "summary_ko": "기존 채용 시스템의 문제점을 해결하는 혁신적인 채용 플랫폼",
+      "analysis_ko": {
+        "description": "전통적인 채용 프로세스의 비효율성을 해결하기 위한 새로운 접근 방식의 채용 플랫폼입니다. AI와 데이터 분석을 활용하여 더 정확하고 공정한 채용을 지원합니다.",
+        "market_fit": "한국의 치열한 취업 경쟁과 기업들의 인재 확보 어려움을 고려할 때 매우 높은 시장 적합성을 보입니다. 특히 IT 업계의 개발자 채용 시장에서 큰 관심을 받을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "원티드",
+          "로켓펀치",
+          "프로그래머스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "원티드",
+            "founded_year": 2013,
+            "funding_status": "Series D $300M",
+            "differentiation": "기존 매칭 방식이 아닌 채용 프로세스 자체의 혁신에 초점"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 채용절차의 공정성에 관한 법률 준수 필요",
+        "localization_strategy": "한국 기업 문화 반영, 한국어 이력서 분석, 국내 대학 및 자격증 시스템 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 채용",
+          "채용플랫폼"
+        ],
+        "trend_index": 28,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 99
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 28
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 97,
+      "thumbnail_url": "https://ph-files.imgix.net/73e06226-1e9a-4ee4-8154-9075f317990d.png?auto=format",
+      "created_at": "2026-04-11T07:01:00Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 60,
+        "timing": 85,
+        "overall": 79
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "LinkedIn (2003)",
+            "kr_equivalent": "원티드 (2013)",
+            "gap_months": 120
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1115059",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/voicr-for-mac",
+      "title_en": "Voicr for Mac",
+      "tagline_en": "Dictate and get improved or translated text",
+      "title_ko": "맥용 보이서",
+      "summary_ko": "음성을 텍스트로 변환하고 개선 및 번역까지 제공하는 맥 전용 도구",
+      "analysis_ko": {
+        "description": "맥에서 음성을 텍스트로 변환할 뿐만 아니라 AI를 활용해 텍스트를 개선하고 다른 언어로 번역까지 해주는 통합 솔루션입니다. 음성 인식부터 텍스트 후처리까지 원스톱으로 제공합니다.",
+        "market_fit": "한국의 높은 맥 사용률과 다국어 번역 니즈를 고려할 때 좋은 시장 적합성을 보입니다. 특히 글로벌 업무를 하는 직장인들에게 유용할 것으로 예상됩니다.",
+        "competitors_kr": [
+          "네이버 클로바노트",
+          "구글 음성인식"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바노트",
+            "founded_year": 2021,
+            "funding_status": "네이버 자회사",
+            "differentiation": "맥 전용 최적화와 실시간 텍스트 개선 기능으로 차별화"
+          }
+        ],
+        "regulatory_notes": "음성 데이터 처리 관련 개인정보보호법 준수 필요",
+        "localization_strategy": "한국어 음성 인식 정확도 향상, 한영 번역 최적화, 한국어 문법 교정 기능",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "음성인식",
+          "AI 번역"
+        ],
+        "trend_index": 24,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 55
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 24
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 99,
+      "thumbnail_url": "https://ph-files.imgix.net/d09b5ec9-6af1-41dc-9f5e-31df886c6276.png?auto=format",
+      "created_at": "2026-04-11T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 65,
+        "timing": 80,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Dragon NaturallySpeaking (1997)",
+            "kr_equivalent": "한글과컴퓨터 음성인식 (2000)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1114162",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/1-better",
+      "title_en": "1% Better",
+      "tagline_en": "Visualise the compounding effect of your daily habits",
+      "title_ko": "1% 베터",
+      "summary_ko": "일상 습관의 복리 효과를 시각화해주는 습관 관리 앱",
+      "analysis_ko": {
+        "description": "매일의 작은 습관이 시간이 지나면서 어떤 큰 변화를 만들어내는지 시각적으로 보여주는 습관 추적 도구입니다. 복리의 개념을 습관 형성에 적용하여 동기부여를 제공합니다.",
+        "market_fit": "한국의 높은 자기계발 관심도와 목표 지향적 문화를 고려할 때 매우 좋은 시장 적합성을 보입니다. 특히 MZ세대의 라이프스타일 개선 트렌드와 잘 맞습니다.",
+        "competitors_kr": [
+          "챌린지",
+          "루틴",
+          "해빗"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "챌린지",
+            "founded_year": 2019,
+            "funding_status": "Seed $2M",
+            "differentiation": "복리 효과 시각화라는 독특한 접근 방식으로 차별화"
+          }
+        ],
+        "regulatory_notes": "개인 건강정보 처리 시 주의 필요",
+        "localization_strategy": "한국 문화에 맞는 습관 템플릿, 한국어 동기부여 메시지, 소셜 기능 강화",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "습관관리",
+          "자기계발"
+        ],
+        "trend_index": 27,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 99
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 88
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 95
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 64
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 77
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 27
+          }
+        ]
+      },
+      "category": "lifestyle",
+      "ph_votes": 95,
+      "thumbnail_url": "https://ph-files.imgix.net/c7236306-b6c5-4b97-a44e-98498a08b6fb.png?auto=format",
+      "created_at": "2026-04-11T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 85,
+        "timing": 85,
+        "overall": 81
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Habitica (2013)",
+            "kr_equivalent": "챌린지 (2019)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1120330",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/capso",
+      "title_en": "Capso",
+      "tagline_en": "Free open-source screenshot & screen recorder for Mac",
+      "title_ko": "캡소",
+      "summary_ko": "맥용 무료 오픈소스 스크린샷 및 화면 녹화 도구",
+      "analysis_ko": {
+        "description": "맥 사용자를 위한 무료 오픈소스 스크린샷 및 화면 녹화 도구입니다. 기존 유료 도구들의 대안으로 개발되었으며, 다양한 캡처 옵션과 편집 기능을 제공합니다.",
+        "market_fit": "한국의 높은 맥 사용률과 무료 소프트웨어에 대한 선호를 고려할 때 좋은 시장 적합성을 보입니다. 특히 학생과 개인 사용자들에게 인기가 있을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "반디캠",
+          "곰캠"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "반디캠",
+            "founded_year": 2008,
+            "funding_status": "bootstrapped",
+            "differentiation": "맥 전용 최적화와 오픈소스라는 점에서 차별화"
+          }
+        ],
+        "regulatory_notes": "오픈소스 라이선스 관련 고려사항",
+        "localization_strategy": "한국어 인터페이스, 한국 개발자 커뮤니티 참여, 국내 교육기관 배포",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "맥 스크린샷",
+          "화면녹화"
+        ],
+        "trend_index": 16,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 99
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 81
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 80
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 51
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 49
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 16
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 187,
+      "thumbnail_url": "https://ph-files.imgix.net/8fed1aaa-f128-40de-b2ca-4580353e6ea6.png?auto=format",
+      "created_at": "2026-04-11T07:01:00Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 80,
+        "timing": 70,
+        "overall": 69
+      },
+      "timing_window": {
+        "avg_months": 3,
+        "category_history": [
+          {
+            "us_launch": "CleanMyMac (2009)",
+            "kr_equivalent": "알집 (1999)",
+            "gap_months": -120
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-11T20:21:12.995Z"
+}

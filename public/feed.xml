@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-10T20:25:57.816Z</updated>
+    <updated>2026-04-11T20:21:14.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-11 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-11</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-11T20:21:12.995Z</updated>
+        <summary type="html"><![CDATA[워드용 클로드 · CSS 스튜디오 · 클리키 · 애퍼처 · 맥용 보이서 · 1% 베터 · 캡소]]></summary>
+        <content type="html"><![CDATA[<h3>#1 워드용 클로드</h3><p>마이크로소프트 워드에 클로드 AI를 네이티브로 통합한 생산성 도구</p><h3>#2 CSS 스튜디오</h3><p>손으로 디자인하면 AI 에이전트가 자동으로 코드를 생성해주는 웹 디자인 도구</p><h3>#3 클리키</h3><p>맥에서 커서 옆에 상주하며 화면을 보고 도움을 주는 AI 어시스턴트</p><h3>#4 애퍼처</h3><p>기존 채용 시스템의 문제점을 해결하는 혁신적인 채용 플랫폼</p><h3>#6 맥용 보이서</h3><p>음성을 텍스트로 변환하고 개선 및 번역까지 제공하는 맥 전용 도구</p><h3>#8 1% 베터</h3><p>일상 습관의 복리 효과를 시각화해주는 습관 관리 앱</p><h3>#10 캡소</h3><p>맥용 무료 오픈소스 스크린샷 및 화면 녹화 도구</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-10 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-10</id>
