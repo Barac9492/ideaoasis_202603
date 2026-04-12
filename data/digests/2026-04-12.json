@@ -1,0 +1,1059 @@
+{
+  "date": "2026-04-12",
+  "ideas": [
+    {
+      "id": "ph-1121368",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/interactive-simulations-in-gemini",
+      "title_en": "Interactive Simulations in Gemini",
+      "tagline_en": "Gemini now lets you play with the concepts you ask about",
+      "title_ko": "제미나이 인터랙티브 시뮬레이션",
+      "summary_ko": "AI 대화형 학습을 통해 개념을 직접 체험할 수 있는 교육 플랫폼",
+      "analysis_ko": {
+        "description": "구글 제미나이 AI가 제공하는 인터랙티브 시뮬레이션 기능으로, 사용자가 질문한 개념을 직접 조작하고 실험할 수 있게 해주는 혁신적인 교육 도구입니다. 기존의 텍스트 기반 AI 답변을 넘어서 시각적이고 체험적인 학습 경험을 제공합니다.",
+        "market_fit": "한국의 높은 교육열과 에듀테크 시장 성장세를 고려할 때 매우 적합한 아이템입니다. 특히 수학, 과학 과목의 개념 이해가 중요한 한국 교육 환경에서 큰 호응을 얻을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "아이스크림에듀",
+          "천재교육 밀크T",
+          "웅진씽크빅",
+          "대교 눈높이"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "아이스크림에듀",
+            "founded_year": 2007,
+            "funding_status": "상장사 (교원그룹)",
+            "differentiation": "기존 동영상 강의 중심에서 AI 기반 인터랙티브 시뮬레이션으로 차별화"
+          },
+          {
+            "name": "천재교육 밀크T",
+            "founded_year": 2018,
+            "funding_status": "대기업 계열사",
+            "differentiation": "개념 설명 중심에서 직접 조작 가능한 시뮬레이션 환경 제공"
+          }
+        ],
+        "regulatory_notes": "교육 콘텐츠 관련 방송통신위원회 및 교육부 가이드라인 준수 필요",
+        "localization_strategy": "한국 교육과정에 맞춘 시뮬레이션 콘텐츠 개발, 한국어 자연어 처리 최적화",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI교육",
+          "인터랙티브학습"
+        ],
+        "trend_index": 29,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 92
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 81
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 29
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 273,
+      "thumbnail_url": "https://ph-files.imgix.net/dec29bf9-44dc-4588-a3dd-a5b0190ef2d7.avif?auto=format",
+      "created_at": "2026-04-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 25,
+        "timing": 90,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Khan Academy (2008)",
+            "kr_equivalent": "EBS Math (2010)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Coursera (2012)",
+            "kr_equivalent": "K-MOOC (2015)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1102577",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/music-marketplace-by-eleven-labs",
+      "title_en": "Music Marketplace by Eleven Labs",
+      "tagline_en": "Create a track. Publish it. Earn when it is used.",
+      "title_ko": "일레븐랩스 음악 마켓플레이스",
+      "summary_ko": "AI로 음악을 생성하고 라이선싱을 통해 수익을 창출하는 크리에이터 플랫폼",
+      "analysis_ko": {
+        "description": "AI 음성 기술로 유명한 일레븐랩스가 출시한 음악 생성 및 마켓플레이스 플랫폼으로, 사용자가 AI로 음악을 만들고 이를 상업적으로 라이선싱할 수 있게 해줍니다. 크리에이터 이코노미와 AI 기술이 결합된 혁신적인 비즈니스 모델입니다.",
+        "market_fit": "한국의 강력한 K-POP 문화와 음악 산업, 그리고 높은 크리에이터 활동 참여율을 고려할 때 매우 유망한 시장입니다. 특히 1인 크리에이터와 소규모 제작사들에게 새로운 수익 창출 기회를 제공할 수 있습니다.",
+        "competitors_kr": [
+          "멜론",
+          "지니뮤직",
+          "바이브",
+          "플로"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "사운드클라우드 코리아",
+            "founded_year": 2020,
+            "funding_status": "unknown",
+            "differentiation": "기존 음원 유통에서 AI 생성 음악 특화 마켓플레이스로 차별화"
+          }
+        ],
+        "regulatory_notes": "저작권법, 음악 저작권 협회(KOMCA) 관련 규정, AI 생성 콘텐츠 저작권 이슈 검토 필요",
+        "localization_strategy": "K-POP 스타일 AI 모델 개발, 한국 음악 저작권 시스템 연동, 한국어 가사 생성 기능",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI음악생성",
+          "음악마켓플레이스"
+        ],
+        "trend_index": 10,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 47
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 22
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 44
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 4
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 26
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 10
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 198,
+      "thumbnail_url": "https://ph-files.imgix.net/0eb249ea-a4ea-492c-babf-5aa6817db9b2.jpeg?auto=format",
+      "created_at": "2026-04-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 60,
+        "timing": 85,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Spotify (2008)",
+            "kr_equivalent": "멜론 (2004)",
+            "gap_months": -48
+          },
+          {
+            "us_launch": "Bandcamp (2008)",
+            "kr_equivalent": "사운드클라우드 코리아 (2020)",
+            "gap_months": 144
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1121525",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/ray-7",
+      "title_en": "Ray",
+      "tagline_en": "Your personal CFO in the terminal",
+      "title_ko": "레이",
+      "summary_ko": "터미널에서 작동하는 개인 재무관리 AI 어시스턴트",
+      "analysis_ko": {
+        "description": "개발자들을 위한 터미널 기반 개인 재무관리 도구로, 명령어를 통해 가계부, 투자 분석, 재무 계획 등을 관리할 수 있습니다. 개발자 친화적인 인터페이스와 AI 기반 재무 조언을 결합한 독특한 접근법을 제공합니다.",
+        "market_fit": "한국의 높은 개발자 밀도와 개인 재테크에 대한 관심 증가를 고려할 때 틈새 시장에서 성공 가능성이 높습니다. 특히 핀테크 친화적인 젊은 개발자층에게 어필할 수 있습니다.",
+        "competitors_kr": [
+          "뱅크샐러드",
+          "토스",
+          "카카오페이",
+          "머니브릿지"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "뱅크샐러드",
+            "founded_year": 2012,
+            "funding_status": "Series C $60M",
+            "differentiation": "GUI 기반 앱에서 개발자 특화 CLI 도구로 차별화"
+          },
+          {
+            "name": "토스",
+            "founded_year": 2013,
+            "funding_status": "상장사",
+            "differentiation": "일반 사용자 대상에서 개발자 타겟 전문 도구로 포지셔닝"
+          }
+        ],
+        "regulatory_notes": "금융정보 처리 관련 개인정보보호법, 전자금융거래법 준수 필요",
+        "localization_strategy": "한국 은행 API 연동, 원화 기반 재무 분석, 한국 세법 반영 세무 계산 기능",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "개인재무관리",
+          "핀테크도구"
+        ],
+        "trend_index": 55,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "fintech",
+      "ph_votes": 181,
+      "thumbnail_url": "https://ph-files.imgix.net/b3b7fe2a-3b92-42ae-aa08-b955e4f17519.png?auto=format",
+      "created_at": "2026-04-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 75,
+        "timing": 80,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Mint (2007)",
+            "kr_equivalent": "뱅크샐러드 (2012)",
+            "gap_months": 60
+          },
+          {
+            "us_launch": "Personal Capital (2009)",
+            "kr_equivalent": "머니브릿지 (2015)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47702196",
+      "rank": 4,
+      "source": "hackernews",
+      "source_url": "https://cssstudio.ai",
+      "title_en": "CSS Studio",
+      "tagline_en": "Design by hand, code by agent",
+      "title_ko": "CSS 스튜디오",
+      "summary_ko": "수동 디자인과 AI 에이전트 코딩을 결합한 웹 디자인 도구",
+      "analysis_ko": {
+        "description": "디자이너가 직접 디자인하면 AI 에이전트가 자동으로 코드를 생성해주는 혁신적인 웹 디자인 도구입니다. 기존 사이트에서 실시간으로 작동하며, 브라우저에서 바로 디자인 변경사항을 AI가 코드로 변환해 기존 코드베이스에 적용합니다.",
+        "market_fit": "한국의 활발한 웹 개발 시장과 디자인 업계에서 높은 수요가 예상됩니다. 특히 스타트업과 중소 웹 에이전시에서 개발 효율성 향상을 위해 적극 도입할 것으로 보입니다.",
+        "competitors_kr": [
+          "제플린",
+          "피그마 코리아",
+          "스케치",
+          "어도비 XD"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "피그마 코리아",
+            "founded_year": 2016,
+            "funding_status": "Adobe 인수 $20B",
+            "differentiation": "정적 디자인 도구에서 실시간 코드 생성 기능으로 차별화"
+          }
+        ],
+        "regulatory_notes": "소프트웨어 라이선스 관련 규정, AI 생성 코드의 지적재산권 이슈 검토 필요",
+        "localization_strategy": "한국어 UI/UX, 한국 웹 표준 및 접근성 가이드라인 반영, 국내 주요 CMS 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "웹디자인도구",
+          "AI코딩"
+        ],
+        "trend_index": 30,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 30
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 169,
+      "thumbnail_url": null,
+      "created_at": "2026-04-09T11:23:31.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 30,
+        "timing": 85,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 15,
+        "category_history": [
+          {
+            "us_launch": "Figma (2016)",
+            "kr_equivalent": "피그마 코리아 (2017)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Webflow (2013)",
+            "kr_equivalent": "아임웹 (2014)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1087846",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/r0y",
+      "title_en": "R0Y",
+      "tagline_en": "Natural language to Investing dashboards in seconds",
+      "title_ko": "R0Y",
+      "summary_ko": "자연어로 투자 대시보드를 즉시 생성하는 AI 투자 분석 도구",
+      "analysis_ko": {
+        "description": "사용자가 자연어로 질문하면 몇 초 만에 맞춤형 투자 대시보드를 생성해주는 AI 기반 투자 분석 플랫폼입니다. 복잡한 금융 데이터를 직관적인 시각화로 변환하여 개인 투자자도 쉽게 활용할 수 있게 해줍니다.",
+        "market_fit": "한국의 높은 개인투자 참여율과 데이터 기반 투자 문화 확산을 고려할 때 매우 적합합니다. 특히 MZ세대 투자자들의 간편하고 직관적인 투자 도구에 대한 수요가 높아 큰 성장 잠재력을 가지고 있습니다.",
+        "competitors_kr": [
+          "키움증권 영웅문",
+          "NH투자증권 나무",
+          "삼성증권 팝",
+          "한국투자증권 MTS"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "키움증권",
+            "founded_year": 1999,
+            "funding_status": "상장사",
+            "differentiation": "기존 복잡한 HTS에서 자연어 기반 간편 대시보드로 차별화"
+          },
+          {
+            "name": "토스증권",
+            "founded_year": 2021,
+            "funding_status": "비바리퍼블리카 계열사",
+            "differentiation": "단순 차트 제공에서 AI 기반 맞춤형 분석 대시보드로 진화"
+          }
+        ],
+        "regulatory_notes": "금융투자업법, 자본시장법, 투자자문업 등록 관련 규정 검토 필요",
+        "localization_strategy": "한국 주식시장 데이터 연동, 원화 기준 분석, 한국 투자자 행동 패턴 반영",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "투자분석도구",
+          "AI투자"
+        ],
+        "trend_index": 9,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 9
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 164,
+      "thumbnail_url": "https://ph-files.imgix.net/1761783e-b537-4f1f-89a6-574dfd8e4f17.png?auto=format",
+      "created_at": "2026-04-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 35,
+        "timing": 90,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Robinhood (2013)",
+            "kr_equivalent": "토스증권 (2021)",
+            "gap_months": 96
+          },
+          {
+            "us_launch": "TradingView (2011)",
+            "kr_equivalent": "한국투자증권 MTS (2015)",
+            "gap_months": 48
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1121546",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/layered-2",
+      "title_en": "Layered",
+      "tagline_en": "Turn your selfies into a personal AI stylist",
+      "title_ko": "레이어드",
+      "summary_ko": "셀카를 통해 개인 맞춤형 AI 스타일리스트 서비스를 제공하는 패션 앱",
+      "analysis_ko": {
+        "description": "사용자의 셀카를 분석하여 개인의 체형, 피부톤, 얼굴형에 맞는 패션 스타일링을 AI가 추천해주는 개인화된 스타일리스트 서비스입니다. 기존의 일반적인 패션 추천을 넘어서 개인의 특성을 정확히 분석한 맞춤형 조언을 제공합니다.",
+        "market_fit": "한국의 높은 외모 관심도와 K-뷰티, K-패션 문화를 고려할 때 매우 적합한 시장입니다. 특히 온라인 쇼핑 증가와 개인화 서비스에 대한 수요가 높아 큰 성장 가능성을 보입니다.",
+        "competitors_kr": [
+          "무신사",
+          "지그재그",
+          "브랜디",
+          "스타일쉐어"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스타일쉐어",
+            "founded_year": 2011,
+            "funding_status": "Series B $20M",
+            "differentiation": "소셜 패션 플랫폼에서 AI 기반 개인화 스타일링으로 차별화"
+          },
+          {
+            "name": "무신사",
+            "founded_year": 2001,
+            "funding_status": "상장사",
+            "differentiation": "상품 판매 중심에서 AI 개인 스타일리스트 서비스로 확장"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 생체정보 처리 관련 규정, 전자상거래법 준수 필요",
+        "localization_strategy": "한국인 체형 데이터 학습, K-패션 트렌드 반영, 국내 쇼핑몰 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI스타일링",
+          "개인맞춤패션"
+        ],
+        "trend_index": 70,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "lifestyle",
+      "ph_votes": 126,
+      "thumbnail_url": "https://ph-files.imgix.net/dbae254e-c1f5-4923-b4b6-a8774c2db0cc.png?auto=format",
+      "created_at": "2026-04-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 65,
+        "timing": 85,
+        "overall": 77
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Stitch Fix (2011)",
+            "kr_equivalent": "스타일쉐어 (2011)",
+            "gap_months": 0
+          },
+          {
+            "us_launch": "Pinterest (2010)",
+            "kr_equivalent": "스타일쉐어 (2011)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47721997",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "https://fluidcad.io/",
+      "title_en": "FluidCAD",
+      "tagline_en": "Parametric CAD with JavaScript",
+      "title_ko": "플루이드CAD",
+      "summary_ko": "자바스크립트 기반 파라메트릭 CAD 설계 도구",
+      "analysis_ko": {
+        "description": "자바스크립트를 사용하여 파라메트릭 3D 모델링을 할 수 있는 웹 기반 CAD 도구입니다. 기존 CAD 소프트웨어의 복잡성을 줄이고 프로그래밍 방식으로 정밀한 3D 설계를 가능하게 하여 개발자와 엔지니어 모두에게 친숙한 환경을 제공합니다.",
+        "market_fit": "한국의 강력한 제조업 기반과 높은 개발자 밀도를 고려할 때 적합한 시장입니다. 특히 스타트업과 중소 제조업체에서 비용 효율적인 CAD 솔루션에 대한 수요가 높아 성장 가능성이 있습니다.",
+        "competitors_kr": [
+          "솔리드웍스 코리아",
+          "오토캐드 코리아",
+          "퓨전360",
+          "인벤터"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "솔리드웍스 코리아",
+            "founded_year": 1995,
+            "funding_status": "다쏘시스템 계열사",
+            "differentiation": "고가 데스크톱 소프트웨어에서 웹 기반 프로그래밍 CAD로 차별화"
+          }
+        ],
+        "regulatory_notes": "소프트웨어 라이선스 관련 규정, 산업 설계 데이터 보안 요구사항 검토 필요",
+        "localization_strategy": "한국어 인터페이스, 한국 제조업 표준 반영, 국내 3D 프린팅 업체 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "웹CAD",
+          "3D모델링"
+        ],
+        "trend_index": 26,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 98
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 63
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 50
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 26
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 151,
+      "thumbnail_url": null,
+      "created_at": "2026-04-10T18:39:19.000Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 40,
+        "timing": 75,
+        "overall": 60
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "Onshape (2012)",
+            "kr_equivalent": "솔리드웍스 온라인 (2016)",
+            "gap_months": 48
+          },
+          {
+            "us_launch": "Fusion 360 (2013)",
+            "kr_equivalent": "퓨전360 코리아 (2015)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1097207",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/clarifierai-for-ios",
+      "title_en": "ClarifierAI for iOS",
+      "tagline_en": "Use AI for writing & translating your messages 10x faster",
+      "title_ko": "클래리파이어AI",
+      "summary_ko": "메시지 작성과 번역을 10배 빠르게 해주는 AI 글쓰기 도구",
+      "analysis_ko": {
+        "description": "iOS에서 메시지 작성과 번역을 AI로 자동화하여 커뮤니케이션 효율성을 크게 향상시키는 모바일 앱입니다. 실시간으로 문맥에 맞는 글쓰기 지원과 다국어 번역을 제공하여 글로벌 커뮤니케이션을 원활하게 해줍니다.",
+        "market_fit": "한국의 높은 모바일 사용률과 글로벌 비즈니스 증가, 그리고 효율적인 커뮤니케이션에 대한 수요를 고려할 때 적합한 시장입니다. 특히 영어 학습자와 글로벌 업무 종사자들에게 큰 도움이 될 것입니다.",
+        "competitors_kr": [
+          "파파고",
+          "구글 번역",
+          "딥엘",
+          "지니톡"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 파파고",
+            "founded_year": 2017,
+            "funding_status": "네이버 계열사",
+            "differentiation": "단순 번역에서 AI 기반 글쓰기 어시스턴트로 기능 확장"
+          },
+          {
+            "name": "구글 번역",
+            "founded_year": 2006,
+            "funding_status": "구글 계열사",
+            "differentiation": "번역 중심에서 맥락적 글쓰기 지원까지 포괄하는 서비스"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 통신비밀보호법 관련 메시지 처리 규정 검토 필요",
+        "localization_strategy": "한국어 자연어 처리 최적화, 한국 비즈니스 문화 반영 글쓰기 템플릿",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI글쓰기",
+          "번역앱"
+        ],
+        "trend_index": 23,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 77
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 64
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 23
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 126,
+      "thumbnail_url": "https://ph-files.imgix.net/f106d438-892a-452b-8907-96e4391b2639.png?auto=format",
+      "created_at": "2026-04-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 70,
+        "timing": 80,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Grammarly (2009)",
+            "kr_equivalent": "맞춤법 검사기 (2010)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Google Translate (2006)",
+            "kr_equivalent": "파파고 (2017)",
+            "gap_months": 132
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47678844",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://github.com/marimo-team/marimo-pair",
+      "title_en": "Marimo Pair",
+      "tagline_en": "Reactive Python notebooks as environments for agents",
+      "title_ko": "마리모 페어",
+      "summary_ko": "AI 에이전트를 위한 반응형 파이썬 노트북 환경",
+      "analysis_ko": {
+        "description": "AI 에이전트가 실행 중인 마리모 노트북 세션에서 작업할 수 있게 해주는 도구로, 에이전트가 마리모를 작업 메모리와 반응형 파이썬 런타임으로 활용할 수 있게 합니다. 데이터 과학과 AI 개발의 새로운 협업 방식을 제시합니다.",
+        "market_fit": "한국의 높은 AI/ML 개발자 밀도와 데이터 과학 분야 성장을 고려할 때 틈새 시장에서 성공 가능성이 있습니다. 특히 연구기관과 AI 스타트업에서 개발 효율성 향상을 위해 도입할 것으로 예상됩니다.",
+        "competitors_kr": [
+          "주피터 노트북",
+          "구글 콜랩",
+          "카글",
+          "네이버 클라우드 AI"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클라우드 AI",
+            "founded_year": 2017,
+            "funding_status": "네이버 계열사",
+            "differentiation": "기존 노트북 환경에서 AI 에이전트 협업 특화 환경으로 차별화"
+          }
+        ],
+        "regulatory_notes": "AI 개발 도구 관련 특별한 규제 없음, 데이터 처리 시 개인정보보호법 준수",
+        "localization_strategy": "한국어 문서화, 국내 AI 개발 커뮤니티 연계, 한국 대학 연구실 파트너십",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI개발도구",
+          "파이썬노트북"
+        ],
+        "trend_index": 10,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 10
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 10
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 138,
+      "thumbnail_url": null,
+      "created_at": "2026-04-07T17:47:46.000Z",
+      "score": {
+        "market_opportunity": 50,
+        "execution_difficulty": 45,
+        "timing": 85,
+        "overall": 59
+      },
+      "timing_window": {
+        "avg_months": 9,
+        "category_history": [
+          {
+            "us_launch": "Jupyter (2014)",
+            "kr_equivalent": "주피터 코리아 (2015)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Google Colab (2017)",
+            "kr_equivalent": "네이버 클라우드 AI (2018)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47742200",
+      "rank": 10,
+      "source": "hackernews",
+      "source_url": "https://boringbar.app/",
+      "title_en": "boringBar",
+      "tagline_en": "A taskbar-style dock replacement for macOS",
+      "title_ko": "보링바",
+      "summary_ko": "macOS용 작업표시줄 스타일 독 대체 앱",
+      "analysis_ko": {
+        "description": "macOS의 기본 독을 Windows 스타일의 작업표시줄로 대체하는 유틸리티 앱으로, 생산성 향상을 위한 더 효율적인 앱 관리 인터페이스를 제공합니다. 특히 Windows에서 Mac으로 전환한 사용자들에게 친숙한 환경을 제공합니다.",
+        "market_fit": "한국의 높은 Mac 사용률과 생산성 도구에 대한 관심을 고려할 때 틈새 시장에서 성공 가능성이 있습니다. 특히 개발자와 디자이너 등 전문직 종사자들 사이에서 수요가 있을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "알프레드",
+          "바텐더",
+          "맥시",
+          "독독"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "macOS 앱스토어 정책 준수, 시스템 레벨 접근 권한 관련 보안 검토 필요",
+        "localization_strategy": "한국어 인터페이스, 한국 사용자 워크플로우 최적화, 한글 입력 환경 지원",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "맥유틸리티",
+          "생산성앱"
+        ],
+        "trend_index": 71,
+        "trend_direction": "down",
+        "period": "2025-06-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-06-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 71
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 155,
+      "thumbnail_url": null,
+      "created_at": "2026-04-12T17:25:44.000Z",
+      "score": {
+        "market_opportunity": 40,
+        "execution_difficulty": 80,
+        "timing": 70,
+        "overall": 60
+      },
+      "timing_window": {
+        "avg_months": 3,
+        "category_history": [
+          {
+            "us_launch": "Alfred (2010)",
+            "kr_equivalent": "알프레드 코리아 (2011)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Bartender (2012)",
+            "kr_equivalent": "바텐더 코리아 (2012)",
+            "gap_months": 6
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-12T20:24:16.874Z"
+}
