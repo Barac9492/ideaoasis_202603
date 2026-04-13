@@ -1,0 +1,973 @@
+{
+  "date": "2026-04-13",
+  "ideas": [
+    {
+      "id": "ph-1113299",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/krisp-accent-converter-for-youtube",
+      "title_en": "Krisp Accent Converter for YouTube",
+      "tagline_en": "YouTube, but you clearly understand everyone",
+      "title_ko": "크리스프 유튜브 억양 변환기",
+      "summary_ko": "유튜브 영상의 다양한 억양을 실시간으로 표준 발음으로 변환해주는 AI 도구",
+      "analysis_ko": {
+        "description": "유튜브 영상 시청 시 다양한 억양과 발음을 실시간으로 표준 발음으로 변환해주는 AI 기반 도구입니다. 특히 영어 학습자나 다국적 콘텐츠 소비자들이 더 명확하게 내용을 이해할 수 있도록 돕습니다.",
+        "market_fit": "한국의 높은 영어 학습 열기와 글로벌 콘텐츠 소비 증가로 매우 높은 시장 적합성을 보입니다. 특히 토익, 토플 등 영어 시험 준비생들과 직장인들의 영어 학습 도구로 활용 가능성이 큽니다.",
+        "competitors_kr": [
+          "네이버 파파고",
+          "구글 번역",
+          "엘리스 AI"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 파파고",
+            "founded_year": 2017,
+            "funding_status": "네이버 자회사",
+            "differentiation": "번역이 아닌 억양 변환에 특화되어 원본 음성의 뉘앙스를 유지하면서 이해도만 높임"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 음성 데이터 처리에 대한 동의 필요, 저작권법상 유튜브 콘텐츠 변조 관련 검토 필요",
+        "localization_strategy": "한국어-영어 억양 변환 기능 추가, 한국 영어 교육 커리큘럼과 연계된 학습 모드 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "영어발음교정",
+          "유튜브학습"
+        ],
+        "trend_index": 19,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 77
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 51
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 19
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 289,
+      "thumbnail_url": "https://ph-files.imgix.net/f46d4d6b-82ea-44a6-9751-96f72211403e.gif?auto=format",
+      "created_at": "2026-04-13T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 60,
+        "timing": 90,
+        "overall": 79
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Grammarly (2009)",
+            "kr_equivalent": "잡코리아 영문이력서 (2011)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Duolingo (2011)",
+            "kr_equivalent": "캐치잇플레이 (2013)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1122140",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/cleo-labs",
+      "title_en": "Cleo Labs",
+      "tagline_en": "Automate global compliance for selling physical products",
+      "title_ko": "클레오 랩스",
+      "summary_ko": "물리적 제품의 글로벌 판매를 위한 규제 준수를 자동화하는 B2B 솔루션",
+      "analysis_ko": {
+        "description": "전 세계 각국의 제품 안전 규정, 인증 요구사항, 라벨링 규칙 등을 자동으로 분석하고 준수 방안을 제시하는 B2B 플랫폼입니다. 특히 중소기업의 해외 진출 시 복잡한 규제 장벽을 해결해줍니다.",
+        "market_fit": "K-뷰티, K-푸드 등 한국 제품의 해외 진출이 활발한 상황에서 매우 높은 시장 수요가 예상됩니다. 정부의 수출 지원 정책과도 부합하여 공공 부문 협력 가능성도 큽니다.",
+        "competitors_kr": [
+          "트레이드링스",
+          "케이트레이드",
+          "수출바우처"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "트레이드링스",
+            "founded_year": 2018,
+            "funding_status": "Series A $5M",
+            "differentiation": "수동 컨설팅이 아닌 AI 기반 자동화된 규제 준수 솔루션 제공"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 전자상거래법 준수 필요, 각국 규제 정보의 정확성에 대한 법적 책임 검토 필요",
+        "localization_strategy": "한국 주요 수출 품목(화장품, 식품, 전자제품) 특화 모듈 개발, KOTRA와 협력 체계 구축",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "수출규제",
+          "글로벌진출"
+        ],
+        "trend_index": 6,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 24
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 25
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 6
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 13
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 38
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 40
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 6
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 208,
+      "thumbnail_url": "https://ph-files.imgix.net/b39c48d6-2833-41aa-a398-41aac724c483.jpeg?auto=format",
+      "created_at": "2026-04-13T07:01:00Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 40,
+        "timing": 85,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Flexport (2013)",
+            "kr_equivalent": "쉽다 (2016)",
+            "gap_months": 36
+          },
+          {
+            "us_launch": "Freightos (2012)",
+            "kr_equivalent": "로지스올 (2015)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1105337",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/luma-agents",
+      "title_en": "Luma Agents",
+      "tagline_en": "Agents that plan, iterate, + refine w/ full creative context",
+      "title_ko": "루마 에이전트",
+      "summary_ko": "창작 맥락을 완전히 이해하며 기획부터 반복 개선까지 수행하는 AI 에이전트",
+      "analysis_ko": {
+        "description": "창작 프로젝트의 전체 맥락을 이해하고 기획, 실행, 피드백 반영을 통한 반복 개선을 자동으로 수행하는 AI 에이전트입니다. 디자이너, 마케터, 콘텐츠 크리에이터들의 창작 워크플로우를 혁신적으로 개선합니다.",
+        "market_fit": "한국의 활발한 크리에이터 경제와 K-콘텐츠 산업 성장으로 높은 시장 잠재력을 보입니다. 특히 1인 크리에이터와 소규모 에이전시들의 생산성 향상 도구로 활용 가능합니다.",
+        "competitors_kr": [
+          "뤼튼",
+          "클로바X",
+          "하이퍼클로바"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "뤼튼",
+            "founded_year": 2021,
+            "funding_status": "Series B $60M",
+            "differentiation": "단순 텍스트 생성이 아닌 창작 프로젝트의 전체 라이프사이클 관리에 특화"
+          }
+        ],
+        "regulatory_notes": "저작권법상 AI 생성 콘텐츠의 권리 귀속 문제, 개인정보보호법상 창작 데이터 처리 동의 필요",
+        "localization_strategy": "한국 콘텐츠 트렌드 학습 모델 구축, K-pop, 웹툰 등 한국 특화 창작 템플릿 제공",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI창작도구",
+          "크리에이터"
+        ],
+        "trend_index": 51,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 56
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 48
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 51
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 229,
+      "thumbnail_url": "https://ph-files.imgix.net/01bf4636-ef5f-4d04-b23a-261a2fefe86d.jpeg?auto=format",
+      "created_at": "2026-04-13T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 35,
+        "timing": 75,
+        "overall": 66
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Midjourney (2022)",
+            "kr_equivalent": "뤼튼 이미지 (2023)",
+            "gap_months": 8
+          },
+          {
+            "us_launch": "ChatGPT (2022)",
+            "kr_equivalent": "클로바X (2023)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47742200",
+      "rank": 4,
+      "source": "hackernews",
+      "source_url": "https://boringbar.app/",
+      "title_en": "boringBar",
+      "tagline_en": "a taskbar-style dock replacement for macOS",
+      "title_ko": "보링바",
+      "summary_ko": "macOS용 작업표시줄 스타일의 독 대체 앱",
+      "analysis_ko": {
+        "description": "macOS의 기본 독을 Windows 스타일의 작업표시줄로 대체하는 생산성 도구입니다. 특히 Windows에서 Mac으로 전환한 사용자들의 사용성을 크게 개선합니다.",
+        "market_fit": "한국의 높은 Mac 사용률과 Windows에서 Mac으로 전환하는 직장인들이 증가하는 추세로 좋은 시장 적합성을 보입니다. 특히 개발자와 디자이너 커뮤니티에서 높은 관심을 받을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "uBar",
+          "HyperDock",
+          "DockView"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 이슈 없음, 앱스토어 정책 준수 필요",
+        "localization_strategy": "한국어 UI 지원, 한글 입력 최적화, 한국 사용자 선호 단축키 설정 제공",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "맥생산성",
+          "독대체"
+        ],
+        "trend_index": 45,
+        "trend_direction": "flat",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 489,
+      "thumbnail_url": null,
+      "created_at": "2026-04-12T17:25:44.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 85,
+        "timing": 70,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Alfred (2010)",
+            "kr_equivalent": "런처 앱들 (2011)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Bartender (2013)",
+            "kr_equivalent": "메뉴바 관리 앱들 (2014)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1122264",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/clarm-2",
+      "title_en": "Clarm",
+      "tagline_en": "AI inbound layer to capture, qualify, and route leads",
+      "title_ko": "클람",
+      "summary_ko": "리드를 자동으로 포착, 검증, 라우팅하는 AI 인바운드 마케팅 솔루션",
+      "analysis_ko": {
+        "description": "웹사이트 방문자를 자동으로 분석하여 잠재 고객을 식별하고, 자격을 검증한 후 적절한 영업팀에게 자동 배정하는 AI 기반 B2B 마케팅 도구입니다. 리드 관리의 전 과정을 자동화하여 영업 효율성을 크게 향상시킵니다.",
+        "market_fit": "한국 B2B 기업들의 디지털 전환 가속화와 영업 자동화 수요 증가로 높은 시장 잠재력을 보입니다. 특히 SaaS 기업과 IT 서비스 회사들의 관심이 클 것으로 예상됩니다.",
+        "competitors_kr": [
+          "세일즈포스",
+          "허브스팟",
+          "그로스해킹"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "그로스해킹",
+            "founded_year": 2019,
+            "funding_status": "Series A $10M",
+            "differentiation": "단순 CRM이 아닌 AI 기반 실시간 리드 스코링과 자동 라우팅에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 웹 추적 및 고객 데이터 수집에 대한 동의 절차 필요",
+        "localization_strategy": "한국 B2B 영업 문화에 맞는 리드 스코링 모델 개발, 국내 주요 CRM과의 연동 지원",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "리드관리",
+          "영업자동화"
+        ],
+        "trend_index": 55,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 130,
+      "thumbnail_url": "https://ph-files.imgix.net/c0c4d85d-95f3-400f-bf35-4e83aa603552.gif?auto=format",
+      "created_at": "2026-04-13T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 70,
+        "timing": 80,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "HubSpot (2006)",
+            "kr_equivalent": "그로스해킹 (2019)",
+            "gap_months": 156
+          },
+          {
+            "us_launch": "Intercom (2011)",
+            "kr_equivalent": "채널톡 (2014)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47702196",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://cssstudio.ai",
+      "title_en": "CSS Studio",
+      "tagline_en": "Design by hand, code by agent",
+      "title_ko": "CSS 스튜디오",
+      "summary_ko": "수동 디자인을 AI 에이전트가 자동으로 코드로 변환하는 웹 디자인 도구",
+      "analysis_ko": {
+        "description": "디자이너가 시각적으로 디자인한 내용을 AI 에이전트가 실시간으로 CSS 코드로 변환하여 기존 코드베이스에 자동 적용하는 혁신적인 웹 디자인 도구입니다. 디자인과 개발 간의 간극을 완전히 해소합니다.",
+        "market_fit": "한국의 활발한 웹 개발 시장과 디자인-개발 협업 효율화 수요로 높은 시장 잠재력을 보입니다. 특히 스타트업과 중소 웹 에이전시들의 생산성 향상에 크게 기여할 것으로 예상됩니다.",
+        "competitors_kr": [
+          "피그마",
+          "제플린",
+          "스케치"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 이슈 없음, 소프트웨어 라이선스 정책 준수 필요",
+        "localization_strategy": "한국어 UI 지원, 국내 주요 웹 프레임워크와의 연동 최적화, 한국 웹 디자인 트렌드 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "웹디자인도구",
+          "CSS자동화"
+        ],
+        "trend_index": 50,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 172,
+      "thumbnail_url": null,
+      "created_at": "2026-04-09T11:23:31.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 65,
+        "timing": 85,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Figma (2016)",
+            "kr_equivalent": "국내 도입 (2017)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Webflow (2013)",
+            "kr_equivalent": "국내 유사 서비스 (2015)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1122226",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/contextpool",
+      "title_en": "ContextPool",
+      "tagline_en": "Persistent memory for AI coding agents",
+      "title_ko": "컨텍스트풀",
+      "summary_ko": "AI 코딩 에이전트를 위한 지속적 메모리 시스템",
+      "analysis_ko": {
+        "description": "AI 코딩 에이전트가 프로젝트 전반에 걸쳐 컨텍스트와 학습 내용을 지속적으로 기억하고 활용할 수 있도록 하는 메모리 관리 시스템입니다. 장기간 프로젝트에서 AI의 일관성과 효율성을 크게 향상시킵니다.",
+        "market_fit": "한국의 높은 개발자 밀도와 AI 도구 도입 증가 추세로 좋은 시장 적합성을 보입니다. 특히 대규모 소프트웨어 프로젝트를 진행하는 기업들의 관심이 클 것으로 예상됩니다.",
+        "competitors_kr": [
+          "깃허브 코파일럿",
+          "코드T5",
+          "AI코딩"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법상 코드 데이터 처리 동의 필요, 기업 기밀 정보 보호 방안 마련 필요",
+        "localization_strategy": "한국어 코드 주석 처리 최적화, 국내 개발 환경과의 연동 지원, 한국 개발자 커뮤니티 협력",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI코딩",
+          "개발도구"
+        ],
+        "trend_index": 32,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 32
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 150,
+      "thumbnail_url": "https://ph-files.imgix.net/d946f9eb-48a5-4a4c-9c02-6cdddf6e7dd5.png?auto=format",
+      "created_at": "2026-04-13T07:01:00Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 45,
+        "timing": 75,
+        "overall": 61
+      },
+      "timing_window": {
+        "avg_months": 8,
+        "category_history": [
+          {
+            "us_launch": "GitHub Copilot (2021)",
+            "kr_equivalent": "국내 도입 (2022)",
+            "gap_months": 6
+          },
+          {
+            "us_launch": "Cursor (2023)",
+            "kr_equivalent": "국내 유사 도구 (2024)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1122373",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/voxcpm2",
+      "title_en": "VoxCPM2",
+      "tagline_en": "Open-source 48kHz TTS with voice design and cloning",
+      "title_ko": "복스CPM2",
+      "summary_ko": "음성 디자인과 클로닝 기능을 갖춘 오픈소스 고품질 TTS 엔진",
+      "analysis_ko": {
+        "description": "48kHz 고품질 음성 합성과 음성 클로닝 기능을 제공하는 오픈소스 TTS 엔진입니다. 특히 음성 디자인 기능을 통해 원하는 톤과 스타일의 음성을 자유롭게 생성할 수 있습니다.",
+        "market_fit": "한국의 활발한 오디오 콘텐츠 시장과 AI 음성 기술 수요 증가로 높은 시장 잠재력을 보입니다. 특히 팟캐스트, 오디오북, 게임 업계에서 큰 관심을 받을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오 음성합성",
+          "엘솔루"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "엘솔루",
+            "founded_year": 2020,
+            "funding_status": "Series A $15M",
+            "differentiation": "상용 서비스가 아닌 오픈소스로 제공되어 자유로운 커스터마이징과 상업적 활용 가능"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 음성 데이터 처리 동의 필요, 딥페이크 방지법 관련 규제 준수 필요",
+        "localization_strategy": "한국어 음성 모델 최적화, K-pop 아티스트 음성 스타일 템플릿 제공, 한국 방송 표준 준수",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "음성합성",
+          "TTS기술"
+        ],
+        "trend_index": 16,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-02-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 39
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 13
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 37
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 29
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 26
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 16
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 108,
+      "thumbnail_url": "https://ph-files.imgix.net/0d0bd158-3937-4dfb-8c17-384732ce954e.avif?auto=format",
+      "created_at": "2026-04-13T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 50,
+        "timing": 80,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 15,
+        "category_history": [
+          {
+            "us_launch": "ElevenLabs (2022)",
+            "kr_equivalent": "엘솔루 (2023)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Murf (2020)",
+            "kr_equivalent": "국내 TTS 서비스들 (2021)",
+            "gap_months": 18
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47721997",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://fluidcad.io/",
+      "title_en": "FluidCAD",
+      "tagline_en": "Parametric CAD with JavaScript",
+      "title_ko": "플루이드CAD",
+      "summary_ko": "자바스크립트 기반의 파라메트릭 CAD 설계 도구",
+      "analysis_ko": {
+        "description": "자바스크립트를 사용하여 파라메트릭 3D 모델링을 수행할 수 있는 웹 기반 CAD 도구입니다. 프로그래밍 방식의 설계로 복잡한 형상도 정확하고 반복 가능하게 생성할 수 있습니다.",
+        "market_fit": "한국의 강력한 제조업 기반과 3D 프린팅 시장 성장으로 좋은 시장 적합성을 보입니다. 특히 스타트업과 개인 제작자들이 저렴한 CAD 솔루션을 찾는 수요가 증가하고 있습니다.",
+        "competitors_kr": [
+          "솔리드웍스",
+          "오토캐드",
+          "퓨전360"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 이슈 없음, 소프트웨어 라이선스 정책 준수 필요",
+        "localization_strategy": "한국어 UI 지원, 한국 제조업 표준 템플릿 제공, 국내 3D 프린터와의 연동 최적화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "CAD프로그램",
+          "3D모델링"
+        ],
+        "trend_index": 28,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 63
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 61
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 50
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 74
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 28
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 155,
+      "thumbnail_url": null,
+      "created_at": "2026-04-10T18:39:19.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 70,
+        "timing": 65,
+        "overall": 64
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "Onshape (2012)",
+            "kr_equivalent": "국내 클라우드 CAD (2016)",
+            "gap_months": 48
+          },
+          {
+            "us_launch": "Tinkercad (2011)",
+            "kr_equivalent": "국내 웹 CAD 도구들 (2014)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47749674",
+      "rank": 10,
+      "source": "hackernews",
+      "source_url": "https://github.com/brightbeanxyz/brightbean-studio",
+      "title_en": "Brightbean Studio",
+      "tagline_en": "I built a social media management tool in 3 weeks with Claude and Codex",
+      "title_ko": "브라이트빈 스튜디오",
+      "summary_ko": "Claude와 Codex로 3주 만에 개발한 소셜미디어 관리 도구",
+      "analysis_ko": {
+        "description": "AI 도구들을 활용하여 단기간에 개발된 소셜미디어 관리 플랫폼으로, 콘텐츠 기획부터 게시까지의 전 과정을 자동화합니다. 특히 빠른 개발 속도와 AI 기반 기능들이 특징입니다.",
+        "market_fit": "한국의 활발한 소셜미디어 마케팅 시장과 1인 크리에이터 증가로 높은 시장 잠재력을 보입니다. 특히 중소기업과 개인 사업자들의 소셜미디어 관리 자동화 수요가 큽니다.",
+        "competitors_kr": [
+          "후터스위트",
+          "버퍼",
+          "스프라우트소셜"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법상 소셜미디어 데이터 처리 동의 필요, 각 플랫폼의 API 정책 준수 필요",
+        "localization_strategy": "한국 주요 소셜미디어 플랫폼 연동, 한국어 콘텐츠 최적화 기능, 한국 마케팅 트렌드 반영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "소셜미디어관리",
+          "SNS마케팅"
+        ],
+        "trend_index": 3,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 11
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 9
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 8
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 7
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 9
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 3
+          }
+        ]
+      },
+      "category": "social",
+      "ph_votes": 173,
+      "thumbnail_url": null,
+      "created_at": "2026-04-13T09:26:56.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 80,
+        "timing": 70,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Hootsuite (2008)",
+            "kr_equivalent": "국내 SNS 관리 도구들 (2010)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Buffer (2010)",
+            "kr_equivalent": "국내 유사 서비스들 (2012)",
+            "gap_months": 24
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-13T20:43:09.427Z"
+}
