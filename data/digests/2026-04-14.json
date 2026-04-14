@@ -1,0 +1,484 @@
+{
+  "date": "2026-04-14",
+  "ideas": [
+    {
+      "id": "ph-1106192",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/figma-for-agents",
+      "title_en": "Figma for Agents",
+      "tagline_en": "Design with AI agents, connected to your design system",
+      "title_ko": "에이전트용 피그마",
+      "summary_ko": "디자인 시스템과 연결된 AI 에이전트와 함께 디자인하는 협업 도구",
+      "analysis_ko": {
+        "description": "기존 피그마의 디자인 워크플로우에 AI 에이전트를 통합하여 디자인 시스템과 연결된 자동화된 디자인 작업을 가능하게 하는 도구입니다. 디자이너가 AI와 협업하여 일관성 있는 디자인을 빠르게 생성할 수 있습니다.",
+        "market_fit": "한국의 디자인 에이전시와 IT 기업들이 디자인 생산성 향상에 관심이 높고, 특히 스타트업들이 빠른 프로토타이핑을 위해 AI 도구 도입을 적극 검토하고 있어 시장 적합성이 높습니다.",
+        "competitors_kr": [
+          "미리캔버스",
+          "망고보드",
+          "디자인스펙"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "미리캔버스",
+            "founded_year": 2014,
+            "funding_status": "Series C $50M",
+            "differentiation": "미리캔버스는 템플릿 기반 디자인에 집중하는 반면, 이 제품은 AI 에이전트와의 실시간 협업과 디자인 시스템 통합에 특화"
+          }
+        ],
+        "regulatory_notes": "디자인 도구 자체에는 특별한 규제가 없으나, AI 기능 관련 개인정보보호법 준수 필요",
+        "localization_strategy": "한국어 UI/UX 지원, 한국 디자인 트렌드 반영한 템플릿 제공, 카카오워크/슬랙 등 국내 협업 도구와의 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 디자인",
+          "피그마 대안"
+        ],
+        "trend_index": 30,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 30
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 386,
+      "thumbnail_url": "https://ph-files.imgix.net/83173f69-96c2-42be-bc07-193504c2b761.png?auto=format",
+      "created_at": "2026-04-14T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 65,
+        "timing": 90,
+        "overall": 80
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Figma (2016)",
+            "kr_equivalent": "미리캔버스 (2014)",
+            "gap_months": -24
+          },
+          {
+            "us_launch": "Canva (2013)",
+            "kr_equivalent": "망고보드 (2015)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1123001",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/softr-ai-co-builder",
+      "title_en": "Softr AI Co-Builder",
+      "tagline_en": "Build business apps with AI - that actually work",
+      "title_ko": "소프터 AI 코빌더",
+      "summary_ko": "실제로 작동하는 비즈니스 앱을 AI와 함께 구축하는 노코드 플랫폼",
+      "analysis_ko": {
+        "description": "비개발자도 AI의 도움을 받아 실용적인 비즈니스 애플리케이션을 구축할 수 있는 노코드 플랫폼입니다. 기존 노코드 도구의 한계를 AI로 극복하여 더 복잡한 비즈니스 로직도 구현 가능합니다.",
+        "market_fit": "한국 중소기업과 스타트업의 디지털 전환 수요가 높고, 개발자 부족 문제로 노코드 솔루션에 대한 관심이 증가하고 있어 시장 진입 시점이 적절합니다.",
+        "competitors_kr": [
+          "아임웹",
+          "카페24",
+          "고도몰"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "아임웹",
+            "founded_year": 2012,
+            "funding_status": "Series B $20M",
+            "differentiation": "아임웹은 웹사이트 빌더에 집중하는 반면, 이 제품은 AI 기반 비즈니스 앱 개발에 특화되어 더 복잡한 워크플로우 구현 가능"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 전자상거래법 준수 필요. 금융 관련 앱 구축 시 금융위원회 규제 고려",
+        "localization_strategy": "한국어 자연어 처리 최적화, 국내 결제 시스템 연동, 한국 비즈니스 관행에 맞는 템플릿 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "노코드",
+          "앱 제작"
+        ],
+        "trend_index": 15,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 36
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 36
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 23
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 43
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 43
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 45
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 28
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 41
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 15
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 300,
+      "thumbnail_url": "https://ph-files.imgix.net/f86b4fe9-8ace-42d5-9e90-830ffcfcd4b3.png?auto=format",
+      "created_at": "2026-04-14T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 70,
+        "timing": 85,
+        "overall": 78
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Bubble (2012)",
+            "kr_equivalent": "아임웹 (2012)",
+            "gap_months": 0
+          },
+          {
+            "us_launch": "Webflow (2013)",
+            "kr_equivalent": "스티비 (2014)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1115093",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/fuseai",
+      "title_en": "FuseAI",
+      "tagline_en": "Close 10x more revenue with AI agents",
+      "title_ko": "퓨즈AI",
+      "summary_ko": "AI 에이전트로 매출을 10배 증가시키는 세일즈 자동화 플랫폼",
+      "analysis_ko": {
+        "description": "AI 에이전트를 활용하여 리드 생성부터 계약 체결까지 세일즈 프로세스를 자동화하고 최적화하는 플랫폼입니다. 고객 데이터 분석과 개인화된 영업 접근을 통해 전환율을 극대화합니다.",
+        "market_fit": "한국 B2B 기업들의 세일즈 디지털화 요구가 높고, 특히 SaaS 기업들이 효율적인 세일즈 자동화 솔루션을 찾고 있어 시장 수요가 존재합니다.",
+        "competitors_kr": [
+          "세일즈포스코리아",
+          "허브스팟코리아",
+          "플렉스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "플렉스",
+            "founded_year": 2019,
+            "funding_status": "Series A $5M",
+            "differentiation": "플렉스는 CRM 중심인 반면, 이 제품은 AI 에이전트 기반 자동화된 세일즈 실행에 특화되어 더 능동적인 영업 활동 지원"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 정보통신망법 준수 필요. 영업 활동 시 스팸 방지법 고려",
+        "localization_strategy": "한국어 자연어 처리, 국내 비즈니스 문화에 맞는 영업 스크립트, 네이버 비즈니스 등 국내 플랫폼 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "세일즈 자동화",
+          "AI 영업"
+        ],
+        "trend_index": 55,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 214,
+      "thumbnail_url": "https://ph-files.imgix.net/98c3bb40-13c2-4343-977c-987ce1057b78.jpeg?auto=format",
+      "created_at": "2026-04-14T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 55,
+        "timing": 80,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Salesforce (1999)",
+            "kr_equivalent": "세일즈포스코리아 (2010)",
+            "gap_months": 132
+          },
+          {
+            "us_launch": "HubSpot (2006)",
+            "kr_equivalent": "허브스팟코리아 (2018)",
+            "gap_months": 144
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1108834",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/recall-2-0",
+      "title_en": "Recall 2.0",
+      "tagline_en": "Curate an AI that knows what you know",
+      "title_ko": "리콜 2.0",
+      "summary_ko": "사용자가 아는 모든 것을 학습하는 개인화된 AI 어시스턴트",
+      "analysis_ko": {
+        "description": "사용자의 개인 데이터, 문서, 대화 기록 등을 학습하여 개인화된 지식 베이스를 구축하는 AI 어시스턴트입니다. 사용자만의 컨텍스트를 이해하고 맞춤형 답변을 제공합니다.",
+        "market_fit": "한국 직장인들의 정보 관리와 생산성 향상 니즈가 높고, 개인화된 AI 서비스에 대한 관심이 증가하고 있어 시장 잠재력이 있습니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오 아이"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바",
+            "founded_year": 2017,
+            "funding_status": "Corporate venture",
+            "differentiation": "클로바는 범용 AI인 반면, 이 제품은 개인 데이터 학습을 통한 완전 개인화된 AI 어시스턴트에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 엄격 준수 필요. 개인 데이터 처리 동의 및 보안 강화 필수",
+        "localization_strategy": "한국어 자연어 처리 최적화, 국내 클라우드 서비스 연동, 한국 업무 문화 반영한 기능 개발",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "개인화 AI",
+          "지식 관리"
+        ],
+        "trend_index": 50,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 50
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 186,
+      "thumbnail_url": "https://ph-files.imgix.net/05a083af-a458-4997-823a-c5441d1c6d8f.gif?auto=format",
+      "created_at": "2026-04-14T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 50,
+        "timing": 75,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Notion AI (2023)",
+            "kr_equivalent": "타이프드 (2021)",
+            "gap_months": -24
+          },
+          {
+            "us_launch": "Obsidian (2020)",
+            "kr_equivalent": "로그시크 (2022)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47756569",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://www.ithihasas.in",
+      "title_en": "Ithihāsas",
+      "tagline_en": "a character explorer for Hindu epics, built in a few hours",
+      "title_ko": "이티하사스",
+      "summary_ko": "힌두 서사시 캐릭터 탐색기",
+      "analysis_ko": {
+        "description": "마하바라타와 라마야나 같은 힌두 서사시의 등장인물들을 쉽게 탐색하고 이해할 수 있게 해주는 웹 애플리케이션입니다. 복잡한 서사 구조를 시각적으로 정리하여 제공합니다.",
+        "market_fit": "한국의 인도 문화 관심층과 종교학 연구자들에게는 틈새 시장이 있으나, 전체적으로는 제한적인 시장 규모를 가집니다. 교육 콘텐츠로서의 활용 가능성이 있습니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 없음",
+        "localization_strategy": "한국어 번역, 한국 불교 문화와의 연관성 설명, 한국 교육기관과의 협력",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "힌두교",
+          "인도 문화"
+        ],
+        "trend_index": 27,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 43
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 43
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 37
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 27
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 166,
+      "thumbnail_url": null,
+      "created_at": "2026-04-13T19:10:07.000Z",
+      "score": {
+        "market_opportunity": 25,
+        "execution_difficulty": 90,
+        "timing": 50,
+        "overall": 50
+      },
+      "timing_window": null
+    }
+  ],
+  "generated_at": "2026-04-14T20:42:43.718Z"
+}
