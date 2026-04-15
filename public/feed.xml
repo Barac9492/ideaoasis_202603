@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-14T20:42:46.497Z</updated>
+    <updated>2026-04-15T20:38:15.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-15 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-15</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-15T20:38:12.437Z</updated>
+        <summary type="html"><![CDATA[인텐트 · 패덤 3.0 · 트랙 석세션 · 롤 · 랭알파 · 이티하사스 · 보링바 · 머쉬 · 아벡 · 데프터 노트 2.0]]></summary>
+        <content type="html"><![CDATA[<h3>#1 인텐트</h3><p>기능을 설명하면 AI 에이전트가 자동으로 빌드, 검증, 배포까지 완료하는 개발 자동화 플랫폼</p><h3>#2 패덤 3.0</h3><p>봇 없이 작동하는 AI 회의 노트 서비스로 ChatGPT와 Claude 연동 지원</p><h3>#3 트랙 석세션</h3><p>미국 상장기업의 CEO, CFO 변동사항을 SEC 파일링에서 실시간으로 추적하는 서비스</p><h3>#4 롤</h3><p>스마트폰을 일회용 카메라처럼 사용할 수 있게 해주는 앱</p><h3>#5 랭알파</h3><p>월스트리트를 위해 특화된 Claude Code 스타일의 금융 AI 도구</p><h3>#6 이티하사스</h3><p>힌두 서사시 등장인물을 탐색할 수 있는 캐릭터 익스플로러</p><h3>#7 보링바</h3><p>macOS용 태스크바 스타일의 독 대체 앱</p><h3>#8 머쉬</h3><p>Wi-Fi, 이더넷, 5G를 결합하여 최대 다운로드 속도를 구현하는 앱</p><h3>#9 아벡</h3><p>Gmail 받은편지함을 몇 초만에 처리할 수 있는 iOS 이메일 앱</p><h3>#10 데프터 노트 2.0</h3><p>손글씨와 공간적 사고를 결합한 노트 앱</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-14 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-14</id>

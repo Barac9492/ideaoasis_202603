@@ -1,0 +1,957 @@
+{
+  "date": "2026-04-15",
+  "ideas": [
+    {
+      "id": "ph-1122688",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/intent-9",
+      "title_en": "Intent",
+      "tagline_en": "Describe a feature and AI agents build, verify, and ship it",
+      "title_ko": "인텐트",
+      "summary_ko": "기능을 설명하면 AI 에이전트가 자동으로 빌드, 검증, 배포까지 완료하는 개발 자동화 플랫폼",
+      "analysis_ko": {
+        "description": "개발자가 자연어로 원하는 기능을 설명하면 AI 에이전트가 코드 작성부터 테스트, 배포까지 전체 개발 프로세스를 자동화하는 혁신적인 플랫폼입니다. 기존의 코딩 보조 도구를 넘어서 완전한 개발 워크플로우 자동화를 제공합니다.",
+        "market_fit": "한국의 높은 개발자 인건비와 빠른 개발 속도 요구사항을 고려할 때 매우 적합한 솔루션입니다. 특히 스타트업과 중소기업에서 개발 리소스 부족 문제를 해결할 수 있어 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "네이버 클로바 코드",
+          "카카오 코딩 어시스턴트",
+          "라인 개발자 도구"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바 코드",
+            "founded_year": 2023,
+            "funding_status": "internal development",
+            "differentiation": "Intent는 단순 코드 생성을 넘어 전체 개발 프로세스 자동화에 집중하여 더 포괄적인 솔루션 제공"
+          }
+        ],
+        "regulatory_notes": "AI 개발 도구에 대한 특별한 규제는 없으나, 생성된 코드의 보안성과 지적재산권 이슈에 대한 고려 필요",
+        "localization_strategy": "한국어 자연어 처리 최적화, 한국 개발 관행에 맞는 코드 스타일 적용, 국내 클라우드 서비스 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 개발도구",
+          "자동코딩"
+        ],
+        "trend_index": 75,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 275,
+      "thumbnail_url": "https://ph-files.imgix.net/2ca40459-692b-4a5d-9822-80ecfd0fcefb.png?auto=format",
+      "created_at": "2026-04-15T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 25,
+        "timing": 80,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "GitHub Copilot (2021)",
+            "kr_equivalent": "네이버 클로바 코드 (2023)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1123888",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/fathom-3-0",
+      "title_en": "Fathom 3.0",
+      "tagline_en": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
+      "title_ko": "패덤 3.0",
+      "summary_ko": "봇 없이 작동하는 AI 회의 노트 서비스로 ChatGPT와 Claude 연동 지원",
+      "analysis_ko": {
+        "description": "기존 회의 봇의 한계를 극복하고 자연스러운 회의 참여 환경에서 AI가 회의 내용을 자동으로 정리하고 요약해주는 서비스입니다. ChatGPT와 Claude 같은 주요 AI 모델과의 연동으로 더욱 정확한 회의록 생성이 가능합니다.",
+        "market_fit": "한국의 회의 문화와 업무 효율성 중시 트렌드에 매우 적합합니다. 특히 재택근무와 하이브리드 워크가 확산되면서 온라인 회의 도구에 대한 수요가 급증하고 있어 시장 진입 시점이 적절합니다.",
+        "competitors_kr": [
+          "네이버 클로바노트",
+          "카카오워크 회의록",
+          "잔디 미팅"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바노트",
+            "founded_year": 2021,
+            "funding_status": "internal development",
+            "differentiation": "Fathom은 봇 없는 자연스러운 회의 환경과 다중 AI 모델 연동으로 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법에 따른 회의 내용 처리 및 저장에 대한 동의 절차 필요, 기업 보안 정책 준수 요구",
+        "localization_strategy": "한국어 음성 인식 정확도 향상, 한국 기업 회의 문화 반영, 국내 협업 도구와의 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 회의록",
+          "음성인식 회의"
+        ],
+        "trend_index": 42,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 41
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 55
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 53
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 57
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 42
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 309,
+      "thumbnail_url": "https://ph-files.imgix.net/fac29de4-dc17-44af-8996-a93a8180305d.png?auto=format",
+      "created_at": "2026-04-15T07:01:00Z",
+      "score": {
+        "market_opportunity": 78,
+        "execution_difficulty": 60,
+        "timing": 85,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Otter.ai (2016)",
+            "kr_equivalent": "네이버 클로바노트 (2021)",
+            "gap_months": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47778306",
+      "rank": 3,
+      "source": "hackernews",
+      "source_url": "https://tracksuccession.com/explore",
+      "title_en": "Track Succession",
+      "tagline_en": "Every CEO and CFO change at US public companies, live from SEC",
+      "title_ko": "트랙 석세션",
+      "summary_ko": "미국 상장기업의 CEO, CFO 변동사항을 SEC 파일링에서 실시간으로 추적하는 서비스",
+      "analysis_ko": {
+        "description": "SEC 공시 데이터를 실시간으로 모니터링하여 상장기업의 경영진 변동사항을 자동으로 추출하고 분석하는 금융 정보 서비스입니다. 투자자와 애널리스트들에게 중요한 기업 지배구조 변화 정보를 신속하게 제공합니다.",
+        "market_fit": "한국 금융시장의 ESG 투자 확산과 기업 지배구조 투명성 요구 증가로 높은 시장 잠재력을 보입니다. 특히 기관투자자와 자산운용사들의 투자 의사결정 지원 도구로 활용 가능합니다.",
+        "competitors_kr": [
+          "에프앤가이드",
+          "한국신용정보",
+          "나이스디앤비"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "에프앤가이드",
+            "founded_year": 2000,
+            "funding_status": "public company",
+            "differentiation": "Track Succession은 실시간 자동화와 경영진 변동에 특화된 분석으로 차별화"
+          }
+        ],
+        "regulatory_notes": "금융정보서비스업 등록 필요, 자본시장법에 따른 정보 제공 기준 준수, 개인정보보호 규정 적용",
+        "localization_strategy": "금융감독원 전자공시시스템(DART) 연동, 한국 상장기업 데이터 구조 적용, 국내 금융기관 API 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "기업정보",
+          "경영진변동"
+        ],
+        "trend_index": 34,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 34
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 162,
+      "thumbnail_url": null,
+      "created_at": "2026-04-15T12:51:04.000Z",
+      "score": {
+        "market_opportunity": 72,
+        "execution_difficulty": 70,
+        "timing": 75,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Bloomberg Terminal (1982)",
+            "kr_equivalent": "에프앤가이드 (2000)",
+            "gap_months": 216
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1117147",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/roll-4",
+      "title_en": "Roll",
+      "tagline_en": "The disposable camera for your phone",
+      "title_ko": "롤",
+      "summary_ko": "스마트폰을 일회용 카메라처럼 사용할 수 있게 해주는 앱",
+      "analysis_ko": {
+        "description": "디지털 시대에 아날로그 감성을 되살리는 카메라 앱으로, 일회용 카메라의 제약과 특별함을 스마트폰에서 재현합니다. 사진을 즉시 확인할 수 없고 현상 과정을 거쳐야 하는 경험을 통해 사진의 소중함을 느끼게 합니다.",
+        "market_fit": "한국의 레트로 트렌드와 MZ세대의 아날로그 감성 추구에 완벽하게 부합합니다. 특히 인스타그램과 같은 SNS에서 차별화된 콘텐츠를 원하는 사용자들에게 높은 어필이 예상됩니다.",
+        "competitors_kr": [
+          "구닥",
+          "필름카메라 앱들"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "구닥",
+            "founded_year": 2017,
+            "funding_status": "Series A $5M",
+            "differentiation": "Roll은 일회용 카메라의 제약을 더 충실히 재현하여 더 authentic한 경험 제공"
+          }
+        ],
+        "regulatory_notes": "앱스토어 정책 준수, 사진 저장 및 처리 관련 개인정보보호 규정 적용",
+        "localization_strategy": "한국 레트로 문화 요소 반영, K-pop 아이돌 협업 마케팅, 한국 특색 필터 개발",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "필름카메라",
+          "레트로앱"
+        ],
+        "trend_index": 26,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 26
+          }
+        ]
+      },
+      "category": "lifestyle",
+      "ph_votes": 123,
+      "thumbnail_url": "https://ph-files.imgix.net/a78aea33-c92b-4a0c-bc60-79fa98bd700e.png?auto=format",
+      "created_at": "2026-04-15T07:01:00Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 85,
+        "timing": 90,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "VSCO (2011)",
+            "kr_equivalent": "구닥 (2017)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47766370",
+      "rank": 5,
+      "source": "hackernews",
+      "source_url": "https://github.com/ginlix-ai/langalpha",
+      "title_en": "LangAlpha",
+      "tagline_en": "What if Claude Code was built for Wall Street?",
+      "title_ko": "랭알파",
+      "summary_ko": "월스트리트를 위해 특화된 Claude Code 스타일의 금융 AI 도구",
+      "analysis_ko": {
+        "description": "금융 데이터 분석에 특화된 AI 코딩 도구로, 대규모 금융 데이터셋을 효율적으로 처리하고 분석할 수 있는 전문 기능을 제공합니다. 기존 범용 AI 코딩 도구의 한계를 극복하고 금융업계의 특수한 요구사항을 충족합니다.",
+        "market_fit": "한국 금융업계의 디지털 전환과 퀀트 투자 확산으로 높은 수요가 예상됩니다. 특히 증권사, 자산운용사, 핀테크 기업들의 데이터 분석 업무 효율화에 크게 기여할 수 있습니다.",
+        "competitors_kr": [
+          "한국투자증권 AI",
+          "미래에셋 퀀트시스템"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "한국투자증권 AI플랫폼",
+            "founded_year": 2020,
+            "funding_status": "internal development",
+            "differentiation": "LangAlpha는 오픈소스 기반으로 더 유연한 커스터마이징과 확장성 제공"
+          }
+        ],
+        "regulatory_notes": "금융데이터 처리 관련 금융위원회 규정 준수, 개인신용정보 보호법 적용, 금융보안원 보안 기준 충족",
+        "localization_strategy": "한국 금융시장 데이터 구조 적응, KRX 데이터 연동, 한국 회계기준 반영",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "금융AI",
+          "퀀트투자"
+        ],
+        "trend_index": 23,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 78
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 23
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 144,
+      "thumbnail_url": null,
+      "created_at": "2026-04-14T14:48:46.000Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 35,
+        "timing": 70,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 30,
+        "category_history": [
+          {
+            "us_launch": "Quantopian (2011)",
+            "kr_equivalent": "한투 AI플랫폼 (2020)",
+            "gap_months": 108
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47756569",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://www.ithihasas.in",
+      "title_en": "Ithihāsas",
+      "tagline_en": "A character explorer for Hindu epics, built in a few hours",
+      "title_ko": "이티하사스",
+      "summary_ko": "힌두 서사시 등장인물을 탐색할 수 있는 캐릭터 익스플로러",
+      "analysis_ko": {
+        "description": "마하바라타와 라마야나 같은 힌두 서사시의 복잡한 등장인물들을 체계적으로 탐색하고 이해할 수 있도록 도와주는 디지털 도구입니다. 전통 서사시의 방대한 내용을 현대적인 인터페이스로 접근 가능하게 만듭니다.",
+        "market_fit": "한국의 불교 문화와 동양 고전에 대한 관심, 그리고 K-콘텐츠의 글로벌 확산으로 인한 문화 콘텐츠 디지털화 트렌드에 부합합니다. 교육 시장과 문화 콘텐츠 시장에서 활용 가능성이 높습니다.",
+        "competitors_kr": [
+          "한국고전번역원",
+          "디지털한국학"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "문화콘텐츠 관련 특별한 규제 없음, 교육용 콘텐츠로 활용 시 교육부 가이드라인 참고",
+        "localization_strategy": "한국 고전문학 적용 (삼국유사, 삼국사기 등), 한국어 인터페이스, 한국 교육과정 연계",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "고전문학",
+          "디지털인문학"
+        ],
+        "trend_index": 33,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 63
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 33
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 174,
+      "thumbnail_url": null,
+      "created_at": "2026-04-13T19:10:07.000Z",
+      "score": {
+        "market_opportunity": 45,
+        "execution_difficulty": 90,
+        "timing": 60,
+        "overall": 61
+      },
+      "timing_window": null
+    },
+    {
+      "id": "hn-47742200",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "https://boringbar.app/",
+      "title_en": "boringBar",
+      "tagline_en": "A taskbar-style dock replacement for macOS",
+      "title_ko": "보링바",
+      "summary_ko": "macOS용 태스크바 스타일의 독 대체 앱",
+      "analysis_ko": {
+        "description": "macOS의 기본 독을 Windows 스타일의 태스크바로 대체하는 유틸리티 앱입니다. Windows에서 macOS로 전환한 사용자들이나 태스크바 인터페이스를 선호하는 사용자들을 위한 맞춤형 솔루션을 제공합니다.",
+        "market_fit": "한국의 높은 Mac 사용률과 Windows에서 Mac으로 전환하는 사용자들의 증가로 인해 적절한 시장이 형성되어 있습니다. 특히 개발자와 디자이너들 사이에서 수요가 있을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "uBar",
+          "HyperDock 한국 사용자"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "앱스토어 정책 준수, macOS 시스템 권한 관련 보안 정책 적용",
+        "localization_strategy": "한국어 인터페이스, 한글 폰트 최적화, 한국 사용자 UI/UX 선호도 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "맥유틸리티",
+          "독대체"
+        ],
+        "trend_index": 15,
+        "trend_direction": "flat",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 515,
+      "thumbnail_url": null,
+      "created_at": "2026-04-12T17:25:44.000Z",
+      "score": {
+        "market_opportunity": 35,
+        "execution_difficulty": 75,
+        "timing": 70,
+        "overall": 56
+      },
+      "timing_window": {
+        "avg_months": 3,
+        "category_history": [
+          {
+            "us_launch": "Alfred (2010)",
+            "kr_equivalent": "한국 사용자 도입 (2010)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1112535",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/mush-2",
+      "title_en": "Mush",
+      "tagline_en": "Combine Wi-Fi, Ethernet, and 5G for max download speed",
+      "title_ko": "머쉬",
+      "summary_ko": "Wi-Fi, 이더넷, 5G를 결합하여 최대 다운로드 속도를 구현하는 앱",
+      "analysis_ko": {
+        "description": "여러 네트워크 연결을 동시에 활용하여 인터넷 속도를 극대화하는 네트워크 최적화 도구입니다. Wi-Fi, 유선 인터넷, 모바일 데이터를 지능적으로 결합하여 안정적이고 빠른 인터넷 환경을 제공합니다.",
+        "market_fit": "한국의 우수한 인터넷 인프라와 5G 네트워크 환경을 고려할 때 추가적인 속도 향상에 대한 수요는 제한적일 수 있습니다. 하지만 스트리밍, 게임, 대용량 파일 전송이 많은 사용자들에게는 유용할 것입니다.",
+        "competitors_kr": [
+          "Speedify 한국 사용자",
+          "네트워크 최적화 앱들"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "통신 관련 방송통신위원회 규정 준수, 데이터 사용량 관련 통신사 정책 고려",
+        "localization_strategy": "한국 통신사 네트워크 최적화, 한국어 인터페이스, 국내 인터넷 환경 특성 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "인터넷속도",
+          "네트워크최적화"
+        ],
+        "trend_index": 14,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 42
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 14
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 114,
+      "thumbnail_url": "https://ph-files.imgix.net/6e85a780-3d60-433c-8d0f-cc5176aa23f1.png?auto=format",
+      "created_at": "2026-04-15T07:01:00Z",
+      "score": {
+        "market_opportunity": 40,
+        "execution_difficulty": 65,
+        "timing": 50,
+        "overall": 50
+      },
+      "timing_window": null
+    },
+    {
+      "id": "hn-47780199",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://apps.apple.com/us/app/avec-email-app-for-gmail/id6742199038",
+      "title_en": "Avec",
+      "tagline_en": "iOS email app that lets you handle your Gmail inbox in seconds",
+      "title_ko": "아벡",
+      "summary_ko": "Gmail 받은편지함을 몇 초만에 처리할 수 있는 iOS 이메일 앱",
+      "analysis_ko": {
+        "description": "Gmail 사용자를 위한 초고속 이메일 처리에 특화된 iOS 앱으로, 직관적인 제스처와 스마트한 분류 기능을 통해 이메일 관리 시간을 대폭 단축시킵니다. 기존 이메일 앱의 복잡함을 제거하고 효율성에 집중한 설계가 특징입니다.",
+        "market_fit": "한국의 높은 스마트폰 사용률과 업무 효율성을 중시하는 문화에 적합합니다. 특히 이메일을 많이 사용하는 직장인들과 비즈니스 사용자들에게 높은 가치를 제공할 수 있습니다.",
+        "competitors_kr": [
+          "네이버 메일",
+          "다음 메일",
+          "Gmail 앱"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법에 따른 이메일 데이터 처리 규정 준수, 앱스토어 정책 적용",
+        "localization_strategy": "한국어 인터페이스, 한국 비즈니스 이메일 관습 반영, 네이버/다음 메일 연동 지원",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "이메일앱",
+          "Gmail앱"
+        ],
+        "trend_index": 20,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-01-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 22
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 27
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 55
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 20
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 20
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 14,
+      "thumbnail_url": null,
+      "created_at": "2026-04-15T15:09:08.000Z",
+      "score": {
+        "market_opportunity": 55,
+        "execution_difficulty": 70,
+        "timing": 65,
+        "overall": 62
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Mailbox (2013)",
+            "kr_equivalent": "네이버 메일앱 개선 (2014)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1117955",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/defter-notes-2-0",
+      "title_en": "Defter Notes 2.0",
+      "tagline_en": "Spatial thinking with handwriting",
+      "title_ko": "데프터 노트 2.0",
+      "summary_ko": "손글씨와 공간적 사고를 결합한 노트 앱",
+      "analysis_ko": {
+        "description": "전통적인 선형 노트 방식을 벗어나 2차원 공간에서 자유롭게 손글씨로 아이디어를 정리하고 연결할 수 있는 혁신적인 노트 앱입니다. 창의적 사고와 시각적 학습을 지원하는 직관적인 인터페이스를 제공합니다.",
+        "market_fit": "한국의 높은 교육열과 디지털 학습 도구에 대한 관심, 그리고 iPad와 Apple Pencil 사용 확산으로 인해 좋은 시장 환경이 조성되어 있습니다. 특히 학생과 창작자들에게 높은 어필이 예상됩니다.",
+        "competitors_kr": [
+          "굿노트",
+          "노션",
+          "마인드마이스터"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "굿노트",
+            "founded_year": 2011,
+            "funding_status": "bootstrapped",
+            "differentiation": "Defter는 공간적 사고에 더 특화되어 자유로운 아이디어 연결과 시각화에 강점"
+          }
+        ],
+        "regulatory_notes": "교육용 앱으로 사용 시 개인정보보호 관련 교육부 가이드라인 준수",
+        "localization_strategy": "한글 손글씨 인식 최적화, 한국 교육과정 템플릿 제공, 한국 사용자 UI 선호도 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "디지털노트",
+          "손글씨앱"
+        ],
+        "trend_index": 11,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 24
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 23
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 18
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 55
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 43
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 26
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 11
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 113,
+      "thumbnail_url": "https://ph-files.imgix.net/ae398ba0-f61d-4961-8c4f-17ea1485dd2f.png?auto=format",
+      "created_at": "2026-04-15T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 60,
+        "timing": 75,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Notability (2010)",
+            "kr_equivalent": "굿노트 (2011)",
+            "gap_months": 12
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-15T20:38:12.437Z"
+}
