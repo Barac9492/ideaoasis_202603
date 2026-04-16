@@ -1,0 +1,1061 @@
+{
+  "date": "2026-04-16",
+  "ideas": [
+    {
+      "id": "ph-1123805",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/claude-code-desktop-app-redesigned",
+      "title_en": "Claude Code Desktop App Redesigned",
+      "tagline_en": "Run parallel coding agents from one desktop workspace",
+      "title_ko": "클로드 코드 데스크톱 앱 리디자인",
+      "summary_ko": "하나의 데스크톱 워크스페이스에서 여러 코딩 에이전트를 병렬로 실행하는 개발 도구",
+      "analysis_ko": {
+        "description": "개발자가 하나의 통합된 데스크톱 환경에서 여러 AI 코딩 에이전트를 동시에 실행할 수 있는 도구입니다. 복잡한 개발 작업을 여러 에이전트에게 분산시켜 효율성을 극대화할 수 있습니다.",
+        "market_fit": "한국의 높은 개발자 밀도와 생산성 중시 문화에 매우 적합합니다. 특히 게임, 핀테크, 이커머스 등 빠른 개발 사이클이 중요한 산업에서 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "네이버 클로바 스튜디오",
+          "카카오브레인 코딩 도구"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바 스튜디오",
+            "founded_year": 2023,
+            "funding_status": "Corporate backed",
+            "differentiation": "병렬 에이전트 실행과 통합 워크스페이스 기능으로 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 코드 데이터 처리 시 주의 필요",
+        "localization_strategy": "한국어 코드 주석 지원, 국내 개발 프레임워크 통합, 한국 개발자 커뮤니티 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 코딩",
+          "개발 도구"
+        ],
+        "trend_index": 41,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 41
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 370,
+      "thumbnail_url": "https://ph-files.imgix.net/4faacf78-5fc5-4eda-b939-c037b6261b35.png?auto=format",
+      "created_at": "2026-04-16T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 65,
+        "timing": 90,
+        "overall": 80
+      },
+      "timing_window": {
+        "avg_months": 8,
+        "category_history": [
+          {
+            "us_launch": "GitHub Copilot (2021)",
+            "kr_equivalent": "네이버 클로바 코딩 (2022)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47778306",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://tracksuccession.com/explore",
+      "title_en": "Every CEO and CFO change at US public companies, live from SEC",
+      "tagline_en": "Built this solo. It watches SEC filings for executive and board changes, extracts the data, and shows it in real time. 2,100+ changes in the last 30 days. The comp data is interesting: average new CEO",
+      "title_ko": "미국 상장기업 CEO/CFO 변동 실시간 추적",
+      "summary_ko": "SEC 공시를 실시간으로 모니터링하여 상장기업 임원진 변동사항을 추출하고 분석하는 플랫폼",
+      "analysis_ko": {
+        "description": "SEC 공시 데이터를 실시간으로 파싱하여 상장기업의 임원진 변동사항과 보상 정보를 자동으로 추출하고 시각화하는 서비스입니다. 투자자와 리크루터에게 중요한 인사이트를 제공합니다.",
+        "market_fit": "한국의 활발한 주식 투자 문화와 기업 분석 수요에 적합합니다. 코스피/코스닥 상장기업 대상으로 금융감독원 공시 데이터를 활용한 한국판 서비스 가능성이 높습니다.",
+        "competitors_kr": [
+          "에프앤가이드",
+          "와이즈에프엔"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "에프앤가이드",
+            "founded_year": 2000,
+            "funding_status": "Public (KOSDAQ)",
+            "differentiation": "실시간 자동화와 임원 변동 특화 분석으로 차별화"
+          }
+        ],
+        "regulatory_notes": "자본시장법상 공시정보 재가공 및 배포 관련 규정 검토 필요",
+        "localization_strategy": "금감원 DART 시스템 연동, 한국 기업지배구조 특성 반영, 국내 증권사 API 통합",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "기업분석",
+          "임원정보"
+        ],
+        "trend_index": 36,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 99
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 98
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 97
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 97
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 97
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 80
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 85
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 36
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 181,
+      "thumbnail_url": null,
+      "created_at": "2026-04-15T12:51:04.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 70,
+        "timing": 85,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Bloomberg Terminal (1982)",
+            "kr_equivalent": "에프앤가이드 (2000)",
+            "gap_months": 216
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1123704",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/google-chrome-skills",
+      "title_en": "Google Chrome Skills",
+      "tagline_en": "Turn your best AI prompts into one-click tools in Chrome",
+      "title_ko": "구글 크롬 스킬즈",
+      "summary_ko": "AI 프롬프트를 크롬에서 원클릭 도구로 변환하는 브라우저 확장 프로그램",
+      "analysis_ko": {
+        "description": "사용자가 자주 사용하는 AI 프롬프트를 크롬 브라우저에서 원클릭으로 실행할 수 있는 도구로 변환하는 확장 프로그램입니다. 반복적인 AI 작업을 자동화하여 생산성을 크게 향상시킵니다.",
+        "market_fit": "한국의 높은 크롬 브라우저 사용률과 업무 효율성 추구 문화에 매우 적합합니다. 특히 마케팅, 콘텐츠 제작, 고객 서비스 분야에서 높은 활용도가 예상됩니다.",
+        "competitors_kr": [
+          "네이버 웨일 확장앱",
+          "다음 브라우저 도구"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법상 브라우저 데이터 수집 관련 동의 절차 필요",
+        "localization_strategy": "한국어 프롬프트 템플릿 제공, 국내 AI 서비스 연동, 한국 업무 환경 맞춤 기능",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "크롬 확장",
+          "AI 도구"
+        ],
+        "trend_index": 38,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 57
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 37
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 38
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 201,
+      "thumbnail_url": "https://ph-files.imgix.net/b57707ff-0c48-412d-aaf7-23919cf4e701.png?auto=format",
+      "created_at": "2026-04-16T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 85,
+        "timing": 88,
+        "overall": 83
+      },
+      "timing_window": {
+        "avg_months": 4,
+        "category_history": [
+          {
+            "us_launch": "Grammarly (2009)",
+            "kr_equivalent": "맞춤법 검사기 (2010)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1121949",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/x-pilot-6",
+      "title_en": "X-Pilot",
+      "tagline_en": "Explain anything accurately, from document to video course",
+      "title_ko": "X-파일럿",
+      "summary_ko": "문서부터 동영상 강의까지 모든 콘텐츠를 정확하게 설명해주는 AI 도구",
+      "analysis_ko": {
+        "description": "다양한 형태의 콘텐츠(문서, 동영상, 이미지 등)를 분석하여 사용자가 이해하기 쉽게 설명해주는 AI 기반 학습 도구입니다. 복잡한 내용을 단순화하여 전달하는 것이 핵심 기능입니다.",
+        "market_fit": "한국의 높은 교육열과 온라인 학습 문화에 매우 적합합니다. 특히 대학생, 직장인의 자기계발, 어학 학습 분야에서 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "뤼이드 산타토익",
+          "엘리스 AI 튜터"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "뤼이드",
+            "founded_year": 2014,
+            "funding_status": "Series C $18M",
+            "differentiation": "멀티모달 콘텐츠 분석과 범용적 설명 기능으로 차별화"
+          }
+        ],
+        "regulatory_notes": "교육 콘텐츠 저작권 관련 주의 필요",
+        "localization_strategy": "한국어 교육 콘텐츠 특화, 국내 교육 플랫폼 연동, 한국 학습 문화 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 학습",
+          "온라인 교육"
+        ],
+        "trend_index": 37,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 37
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 220,
+      "thumbnail_url": "https://ph-files.imgix.net/ebe2c8da-3805-4427-ae02-c887920959e5.png?auto=format",
+      "created_at": "2026-04-16T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 70,
+        "timing": 80,
+        "overall": 79
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Khan Academy (2008)",
+            "kr_equivalent": "메가스터디 온라인 (2009)",
+            "gap_months": 18
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1114392",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/mantle-safes",
+      "title_en": "Mantle SAFEs",
+      "tagline_en": "Issue & sign SAFEs for free. No DocuSign required.",
+      "title_ko": "맨틀 세이프",
+      "summary_ko": "DocuSign 없이 무료로 SAFE 계약서를 발행하고 서명할 수 있는 플랫폼",
+      "analysis_ko": {
+        "description": "스타트업 투자에 사용되는 SAFE(Simple Agreement for Future Equity) 계약서를 무료로 생성하고 전자서명할 수 있는 플랫폼입니다. 기존 DocuSign 등의 비싼 서명 도구 없이도 법적 효력이 있는 계약을 체결할 수 있습니다.",
+        "market_fit": "한국 스타트업 생태계의 급속한 성장과 투자 활성화에 매우 적합합니다. 특히 초기 스타트업들의 비용 부담을 줄이면서 투자 프로세스를 간소화할 수 있습니다.",
+        "competitors_kr": [
+          "로톡",
+          "헬프미"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "로톡",
+            "founded_year": 2015,
+            "funding_status": "Series C $50M",
+            "differentiation": "스타트업 투자 계약 특화와 무료 서비스로 차별화"
+          }
+        ],
+        "regulatory_notes": "전자서명법, 상법상 투자계약 관련 규정 준수 필요",
+        "localization_strategy": "한국 투자계약 양식 적용, 국내 법무법인 파트너십, 한국어 법률 용어 정확성 확보",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "스타트업 투자",
+          "전자계약"
+        ],
+        "trend_index": 40,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 89
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 88
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 80
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 40
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 119,
+      "thumbnail_url": "https://ph-files.imgix.net/490b6248-3cc9-488c-88a9-a5857beb2c52.png?auto=format",
+      "created_at": "2026-04-16T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 50,
+        "timing": 85,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "DocuSign (2003)",
+            "kr_equivalent": "모두싸인 (2012)",
+            "gap_months": 108
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47766370",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://github.com/ginlix-ai/langalpha",
+      "title_en": "LangAlpha",
+      "tagline_en": "what if Claude Code was built for Wall Street?",
+      "title_ko": "랭알파",
+      "summary_ko": "월스트리트를 위해 특화된 클로드 코드 버전의 금융 데이터 분석 도구",
+      "analysis_ko": {
+        "description": "금융 데이터 분석에 특화된 AI 코딩 도구로, 대규모 금융 데이터셋을 효율적으로 처리하고 분석할 수 있습니다. 기존 MCP 도구의 한계를 극복하여 수만 개의 토큰을 처리하는 금융 데이터 분석이 가능합니다.",
+        "market_fit": "한국의 발달된 금융 시장과 높은 퀀트 트레이딩 수요에 적합합니다. 증권사, 자산운용사, 헤지펀드 등에서 활용도가 높을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "키움증권 API",
+          "한국투자증권 KIS"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "키움증권",
+            "founded_year": 1995,
+            "funding_status": "Public",
+            "differentiation": "AI 기반 자동화된 분석과 자연어 쿼리 기능으로 차별화"
+          }
+        ],
+        "regulatory_notes": "금융투자업법상 투자자문업 등록 검토 필요, 개인정보보호 강화",
+        "localization_strategy": "국내 증권사 API 연동, 한국 주식시장 데이터 특화, 금융감독원 규정 준수",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "퀀트 트레이딩",
+          "금융 AI"
+        ],
+        "trend_index": 29,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 21
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 43
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 22
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 13
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 24
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 20
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 27
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 69
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 29
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 144,
+      "thumbnail_url": null,
+      "created_at": "2026-04-14T14:48:46.000Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 45,
+        "timing": 75,
+        "overall": 69
+      },
+      "timing_window": {
+        "avg_months": 15,
+        "category_history": [
+          {
+            "us_launch": "Bloomberg Terminal (1982)",
+            "kr_equivalent": "이베스트투자증권 (1998)",
+            "gap_months": 192
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1123897",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/fellow-for-ios",
+      "title_en": "Fellow for iOS",
+      "tagline_en": "AI meeting notes for in-person meetings",
+      "title_ko": "펠로우 iOS",
+      "summary_ko": "대면 회의를 위한 AI 회의록 작성 iOS 앱",
+      "analysis_ko": {
+        "description": "대면 회의 중 실시간으로 음성을 인식하여 자동으로 회의록을 작성해주는 iOS 앱입니다. 기존 온라인 회의 도구와 달리 오프라인 대면 회의에 특화되어 있습니다.",
+        "market_fit": "한국의 높은 회의 문화와 스마트폰 보급률을 고려할 때 매우 적합합니다. 특히 대기업과 중견기업의 회의 효율성 개선에 대한 니즈가 높습니다.",
+        "competitors_kr": [
+          "네이버 클로바노트",
+          "카카오 음성인식"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바노트",
+            "founded_year": 2020,
+            "funding_status": "Corporate backed",
+            "differentiation": "대면 회의 특화와 iOS 네이티브 최적화로 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 음성 데이터 수집 동의 절차 필요",
+        "localization_strategy": "한국어 음성인식 정확도 개선, 한국 회의 문화 반영, 기업용 보안 기능 강화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "회의록",
+          "음성인식"
+        ],
+        "trend_index": 37,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 78
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 57
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 74
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 37
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 128,
+      "thumbnail_url": "https://ph-files.imgix.net/2fdff170-5959-40db-a2f5-53b77951c42b.jpeg?auto=format",
+      "created_at": "2026-04-16T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 75,
+        "timing": 85,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Otter.ai (2016)",
+            "kr_equivalent": "네이버 클로바노트 (2020)",
+            "gap_months": 48
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47756569",
+      "rank": 8,
+      "source": "hackernews",
+      "source_url": "https://www.ithihasas.in",
+      "title_en": "Ithihāsas",
+      "tagline_en": "a character explorer for Hindu epics, built in a few hours",
+      "title_ko": "이티하사스",
+      "summary_ko": "힌두 서사시 등장인물을 탐색할 수 있는 캐릭터 익스플로러",
+      "analysis_ko": {
+        "description": "마하바라타와 라마야나 같은 힌두 서사시의 복잡한 등장인물들을 쉽게 탐색하고 이해할 수 있도록 도와주는 웹 플랫폼입니다. 산발적으로 흩어진 정보를 체계적으로 정리하여 제공합니다.",
+        "market_fit": "한국의 높은 교육열과 인문학적 관심, 그리고 증가하는 다문화 사회 특성을 고려할 때 적합합니다. 특히 대학교 종교학과, 철학과 학생들과 일반인의 교양 학습에 활용 가능합니다.",
+        "competitors_kr": [
+          "위키백과",
+          "네이버 지식백과"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "저작권법상 기존 번역본 인용 시 주의 필요",
+        "localization_strategy": "한국어 번역 제공, 한국 불교/유교 문화와의 비교 콘텐츠, 교육기관 파트너십",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "힌두교",
+          "고전문학"
+        ],
+        "trend_index": 34,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 53
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 57
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 48
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 34
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 174,
+      "thumbnail_url": null,
+      "created_at": "2026-04-13T19:10:07.000Z",
+      "score": {
+        "market_opportunity": 45,
+        "execution_difficulty": 90,
+        "timing": 60,
+        "overall": 62
+      },
+      "timing_window": {
+        "avg_months": 3,
+        "category_history": [
+          {
+            "us_launch": "Wikipedia (2001)",
+            "kr_equivalent": "한국어 위키백과 (2002)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1115562",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/clayhog",
+      "title_en": "ClayHog",
+      "tagline_en": "See what AI says about your brand and competitors",
+      "title_ko": "클레이호그",
+      "summary_ko": "AI가 당신의 브랜드와 경쟁사에 대해 어떻게 평가하는지 보여주는 도구",
+      "analysis_ko": {
+        "description": "다양한 AI 모델이 특정 브랜드와 경쟁사에 대해 어떤 평가와 인식을 가지고 있는지 분석해주는 브랜드 모니터링 도구입니다. AI 시대의 브랜드 평판 관리에 필수적인 인사이트를 제공합니다.",
+        "market_fit": "한국의 높은 브랜드 의식과 온라인 평판 관리 중요성을 고려할 때 매우 적합합니다. 특히 마케팅 에이전시, 대기업 브랜드팀에서 활용도가 높을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "펄스K",
+          "소셜메트릭스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "펄스K",
+            "founded_year": 2015,
+            "funding_status": "Series A $5M",
+            "differentiation": "AI 모델별 브랜드 인식 분석이라는 새로운 관점으로 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 브랜드 관련 개인 데이터 처리 시 주의",
+        "localization_strategy": "한국 브랜드 특화 분석, 네이버/다음 등 국내 플랫폼 연동, 한국어 감성 분석 고도화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "브랜드 모니터링",
+          "평판 관리"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2026-01-01 ~ 2026-02-01",
+        "trend_data": [
+          {
+            "period": "2026-01-01",
+            "ratio": 15
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 127,
+      "thumbnail_url": "https://ph-files.imgix.net/d60a8e5b-5ce8-48d3-8eab-0de61011eea8.png?auto=format",
+      "created_at": "2026-04-16T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 75,
+        "timing": 80,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Brandwatch (2007)",
+            "kr_equivalent": "소셜메트릭스 (2010)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47780971",
+      "rank": 10,
+      "source": "hackernews",
+      "source_url": "https://github.com/saffron-health/libretto",
+      "title_en": "Libretto",
+      "tagline_en": "Making AI browser automations deterministic",
+      "title_ko": "리브레토",
+      "summary_ko": "AI 브라우저 자동화를 결정론적으로 만드는 도구",
+      "analysis_ko": {
+        "description": "AI 에이전트가 브라우저 자동화를 수행할 때 일관성 있고 예측 가능한 결과를 보장하는 도구입니다. 기존 AI 자동화의 불확실성 문제를 해결하여 신뢰할 수 있는 자동화 워크플로우를 구축할 수 있습니다.",
+        "market_fit": "한국의 높은 자동화 수요와 정확성을 중시하는 업무 문화에 적합합니다. 특히 이커머스, 금융, 정부기관에서 반복적인 웹 작업 자동화에 활용 가능합니다.",
+        "competitors_kr": [
+          "RPA 솔루션",
+          "업무 자동화 도구"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법상 자동화된 개인정보 처리 관련 규정 준수",
+        "localization_strategy": "한국 웹사이트 구조 최적화, 국내 RPA 업체와의 파트너십, 한국어 웹 요소 인식 개선",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "RPA",
+          "업무자동화"
+        ],
+        "trend_index": 31,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 56
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 31
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 122,
+      "thumbnail_url": null,
+      "created_at": "2026-04-15T15:57:54.000Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 60,
+        "timing": 75,
+        "overall": 66
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "UiPath (2005)",
+            "kr_equivalent": "RPA 코리아 (2017)",
+            "gap_months": 144
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-16T20:38:59.090Z"
+}
