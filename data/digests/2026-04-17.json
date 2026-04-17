@@ -1,0 +1,962 @@
+{
+  "date": "2026-04-17",
+  "ideas": [
+    {
+      "id": "ph-1118208",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/build-check-for-outsiders",
+      "title_en": "Build Check (for Outsiders)",
+      "tagline_en": "Is your app idea actually worth building?",
+      "title_ko": "빌드 체크",
+      "summary_ko": "앱 아이디어의 시장성과 실현 가능성을 AI로 검증해주는 창업 검증 플랫폼",
+      "analysis_ko": {
+        "description": "창업자들이 앱 아이디어를 실제로 개발하기 전에 시장성, 경쟁 상황, 기술적 실현 가능성을 종합적으로 분석해주는 AI 기반 검증 서비스입니다. 아이디어 단계에서 객관적인 피드백을 제공하여 시간과 자원 낭비를 방지합니다.",
+        "market_fit": "한국의 높은 창업 열기와 정부의 스타트업 지원 정책이 맞물려 매우 적합한 시장입니다. 특히 실패를 두려워하는 한국 문화에서 사전 검증 서비스에 대한 수요가 클 것으로 예상됩니다.",
+        "competitors_kr": [
+          "스파크랩",
+          "프라이머",
+          "블루포인트파트너스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스파크랩",
+            "founded_year": 2012,
+            "funding_status": "Series A $10M",
+            "differentiation": "액셀러레이터 프로그램 vs AI 기반 자동화된 아이디어 검증"
+          },
+          {
+            "name": "프라이머",
+            "founded_year": 2010,
+            "funding_status": "Series B $20M",
+            "differentiation": "투자 중심 vs 개별 창업자 대상 셀프 검증 도구"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수 필요, 투자자문업 등록 검토 필요",
+        "localization_strategy": "한국 시장 데이터 학습, 정부 지원사업 연계, 한국어 자연어처리 최적화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "창업 아이디어 검증",
+          "스타트업 검증"
+        ],
+        "trend_index": 75,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 320,
+      "thumbnail_url": "https://ph-files.imgix.net/befdc559-f978-47c1-bc72-40d445779b24.png?auto=format",
+      "created_at": "2026-04-17T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 70,
+        "timing": 90,
+        "overall": 82
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "AngelList (2010)",
+            "kr_equivalent": "TheVC (2012)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Crunchbase (2007)",
+            "kr_equivalent": "스타트업얼라이언스 (2010)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47778306",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://tracksuccession.com/explore",
+      "title_en": "Every CEO and CFO change at US public companies, live from SEC",
+      "tagline_en": "Built this solo. It watches SEC filings for executive and board changes, extracts the data, and shows it in real time. 2,100+ changes in the last 30 days. The comp data is interesting: average new CEO",
+      "title_ko": "임원 변동 추적기",
+      "summary_ko": "상장기업의 CEO, CFO 등 임원 변동을 실시간으로 추적하고 보상 데이터를 분석하는 플랫폼",
+      "analysis_ko": {
+        "description": "SEC 공시를 실시간으로 모니터링하여 상장기업의 임원 변동사항을 자동 추출하고 분석하는 서비스입니다. 투자자, 헤드헌터, 기업 분석가들에게 중요한 인사 정보를 제공합니다.",
+        "market_fit": "한국의 금융감독원 전자공시시스템(DART)과 연계하여 코스피/코스닥 기업 대상으로 서비스 가능합니다. 국내 투자업계와 헤드헌팅 업계의 높은 관심이 예상됩니다.",
+        "competitors_kr": [
+          "에프앤가이드",
+          "한국IR협의회",
+          "이베스트투자증권"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "에프앤가이드",
+            "founded_year": 1999,
+            "funding_status": "IPO (KOSDAQ)",
+            "differentiation": "종합 금융정보 vs 임원 변동 특화 실시간 추적"
+          }
+        ],
+        "regulatory_notes": "자본시장법상 투자자문업 등록 필요, 개인정보보호법 준수",
+        "localization_strategy": "DART API 연동, 한국 기업지배구조 특성 반영, 금융업계 네트워킹",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "임원 변동",
+          "기업 인사"
+        ],
+        "trend_index": 97,
+        "trend_direction": "up",
+        "period": "2025-07-01 ~ 2025-12-01",
+        "trend_data": [
+          {
+            "period": "2025-07-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 20
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 97
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 186,
+      "thumbnail_url": null,
+      "created_at": "2026-04-15T12:51:04.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 40,
+        "timing": 80,
+        "overall": 64
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Bloomberg Terminal (1981)",
+            "kr_equivalent": "에프앤가이드 (1999)",
+            "gap_months": 216
+          },
+          {
+            "us_launch": "FactSet (1978)",
+            "kr_equivalent": "한국신용정보 (1985)",
+            "gap_months": 84
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1093459",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/hello-aria-3",
+      "title_en": "Hello Aria",
+      "tagline_en": "Turn chats into tasks, reminders & notes — instantly.",
+      "title_ko": "헬로 아리아",
+      "summary_ko": "채팅을 할 일, 알림, 메모로 자동 변환해주는 AI 개인 비서 앱",
+      "analysis_ko": {
+        "description": "일상 대화를 AI가 분석하여 자동으로 할 일 목록, 알림, 메모로 정리해주는 개인 생산성 도구입니다. 자연어 처리를 통해 사용자의 의도를 파악하고 적절한 액션 아이템으로 변환합니다.",
+        "market_fit": "한국의 높은 스마트폰 사용률과 메신저 문화에 매우 적합합니다. 특히 카카오톡 중심의 커뮤니케이션 환경에서 큰 잠재력을 가지고 있습니다.",
+        "competitors_kr": [
+          "네이버 클로바노트",
+          "카카오워크",
+          "먼데이닷컴 코리아"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바노트",
+            "founded_year": 2017,
+            "funding_status": "Corporate (Naver)",
+            "differentiation": "음성 메모 중심 vs 채팅 기반 자동 태스크 생성"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 대화 내용 처리 시 동의 절차 필요",
+        "localization_strategy": "한국어 자연어처리 최적화, 카카오톡 연동, 한국 업무 문화 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 비서",
+          "할일 관리"
+        ],
+        "trend_index": 21,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 25
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 17
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 17
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 13
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 18
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 15
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 17
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 21
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 138,
+      "thumbnail_url": "https://ph-files.imgix.net/e470c614-88be-4263-aea1-ea1573792bb0.png?auto=format",
+      "created_at": "2026-04-17T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 65,
+        "timing": 85,
+        "overall": 77
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Notion (2016)",
+            "kr_equivalent": "Typed (2018)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Slack (2013)",
+            "kr_equivalent": "잔디 (2014)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1125151",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/calendarpipe",
+      "title_en": "CalendarPipe",
+      "tagline_en": "Programmable calendar sync for humans and AI agents",
+      "title_ko": "캘린더파이프",
+      "summary_ko": "인간과 AI 에이전트를 위한 프로그래밍 가능한 캘린더 동기화 도구",
+      "analysis_ko": {
+        "description": "다양한 캘린더 서비스 간의 동기화를 자동화하고, AI 에이전트가 일정을 관리할 수 있도록 하는 API 기반 플랫폼입니다. 복잡한 일정 관리 워크플로우를 프로그래밍 방식으로 해결합니다.",
+        "market_fit": "한국의 높은 업무 강도와 다양한 협업 도구 사용 환경에서 매우 유용할 것입니다. 특히 대기업과 스타트업의 복잡한 일정 관리 니즈에 적합합니다.",
+        "competitors_kr": [
+          "네이버 캘린더",
+          "카카오 캘린더",
+          "구글 캘린더"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법 준수, 기업 데이터 보안 요구사항 충족 필요",
+        "localization_strategy": "한국 주요 캘린더 서비스 연동, 한국 업무 문화 반영된 템플릿 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "캘린더 동기화",
+          "일정 관리"
+        ],
+        "trend_index": 24,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 98
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 64
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 45
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 45
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 24
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 136,
+      "thumbnail_url": "https://ph-files.imgix.net/0fc86dbd-9a3d-400f-89d9-30d10288eb1b.png?auto=format",
+      "created_at": "2026-04-17T07:01:00Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 75,
+        "timing": 75,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Calendly (2013)",
+            "kr_equivalent": "미팅플래너 (2015)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47766370",
+      "rank": 5,
+      "source": "hackernews",
+      "source_url": "https://github.com/ginlix-ai/langalpha",
+      "title_en": "LangAlpha – what if Claude Code was built for Wall Street?",
+      "tagline_en": "Some technical context on what we ran into building this.MCP tools don't really work for financial data at scale. One tool call for five years of daily prices dumps tens of thousands of tokens",
+      "title_ko": "랭알파",
+      "summary_ko": "금융업계 전용으로 최적화된 AI 코딩 어시스턴트 플랫폼",
+      "analysis_ko": {
+        "description": "월스트리트 금융 전문가들을 위해 특별히 설계된 AI 코딩 도구로, 대규모 금융 데이터 처리와 분석에 최적화되어 있습니다. 기존 범용 AI 도구들이 처리하기 어려운 금융 데이터의 복잡성을 해결합니다.",
+        "market_fit": "한국의 발달된 금융업계와 높은 IT 활용도를 고려할 때 매우 적합합니다. 특히 증권사, 자산운용사, 핀테크 기업들의 높은 관심이 예상됩니다.",
+        "competitors_kr": [
+          "한국투자증권 AI",
+          "미래에셋 로보어드바이저",
+          "KB증권 AI트레이딩"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "한국투자증권",
+            "founded_year": 1988,
+            "funding_status": "Public (KRX)",
+            "differentiation": "기존 트레이딩 시스템 vs 개발자 중심 AI 코딩 도구"
+          }
+        ],
+        "regulatory_notes": "금융위원회 규제 준수, 자본시장법 적용, 개인정보보호법 엄격 적용",
+        "localization_strategy": "한국 금융 데이터 표준 적용, 금융감독원 규제 준수, 한국어 금융 용어 학습",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "금융 AI",
+          "알고리즘 트레이딩"
+        ],
+        "trend_index": 25,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 45
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 38
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 48
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 45
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 25
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 145,
+      "thumbnail_url": null,
+      "created_at": "2026-04-14T14:48:46.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 35,
+        "timing": 70,
+        "overall": 62
+      },
+      "timing_window": {
+        "avg_months": 30,
+        "category_history": [
+          {
+            "us_launch": "Bloomberg Terminal (1981)",
+            "kr_equivalent": "한국투자증권 HTS (1999)",
+            "gap_months": 216
+          },
+          {
+            "us_launch": "Robinhood (2013)",
+            "kr_equivalent": "토스증권 (2021)",
+            "gap_months": 96
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47780971",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://github.com/saffron-health/libretto",
+      "title_en": "Libretto – Making AI browser automations deterministic",
+      "tagline_en": "Libretto (https://libretto.sh) is a Skill+CLI that makes it easy for your coding agent to generate deterministic browser automation",
+      "title_ko": "리브레토",
+      "summary_ko": "AI 에이전트를 위한 결정론적 브라우저 자동화 도구",
+      "analysis_ko": {
+        "description": "AI 코딩 에이전트가 안정적이고 예측 가능한 브라우저 자동화를 수행할 수 있도록 돕는 CLI 도구입니다. 기존 브라우저 자동화의 불안정성을 해결하여 더 신뢰할 수 있는 자동화 워크플로우를 제공합니다.",
+        "market_fit": "한국의 높은 자동화 수요와 개발자 친화적 환경에서 좋은 반응을 얻을 것으로 예상됩니다. 특히 QA 자동화와 웹 스크래핑 분야에서 활용도가 높을 것입니다.",
+        "competitors_kr": [
+          "셀레니움 코리아",
+          "플레이라이트 사용자 그룹"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "웹 스크래핑 관련 저작권법 주의, 개인정보 수집 시 동의 절차 필요",
+        "localization_strategy": "한국 주요 웹사이트 호환성 확보, 한국어 문서화, 개발자 커뮤니티 구축",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "브라우저 자동화",
+          "웹 스크래핑"
+        ],
+        "trend_index": 33,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 97
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 45
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 33
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 32
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 17
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 19
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 45
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 33
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 126,
+      "thumbnail_url": null,
+      "created_at": "2026-04-15T15:57:54.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 80,
+        "timing": 75,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Selenium (2004)",
+            "kr_equivalent": "국내 도입 (2005)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Playwright (2020)",
+            "kr_equivalent": "국내 활용 (2020)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47796818",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "https://stagereview.app/",
+      "title_en": "Stage – Putting humans back in control of code review",
+      "tagline_en": "Hey HN! We're Charles and Dean, and we're building Stage: a code review tool that guides you through reading a PR step by step, instead of piecing together a giant diff.",
+      "title_ko": "스테이지",
+      "summary_ko": "단계별 가이드를 제공하는 인간 중심의 코드 리뷰 도구",
+      "analysis_ko": {
+        "description": "복잡한 PR을 단계별로 나누어 체계적인 코드 리뷰를 가능하게 하는 도구입니다. 기존의 거대한 diff를 한 번에 보는 방식 대신, 논리적 순서에 따라 변경사항을 검토할 수 있도록 안내합니다.",
+        "market_fit": "한국의 높은 개발자 밀도와 코드 품질에 대한 관심을 고려할 때 좋은 시장 적합성을 가집니다. 특히 대기업과 성장하는 스타트업에서 활용도가 높을 것입니다.",
+        "competitors_kr": [
+          "깃허브",
+          "깃랩",
+          "비트버킷"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "소프트웨어 라이선스 관련 규정 준수 필요",
+        "localization_strategy": "한국어 인터페이스, 한국 개발 문화 반영, 개발자 커뮤니티 참여",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "코드 리뷰",
+          "개발 도구"
+        ],
+        "trend_index": 58,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 14
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 14
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 14
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 14
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 58
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 71,
+      "thumbnail_url": null,
+      "created_at": "2026-04-16T17:36:29.000Z",
+      "score": {
+        "market_opportunity": 55,
+        "execution_difficulty": 75,
+        "timing": 70,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "GitHub (2008)",
+            "kr_equivalent": "국내 도입 (2009)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "GitLab (2011)",
+            "kr_equivalent": "국내 활용 (2012)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47808268",
+      "rank": 8,
+      "source": "hackernews",
+      "source_url": "https://github.com/smol-machines/smolvm",
+      "title_en": "Smol machines – subsecond coldstart, portable virtual machines",
+      "tagline_en": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "title_ko": "스몰 머신",
+      "summary_ko": "초고속 콜드스타트를 지원하는 휴대용 가상머신 플랫폼",
+      "analysis_ko": {
+        "description": "1초 이내의 빠른 시작 시간을 자랑하는 경량화된 가상머신 솔루션입니다. 기존 가상화 기술의 무거움을 해결하여 개발자들이 더 빠르고 효율적으로 작업할 수 있도록 합니다.",
+        "market_fit": "한국의 클라우드 인프라 성장과 개발자들의 효율성 추구 트렌드에 부합합니다. 특히 마이크로서비스와 컨테이너 환경에서 높은 활용도가 예상됩니다.",
+        "competitors_kr": [
+          "네이버클라우드플랫폼",
+          "KT클라우드",
+          "NHN"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버클라우드플랫폼",
+            "founded_year": 2017,
+            "funding_status": "Corporate (Naver)",
+            "differentiation": "대규모 클라우드 서비스 vs 경량 가상머신 특화"
+          }
+        ],
+        "regulatory_notes": "클라우드 보안 인증 필요, 개인정보보호법 준수",
+        "localization_strategy": "한국 클라우드 환경 최적화, 국내 IDC 파트너십, 한국어 문서화",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "가상머신",
+          "클라우드 컴퓨팅"
+        ],
+        "trend_index": 25,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 31
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 34
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 74
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 25
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 120,
+      "thumbnail_url": null,
+      "created_at": "2026-04-17T17:18:58.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 45,
+        "timing": 80,
+        "overall": 66
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Docker (2013)",
+            "kr_equivalent": "국내 도입 (2014)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "AWS Lambda (2014)",
+            "kr_equivalent": "NCP Functions (2018)",
+            "gap_months": 48
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47807809",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://github.com/paniclock/paniclock/",
+      "title_en": "PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+      "tagline_en": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+      "title_ko": "패닉락",
+      "summary_ko": "맥북 덮개를 닫으면 TouchID를 비활성화하여 패스워드 입력을 강제하는 보안 도구",
+      "analysis_ko": {
+        "description": "맥북 사용자의 보안을 강화하기 위해 덮개를 닫는 순간 TouchID를 비활성화하여 다음 사용 시 반드시 패스워드를 입력하도록 하는 보안 유틸리티입니다. 물리적 접근으로부터 데이터를 보호합니다.",
+        "market_fit": "한국의 높은 맥북 사용률과 개인정보보호에 대한 관심 증가로 좋은 시장 반응이 예상됩니다. 특히 기업 환경에서 보안 강화 도구로 활용 가능합니다.",
+        "competitors_kr": [
+          "알약",
+          "V3",
+          "잉카인터넷"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "잉카인터넷",
+            "founded_year": 2000,
+            "funding_status": "IPO (KOSDAQ)",
+            "differentiation": "종합 보안 솔루션 vs 맥북 특화 간단 보안 도구"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 보안 소프트웨어 인증 고려",
+        "localization_strategy": "한국어 인터페이스, 국내 보안 요구사항 반영, 기업 고객 대상 마케팅",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "맥북 보안",
+          "TouchID 보안"
+        ],
+        "trend_index": 60,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2025-07-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 60
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 70,
+      "thumbnail_url": null,
+      "created_at": "2026-04-17T16:38:44.000Z",
+      "score": {
+        "market_opportunity": 45,
+        "execution_difficulty": 90,
+        "timing": 75,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 3,
+        "category_history": [
+          {
+            "us_launch": "1Password (2006)",
+            "kr_equivalent": "패스워드 매니저 도입 (2010)",
+            "gap_months": 48
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47759035",
+      "rank": 10,
+      "source": "hackernews",
+      "source_url": "https://github.com/AgentSeal/codeburn",
+      "title_en": "CodeBurn – Analyze Claude Code token usage by task",
+      "tagline_en": "Built this after realizing I was spending ~$1400/week on Claude Code with almost no visibility into what was actually consuming tokens.Tools like ccusage give a cost breakdown per model and pe",
+      "title_ko": "코드번",
+      "summary_ko": "Claude Code의 토큰 사용량을 작업별로 분석하는 비용 최적화 도구",
+      "analysis_ko": {
+        "description": "Claude Code 사용 시 토큰 소비량을 작업별로 상세 분석하여 비용을 최적화할 수 있도록 돕는 도구입니다. AI 개발 비용이 급증하는 상황에서 투명한 비용 관리를 제공합니다.",
+        "market_fit": "한국의 AI 도입이 가속화되면서 비용 관리에 대한 니즈가 증가하고 있어 적절한 타이밍입니다. 특히 스타트업과 중소기업에서 AI 비용 최적화 도구로 활용 가능합니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오브레인",
+          "업스테이지"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법 준수, 사용량 데이터 처리 시 동의 필요",
+        "localization_strategy": "한국 AI 서비스 연동, 원화 기준 비용 분석, 한국어 리포트 생성",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 비용 관리",
+          "토큰 사용량"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2026-03-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 99,
+      "thumbnail_url": null,
+      "created_at": "2026-04-13T22:57:05.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 85,
+        "timing": 85,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "OpenAI API (2020)",
+            "kr_equivalent": "네이버 클로바 API (2020)",
+            "gap_months": 6
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-17T20:35:17.056Z"
+}

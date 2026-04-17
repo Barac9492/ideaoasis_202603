@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-16T20:39:00.562Z</updated>
+    <updated>2026-04-17T20:35:18.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-17 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-17</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-17T20:35:17.056Z</updated>
+        <summary type="html"><![CDATA[빌드 체크 · 임원 변동 추적기 · 헬로 아리아 · 캘린더파이프 · 랭알파 · 리브레토 · 스테이지 · 스몰 머신 · 패닉락 · 코드번]]></summary>
+        <content type="html"><![CDATA[<h3>#1 빌드 체크</h3><p>앱 아이디어의 시장성과 실현 가능성을 AI로 검증해주는 창업 검증 플랫폼</p><h3>#2 임원 변동 추적기</h3><p>상장기업의 CEO, CFO 등 임원 변동을 실시간으로 추적하고 보상 데이터를 분석하는 플랫폼</p><h3>#3 헬로 아리아</h3><p>채팅을 할 일, 알림, 메모로 자동 변환해주는 AI 개인 비서 앱</p><h3>#4 캘린더파이프</h3><p>인간과 AI 에이전트를 위한 프로그래밍 가능한 캘린더 동기화 도구</p><h3>#5 랭알파</h3><p>금융업계 전용으로 최적화된 AI 코딩 어시스턴트 플랫폼</p><h3>#6 리브레토</h3><p>AI 에이전트를 위한 결정론적 브라우저 자동화 도구</p><h3>#7 스테이지</h3><p>단계별 가이드를 제공하는 인간 중심의 코드 리뷰 도구</p><h3>#8 스몰 머신</h3><p>초고속 콜드스타트를 지원하는 휴대용 가상머신 플랫폼</p><h3>#9 패닉락</h3><p>맥북 덮개를 닫으면 TouchID를 비활성화하여 패스워드 입력을 강제하는 보안 도구</p><h3>#10 코드번</h3><p>Claude Code의 토큰 사용량을 작업별로 분석하는 비용 최적화 도구</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-16 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-16</id>
