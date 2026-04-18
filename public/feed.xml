@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-17T20:35:18.983Z</updated>
+    <updated>2026-04-18T20:25:15.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-18 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-18</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-18T20:25:12.812Z</updated>
+        <summary type="html"><![CDATA[클로드 디자인 · 스몰 머신 · 패닉락 · 제미니 노트북 · 크래프트봇 · 리브레토 · 스테이지 · ChatGPT 쇼핑 · 맥마인드 · 홈 메모리]]></summary>
+        <content type="html"><![CDATA[<h3>#1 클로드 디자인</h3><p>대화만으로 프로토타입, 슬라이드, 원페이저를 제작하는 AI 디자인 도구</p><h3>#2 스몰 머신</h3><p>1초 미만 콜드스타트를 지원하는 초경량 가상머신 플랫폼</p><h3>#3 패닉락</h3><p>맥북 덮개를 닫으면 TouchID를 비활성화하여 강제 잠금해제를 방지하는 보안 도구</p><h3>#4 제미니 노트북</h3><p>프로젝트, 채팅, 파일을 하나의 통합된 공간에서 관리하는 AI 워크스페이스</p><h3>#5 크래프트봇</h3><p>로컬에서 실행되는 자체 호스팅 능동형 AI 어시스턴트</p><h3>#6 리브레토</h3><p>AI 브라우저 자동화를 결정론적으로 만드는 도구</p><h3>#7 스테이지</h3><p>단계별 가이드를 통해 코드 리뷰를 체계적으로 진행하는 도구</p><h3>#8 ChatGPT 쇼핑</h3><p>더 풍부하고 시각적으로 몰입감 있는 AI 쇼핑 경험 제공</p><h3>#9 맥마인드</h3><p>1989년 매킨토시의 하이퍼카드에서 구현한 트랜스포머 신경망</p><h3>#10 홈 메모리</h3><p>집안의 케이블과 배관까지 기록하는 로컬 주택 데이터베이스</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-17 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-17</id>
