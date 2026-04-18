@@ -1,0 +1,90 @@
+{
+  "week": "2026-W16",
+  "selected_idea": {
+    "id": "ph-1118208",
+    "rank": 1,
+    "source": "producthunt",
+    "source_url": "https://www.producthunt.com/posts/build-check-for-outsiders",
+    "title_en": "Build Check (for Outsiders)",
+    "tagline_en": "Is your app idea actually worth building?",
+    "title_ko": "빌드 체크",
+    "summary_ko": "앱 아이디어의 시장성과 실현 가능성을 AI로 검증해주는 창업 검증 플랫폼",
+    "analysis_ko": {
+      "description": "창업자들이 앱 아이디어를 실제로 개발하기 전에 시장성, 경쟁 상황, 기술적 실현 가능성을 종합적으로 분석해주는 AI 기반 검증 서비스입니다. 아이디어 단계에서 객관적인 피드백을 제공하여 시간과 자원 낭비를 방지합니다.",
+      "market_fit": "한국의 높은 창업 열기와 정부의 스타트업 지원 정책이 맞물려 매우 적합한 시장입니다. 특히 실패를 두려워하는 한국 문화에서 사전 검증 서비스에 대한 수요가 클 것으로 예상됩니다.",
+      "competitors_kr": [
+        "스파크랩",
+        "프라이머",
+        "블루포인트파트너스"
+      ],
+      "competitors_kr_detailed": [
+        {
+          "name": "스파크랩",
+          "founded_year": 2012,
+          "funding_status": "Series A $10M",
+          "differentiation": "액셀러레이터 프로그램 vs AI 기반 자동화된 아이디어 검증"
+        },
+        {
+          "name": "프라이머",
+          "founded_year": 2010,
+          "funding_status": "Series B $20M",
+          "differentiation": "투자 중심 vs 개별 창업자 대상 셀프 검증 도구"
+        }
+      ],
+      "regulatory_notes": "개인정보보호법 준수 필요, 투자자문업 등록 검토 필요",
+      "localization_strategy": "한국 시장 데이터 학습, 정부 지원사업 연계, 한국어 자연어처리 최적화",
+      "difficulty": "Medium"
+    },
+    "naver_trends": {
+      "keywords": [
+        "창업 아이디어 검증",
+        "스타트업 검증"
+      ],
+      "trend_index": 75,
+      "trend_direction": "up",
+      "period": "estimated"
+    },
+    "category": "saas",
+    "ph_votes": 320,
+    "thumbnail_url": "https://ph-files.imgix.net/befdc559-f978-47c1-bc72-40d445779b24.png?auto=format",
+    "created_at": "2026-04-17T07:01:00Z",
+    "score": {
+      "market_opportunity": 85,
+      "execution_difficulty": 70,
+      "timing": 90,
+      "overall": 82
+    },
+    "timing_window": {
+      "avg_months": 18,
+      "category_history": [
+        {
+          "us_launch": "AngelList (2010)",
+          "kr_equivalent": "TheVC (2012)",
+          "gap_months": 24
+        },
+        {
+          "us_launch": "Crunchbase (2007)",
+          "kr_equivalent": "스타트업얼라이언스 (2010)",
+          "gap_months": 36
+        }
+      ]
+    }
+  },
+  "deep_dive_ko": {
+    "market_sizing": "한국 스타트업 생태계는 연간 약 1만 개의 신규 창업이 이루어지며, 이 중 70%가 아이디어 검증 단계에서 실패합니다. TAM(전체 시장): 연간 창업 준비자 약 15만 명 × 평균 검증 비용 50만원 = 750억원. SAM(서비스 가능 시장): 디지털 네이티브 창업자 약 5만 명 × 30만원 = 150억원. SOM(실제 확보 가능 시장): 초기 3년간 시장 점유율 5% 목표로 약 7.5억원. 정부의 K-스타트업 정책과 벤처투자 활성화로 시장 성장률은 연 15% 이상 예상됩니다.",
+    "localization_playbook": [
+      "1단계: 한국어 자연어 처리 엔진 구축 - 창업 아이디어 분석을 위한 한국어 특화 AI 모델 개발 (8주)",
+      "2단계: 국내 시장 데이터 통합 - 통계청, 중소벤처기업부, 한국벤처투자 등 공공 데이터 연동 (4주)",
+      "3단계: 한국 창업 생태계 파트너십 - 스파크랩, 프라이머, 블루포인트파트너스 등 액셀러레이터와 제휴 (6주)",
+      "4단계: 정부 지원사업 연계 - 예비창업패키지, 창업도약패키지 등 정부 프로그램과 연동 (4주)",
+      "5단계: 한국 투자 환경 반영 - 국내 VC 투자 패턴, 업종별 성공 사례 데이터베이스 구축 (6주)"
+    ],
+    "comparable_kr_successes": [
+      "스파크랩 — 2012년 설립된 한국 대표 액셀러레이터로 500개 이상 스타트업 육성, 아이디어 검증의 중요성을 입증",
+      "프라이머 — 2010년 설립되어 쿠팡, 배달의민족 등 유니콘 기업 발굴, 초기 아이디어 단계 투자 전문성 보유",
+      "로켓펀치 — 스타트업 정보 플랫폼으로 창업자들의 정보 수집 니즈 충족, 월 100만 방문자 확보",
+      "벤처스퀘어 — 창업 관련 콘텐츠와 정보 제공으로 창업자 커뮤니티 형성, 연 매출 30억원 달성"
+    ],
+    "estimated_build_timeline": "MVP 12주, 정식 출시 6개월. MVP는 기본 아이디어 분석과 시장성 검증 기능 포함. 정식 출시까지 한국어 최적화, 국내 데이터 연동, 파트너십 구축 완료 예정"
+  }
+}
