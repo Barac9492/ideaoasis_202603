@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-18T20:25:15.479Z</updated>
+    <updated>2026-04-19T20:26:14.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-19 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-19</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-19T20:26:12.699Z</updated>
+        <summary type="html"><![CDATA[밴티지 인 구글 랩스 · 버던트 2.0 · 스몰 머신 · 아비나 · 크리에이터 OS · 랭알파 · 페이퍼웨이트 · 스테이지 · 윈도 · 리브레토]]></summary>
+        <content type="html"><![CDATA[<h3>#1 밴티지 인 구글 랩스</h3><p>AI 시뮬레이션 팀과 함께 미래 역량을 연습하고 평가하는 교육 플랫폼</p><h3>#2 버던트 2.0</h3><p>AI 기술 공동창업자로 개발 업무를 대신해주는 코딩 에이전트</p><h3>#3 스몰 머신</h3><p>1초 이내 콜드스타트가 가능한 초경량 가상머신 플랫폼</p><h3>#4 아비나</h3><p>AI 에이전트가 잠재고객을 찾고 접촉하는 자동화된 영업 플랫폼</p><h3>#5 크리에이터 OS</h3><p>인스타그램 댓글을 놓치지 않게 관리해주는 크리에이터 전용 도구</p><h3>#6 랭알파</h3><p>월스트리트를 위해 특화된 AI 코딩 어시스턴트</p><h3>#7 페이퍼웨이트</h3><p>이메일 정리와 디지털 발자취 관리를 위한 개인정보 보호 도구</p><h3>#8 스테이지</h3><p>단계별 가이드로 코드 리뷰를 체계화하는 개발자 도구</p><h3>#9 윈도</h3><p>산책, 자전거, 야외식사 최적 시간을 알려주는 스마트 날씨 앱</p><h3>#10 리브레토</h3><p>AI 브라우저 자동화를 안정적으로 만드는 개발자 도구</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-18 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-18</id>
