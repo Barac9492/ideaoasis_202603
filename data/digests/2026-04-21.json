@@ -1,0 +1,1003 @@
+{
+  "date": "2026-04-21",
+  "ideas": [
+    {
+      "id": "ph-1122928",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/rankai-2",
+      "title_en": "RankAI",
+      "tagline_en": "RankAI autonomously gets you buyers from Google & AI Search",
+      "title_ko": "랭크AI",
+      "summary_ko": "구글과 AI 검색에서 자동으로 고객을 유치하는 SEO 자동화 플랫폼",
+      "analysis_ko": {
+        "description": "AI 기반으로 구글 검색과 AI 검색 엔진에서 자동으로 고객을 유치하는 SEO 마케팅 자동화 도구입니다. 키워드 최적화부터 콘텐츠 생성까지 전체 SEO 프로세스를 AI가 자동으로 처리합니다.",
+        "market_fit": "한국의 중소기업과 스타트업들이 네이버, 구글 검색 마케팅에 어려움을 겪고 있어 높은 수요가 예상됩니다. 특히 AI 검색 최적화는 아직 초기 단계로 선점 효과가 클 것으로 보입니다.",
+        "competitors_kr": [
+          "아이보스",
+          "마케팅봇",
+          "SEO마스터"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "아이보스",
+            "founded_year": 2020,
+            "funding_status": "Series A $5M",
+            "differentiation": "RankAI는 AI 검색 엔진 최적화에 특화되어 있어 기존 SEO 도구보다 차별화됨"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수 필요, 광고 표시 의무 준수",
+        "localization_strategy": "네이버 SEO 최적화 기능 추가, 한국어 키워드 분석 강화, 로컬 검색 트렌드 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "SEO 자동화",
+          "AI 마케팅"
+        ],
+        "trend_index": 59,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 84
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 59
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 347,
+      "thumbnail_url": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
+      "created_at": "2026-04-21T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 65,
+        "timing": 90,
+        "overall": 80
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Ahrefs (2010)",
+            "kr_equivalent": "랭키 (2012)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "SEMrush (2008)",
+            "kr_equivalent": "아이보스 (2020)",
+            "gap_months": 144
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1127858",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/twenty-2-0",
+      "title_en": "Twenty 2.0",
+      "tagline_en": "Build your Enterprise CRM at AI Speed",
+      "title_ko": "트웬티 2.0",
+      "summary_ko": "AI 속도로 구축하는 엔터프라이즈 CRM 플랫폼",
+      "analysis_ko": {
+        "description": "AI 기술을 활용해 기업용 CRM을 빠르게 구축할 수 있는 플랫폼입니다. 기존 CRM 구축에 몇 달이 걸리던 작업을 AI의 도움으로 며칠 내에 완성할 수 있습니다.",
+        "market_fit": "한국 기업들의 디지털 전환 가속화와 함께 CRM 도입 수요가 급증하고 있습니다. 특히 중견기업들이 맞춤형 CRM 솔루션을 찾고 있어 시장 기회가 큽니다.",
+        "competitors_kr": [
+          "세일즈포스코리아",
+          "더존",
+          "그룹웨어"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "더존",
+            "founded_year": 1987,
+            "funding_status": "Public company",
+            "differentiation": "Twenty는 AI 기반 빠른 구축에 특화되어 기존 ERP 업체들과 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 신용정보법 준수 필요",
+        "localization_strategy": "한국 기업 문화에 맞는 워크플로우 템플릿 제공, 기존 ERP 시스템과의 연동 강화",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "CRM 솔루션",
+          "고객관리시스템"
+        ],
+        "trend_index": 62,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 49
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 62
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 249,
+      "thumbnail_url": "https://ph-files.imgix.net/d2d29b16-ac94-46f0-9d73-fbbdb5a522be.png?auto=format",
+      "created_at": "2026-04-21T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 45,
+        "timing": 85,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "Salesforce (1999)",
+            "kr_equivalent": "세일즈포스코리아 (2010)",
+            "gap_months": 132
+          },
+          {
+            "us_launch": "HubSpot (2006)",
+            "kr_equivalent": "허브스팟코리아 (2018)",
+            "gap_months": 144
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47808268",
+      "rank": 3,
+      "source": "hackernews",
+      "source_url": "https://github.com/smol-machines/smolvm",
+      "title_en": "Smol machines",
+      "tagline_en": "subsecond coldstart, portable virtual machines",
+      "title_ko": "스몰 머신",
+      "summary_ko": "1초 미만 콜드스타트가 가능한 휴대용 가상머신 플랫폼",
+      "analysis_ko": {
+        "description": "기존 가상머신보다 훨씬 빠른 부팅 속도를 제공하는 경량 가상화 솔루션입니다. 클라우드 컴퓨팅과 엣지 컴퓨팅 환경에서 즉시 실행 가능한 애플리케이션 배포를 지원합니다.",
+        "market_fit": "한국의 클라우드 전환 가속화와 엣지 컴퓨팅 수요 증가로 높은 시장 잠재력을 보입니다. 특히 게임, 핀테크 등 실시간 처리가 중요한 산업에서 관심이 클 것으로 예상됩니다.",
+        "competitors_kr": [
+          "네이버클라우드플랫폼",
+          "KT클라우드",
+          "LG유플러스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버클라우드플랫폼",
+            "founded_year": 2017,
+            "funding_status": "Subsidiary of NAVER",
+            "differentiation": "Smol machines는 초고속 콜드스타트에 특화되어 기존 클라우드 서비스와 차별화"
+          }
+        ],
+        "regulatory_notes": "클라우드 보안 인증, 개인정보보호 규정 준수",
+        "localization_strategy": "국내 클라우드 인프라와의 연동, 한국 기업 보안 요구사항 충족",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "가상화",
+          "클라우드 컴퓨팅"
+        ],
+        "trend_index": 34,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 34
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 29
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 31
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 78
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 34
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 493,
+      "thumbnail_url": null,
+      "created_at": "2026-04-17T17:18:58.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 35,
+        "timing": 80,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Docker (2013)",
+            "kr_equivalent": "네이버클라우드 컨테이너 (2018)",
+            "gap_months": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1102596",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/perplexity-health",
+      "title_en": "Perplexity Health",
+      "tagline_en": "Ask health questions across your records, labs, wearables",
+      "title_ko": "퍼플렉시티 헬스",
+      "summary_ko": "의료 기록, 검사 결과, 웨어러블 데이터를 통합 분석하는 AI 건강 어시스턴트",
+      "analysis_ko": {
+        "description": "개인의 의료 기록, 검사 결과, 웨어러블 기기 데이터를 통합하여 AI가 건강 관련 질문에 답변하는 서비스입니다. 개인 맞춤형 건강 인사이트와 의료진과의 상담 준비를 도와줍니다.",
+        "market_fit": "한국의 고령화 사회 진입과 개인 건강관리에 대한 관심 증가로 큰 시장 기회가 있습니다. 특히 건강보험 데이터와 연동 시 강력한 경쟁력을 가질 수 있습니다.",
+        "competitors_kr": [
+          "닥터나우",
+          "굿닥",
+          "메디히어"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "닥터나우",
+            "founded_year": 2017,
+            "funding_status": "Series C $50M",
+            "differentiation": "Perplexity Health는 개인 데이터 통합 분석에 특화되어 기존 원격의료와 차별화"
+          }
+        ],
+        "regulatory_notes": "의료법, 개인정보보호법, 의료기기법 등 엄격한 규제 준수 필요",
+        "localization_strategy": "건강보험공단 데이터 연동, 한국 의료 시스템 특성 반영, 의료진 협력 네트워크 구축",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 건강관리",
+          "개인의료정보"
+        ],
+        "trend_index": 55,
+        "trend_direction": "up",
+        "period": "2025-05-01 ~ 2026-01-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 55
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 45
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 55
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 55
+          }
+        ]
+      },
+      "category": "healthtech",
+      "ph_votes": 138,
+      "thumbnail_url": "https://ph-files.imgix.net/db193b4c-13cc-4700-8cde-ebac26d3c247.png?auto=format",
+      "created_at": "2026-04-21T07:01:00Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 25,
+        "timing": 70,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 48,
+        "category_history": [
+          {
+            "us_launch": "23andMe (2006)",
+            "kr_equivalent": "마크로젠 DTC (2016)",
+            "gap_months": 120
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47847558",
+      "rank": 5,
+      "source": "hackernews",
+      "source_url": "https://vidstudio.app/video-editor",
+      "title_en": "VidStudio",
+      "tagline_en": "a browser based video editor that doesn't upload your files",
+      "title_ko": "비드스튜디오",
+      "summary_ko": "파일 업로드 없이 브라우저에서 작동하는 프라이버시 중심 비디오 편집기",
+      "analysis_ko": {
+        "description": "브라우저에서 직접 작동하여 파일을 서버에 업로드하지 않는 프라이버시 중심의 비디오 편집 도구입니다. 계정 생성 없이 즉시 사용 가능하며 모든 데이터는 로컬에서 처리됩니다.",
+        "market_fit": "개인정보 보호에 대한 관심이 높은 한국 시장에서 강한 어필이 가능합니다. 특히 유튜버, 인플루언서들의 간단한 편집 작업에 적합할 것으로 보입니다.",
+        "competitors_kr": [
+          "곰믹스",
+          "반디캠",
+          "키네마스터"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "곰믹스",
+            "founded_year": 2000,
+            "funding_status": "bootstrapped",
+            "differentiation": "VidStudio는 브라우저 기반 프라이버시 중심으로 기존 설치형 편집기와 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 저작권 관련 규정 고려",
+        "localization_strategy": "한국어 인터페이스, 한국 동영상 플랫폼 최적화 출력 포맷 지원",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "온라인 동영상편집",
+          "브라우저 편집기"
+        ],
+        "trend_index": 15,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 15
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 18
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 15
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 15
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 212,
+      "thumbnail_url": null,
+      "created_at": "2026-04-21T11:58:16.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 75,
+        "timing": 85,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Canva (2013)",
+            "kr_equivalent": "미리캔버스 (2014)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1123690",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/dageno-ai-4",
+      "title_en": "Dageno AI",
+      "tagline_en": "Become the most recommended brand across 7+ major LLMs",
+      "title_ko": "다제노 AI",
+      "summary_ko": "주요 LLM들에서 가장 추천받는 브랜드가 되도록 돕는 AI 마케팅 플랫폼",
+      "analysis_ko": {
+        "description": "ChatGPT, Claude 등 주요 AI 모델들이 브랜드를 추천하도록 최적화하는 마케팅 플랫폼입니다. AI 검색 시대에 맞춘 새로운 형태의 브랜드 마케팅 전략을 제공합니다.",
+        "market_fit": "AI 검색이 확산되면서 기존 SEO와 다른 새로운 마케팅 채널이 필요한 상황입니다. 한국 기업들도 글로벌 AI 플랫폼에서의 브랜드 노출에 관심이 높아지고 있습니다.",
+        "competitors_kr": [
+          "브랜드워치코리아",
+          "소셜메트릭스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "소셜메트릭스",
+            "founded_year": 2012,
+            "funding_status": "Series B $10M",
+            "differentiation": "Dageno AI는 LLM 추천 최적화에 특화되어 기존 소셜 모니터링과 완전히 다른 접근"
+          }
+        ],
+        "regulatory_notes": "광고 표시 의무, 공정거래법 준수",
+        "localization_strategy": "한국어 AI 모델 대응, 네이버 하이퍼클로바X 등 국내 LLM 지원",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 마케팅",
+          "브랜드 최적화"
+        ],
+        "trend_index": 59,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 84
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 59
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 178,
+      "thumbnail_url": "https://ph-files.imgix.net/0404e491-e1f2-4be0-81a7-0e6b5bf09107.png?auto=format",
+      "created_at": "2026-04-21T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 60,
+        "timing": 95,
+        "overall": 80
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "BrightEdge (2007)",
+            "kr_equivalent": "아이보스 (2020)",
+            "gap_months": 156
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47835411",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "https://mediator.ai/",
+      "title_en": "Mediator.ai",
+      "tagline_en": "Using Nash bargaining and LLMs to systematize fairness",
+      "title_ko": "메디에이터.ai",
+      "summary_ko": "내시 협상 이론과 LLM을 활용한 공정한 분쟁 조정 AI 플랫폼",
+      "analysis_ko": {
+        "description": "게임 이론의 내시 협상과 대형 언어 모델을 결합하여 공정한 분쟁 해결을 돕는 AI 중재 플랫폼입니다. 이혼, 계약 분쟁 등 다양한 갈등 상황에서 객관적이고 체계적인 해결책을 제시합니다.",
+        "market_fit": "한국의 높은 분쟁 조정 수요와 법무 서비스 디지털화 트렌드에 부합합니다. 특히 중소기업 간 계약 분쟁이나 가족 분쟁에서 비용 효율적인 대안으로 주목받을 수 있습니다.",
+        "competitors_kr": [
+          "대한상사중재원",
+          "소비자분쟁조정위원회"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "대한상사중재원",
+            "founded_year": 1966,
+            "funding_status": "Government-affiliated",
+            "differentiation": "Mediator.ai는 AI 기반 자동화된 조정으로 기존 인적 중재와 차별화"
+          }
+        ],
+        "regulatory_notes": "중재법, 개인정보보호법, 법무 서비스 관련 규제 검토 필요",
+        "localization_strategy": "한국 법체계 반영, 한국어 법률 용어 학습, 국내 중재 기관과의 협력",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "온라인 중재",
+          "AI 법무"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2025-05-01 ~ 2025-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 138,
+      "thumbnail_url": null,
+      "created_at": "2026-04-20T15:07:04.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 30,
+        "timing": 60,
+        "overall": 58
+      },
+      "timing_window": {
+        "avg_months": 60,
+        "category_history": [
+          {
+            "us_launch": "LegalZoom (2001)",
+            "kr_equivalent": "로톡 (2015)",
+            "gap_months": 168
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1128235",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/kimi-k2-6-7",
+      "title_en": "Kimi K2.6",
+      "tagline_en": "Open-source SOTA for long-horizon coding and agent swarms",
+      "title_ko": "키미 K2.6",
+      "summary_ko": "장기 코딩 작업과 에이전트 스웜을 위한 오픈소스 최첨단 AI 모델",
+      "analysis_ko": {
+        "description": "복잡하고 장기간의 코딩 프로젝트를 수행할 수 있는 오픈소스 AI 모델입니다. 여러 AI 에이전트가 협력하여 대규모 소프트웨어 개발 작업을 자동화할 수 있습니다.",
+        "market_fit": "한국의 개발자 인력 부족 문제와 소프트웨어 개발 자동화 수요 증가로 높은 관심을 받을 것으로 예상됩니다. 특히 스타트업과 중소 IT 기업에서 개발 생산성 향상 도구로 활용 가능합니다.",
+        "competitors_kr": [
+          "네이버 하이퍼클로바X",
+          "카카오브레인"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 하이퍼클로바X",
+            "founded_year": 2021,
+            "funding_status": "Subsidiary of NAVER",
+            "differentiation": "Kimi K2.6은 오픈소스로 제공되어 기업들이 자유롭게 커스터마이징 가능"
+          }
+        ],
+        "regulatory_notes": "오픈소스 라이선스 준수, 개발 코드 보안 고려",
+        "localization_strategy": "한국어 코드 주석 지원, 국내 개발 프레임워크 최적화, 개발자 커뮤니티 구축",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 코딩",
+          "개발 자동화"
+        ],
+        "trend_index": 54,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 54
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 236,
+      "thumbnail_url": "https://ph-files.imgix.net/be76baa0-d4e9-4f86-ae51-cb94d9b86787.png?auto=format",
+      "created_at": "2026-04-21T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 40,
+        "timing": 85,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "GitHub Copilot (2021)",
+            "kr_equivalent": "네이버 클로바 코드 (2022)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47812341",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://victorpoughon.github.io/interval-calculator/",
+      "title_en": "Interval Calculator",
+      "tagline_en": "I made a calculator that works over disjoint sets of intervals",
+      "title_ko": "인터벌 계산기",
+      "summary_ko": "분리된 구간 집합에서 작동하는 수학적 계산기",
+      "analysis_ko": {
+        "description": "불연속 구간들에 대한 수학적 연산을 수행할 수 있는 특수 계산기입니다. 공학, 과학 연구, 데이터 분석 등에서 구간 산술이 필요한 복잡한 계산을 지원합니다.",
+        "market_fit": "한국의 강한 교육 시장과 공학 분야에서 수요가 있을 것으로 보입니다. 특히 대학교 수학과, 공학과 학생들과 연구자들에게 유용한 도구가 될 수 있습니다.",
+        "competitors_kr": [
+          "울프럼알파",
+          "지오지브라"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음",
+        "localization_strategy": "한국어 인터페이스, 한국 교육과정에 맞는 예제 제공, 대학교 수학 커리큘럼 연동",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "수학 계산기",
+          "구간 연산"
+        ],
+        "trend_index": 32,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 44
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 44
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 36
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 46
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 32
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 47
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 32
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 312,
+      "thumbnail_url": null,
+      "created_at": "2026-04-18T01:15:43.000Z",
+      "score": {
+        "market_opportunity": 40,
+        "execution_difficulty": 85,
+        "timing": 70,
+        "overall": 60
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Desmos (2011)",
+            "kr_equivalent": "지오지브라 코리아 (2012)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1128443",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/livedemo-3",
+      "title_en": "LiveDemo",
+      "tagline_en": "Open-source Interactive product demos",
+      "title_ko": "라이브데모",
+      "summary_ko": "오픈소스 인터랙티브 제품 데모 플랫폼",
+      "analysis_ko": {
+        "description": "제품의 인터랙티브한 데모를 쉽게 만들 수 있는 오픈소스 플랫폼입니다. 실제 제품 사용 경험을 시뮬레이션하여 고객들이 구매 전에 제품을 체험해볼 수 있게 해줍니다.",
+        "market_fit": "한국의 높은 이커머스 성장률과 체험 마케팅 트렌드에 부합합니다. 특히 SaaS 제품이나 복잡한 소프트웨어를 판매하는 기업들에게 유용할 것으로 보입니다.",
+        "competitors_kr": [
+          "데모데이",
+          "인터랙트"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음",
+        "localization_strategy": "한국어 템플릿 제공, 국내 주요 웹사이트 빌더와의 연동, 한국 기업 사례 구축",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "제품 데모",
+          "인터랙티브 마케팅"
+        ],
+        "trend_index": 100,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2025-10-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 26
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 26
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 117,
+      "thumbnail_url": "https://ph-files.imgix.net/2e64354d-c77e-43c8-830f-287c7f9d373a.png?auto=format",
+      "created_at": "2026-04-21T07:01:00Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 70,
+        "timing": 75,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Loom (2016)",
+            "kr_equivalent": "스크린캐스터 (2018)",
+            "gap_months": 24
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-21T20:40:27.856Z"
+}

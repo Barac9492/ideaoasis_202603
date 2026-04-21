@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-20T20:36:25.079Z</updated>
+    <updated>2026-04-21T20:40:29.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-21 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-21</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-21T20:40:27.856Z</updated>
+        <summary type="html"><![CDATA[랭크AI · 트웬티 2.0 · 스몰 머신 · 퍼플렉시티 헬스 · 비드스튜디오 · 다제노 AI · 메디에이터.ai · 키미 K2.6 · 인터벌 계산기 · 라이브데모]]></summary>
+        <content type="html"><![CDATA[<h3>#1 랭크AI</h3><p>구글과 AI 검색에서 자동으로 고객을 유치하는 SEO 자동화 플랫폼</p><h3>#2 트웬티 2.0</h3><p>AI 속도로 구축하는 엔터프라이즈 CRM 플랫폼</p><h3>#3 스몰 머신</h3><p>1초 미만 콜드스타트가 가능한 휴대용 가상머신 플랫폼</p><h3>#4 퍼플렉시티 헬스</h3><p>의료 기록, 검사 결과, 웨어러블 데이터를 통합 분석하는 AI 건강 어시스턴트</p><h3>#5 비드스튜디오</h3><p>파일 업로드 없이 브라우저에서 작동하는 프라이버시 중심 비디오 편집기</p><h3>#6 다제노 AI</h3><p>주요 LLM들에서 가장 추천받는 브랜드가 되도록 돕는 AI 마케팅 플랫폼</p><h3>#7 메디에이터.ai</h3><p>내시 협상 이론과 LLM을 활용한 공정한 분쟁 조정 AI 플랫폼</p><h3>#8 키미 K2.6</h3><p>장기 코딩 작업과 에이전트 스웜을 위한 오픈소스 최첨단 AI 모델</p><h3>#9 인터벌 계산기</h3><p>분리된 구간 집합에서 작동하는 수학적 계산기</p><h3>#10 라이브데모</h3><p>오픈소스 인터랙티브 제품 데모 플랫폼</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-20 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-20</id>
