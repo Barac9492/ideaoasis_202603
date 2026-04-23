@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-22T20:43:15.678Z</updated>
+    <updated>2026-04-23T20:44:08.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-23 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-23</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-23T20:44:06.227Z</updated>
+        <summary type="html"><![CDATA[포커시 2.0 · 콜랩 · 비드스튜디오 · 매직 패턴 에이전트 2.0 · 리루프 애니메이션 스튜디오 · 모니드 · 고모델 · 블링크 AI CFO · 미디에이터.ai · ASI:원]]></summary>
+        <content type="html"><![CDATA[<h3>#1 포커시 2.0</h3><p>화면 녹화로 전문적인 데모와 튜토리얼을 자동 생성하는 도구</p><h3>#2 콜랩</h3><p>팀과 AI 에이전트가 함께 협업하는 공유 워크스페이스</p><h3>#3 비드스튜디오</h3><p>파일 업로드 없이 브라우저에서 작동하는 프라이버시 중심 비디오 편집기</p><h3>#4 매직 패턴 에이전트 2.0</h3><p>아이디어에서 프로덕션까지 자동화하는 최고의 AI 디자인 에이전트</p><h3>#5 리루프 애니메이션 스튜디오</h3><p>모든 비디오 아이디어를 픽사, 클레이, 망가 스타일로 변환하는 AI 도구</p><h3>#6 모니드</h3><p>AI 에이전트가 필요한 모든 유료 도구를 위한 통합 지갑</p><h3>#7 고모델</h3><p>Go 언어로 개발된 오픈소스 AI 게이트웨이</p><h3>#8 블링크 AI CFO</h3><p>슬랙을 통해 자율적으로 주식과 옵션을 거래하는 AI CFO</p><h3>#9 미디에이터.ai</h3><p>내쉬 협상 이론과 LLM을 활용한 공정한 중재 시스템</p><h3>#10 ASI:원</h3><p>기억력을 가지고 계획하고 행동하는 개인용 AI 어시스턴트</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-22 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-22</id>
