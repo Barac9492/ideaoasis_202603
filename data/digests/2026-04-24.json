@@ -1,0 +1,878 @@
+{
+  "date": "2026-04-24",
+  "ideas": [
+    {
+      "id": "ph-1129378",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/ask-product-hunt-ai",
+      "title_en": "Ask Product Hunt AI",
+      "tagline_en": "Find the right product, just ask",
+      "title_ko": "애스크 프로덕트헌트 AI",
+      "summary_ko": "자연어로 질문하면 적합한 제품을 찾아주는 AI 검색 서비스",
+      "analysis_ko": {
+        "description": "사용자가 자연어로 질문하면 AI가 프로덕트헌트 데이터베이스에서 적합한 제품을 찾아주는 서비스입니다. 기존의 키워드 검색 방식을 넘어서 의도를 이해하고 맞춤형 제품을 추천합니다.",
+        "market_fit": "한국의 스타트업 생태계가 성장하면서 제품 발견의 어려움이 증가하고 있어 높은 시장 적합성을 보입니다. 특히 B2B SaaS 도구 선택에 어려움을 겪는 중소기업들에게 유용할 것입니다.",
+        "competitors_kr": [
+          "로켓펀치",
+          "더브이씨",
+          "스타트업얼라이언스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "로켓펀치",
+            "founded_year": 2013,
+            "funding_status": "Series B $10M",
+            "differentiation": "로켓펀치는 채용 중심이지만 Ask Product Hunt AI는 제품 발견에 특화된 AI 검색 기능 제공"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수 필요, AI 추천 알고리즘의 투명성 요구사항 고려",
+        "localization_strategy": "한국어 자연어 처리 최적화, 국내 스타트업 데이터베이스 구축, 네이버/카카오 생태계 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 제품 추천",
+          "스타트업 검색"
+        ],
+        "trend_index": 72,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 389,
+      "thumbnail_url": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
+      "created_at": "2026-04-24T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 65,
+        "timing": 80,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "ChatGPT (2022)",
+            "kr_equivalent": "네이버 하이퍼클로바X (2023)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Notion AI (2022)",
+            "kr_equivalent": "타입드 AI (2023)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47847558",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://vidstudio.app/video-editor",
+      "title_en": "VidStudio",
+      "tagline_en": "A browser based video editor that doesn't upload your files",
+      "title_ko": "비드스튜디오",
+      "summary_ko": "파일 업로드 없이 브라우저에서 작동하는 프라이버시 중심 비디오 편집기",
+      "analysis_ko": {
+        "description": "사용자의 비디오 파일을 서버에 업로드하지 않고 브라우저 내에서만 처리하는 프라이버시 중심의 비디오 편집 도구입니다. 계정 생성 없이 즉시 사용 가능하며 모든 처리가 로컬에서 이루어집니다.",
+        "market_fit": "개인정보보호에 민감한 한국 시장에서 높은 관심을 받을 것으로 예상됩니다. 특히 기업의 내부 영상 제작이나 개인 크리에이터들의 간단한 편집 작업에 적합합니다.",
+        "competitors_kr": [
+          "비바비디오",
+          "키네마스터",
+          "플렉스클립"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "비바비디오",
+            "founded_year": 2010,
+            "funding_status": "Series C $50M",
+            "differentiation": "비바비디오는 모바일 중심이지만 VidStudio는 웹 브라우저 기반으로 프라이버시 보장"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 유리한 위치, 데이터 처리 최소화 원칙 부합",
+        "localization_strategy": "한국어 UI 제공, 국내 폰트 지원, 한국 콘텐츠 특화 템플릿 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "온라인 비디오 편집",
+          "프라이버시 편집기"
+        ],
+        "trend_index": 68,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "creator",
+      "ph_votes": 297,
+      "thumbnail_url": null,
+      "created_at": "2026-04-21T11:58:16.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 70,
+        "timing": 85,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Canva (2013)",
+            "kr_equivalent": "미리캔버스 (2014)",
+            "gap_months": 18
+          },
+          {
+            "us_launch": "Figma (2016)",
+            "kr_equivalent": "오븐 (2015)",
+            "gap_months": -12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1130495",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/spira-ai-2",
+      "title_en": "Spira AI",
+      "tagline_en": "AI Influencer that always on trend, create & grow your brand",
+      "title_ko": "스피라 AI",
+      "summary_ko": "항상 트렌드를 따라가며 브랜드를 성장시키는 AI 인플루언서 서비스",
+      "analysis_ko": {
+        "description": "AI 기술을 활용해 가상 인플루언서를 생성하고 관리하는 서비스로, 실시간 트렌드를 반영한 콘텐츠를 자동 생성합니다. 브랜드 마케팅과 소셜미디어 운영을 AI가 대신 수행합니다.",
+        "market_fit": "K-pop과 버추얼 아이돌 문화가 발달한 한국에서 매우 높은 시장 적합성을 보입니다. 특히 중소 브랜드들의 마케팅 비용 절감과 효율성 증대에 기여할 것입니다.",
+        "competitors_kr": [
+          "로지브레인",
+          "펄스나인",
+          "버추얼휴먼"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "로지브레인",
+            "founded_year": 2021,
+            "funding_status": "Series A $5M",
+            "differentiation": "로지브레인은 버추얼휴먼 제작에 특화되어 있지만 Spira AI는 마케팅 자동화까지 포함"
+          }
+        ],
+        "regulatory_notes": "가상인물 광고 표시 의무, 딥페이크 관련 규제 준수 필요",
+        "localization_strategy": "한국 문화와 트렌드 학습, K-뷰티/K-패션 특화, 인스타그램/틱톡 최적화",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 인플루언서",
+          "버추얼 마케팅"
+        ],
+        "trend_index": 77,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 30
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 22
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 27
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 37
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 95
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 77
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 211,
+      "thumbnail_url": "https://ph-files.imgix.net/c33daa3c-5081-4c13-9202-a121562e4ed3.png?auto=format",
+      "created_at": "2026-04-24T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 45,
+        "timing": 90,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Lil Miquela (2016)",
+            "kr_equivalent": "로지 (2020)",
+            "gap_months": 48
+          },
+          {
+            "us_launch": "Synthesia (2017)",
+            "kr_equivalent": "딥브레인AI (2016)",
+            "gap_months": -12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1111779",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/beezi-ai",
+      "title_en": "Beezi AI",
+      "tagline_en": "Make AI development structured, secure, and cost-efficient",
+      "title_ko": "비지 AI",
+      "summary_ko": "AI 개발을 체계적이고 안전하며 비용 효율적으로 만드는 플랫폼",
+      "analysis_ko": {
+        "description": "AI 모델 개발과 배포를 위한 통합 플랫폼으로, 보안성과 비용 효율성을 중시한 엔터프라이즈급 솔루션입니다. 개발자들이 AI 프로젝트를 더 체계적으로 관리할 수 있도록 도와줍니다.",
+        "market_fit": "한국의 대기업들이 AI 도입을 가속화하면서 안전하고 체계적인 AI 개발 도구에 대한 수요가 증가하고 있어 높은 시장 적합성을 보입니다.",
+        "competitors_kr": [
+          "네이버클라우드",
+          "카카오브레인",
+          "LG AI연구원"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버클라우드",
+            "founded_year": 2017,
+            "funding_status": "Corporate backed",
+            "differentiation": "네이버클라우드는 인프라 중심이지만 Beezi AI는 AI 개발 워크플로우 최적화에 특화"
+          }
+        ],
+        "regulatory_notes": "AI 신뢰성 확보 방안 준수, 개인정보보호법 적용",
+        "localization_strategy": "한국어 문서화, 국내 클라우드 인프라 연동, 대기업 컴플라이언스 대응",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 개발 플랫폼",
+          "MLOps"
+        ],
+        "trend_index": 73,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 83
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 92
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 89
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 73
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 268,
+      "thumbnail_url": "https://ph-files.imgix.net/6d8cb396-8768-4504-bb3b-9bd9d2751a02.jpeg?auto=format",
+      "created_at": "2026-04-24T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 40,
+        "timing": 75,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "MLflow (2018)",
+            "kr_equivalent": "네이버 클로바 스튜디오 (2020)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Weights & Biases (2017)",
+            "kr_equivalent": "업스테이지 (2020)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47874647",
+      "rank": 5,
+      "source": "hackernews",
+      "source_url": "https://github.com/russellromney/honker",
+      "title_en": "Honker",
+      "tagline_en": "Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "title_ko": "혼커",
+      "summary_ko": "SQLite에서 PostgreSQL의 NOTIFY/LISTEN 기능을 구현한 라이브러리",
+      "analysis_ko": {
+        "description": "SQLite 데이터베이스에서 PostgreSQL의 실시간 알림 기능을 사용할 수 있게 해주는 오픈소스 라이브러리입니다. 경량 데이터베이스에서도 실시간 이벤트 처리가 가능해집니다.",
+        "market_fit": "스타트업과 중소기업에서 PostgreSQL 대신 SQLite를 사용하면서도 실시간 기능이 필요한 경우가 많아 개발자들에게 유용할 것입니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음",
+        "localization_strategy": "한국어 문서 제공, 국내 개발 커뮤니티 참여, 오픈소스 생태계 활용",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "SQLite 확장",
+          "실시간 데이터베이스"
+        ],
+        "trend_index": 45,
+        "trend_direction": "flat",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 288,
+      "thumbnail_url": null,
+      "created_at": "2026-04-23T11:53:11.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 85,
+        "timing": 70,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 3,
+        "category_history": [
+          {
+            "us_launch": "Redis (2009)",
+            "kr_equivalent": "네이버 Arcus (2010)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "MongoDB (2009)",
+            "kr_equivalent": "국내 도입 (2010)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47835411",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://mediator.ai/",
+      "title_en": "Mediator.ai",
+      "tagline_en": "Using Nash bargaining and LLMs to systematize fairness",
+      "title_ko": "미디에이터 AI",
+      "summary_ko": "내시 협상 이론과 LLM을 활용한 공정한 중재 시스템",
+      "analysis_ko": {
+        "description": "게임 이론의 내시 협상과 대형 언어 모델을 결합하여 분쟁 해결과 협상을 체계적으로 중재하는 AI 서비스입니다. 이혼, 계약 분쟁 등 다양한 협상 상황에서 공정한 해결책을 제시합니다.",
+        "market_fit": "한국의 높은 이혼율과 증가하는 법적 분쟁으로 인해 비용 효율적인 중재 서비스에 대한 수요가 높습니다. 특히 중소기업 간 계약 분쟁에서 활용도가 클 것입니다.",
+        "competitors_kr": [
+          "대한상사중재원",
+          "법무법인 온라인 상담"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "대한상사중재원",
+            "founded_year": 1966,
+            "funding_status": "Non-profit organization",
+            "differentiation": "기존 중재원은 전통적 방식이지만 Mediator.ai는 AI 기반 자동화된 공정성 보장"
+          }
+        ],
+        "regulatory_notes": "변호사법 저촉 가능성 검토 필요, 중재 관련 법규 준수",
+        "localization_strategy": "한국 법체계 학습, 문화적 협상 패턴 반영, 법무 전문가와 협업",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 중재",
+          "온라인 분쟁해결"
+        ],
+        "trend_index": 52,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "ai",
+      "ph_votes": 160,
+      "thumbnail_url": null,
+      "created_at": "2026-04-20T15:07:04.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 35,
+        "timing": 60,
+        "overall": 59
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "LegalZoom (1999)",
+            "kr_equivalent": "로톡 (2015)",
+            "gap_months": 192
+          },
+          {
+            "us_launch": "DoNotPay (2015)",
+            "kr_equivalent": "리걸테크 스타트업들 (2020)",
+            "gap_months": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47882697",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "https://github.com/refactoringhq/tolaria",
+      "title_en": "Tolaria",
+      "tagline_en": "Open-source macOS app to manage Markdown knowledge bases",
+      "title_ko": "톨라리아",
+      "summary_ko": "마크다운 지식 베이스 관리를 위한 오픈소스 macOS 앱",
+      "analysis_ko": {
+        "description": "개발자와 연구자들이 마크다운 형식의 지식 베이스를 효율적으로 관리할 수 있는 macOS 전용 오픈소스 애플리케이션입니다. 로컬 파일 시스템 기반으로 프라이버시를 보장합니다.",
+        "market_fit": "한국의 높은 Mac 사용률과 개발자/연구자 커뮤니티의 지식 관리 니즈가 맞아떨어져 틈새 시장에서 성공 가능성이 높습니다.",
+        "competitors_kr": [
+          "노션",
+          "옵시디언 한국 사용자"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "노션",
+            "founded_year": 2016,
+            "funding_status": "Series C $275M",
+            "differentiation": "노션은 클라우드 기반이지만 Tolaria는 로컬 파일 시스템으로 프라이버시와 속도 우선"
+          }
+        ],
+        "regulatory_notes": "특별한 규제 사항 없음",
+        "localization_strategy": "한국어 UI 지원, 한글 마크다운 최적화, 국내 개발자 커뮤니티 참여",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "지식 관리",
+          "마크다운 에디터"
+        ],
+        "trend_index": 100,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 22
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 22
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 27
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 277,
+      "thumbnail_url": null,
+      "created_at": "2026-04-23T22:01:59.000Z",
+      "score": {
+        "market_opportunity": 55,
+        "execution_difficulty": 80,
+        "timing": 75,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Obsidian (2020)",
+            "kr_equivalent": "국내 도입 (2020)",
+            "gap_months": 3
+          },
+          {
+            "us_launch": "Roam Research (2019)",
+            "kr_equivalent": "국내 사용자 증가 (2020)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1125493",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/bansi-ai-by-writesonic",
+      "title_en": "Bansi AI by Writesonic",
+      "tagline_en": "AI video editor for long-form talking head videos",
+      "title_ko": "반시 AI",
+      "summary_ko": "장시간 토킹헤드 영상을 위한 AI 비디오 편집기",
+      "analysis_ko": {
+        "description": "긴 형태의 토킹헤드 비디오를 AI가 자동으로 편집해주는 서비스로, 팟캐스트나 강의 영상의 편집 시간을 대폭 단축시킵니다. 자동 컷 편집, 자막 생성, 하이라이트 추출 등의 기능을 제공합니다.",
+        "market_fit": "한국의 활발한 유튜브 크리에이터 생태계와 온라인 교육 시장 성장으로 인해 높은 수요가 예상됩니다. 특히 1인 크리에이터들의 편집 부담을 줄여줄 것입니다.",
+        "competitors_kr": [
+          "브루"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "브루",
+            "founded_year": 2021,
+            "funding_status": "Seed $2M",
+            "differentiation": "브루는 쇼츠 제작에 특화되어 있지만 Bansi AI는 장시간 영상 편집에 특화"
+          }
+        ],
+        "regulatory_notes": "저작권법 준수, AI 생성 콘텐츠 표시 의무",
+        "localization_strategy": "한국어 자막 생성 최적화, 국내 유튜버 협업, K-콘텐츠 특화 기능",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 영상 편집",
+          "자동 편집"
+        ],
+        "trend_index": 65,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 92
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 82
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 65
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 115,
+      "thumbnail_url": "https://ph-files.imgix.net/6c4dc2f7-236f-4757-a682-994a769c40f9.png?auto=format",
+      "created_at": "2026-04-24T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 60,
+        "timing": 80,
+        "overall": 69
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Descript (2017)",
+            "kr_equivalent": "브루 (2021)",
+            "gap_months": 48
+          },
+          {
+            "us_launch": "Runway ML (2018)",
+            "kr_equivalent": "국내 AI 편집 도구들 (2022)",
+            "gap_months": 48
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47849097",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://github.com/ENTERPILOT/GOModel/",
+      "title_en": "GoModel",
+      "tagline_en": "An open-source AI gateway in Go",
+      "title_ko": "고모델",
+      "summary_ko": "Go 언어로 구현된 오픈소스 AI 게이트웨이",
+      "analysis_ko": {
+        "description": "다양한 AI 모델 제공업체들 사이에서 중간 역할을 하는 게이트웨이로, API 통합과 로드 밸런싱, 비용 최적화 기능을 제공합니다. Go 언어의 높은 성능을 활용한 엔터프라이즈급 솔루션입니다.",
+        "market_fit": "한국 기업들의 AI 도입이 가속화되면서 여러 AI 서비스를 통합 관리할 수 있는 솔루션에 대한 수요가 증가하고 있어 시장 적합성이 높습니다.",
+        "competitors_kr": [
+          "네이버클라우드",
+          "카카오브레인"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버클라우드",
+            "founded_year": 2017,
+            "funding_status": "Corporate backed",
+            "differentiation": "네이버클라우드는 자체 AI 서비스 중심이지만 GoModel은 멀티 벤더 통합에 특화"
+          }
+        ],
+        "regulatory_notes": "클라우드 보안 인증 필요, 개인정보보호법 준수",
+        "localization_strategy": "한국어 문서화, 국내 클라우드 인프라 지원, 엔터프라이즈 영업 강화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 게이트웨이",
+          "API 통합"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2025-08-01 ~ 2025-08-01",
+        "trend_data": [
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 207,
+      "thumbnail_url": null,
+      "created_at": "2026-04-21T14:11:53.000Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 70,
+        "timing": 70,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Kong (2015)",
+            "kr_equivalent": "국내 API 게이트웨이 도입 (2017)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Istio (2017)",
+            "kr_equivalent": "네이버 등 대기업 도입 (2019)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1131020",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/mozart-studio-1-0",
+      "title_en": "Mozart Studio 1.0",
+      "tagline_en": "A Generative Audio Workstation with VSTs",
+      "title_ko": "모차르트 스튜디오",
+      "summary_ko": "VST 지원하는 생성형 오디오 워크스테이션",
+      "analysis_ko": {
+        "description": "AI 기술을 활용한 음악 제작 도구로, 기존 VST 플러그인과 호환되면서 생성형 AI로 음악을 창작할 수 있는 워크스테이션입니다. 전문 음악가부터 아마추어까지 다양한 사용자층을 대상으로 합니다.",
+        "market_fit": "K-pop의 글로벌 성공과 함께 한국의 음악 제작 시장이 성장하고 있어 AI 음악 도구에 대한 관심이 높습니다. 특히 인디 뮤지션들의 제작 비용 절감에 도움이 될 것입니다.",
+        "competitors_kr": [
+          "사운드짐",
+          "뮤직메이커"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "저작권법 관련 AI 생성 음악의 법적 지위 불분명",
+        "localization_strategy": "한국 전통 악기 샘플 추가, K-pop 스타일 프리셋 제공, 국내 뮤지션 협업",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 음악 제작",
+          "생성형 오디오"
+        ],
+        "trend_index": 15,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 14
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 24
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 14
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 21
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 14
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 25
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 31
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 8
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 7
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 15
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 131,
+      "thumbnail_url": "https://ph-files.imgix.net/1a032952-2c24-4f4e-a899-b8ad286387f3.png?auto=format",
+      "created_at": "2026-04-24T07:01:00Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 45,
+        "timing": 70,
+        "overall": 58
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "AIVA (2016)",
+            "kr_equivalent": "국내 AI 음악 도구들 (2020)",
+            "gap_months": 48
+          },
+          {
+            "us_launch": "Amper Music (2014)",
+            "kr_equivalent": "사운드짐 AI 기능 (2019)",
+            "gap_months": 60
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-24T20:35:59.667Z"
+}

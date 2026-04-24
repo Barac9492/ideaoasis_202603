@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-23T20:44:08.092Z</updated>
+    <updated>2026-04-24T20:36:02.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-24 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-24</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-24T20:35:59.667Z</updated>
+        <summary type="html"><![CDATA[애스크 프로덕트헌트 AI · 비드스튜디오 · 스피라 AI · 비지 AI · 혼커 · 미디에이터 AI · 톨라리아 · 반시 AI · 고모델 · 모차르트 스튜디오]]></summary>
+        <content type="html"><![CDATA[<h3>#1 애스크 프로덕트헌트 AI</h3><p>자연어로 질문하면 적합한 제품을 찾아주는 AI 검색 서비스</p><h3>#2 비드스튜디오</h3><p>파일 업로드 없이 브라우저에서 작동하는 프라이버시 중심 비디오 편집기</p><h3>#3 스피라 AI</h3><p>항상 트렌드를 따라가며 브랜드를 성장시키는 AI 인플루언서 서비스</p><h3>#4 비지 AI</h3><p>AI 개발을 체계적이고 안전하며 비용 효율적으로 만드는 플랫폼</p><h3>#5 혼커</h3><p>SQLite에서 PostgreSQL의 NOTIFY/LISTEN 기능을 구현한 라이브러리</p><h3>#6 미디에이터 AI</h3><p>내시 협상 이론과 LLM을 활용한 공정한 중재 시스템</p><h3>#7 톨라리아</h3><p>마크다운 지식 베이스 관리를 위한 오픈소스 macOS 앱</p><h3>#8 반시 AI</h3><p>장시간 토킹헤드 영상을 위한 AI 비디오 편집기</p><h3>#9 고모델</h3><p>Go 언어로 구현된 오픈소스 AI 게이트웨이</p><h3>#10 모차르트 스튜디오</h3><p>VST 지원하는 생성형 오디오 워크스테이션</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-23 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-23</id>
