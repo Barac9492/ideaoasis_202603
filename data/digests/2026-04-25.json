@@ -1,0 +1,1153 @@
+{
+  "date": "2026-04-25",
+  "ideas": [
+    {
+      "id": "ph-1094523",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/zerohuman",
+      "title_en": "ZeroHuman.",
+      "tagline_en": "Your AI Co-Founder: OpenClaw x Paperclip x Spud",
+      "title_ko": "제로휴먼",
+      "summary_ko": "창업자를 위한 AI 공동창업자 플랫폼",
+      "analysis_ko": {
+        "description": "AI 기술을 활용해 창업자에게 공동창업자 역할을 수행하는 AI 어시스턴트를 제공하는 플랫폼입니다. 비즈니스 전략 수립, 의사결정 지원, 업무 자동화 등 창업 과정에서 필요한 다양한 기능을 AI가 담당합니다.",
+        "market_fit": "한국의 1인 창업자와 소규모 스타트업이 급증하고 있어 AI 공동창업자에 대한 수요가 높습니다. 특히 기술 창업자들이 비즈니스 영역에서 도움을 받고자 하는 니즈가 강합니다.",
+        "competitors_kr": [
+          "뤼튼",
+          "클로바X",
+          "하이퍼클로바X"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "뤼튼",
+            "founded_year": 2021,
+            "funding_status": "Series A $12M",
+            "differentiation": "창업 특화 기능과 공동창업자 역할에 특화된 워크플로우 제공"
+          }
+        ],
+        "regulatory_notes": "AI 서비스 관련 개인정보보호법 준수 필요, 금융/법률 조언 시 관련 법규 검토 필요",
+        "localization_strategy": "한국 창업 생태계 특성 반영, 정부 지원사업 정보 연동, 한국어 비즈니스 문서 템플릿 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 창업",
+          "스타트업 AI"
+        ],
+        "trend_index": 82,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 36
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 47
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 85
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 82
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 280,
+      "thumbnail_url": "https://ph-files.imgix.net/cb8d5f91-e76a-4205-80d8-80d9c1251f3c.png?auto=format",
+      "created_at": "2026-04-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 60,
+        "timing": 90,
+        "overall": 79
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Jasper (2021)",
+            "kr_equivalent": "뤼튼 (2022)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "ChatGPT (2022)",
+            "kr_equivalent": "클로바X (2023)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1129227",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/inro-ai",
+      "title_en": "Inrō AI",
+      "tagline_en": "Your AI Agent for Instagram Marketing",
+      "title_ko": "인로 AI",
+      "summary_ko": "인스타그램 마케팅을 위한 AI 에이전트",
+      "analysis_ko": {
+        "description": "인스타그램 마케팅 업무를 자동화하는 AI 에이전트로, 콘텐츠 생성, 해시태그 최적화, 팔로워 관리 등을 수행합니다. 소상공인과 인플루언서들의 SNS 마케팅 효율성을 크게 향상시킬 수 있습니다.",
+        "market_fit": "한국은 인스타그램 사용률이 매우 높고 인플루언서 마케팅이 활발합니다. 특히 소상공인들의 SNS 마케팅 자동화 니즈가 급증하고 있어 시장 적합성이 높습니다.",
+        "competitors_kr": [
+          "소셜매트릭스",
+          "크리에이터링크",
+          "인플루언서"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "소셜매트릭스",
+            "founded_year": 2018,
+            "funding_status": "Series B $8M",
+            "differentiation": "AI 기반 자동화에 특화되어 더 높은 수준의 자동화 제공"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 온라인광고 관련 공정거래위원회 가이드라인 준수 필요",
+        "localization_strategy": "한국 인스타그램 트렌드 분석, 한글 해시태그 최적화, 한국 소비자 선호도 반영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "인스타그램 마케팅",
+          "SNS 자동화"
+        ],
+        "trend_index": 11,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 45
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 14
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 13
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 11
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 11
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 14
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 11
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 173,
+      "thumbnail_url": "https://ph-files.imgix.net/04283021-a558-41be-a189-2418bbfc7fbe.png?auto=format",
+      "created_at": "2026-04-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 80,
+        "timing": 85,
+        "overall": 86
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Hootsuite (2008)",
+            "kr_equivalent": "소셜매트릭스 (2018)",
+            "gap_months": 120
+          },
+          {
+            "us_launch": "Later (2014)",
+            "kr_equivalent": "크리에이터링크 (2019)",
+            "gap_months": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47899844",
+      "rank": 3,
+      "source": "hackernews",
+      "source_url": "https://github.com/nex-crm/wuphf",
+      "title_en": "A Karpathy-style LLM wiki your agents maintain",
+      "tagline_en": "Markdown and Git based wiki layer for AI agents",
+      "title_ko": "AI 에이전트 위키",
+      "summary_ko": "AI 에이전트가 관리하는 마크다운 기반 지식 위키 시스템",
+      "analysis_ko": {
+        "description": "AI 에이전트가 자동으로 관리하는 지식 베이스 시스템으로, 마크다운과 Git을 기반으로 구축됩니다. 개발팀과 연구팀의 지식 관리 효율성을 크게 향상시킬 수 있는 혁신적인 도구입니다.",
+        "market_fit": "한국의 IT 기업들이 지식 관리 시스템에 대한 관심이 높아지고 있으며, 특히 개발팀의 문서화 자동화 니즈가 강합니다. 스타트업부터 대기업까지 폭넓은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "노션",
+          "컨플루언스",
+          "깃북"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "노션코리아",
+            "founded_year": 2020,
+            "funding_status": "unknown",
+            "differentiation": "AI 자동 관리 기능과 Git 기반 버전 관리로 차별화"
+          }
+        ],
+        "regulatory_notes": "기업 내부 정보 보안 관련 규정 준수 필요",
+        "localization_strategy": "한글 문서 처리 최적화, 한국 기업 문화에 맞는 지식 분류 체계 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "지식관리시스템",
+          "문서자동화"
+        ],
+        "trend_index": 14,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 47
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 36
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 28
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 14
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 14
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 214,
+      "thumbnail_url": null,
+      "created_at": "2026-04-25T08:53:53.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 70,
+        "timing": 80,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Notion (2016)",
+            "kr_equivalent": "노션코리아 (2020)",
+            "gap_months": 48
+          },
+          {
+            "us_launch": "Obsidian (2020)",
+            "kr_equivalent": "로컬 도구들 (2022)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1125494",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/gemini-personal-intelligence",
+      "title_en": "Gemini Personal Intelligence",
+      "tagline_en": "Gemini answers with context from your Google apps",
+      "title_ko": "제미나이 개인 인텔리전스",
+      "summary_ko": "구글 앱 데이터를 활용한 개인화 AI 어시스턴트",
+      "analysis_ko": {
+        "description": "사용자의 구글 앱 데이터(Gmail, 캘린더, 드라이브 등)를 분석하여 개인화된 답변을 제공하는 AI 어시스턴트입니다. 개인의 업무 패턴과 정보를 학습하여 더욱 정확하고 유용한 도움을 제공합니다.",
+        "market_fit": "한국에서 구글 서비스 사용률이 높고, 개인화 AI 서비스에 대한 관심이 증가하고 있습니다. 특히 직장인들의 업무 효율성 향상 도구로 큰 인기를 얻을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오 i",
+          "삼성 빅스비"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바",
+            "founded_year": 2017,
+            "funding_status": "Corporate",
+            "differentiation": "구글 생태계 통합과 개인 데이터 활용 깊이에서 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 강화로 데이터 처리 동의 절차 엄격히 준수 필요",
+        "localization_strategy": "한국어 자연어 처리 최적화, 한국 업무 문화 반영, 네이버/카카오 서비스 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "개인화 AI",
+          "구글 어시스턴트"
+        ],
+        "trend_index": 43,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 63
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 43
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 205,
+      "thumbnail_url": "https://ph-files.imgix.net/fa3a84c7-1e64-45a6-b19c-97a1e44b85c2.png?auto=format",
+      "created_at": "2026-04-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 40,
+        "timing": 75,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "Google Assistant (2016)",
+            "kr_equivalent": "네이버 클로바 (2017)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Alexa (2014)",
+            "kr_equivalent": "카카오 i (2017)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47849097",
+      "rank": 5,
+      "source": "hackernews",
+      "source_url": "https://github.com/ENTERPILOT/GOModel/",
+      "title_en": "GoModel",
+      "tagline_en": "An open-source AI gateway in Go",
+      "title_ko": "고모델",
+      "summary_ko": "Go 언어로 구축된 오픈소스 AI 게이트웨이",
+      "analysis_ko": {
+        "description": "다양한 AI 모델 제공업체들 사이의 중간 계층 역할을 하는 오픈소스 AI 게이트웨이입니다. 개발자들이 여러 AI 서비스를 통합 관리하고 비용을 최적화할 수 있도록 도와줍니다.",
+        "market_fit": "한국의 AI 스타트업과 개발팀들이 다양한 AI 모델을 효율적으로 관리하고자 하는 니즈가 증가하고 있습니다. 특히 비용 최적화와 모델 전환의 유연성을 원하는 기업들에게 매력적입니다.",
+        "competitors_kr": [
+          "업스테이지",
+          "스캐터랩",
+          "마인즈랩"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "업스테이지",
+            "founded_year": 2020,
+            "funding_status": "Series C $100M",
+            "differentiation": "오픈소스 기반의 자유로운 커스터마이징과 비용 투명성 제공"
+          }
+        ],
+        "regulatory_notes": "AI 서비스 관련 데이터 보안 및 개인정보보호 규정 준수",
+        "localization_strategy": "한국 AI 모델 제공업체 연동, 한국어 문서화, 국내 클라우드 서비스 지원",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 게이트웨이",
+          "AI 인프라"
+        ],
+        "trend_index": 38,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 14
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 17
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 41
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 23
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 78
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 50
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 44
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 38
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 213,
+      "thumbnail_url": null,
+      "created_at": "2026-04-21T14:11:53.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 75,
+        "timing": 85,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "OpenAI API (2020)",
+            "kr_equivalent": "업스테이지 API (2021)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Anthropic (2021)",
+            "kr_equivalent": "하이퍼클로바X (2023)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47890841",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://github.com/browser-use/browser-harness",
+      "title_en": "Browser Harness",
+      "tagline_en": "Gives LLM freedom to complete any browser task",
+      "title_ko": "브라우저 하네스",
+      "summary_ko": "LLM이 브라우저 작업을 자유롭게 수행할 수 있게 하는 도구",
+      "analysis_ko": {
+        "description": "LLM이 웹 브라우저를 통해 다양한 작업을 자동으로 수행할 수 있도록 하는 프레임워크입니다. 웹 스크래핑, 폼 작성, 데이터 수집 등의 반복적인 브라우저 작업을 AI가 대신 처리합니다.",
+        "market_fit": "한국 기업들의 업무 자동화 니즈가 높아지고 있으며, 특히 전자상거래와 마케팅 분야에서 웹 작업 자동화 도구에 대한 수요가 증가하고 있습니다.",
+        "competitors_kr": [
+          "셀레니움",
+          "플레이라이트",
+          "로보틱스"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "웹 스크래핑 관련 저작권법 및 개인정보보호법 준수 필요",
+        "localization_strategy": "한국 주요 웹사이트 호환성 확보, 한글 웹페이지 처리 최적화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "웹 자동화",
+          "RPA"
+        ],
+        "trend_index": 51,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 56
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 51
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 117,
+      "thumbnail_url": null,
+      "created_at": "2026-04-24T14:31:38.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 65,
+        "timing": 80,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Selenium (2004)",
+            "kr_equivalent": "국내 RPA 도구들 (2018)",
+            "gap_months": 168
+          },
+          {
+            "us_launch": "Puppeteer (2017)",
+            "kr_equivalent": "국내 웹 자동화 (2019)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1126694",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/promptpaste",
+      "title_en": "PromptPaste",
+      "tagline_en": "Your private AI prompt library on Mac, iPhone, and iPad",
+      "title_ko": "프롬프트페이스트",
+      "summary_ko": "Mac, iPhone, iPad용 개인 AI 프롬프트 라이브러리",
+      "analysis_ko": {
+        "description": "사용자가 자주 사용하는 AI 프롬프트를 저장하고 관리할 수 있는 개인 라이브러리 앱입니다. Apple 생태계 전반에서 동기화되어 언제든지 효율적으로 AI와 상호작용할 수 있습니다.",
+        "market_fit": "한국에서 AI 도구 사용이 급증하면서 프롬프트 관리에 대한 니즈가 높아지고 있습니다. 특히 Apple 기기 사용률이 높은 한국 시장에서 좋은 반응을 얻을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "프롬프트지니",
+          "AI 도구모음"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법 준수, 클라우드 동기화 시 데이터 보안 강화 필요",
+        "localization_strategy": "한국어 프롬프트 템플릿 제공, 한국 사용자 맞춤 카테고리 분류",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 프롬프트",
+          "생산성 앱"
+        ],
+        "trend_index": 85,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 45
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 80
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 94
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 85
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 104,
+      "thumbnail_url": "https://ph-files.imgix.net/28232f31-d80b-41ae-985b-9705b1866c78.png?auto=format",
+      "created_at": "2026-04-25T07:01:00Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 85,
+        "timing": 90,
+        "overall": 77
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Raycast (2020)",
+            "kr_equivalent": "국내 생산성 앱들 (2021)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Alfred (2010)",
+            "kr_equivalent": "런처 앱들 (2012)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47882697",
+      "rank": 8,
+      "source": "hackernews",
+      "source_url": "https://github.com/refactoringhq/tolaria",
+      "title_en": "Tolaria",
+      "tagline_en": "Open-source macOS app to manage Markdown knowledge bases",
+      "title_ko": "톨라리아",
+      "summary_ko": "마크다운 지식베이스 관리용 오픈소스 macOS 앱",
+      "analysis_ko": {
+        "description": "마크다운 파일로 구성된 지식베이스를 효율적으로 관리할 수 있는 macOS 전용 앱입니다. 개발자와 연구자들이 문서를 체계적으로 정리하고 검색할 수 있는 기능을 제공합니다.",
+        "market_fit": "한국의 개발자와 연구자들 사이에서 마크다운 기반 문서 작성이 보편화되고 있어 시장 수요가 있습니다. 특히 Mac 사용률이 높은 IT 업계에서 좋은 반응을 얻을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "옵시디언",
+          "노션",
+          "로그시크"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 이슈 없음",
+        "localization_strategy": "한글 마크다운 처리 최적화, 한국어 검색 기능 강화",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "마크다운",
+          "지식관리"
+        ],
+        "trend_index": 63,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 44
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 57
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 91
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 63
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 298,
+      "thumbnail_url": null,
+      "created_at": "2026-04-23T22:01:59.000Z",
+      "score": {
+        "market_opportunity": 50,
+        "execution_difficulty": 80,
+        "timing": 70,
+        "overall": 64
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Obsidian (2020)",
+            "kr_equivalent": "로그시크 (2021)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Roam Research (2019)",
+            "kr_equivalent": "국내 도구들 (2021)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47896163",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://lightwhale.asklandd.dk/",
+      "title_en": "Lightwhale",
+      "tagline_en": "A nice home server OS",
+      "title_ko": "라이트웨일",
+      "summary_ko": "사용하기 쉬운 홈 서버 운영체제",
+      "analysis_ko": {
+        "description": "Docker 컨테이너를 쉽게 관리할 수 있는 홈 서버 전용 운영체제입니다. 기술적 지식이 부족한 사용자도 간편하게 자체 서버를 구축하고 관리할 수 있도록 설계되었습니다.",
+        "market_fit": "한국에서 개인 데이터 보안에 대한 관심이 높아지면서 홈 서버 구축 수요가 증가하고 있습니다. 특히 NAS와 미디어 서버에 관심이 많은 한국 사용자들에게 어필할 수 있습니다.",
+        "competitors_kr": [
+          "시놀로지",
+          "큐냅",
+          "TrueNAS"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "시놀로지코리아",
+            "founded_year": 2000,
+            "funding_status": "Private",
+            "differentiation": "오픈소스 기반의 무료 솔루션으로 비용 경쟁력 확보"
+          }
+        ],
+        "regulatory_notes": "특별한 규제 이슈 없음",
+        "localization_strategy": "한국어 인터페이스 제공, 한국 인터넷 환경 최적화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "홈서버",
+          "NAS"
+        ],
+        "trend_index": 32,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 47
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 44
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 55
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 49
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 44
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 32
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 169,
+      "thumbnail_url": null,
+      "created_at": "2026-04-24T21:42:26.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 70,
+        "timing": 75,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "FreeNAS (2005)",
+            "kr_equivalent": "시놀로지 한국 진출 (2010)",
+            "gap_months": 60
+          },
+          {
+            "us_launch": "Unraid (2005)",
+            "kr_equivalent": "큐냅 한국 진출 (2012)",
+            "gap_months": 84
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47873966",
+      "rank": 10,
+      "source": "hackernews",
+      "source_url": "https://hisorty.app/",
+      "title_en": "Hisorty",
+      "tagline_en": "Built a daily game where you sort historical events chronologically",
+      "title_ko": "히스토리",
+      "summary_ko": "역사적 사건을 시간순으로 정렬하는 일일 퍼즐 게임",
+      "analysis_ko": {
+        "description": "매일 새로운 역사적 사건들을 시간순으로 정렬하는 교육적 퍼즐 게임입니다. Wordle과 유사한 게임 메커니즘을 활용하여 재미있게 역사를 학습할 수 있습니다.",
+        "market_fit": "한국은 교육에 대한 관심이 높고 모바일 게임 시장이 발달해 있어 교육용 게임에 대한 수요가 큽니다. 특히 역사 교육과 관련된 콘텐츠에 대한 관심이 높습니다.",
+        "competitors_kr": [
+          "두뇌톡톡",
+          "퀴즈플래닛",
+          "브레인아웃"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "게임물관리위원회 등급분류 필요할 수 있음",
+        "localization_strategy": "한국사 중심 콘텐츠 제작, 한국 교육과정 연계, 한글 인터페이스 제공",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "교육게임",
+          "역사퀴즈"
+        ],
+        "trend_index": 44,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 97
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 84
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 44
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 72,
+      "thumbnail_url": null,
+      "created_at": "2026-04-23T10:14:46.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 90,
+        "timing": 80,
+        "overall": 78
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Wordle (2021)",
+            "kr_equivalent": "한국 워들 클론들 (2022)",
+            "gap_months": 3
+          },
+          {
+            "us_launch": "Duolingo (2011)",
+            "kr_equivalent": "두뇌톡톡 (2013)",
+            "gap_months": 24
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-25T20:28:03.653Z"
+}
