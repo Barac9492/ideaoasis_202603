@@ -1,0 +1,139 @@
+{
+  "week": "2026-W17",
+  "selected_idea": {
+    "id": "ph-1130495",
+    "rank": 3,
+    "source": "producthunt",
+    "source_url": "https://www.producthunt.com/posts/spira-ai-2",
+    "title_en": "Spira AI",
+    "tagline_en": "AI Influencer that always on trend, create & grow your brand",
+    "title_ko": "스피라 AI",
+    "summary_ko": "항상 트렌드를 따라가며 브랜드를 성장시키는 AI 인플루언서 서비스",
+    "analysis_ko": {
+      "description": "AI 기술을 활용해 가상 인플루언서를 생성하고 관리하는 서비스로, 실시간 트렌드를 반영한 콘텐츠를 자동 생성합니다. 브랜드 마케팅과 소셜미디어 운영을 AI가 대신 수행합니다.",
+      "market_fit": "K-pop과 버추얼 아이돌 문화가 발달한 한국에서 매우 높은 시장 적합성을 보입니다. 특히 중소 브랜드들의 마케팅 비용 절감과 효율성 증대에 기여할 것입니다.",
+      "competitors_kr": [
+        "로지브레인",
+        "펄스나인",
+        "버추얼휴먼"
+      ],
+      "competitors_kr_detailed": [
+        {
+          "name": "로지브레인",
+          "founded_year": 2021,
+          "funding_status": "Series A $5M",
+          "differentiation": "로지브레인은 버추얼휴먼 제작에 특화되어 있지만 Spira AI는 마케팅 자동화까지 포함"
+        }
+      ],
+      "regulatory_notes": "가상인물 광고 표시 의무, 딥페이크 관련 규제 준수 필요",
+      "localization_strategy": "한국 문화와 트렌드 학습, K-뷰티/K-패션 특화, 인스타그램/틱톡 최적화",
+      "difficulty": "Hard"
+    },
+    "naver_trends": {
+      "keywords": [
+        "AI 인플루언서",
+        "버추얼 마케팅"
+      ],
+      "trend_index": 77,
+      "trend_direction": "down",
+      "period": "2025-04-01 ~ 2026-04-01",
+      "trend_data": [
+        {
+          "period": "2025-04-01",
+          "ratio": 51
+        },
+        {
+          "period": "2025-05-01",
+          "ratio": 30
+        },
+        {
+          "period": "2025-06-01",
+          "ratio": 22
+        },
+        {
+          "period": "2025-07-01",
+          "ratio": 34
+        },
+        {
+          "period": "2025-08-01",
+          "ratio": 27
+        },
+        {
+          "period": "2025-09-01",
+          "ratio": 46
+        },
+        {
+          "period": "2025-10-01",
+          "ratio": 37
+        },
+        {
+          "period": "2025-11-01",
+          "ratio": 34
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 54
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 65
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 95
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 100
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 77
+        }
+      ]
+    },
+    "category": "ai",
+    "ph_votes": 211,
+    "thumbnail_url": "https://ph-files.imgix.net/c33daa3c-5081-4c13-9202-a121562e4ed3.png?auto=format",
+    "created_at": "2026-04-24T07:01:00Z",
+    "score": {
+      "market_opportunity": 85,
+      "execution_difficulty": 45,
+      "timing": 90,
+      "overall": 75
+    },
+    "timing_window": {
+      "avg_months": 6,
+      "category_history": [
+        {
+          "us_launch": "Lil Miquela (2016)",
+          "kr_equivalent": "로지 (2020)",
+          "gap_months": 48
+        },
+        {
+          "us_launch": "Synthesia (2017)",
+          "kr_equivalent": "딥브레인AI (2016)",
+          "gap_months": -12
+        }
+      ]
+    }
+  },
+  "deep_dive_ko": {
+    "market_sizing": "한국 AI 인플루언서 시장은 2024년 기준 약 300억원 규모로 추정되며, 연평균 45% 성장하여 2027년 1,200억원에 달할 전망입니다. TAM(전체시장): 버추얼 휴먼 및 AI 마케팅 시장 전체 약 5,000억원, SAM(유효시장): AI 인플루언서 마케팅 서비스 약 1,500억원, SOM(점유가능시장): 초기 3년간 약 150억원(10% 점유율 목표). K-pop과 버추얼 아이돌 문화가 발달한 한국 특성상 글로벌 평균 대비 2-3배 빠른 성장률을 보일 것으로 예상됩니다.",
+    "localization_playbook": [
+      "1단계: 한국 인플루언서 문화 분석 - K-pop 아이돌, 뷰티 인플루언서, 게임 스트리머 등 주요 카테고리별 콘텐츠 패턴과 팬 상호작용 방식 학습",
+      "2단계: 한국어 자연어 처리 최적화 - 한국어 특유의 존댓말, 신조어, 이모티콘 사용 패턴을 반영한 AI 모델 훈련",
+      "3단계: 플랫폼별 최적화 - 인스타그램, 틱톡, 유튜브 쇼츠, 네이버 블로그 등 한국 주요 SNS 플랫폼 특성에 맞는 콘텐츠 생성 알고리즘 개발",
+      "4단계: 트렌드 모니터링 시스템 구축 - 실시간 한국 트렌드 분석을 위한 네이버 검색어, 유튜브 급상승 동영상, 틱톡 해시태그 등 데이터 수집 체계 구축",
+      "5단계: 브랜드 파트너십 확보 - 화장품(올리브영, 롯데백화점), 패션(무신사, 29CM), 게임(넥슨, 엔씨소프트) 등 주요 브랜드와의 초기 파일럿 프로젝트 진행",
+      "6단계: 규제 대응 - 가상인물 광고 표시 의무, 딥페이크 방지법 등 관련 법규 준수 체계 구축"
+    ],
+    "comparable_kr_successes": [
+      "로지브레인 — 2021년 설립된 버추얼휴먼 전문기업으로 Series A 50억원 투자 유치, 가상 인플루언서 '로지' 운영하며 주요 브랜드와 협업",
+      "펄스나인 — 2020년 설립된 AI 아바타 기업으로 30억원 투자 유치, 버추얼 아이돌 그룹 'ETERNITY' 프로듀싱하며 K-pop 시장 진출",
+      "네이버Z — 네이버의 메타버스 자회사로 제페토 플랫폼에서 버추얼 인플루언서 생태계 구축, 월 활성 사용자 2억명 달성",
+      "버추얼휴먼 — 2019년 설립되어 25억원 투자 유치, 가상 인플루언서 '수아' 운영하며 화장품 브랜드 마케팅 성공 사례 다수 보유"
+    ],
+    "estimated_build_timeline": "MVP 16주, 정식 런칭 8개월 - MVP는 기본적인 AI 인플루언서 생성과 콘텐츠 자동 생성 기능 포함, 정식 런칭까지는 한국어 최적화, 주요 SNS 플랫폼 연동, 브랜드 파트너십 구축 완료"
+  }
+}
