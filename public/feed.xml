@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-25T20:28:05.513Z</updated>
+    <updated>2026-04-26T20:28:41.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-26 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-26</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-26T20:28:39.521Z</updated>
+        <summary type="html"><![CDATA[퀵컴페어 · 브라우저 하네스 · 해프닝스탠스 · 브로콜리 · 엣지 팀 · 에이전트 볼트 · 베리타즈 · 톨라리아 · 오픈스타트업 · 라이트웨일]]></summary>
+        <content type="html"><![CDATA[<h3>#1 퀵컴페어</h3><p>기업 데이터로 다양한 LLM 모델을 비교하고 최적의 모델을 선택할 수 있는 AI 모델 평가 플랫폼</p><h3>#2 브라우저 하네스</h3><p>LLM이 웹브라우저에서 자유롭게 모든 작업을 수행할 수 있도록 하는 AI 자동화 도구</p><h3>#3 해프닝스탠스</h3><p>AI를 활용해 개인 네트워크를 검색하고 인맥을 효율적으로 관리할 수 있는 소셜 네트워킹 도구</p><h3>#4 브로콜리</h3><p>Linear 작업을 클라우드 샌드박스에서 자동으로 코딩하고 PR을 생성하는 AI 코딩 에이전트</p><h3>#5 엣지 팀</h3><p>개발팀의 AI 코딩 어시스턴트 사용량과 성과를 추적하고 분석하는 팀 관리 도구</p><h3>#6 에이전트 볼트</h3><p>AI 에이전트를 위한 오픈소스 자격증명 프록시 및 보안 저장소</p><h3>#7 베리타즈</h3><p>실제 사용자들이 브랜드를 홍보하는 진정성 있는 마케팅 플랫폼</p><h3>#8 톨라리아</h3><p>마크다운 기반 지식베이스를 관리하는 오픈소스 macOS 앱</p><h3>#9 오픈스타트업</h3><p>소상공인을 위한 즉석 수익성 및 가격 계산기</p><h3>#10 라이트웨일</h3><p>Docker 컨테이너를 쉽게 자체 호스팅할 수 있는 홈서버 운영체제</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-25 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-25</id>

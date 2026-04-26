@@ -1,0 +1,1112 @@
+{
+  "date": "2026-04-26",
+  "ideas": [
+    {
+      "id": "ph-1131574",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/quickcompare-by-trismik",
+      "title_en": "QuickCompare by Trismik",
+      "tagline_en": "Compare LLMs on your data, measure, and pick the best.",
+      "title_ko": "퀵컴페어",
+      "summary_ko": "기업 데이터로 다양한 LLM 모델을 비교하고 최적의 모델을 선택할 수 있는 AI 모델 평가 플랫폼",
+      "analysis_ko": {
+        "description": "기업이 자체 데이터셋으로 GPT, Claude, Gemini 등 다양한 LLM 모델의 성능을 객관적으로 비교하고 측정할 수 있는 플랫폼입니다. 비용, 속도, 정확도 등 다양한 지표로 모델을 평가하여 기업에 최적화된 AI 모델을 선택할 수 있도록 돕습니다.",
+        "market_fit": "한국 기업들의 AI 도입이 급속히 증가하면서 모델 선택에 대한 고민이 커지고 있어 시장 적합성이 높습니다. 특히 삼성, LG, 네이버, 카카오 등 대기업들이 자체 AI 모델 개발과 함께 외부 모델 활용도 검토하고 있어 B2B 시장 잠재력이 큽니다.",
+        "competitors_kr": [
+          "업스테이지",
+          "스켈터랩스",
+          "마키나락스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "업스테이지",
+            "founded_year": 2020,
+            "funding_status": "Series B $103M",
+            "differentiation": "업스테이지는 자체 LLM 개발에 집중하는 반면, QuickCompare는 기존 모델들의 비교 평가에 특화"
+          },
+          {
+            "name": "스켈터랩스",
+            "founded_year": 2017,
+            "funding_status": "Series C $36M",
+            "differentiation": "스켈터랩스는 AutoML 플랫폼이고, QuickCompare는 LLM 특화 비교 도구로 더 전문적"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 기업 데이터 처리 시 보안 요구사항 준수 필요, 금융/의료 등 특정 업종은 추가 규제 고려",
+        "localization_strategy": "한국어 모델 평가 지원, 국내 클라우드(네이버클라우드, KT클라우드) 연동, 한국 기업 특화 벤치마크 데이터셋 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "LLM 비교",
+          "AI 모델 선택"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2025-05-01 ~ 2025-08-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 162,
+      "thumbnail_url": "https://ph-files.imgix.net/3abe31c9-6062-4c90-8c99-fb8384b2aa4c.png?auto=format",
+      "created_at": "2026-04-26T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 70,
+        "timing": 90,
+        "overall": 82
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Weights & Biases (2017)",
+            "kr_equivalent": "업스테이지 Evalverse (2023)",
+            "gap_months": 72
+          },
+          {
+            "us_launch": "Hugging Face Spaces (2020)",
+            "kr_equivalent": "네이버 HyperCLOVA Studio (2021)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47890841",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://github.com/browser-use/browser-harness",
+      "title_en": "Browser Harness",
+      "tagline_en": "Gives LLM freedom to complete any browser task",
+      "title_ko": "브라우저 하네스",
+      "summary_ko": "LLM이 웹브라우저에서 자유롭게 모든 작업을 수행할 수 있도록 하는 AI 자동화 도구",
+      "analysis_ko": {
+        "description": "기존 브라우저 자동화 프레임워크의 제약을 제거하고 LLM이 웹브라우저에서 자유롭게 클릭, 입력, 스크롤 등 모든 작업을 수행할 수 있게 하는 도구입니다. RPA와 AI를 결합하여 복잡한 웹 작업을 자동화할 수 있습니다.",
+        "market_fit": "한국의 높은 디지털화 수준과 업무 자동화 니즈가 맞물려 시장 잠재력이 큽니다. 특히 전자정부, 금융, 이커머스 등 웹 기반 업무가 많은 한국 시장 특성상 브라우저 자동화 도구에 대한 수요가 높습니다.",
+        "competitors_kr": [
+          "오토메이션애니웨어코리아",
+          "유아이패스코리아",
+          "민트IT"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "오토메이션애니웨어코리아",
+            "founded_year": 2019,
+            "funding_status": "Subsidiary of US parent",
+            "differentiation": "기존 RPA는 규칙 기반이지만 Browser Harness는 AI 기반으로 더 유연하고 지능적"
+          },
+          {
+            "name": "민트IT",
+            "founded_year": 2018,
+            "funding_status": "Series A $5M",
+            "differentiation": "민트IT는 기업용 RPA에 집중하지만 Browser Harness는 개발자 친화적 오픈소스 도구"
+          }
+        ],
+        "regulatory_notes": "개인정보 자동 수집 시 개인정보보호법 준수 필요, 금융권 사용 시 전자금융거래법 고려",
+        "localization_strategy": "한국 주요 웹사이트(정부24, 홈택스, 인터넷뱅킹) 최적화, 한글 OCR 및 텍스트 인식 강화",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "RPA",
+          "업무자동화"
+        ],
+        "trend_index": 51,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 56
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 51
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 126,
+      "thumbnail_url": null,
+      "created_at": "2026-04-24T14:31:38.000Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 60,
+        "timing": 85,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Selenium (2004)",
+            "kr_equivalent": "국산 RPA 도구들 (2018)",
+            "gap_months": 168
+          },
+          {
+            "us_launch": "Puppeteer (2017)",
+            "kr_equivalent": "민트RPA (2019)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1125037",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/happenstance-2",
+      "title_en": "Happenstance",
+      "tagline_en": "Search your network with AI",
+      "title_ko": "해프닝스탠스",
+      "summary_ko": "AI를 활용해 개인 네트워크를 검색하고 인맥을 효율적으로 관리할 수 있는 소셜 네트워킹 도구",
+      "analysis_ko": {
+        "description": "AI 기술을 활용하여 사용자의 연락처, 소셜미디어, 이메일 등에서 인맥 정보를 분석하고 검색할 수 있게 해주는 도구입니다. 특정 전문성이나 관심사를 가진 사람을 쉽게 찾거나, 잊혀진 인맥을 재발견할 수 있도록 돕습니다.",
+        "market_fit": "한국의 강한 인맥 문화와 네트워킹 중시 문화에 매우 적합합니다. 특히 스타트업, 투자, 채용 시장에서 인맥 관리의 중요성이 높아 B2B와 개인 사용자 모두에게 어필할 수 있습니다.",
+        "competitors_kr": [
+          "로켓펀치",
+          "원티드",
+          "링크드인코리아"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "로켓펀치",
+            "founded_year": 2013,
+            "funding_status": "Series B $10M",
+            "differentiation": "로켓펀치는 공개 프로필 기반이지만 Happenstance는 개인 네트워크 데이터를 AI로 분석"
+          },
+          {
+            "name": "원티드",
+            "founded_year": 2015,
+            "funding_status": "Series D $300M",
+            "differentiation": "원티드는 채용에 특화되어 있지만 Happenstance는 전반적인 네트워크 관리에 집중"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 연락처 및 소셜미디어 데이터 처리 시 동의 절차 필요, 통신비밀보호법 고려",
+        "localization_strategy": "카카오톡, 네이버 연동, 한국 비즈니스 문화에 맞는 인맥 관리 기능, 명함 OCR 한글 지원",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "인맥관리",
+          "네트워킹"
+        ],
+        "trend_index": 38,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 44
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 46
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 38
+          }
+        ]
+      },
+      "category": "social",
+      "ph_votes": 145,
+      "thumbnail_url": "https://ph-files.imgix.net/5c676897-2376-4d29-ad11-5464e640bed8.png?auto=format",
+      "created_at": "2026-04-26T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 65,
+        "timing": 80,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "LinkedIn (2003)",
+            "kr_equivalent": "로켓펀치 (2013)",
+            "gap_months": 120
+          },
+          {
+            "us_launch": "AngelList (2010)",
+            "kr_equivalent": "더브이씨 (2015)",
+            "gap_months": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47865642",
+      "rank": 4,
+      "source": "hackernews",
+      "source_url": "https://github.com/besimple-oss/broccoli",
+      "title_en": "Broccoli",
+      "tagline_en": "One shot coding agent on the cloud",
+      "title_ko": "브로콜리",
+      "summary_ko": "Linear 작업을 클라우드 샌드박스에서 자동으로 코딩하고 PR을 생성하는 AI 코딩 에이전트",
+      "analysis_ko": {
+        "description": "Linear나 Jira 등의 이슈 트래커에서 작업을 가져와 격리된 클라우드 환경에서 AI가 자동으로 코딩하고 풀 리퀘스트를 생성하는 도구입니다. 개발자는 AI가 작성한 코드를 리뷰하고 머지하기만 하면 되어 개발 생산성을 크게 향상시킬 수 있습니다.",
+        "market_fit": "한국의 높은 개발자 인건비와 인력 부족 문제를 해결할 수 있어 시장 적합성이 높습니다. 특히 스타트업과 중소기업에서 개발 리소스 부족 문제가 심각해 AI 코딩 도구에 대한 니즈가 큽니다.",
+        "competitors_kr": [
+          "42dot",
+          "딥노이드",
+          "코드스테이츠"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "42dot",
+            "founded_year": 2019,
+            "funding_status": "Acquired by Hyundai",
+            "differentiation": "42dot은 자율주행 AI에 집중하지만 Broccoli는 범용 코딩 자동화에 특화"
+          }
+        ],
+        "regulatory_notes": "소프트웨어 개발 시 개인정보 처리 관련 규정 준수, 오픈소스 라이선스 관리 필요",
+        "localization_strategy": "한국어 코멘트 및 변수명 지원, 국내 Git 호스팅 서비스(GitLab.com, GitHub Enterprise) 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 코딩",
+          "자동 프로그래밍"
+        ],
+        "trend_index": 67,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 53
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 67
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 82,
+      "thumbnail_url": null,
+      "created_at": "2026-04-22T16:09:56.000Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 55,
+        "timing": 85,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 8,
+        "category_history": [
+          {
+            "us_launch": "GitHub Copilot (2021)",
+            "kr_equivalent": "네이버 HyperCLOVA X Code (2023)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Cursor (2023)",
+            "kr_equivalent": "아직 한국 equivalent 없음",
+            "gap_months": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1131530",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/edgee-team",
+      "title_en": "Edgee Team",
+      "tagline_en": "Strava for your coding assistants",
+      "title_ko": "엣지 팀",
+      "summary_ko": "개발팀의 AI 코딩 어시스턴트 사용량과 성과를 추적하고 분석하는 팀 관리 도구",
+      "analysis_ko": {
+        "description": "Strava처럼 개발팀의 AI 코딩 어시스턴트(GitHub Copilot, Cursor 등) 사용 패턴을 추적하고 팀원 간 성과를 비교할 수 있는 도구입니다. 코딩 생산성, AI 활용도, 코드 품질 등을 측정하여 팀 관리에 도움을 줍니다.",
+        "market_fit": "한국 IT 기업들의 AI 도구 도입이 급증하면서 이를 관리하고 최적화하려는 니즈가 커지고 있어 시장 적합성이 높습니다. 특히 성과 중심 문화가 강한 한국 기업 환경에 잘 맞습니다.",
+        "competitors_kr": [
+          "지라소프트웨어",
+          "아틀라시안코리아"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "지라소프트웨어",
+            "founded_year": 2001,
+            "funding_status": "Public company subsidiary",
+            "differentiation": "Jira는 일반적인 프로젝트 관리이지만 Edgee는 AI 코딩 도구 사용량 특화 분석"
+          }
+        ],
+        "regulatory_notes": "개발자 개인정보 및 코딩 데이터 처리 시 근로자 개인정보보호 규정 준수 필요",
+        "localization_strategy": "한국 개발 문화에 맞는 성과 지표 개발, 국내 협업 도구(잔디, 두레이) 연동",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "개발팀 관리",
+          "코딩 생산성"
+        ],
+        "trend_index": 60,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 114,
+      "thumbnail_url": "https://ph-files.imgix.net/cea13bd0-7efd-4a1c-b99a-d4cb7b1e4276.png?auto=format",
+      "created_at": "2026-04-26T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 80,
+        "timing": 85,
+        "overall": 77
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "GitLab Insights (2018)",
+            "kr_equivalent": "국내 개발 분석 도구들 (2020)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47865822",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://github.com/Infisical/agent-vault",
+      "title_en": "Agent Vault",
+      "tagline_en": "Open-source credential proxy and vault for agents",
+      "title_ko": "에이전트 볼트",
+      "summary_ko": "AI 에이전트를 위한 오픈소스 자격증명 프록시 및 보안 저장소",
+      "analysis_ko": {
+        "description": "AI 에이전트가 다양한 서비스에 안전하게 접근할 수 있도록 API 키, 토큰 등의 자격증명을 안전하게 저장하고 관리하는 오픈소스 도구입니다. 에이전트별 권한 관리와 감사 로그 기능을 제공하여 기업 환경에서 AI 에이전트를 안전하게 운영할 수 있게 합니다.",
+        "market_fit": "한국의 강화된 개인정보보호 규제와 보안 요구사항을 고려할 때 AI 에이전트 보안 관리 도구에 대한 수요가 높습니다. 특히 금융, 의료, 공공기관에서 AI 도입 시 보안이 핵심 고려사항입니다.",
+        "competitors_kr": [
+          "펜타시큐리티",
+          "이글루시큐리티",
+          "안랩"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "펜타시큐리티",
+            "founded_year": 1997,
+            "funding_status": "Public company",
+            "differentiation": "펜타시큐리티는 전통적인 보안 솔루션이지만 Agent Vault는 AI 에이전트 특화 보안"
+          },
+          {
+            "name": "이글루시큐리티",
+            "founded_year": 2002,
+            "funding_status": "Public company",
+            "differentiation": "이글루는 통합보안관제에 집중하지만 Agent Vault는 AI 에이전트 자격증명 관리 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 정보통신망법상 개인정보 처리 시스템 보안 요구사항 준수 필요",
+        "localization_strategy": "K-ISMS 인증 대응, 국내 클라우드 보안 표준 준수, 한국어 관리 인터페이스 제공",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 보안",
+          "자격증명 관리"
+        ],
+        "trend_index": 100,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 29
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 36
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 44
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 39
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 29
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 32
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 35
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 35
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 154,
+      "thumbnail_url": null,
+      "created_at": "2026-04-22T16:25:28.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 60,
+        "timing": 80,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "HashiCorp Vault (2015)",
+            "kr_equivalent": "펜타시큐리티 D'Amo (2018)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1132500",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/veritads",
+      "title_en": "Veritads",
+      "tagline_en": "Let real people advertise and grow your brand.",
+      "title_ko": "베리타즈",
+      "summary_ko": "실제 사용자들이 브랜드를 홍보하는 진정성 있는 마케팅 플랫폼",
+      "analysis_ko": {
+        "description": "일반 소비자들이 실제로 사용해본 제품이나 서비스를 자신의 소셜미디어에 진정성 있게 홍보할 수 있도록 연결해주는 플랫폼입니다. 기업은 진짜 고객의 후기와 추천을 통해 브랜드 신뢰도를 높이고, 소비자는 홍보 활동으로 수익을 얻을 수 있습니다.",
+        "market_fit": "한국의 높은 소셜미디어 사용률과 인플루언서 마케팅 시장 성장세를 고려할 때 시장 적합성이 높습니다. 특히 Z세대의 진정성 있는 콘텐츠 선호 트렌드와 맞아떨어집니다.",
+        "competitors_kr": [
+          "애드픽",
+          "리뷰",
+          "체리픽"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "애드픽",
+            "founded_year": 2019,
+            "funding_status": "Series A $3M",
+            "differentiation": "애드픽은 인플루언서 중심이지만 Veritads는 일반 소비자 중심의 진정성 마케팅"
+          },
+          {
+            "name": "리뷰",
+            "founded_year": 2018,
+            "funding_status": "Series B $15M",
+            "differentiation": "리뷰는 리뷰 플랫폼이지만 Veritads는 소셜미디어 홍보까지 포함하는 통합 솔루션"
+          }
+        ],
+        "regulatory_notes": "표시광고법상 광고 표시 의무, 개인정보보호법상 사용자 데이터 처리 규정 준수 필요",
+        "localization_strategy": "인스타그램, 틱톡, 유튜브 쇼츠 등 한국 인기 플랫폼 연동, 한국 소비자 취향 맞춤 매칭 알고리즘",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "인플루언서 마케팅",
+          "소셜미디어 광고"
+        ],
+        "trend_index": 35,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 43
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 44
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 41
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 35
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 11,
+      "thumbnail_url": "https://ph-files.imgix.net/23c3516f-5d27-4289-8117-b3d7e7e4838f.gif?auto=format",
+      "created_at": "2026-04-26T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 70,
+        "timing": 75,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 8,
+        "category_history": [
+          {
+            "us_launch": "AspireIQ (2013)",
+            "kr_equivalent": "애드픽 (2019)",
+            "gap_months": 72
+          },
+          {
+            "us_launch": "Grin (2014)",
+            "kr_equivalent": "체리픽 (2020)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47882697",
+      "rank": 8,
+      "source": "hackernews",
+      "source_url": "https://github.com/refactoringhq/tolaria",
+      "title_en": "Tolaria",
+      "tagline_en": "Open-source macOS app to manage Markdown knowledge bases",
+      "title_ko": "톨라리아",
+      "summary_ko": "마크다운 기반 지식베이스를 관리하는 오픈소스 macOS 앱",
+      "analysis_ko": {
+        "description": "개발자와 연구자들이 마크다운 파일로 구성된 지식베이스를 효율적으로 관리하고 검색할 수 있는 네이티브 macOS 애플리케이션입니다. 로컬 파일 시스템 기반으로 작동하여 데이터 소유권과 프라이버시를 보장하면서도 강력한 검색과 연결 기능을 제공합니다.",
+        "market_fit": "한국의 높은 Mac 사용률과 개발자 커뮤니티의 지식 관리 니즈를 고려할 때 시장 잠재력이 있습니다. 특히 스타트업과 IT 기업의 문서화 문화가 확산되면서 개인용 지식 관리 도구에 대한 관심이 높아지고 있습니다.",
+        "competitors_kr": [
+          "노션코리아",
+          "옵시디언코리아"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "노션코리아",
+            "founded_year": 2020,
+            "funding_status": "Subsidiary of US parent",
+            "differentiation": "노션은 클라우드 기반 협업 도구이지만 Tolaria는 로컬 파일 기반 개인용 도구"
+          }
+        ],
+        "regulatory_notes": "로컬 파일 기반으로 특별한 규제 이슈 없음, 앱스토어 등록 시 애플 정책 준수 필요",
+        "localization_strategy": "한글 검색 최적화, 한국어 UI 번역, 한국 개발자 커뮤니티 대상 마케팅",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "지식관리",
+          "마크다운"
+        ],
+        "trend_index": 65,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 44
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 57
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 91
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 65
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 307,
+      "thumbnail_url": null,
+      "created_at": "2026-04-23T22:01:59.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 85,
+        "timing": 70,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Obsidian (2020)",
+            "kr_equivalent": "한국 사용자 커뮤니티 형성 (2021)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Roam Research (2019)",
+            "kr_equivalent": "국내 지식관리 도구들 (2021)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1132561",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/openstartup",
+      "title_en": "OpenStartup",
+      "tagline_en": "Instant profit & pricing calculator for small businesses",
+      "title_ko": "오픈스타트업",
+      "summary_ko": "소상공인을 위한 즉석 수익성 및 가격 계산기",
+      "analysis_ko": {
+        "description": "소상공인과 스타트업이 제품이나 서비스의 적정 가격을 책정하고 수익성을 즉시 계산할 수 있는 도구입니다. 원가, 경쟁사 가격, 시장 상황 등을 고려하여 최적의 가격 전략을 제안하고 손익분기점을 분석해줍니다.",
+        "market_fit": "한국의 높은 창업률과 소상공인 비중을 고려할 때 시장 적합성이 높습니다. 특히 코로나19 이후 온라인 창업이 증가하면서 가격 책정에 어려움을 겪는 초보 창업자들에게 유용할 것입니다.",
+        "competitors_kr": [
+          "사장님닷컴",
+          "더존비즈온",
+          "케이렙"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "더존비즈온",
+            "founded_year": 1987,
+            "funding_status": "Public company",
+            "differentiation": "더존은 종합 ERP이지만 OpenStartup은 가격 책정에 특화된 간단한 도구"
+          },
+          {
+            "name": "케이렙",
+            "founded_year": 2014,
+            "funding_status": "Series B $20M",
+            "differentiation": "케이렙은 종합 비즈니스 솔루션이지만 OpenStartup은 가격 계산에 집중"
+          }
+        ],
+        "regulatory_notes": "소상공인 지원 정책과 연계 가능, 세무 관련 기능 제공 시 세무사법 고려 필요",
+        "localization_strategy": "한국 소상공인 업종별 맞춤 템플릿, 정부 지원사업 정보 연동, 한국 회계 기준 적용",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "창업 계산기",
+          "가격 책정"
+        ],
+        "trend_index": 31,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 46
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 31
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 24,
+      "thumbnail_url": "https://ph-files.imgix.net/787b9c65-e2af-489c-962c-a1a8549face5.png?auto=format",
+      "created_at": "2026-04-26T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 85,
+        "timing": 75,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "ProfitWell (2012)",
+            "kr_equivalent": "케이렙 (2014)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47896163",
+      "rank": 10,
+      "source": "hackernews",
+      "source_url": "https://lightwhale.asklandd.dk/",
+      "title_en": "Lightwhale",
+      "tagline_en": "Nice home server OS",
+      "title_ko": "라이트웨일",
+      "summary_ko": "Docker 컨테이너를 쉽게 자체 호스팅할 수 있는 홈서버 운영체제",
+      "analysis_ko": {
+        "description": "개인이나 소규모 팀이 집에서 쉽게 서버를 운영할 수 있도록 설계된 불변형 리눅스 시스템입니다. Docker 컨테이너를 GUI로 간편하게 관리하고 다양한 자체 호스팅 서비스를 라이브 부팅으로 즉시 실행할 수 있습니다.",
+        "market_fit": "한국의 높은 인터넷 인프라와 개인정보보호 의식 증가로 자체 호스팅에 대한 관심이 커지고 있어 시장 잠재력이 있습니다. 특히 개발자와 IT 전문가들 사이에서 클라우드 대안으로 주목받을 수 있습니다.",
+        "competitors_kr": [
+          "시놀로지코리아",
+          "큐냅코리아"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "시놀로지코리아",
+            "founded_year": 2000,
+            "funding_status": "Private company",
+            "differentiation": "시놀로지는 하드웨어+소프트웨어 패키지이지만 Lightwhale은 순수 소프트웨어 솔루션"
+          },
+          {
+            "name": "큐냅코리아",
+            "founded_year": 2004,
+            "funding_status": "Public company",
+            "differentiation": "큐냅은 NAS 전용이지만 Lightwhale은 범용 홈서버 OS로 더 유연함"
+          }
+        ],
+        "regulatory_notes": "개인용 서버 운영 시 통신사업법상 제한 사항 확인 필요, 오픈소스 라이선스 준수",
+        "localization_strategy": "한글 UI 지원, 한국 ISP 환경 최적화, 국내 개발자 커뮤니티 대상 마케팅",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "홈서버",
+          "자체호스팅"
+        ],
+        "trend_index": 20,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 33
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 20
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 21
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 11
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 8
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 16
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 7
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 15
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 55
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 43
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 20
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 185,
+      "thumbnail_url": null,
+      "created_at": "2026-04-24T21:42:26.000Z",
+      "score": {
+        "market_opportunity": 55,
+        "execution_difficulty": 75,
+        "timing": 70,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Unraid (2005)",
+            "kr_equivalent": "시놀로지 DSM 한국 출시 (2010)",
+            "gap_months": 60
+          },
+          {
+            "us_launch": "TrueNAS (2011)",
+            "kr_equivalent": "큐냅 QTS 한국화 (2015)",
+            "gap_months": 48
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-26T20:28:39.521Z"
+}
