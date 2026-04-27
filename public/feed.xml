@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-26T20:28:41.268Z</updated>
+    <updated>2026-04-27T20:51:13.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-04-27 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-27</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-04-27T20:51:11.786Z</updated>
+        <summary type="html"><![CDATA[오렌지 슬라이스 · 제트 AI 에이전트 · 비디오 AI 미 · 혼커 · 웨이트리스터 · 디랙 OSS 에이전트 · 브루 파인더 · 우프 · 가우시안 스플랫 비디오게임 · 에이테크]]></summary>
+        <content type="html"><![CDATA[<h3>#1 오렌지 슬라이스</h3><p>AI로 모든 영업 업무를 자동화하는 솔루션</p><h3>#2 제트 AI 에이전트</h3><p>몇 분 만에 비즈니스용 AI 에이전트를 구축할 수 있는 노코드 플랫폼</p><h3>#3 비디오 AI 미</h3><p>실제 사람처럼 보이고 들리는 AI 배우로 영상을 제작하는 서비스</p><h3>#4 혼커</h3><p>SQLite에서 PostgreSQL의 실시간 알림 기능을 구현하는 라이브러리</p><h3>#5 웨이트리스터</h3><p>제품 출시 전 대기자 명단을 관리하는 소프트웨어</p><h3>#6 디랙 OSS 에이전트</h3><p>터미널 벤치마크에서 최고 성능을 달성한 오픈소스 AI 에이전트</p><h3>#7 브루 파인더</h3><p>주변의 업무하기 좋은 카페를 찾아주는 서비스</p><h3>#8 우프</h3><p>AI 에이전트가 관리하는 마크다운 기반 지식 위키</p><h3>#9 가우시안 스플랫 비디오게임</h3><p>가우시안 스플래팅 기술을 활용한 실사 기반 게임 개발</p><h3>#10 에이테크</h3><p>채팅으로 조립 가능한 전자부품을 설계하는 서비스</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-26 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-26</id>

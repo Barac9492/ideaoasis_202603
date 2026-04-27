@@ -1,0 +1,1099 @@
+{
+  "date": "2026-04-27",
+  "ideas": [
+    {
+      "id": "ph-1131691",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/orange-slice-2",
+      "title_en": "Orange Slice",
+      "tagline_en": "Automate any sales task with AI",
+      "title_ko": "오렌지 슬라이스",
+      "summary_ko": "AI로 모든 영업 업무를 자동화하는 솔루션",
+      "analysis_ko": {
+        "description": "영업 프로세스의 모든 단계를 AI로 자동화하여 리드 생성부터 계약 체결까지 효율성을 극대화하는 B2B SaaS 플랫폼입니다. 한국의 중소기업과 스타트업들이 제한된 영업 인력으로 매출 성장을 달성할 수 있도록 지원합니다.",
+        "market_fit": "한국은 영업 자동화 도구 도입률이 낮고 여전히 수동적인 영업 프로세스에 의존하는 기업이 많아 시장 잠재력이 큽니다. 특히 B2B 시장에서 디지털 전환이 가속화되고 있어 타이밍이 적절합니다.",
+        "competitors_kr": [
+          "세일즈포스 코리아",
+          "허브스팟 코리아",
+          "플렉스CRM",
+          "세일즈봇"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "플렉스CRM",
+            "founded_year": 2019,
+            "funding_status": "Series A $5M",
+            "differentiation": "기존 CRM 기능 중심이 아닌 AI 기반 완전 자동화에 특화"
+          },
+          {
+            "name": "세일즈봇",
+            "founded_year": 2021,
+            "funding_status": "Seed $2M",
+            "differentiation": "챗봇 중심이 아닌 전체 영업 프로세스 자동화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수 필요, 영업 활동 시 동의 절차 강화",
+        "localization_strategy": "한국어 자연어 처리 최적화, 국내 비즈니스 문화에 맞는 영업 시나리오 구축",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "영업자동화",
+          "AI영업"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2026-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2026-04-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 341,
+      "thumbnail_url": "https://ph-files.imgix.net/cfcb3526-46fc-4484-ad17-c217e76efcc1.png?auto=format",
+      "created_at": "2026-04-27T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 65,
+        "timing": 80,
+        "overall": 77
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Salesforce (1999)",
+            "kr_equivalent": "플렉스CRM (2019)",
+            "gap_months": 240
+          },
+          {
+            "us_launch": "HubSpot (2006)",
+            "kr_equivalent": "허브스팟 코리아 (2018)",
+            "gap_months": 144
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1131445",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/jet-ai-agents",
+      "title_en": "Jet AI Agents",
+      "tagline_en": "Build business AI agents in minutes",
+      "title_ko": "제트 AI 에이전트",
+      "summary_ko": "몇 분 만에 비즈니스용 AI 에이전트를 구축할 수 있는 노코드 플랫폼",
+      "analysis_ko": {
+        "description": "비개발자도 쉽게 AI 에이전트를 만들어 고객 서비스, 데이터 분석, 업무 자동화 등에 활용할 수 있는 드래그앤드롭 방식의 플랫폼입니다. 한국의 디지털 전환을 추진하는 중소기업들에게 AI 도입 진입장벽을 낮춰줍니다.",
+        "market_fit": "한국 기업들의 AI 도입 의지는 높지만 기술적 복잡성으로 인한 진입장벽이 큰 상황에서, 노코드 AI 솔루션에 대한 수요가 급증하고 있습니다. 정부의 디지털 뉴딜 정책과도 부합합니다.",
+        "competitors_kr": [
+          "업스테이지",
+          "스켈터랩스",
+          "마인즈랩",
+          "AI팩토리"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "업스테이지",
+            "founded_year": 2020,
+            "funding_status": "Series B $100M",
+            "differentiation": "기업용 AI 모델 개발이 아닌 노코드 에이전트 빌더에 특화"
+          },
+          {
+            "name": "마인즈랩",
+            "founded_year": 2016,
+            "funding_status": "Series C $50M",
+            "differentiation": "대화형 AI가 아닌 다양한 비즈니스 태스크 자동화 에이전트"
+          }
+        ],
+        "regulatory_notes": "AI 윤리 가이드라인 준수, 개인정보 처리 시 동의 절차 필요",
+        "localization_strategy": "한국어 AI 모델 통합, 국내 기업 워크플로우에 최적화된 템플릿 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI에이전트",
+          "노코드AI"
+        ],
+        "trend_index": 47,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 25
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 23
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 24
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 32
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 26
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 27
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 61
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 47
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 275,
+      "thumbnail_url": "https://ph-files.imgix.net/d3d11dd1-1678-4979-ad5b-98167e259c70.gif?auto=format",
+      "created_at": "2026-04-27T07:01:00Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 60,
+        "timing": 85,
+        "overall": 79
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Zapier (2011)",
+            "kr_equivalent": "오토메이션애니웨어 코리아 (2018)",
+            "gap_months": 84
+          },
+          {
+            "us_launch": "UiPath (2005)",
+            "kr_equivalent": "RPA 코리아 (2017)",
+            "gap_months": 144
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1132963",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/video-ai-me",
+      "title_en": "VIDEO AI ME",
+      "tagline_en": "Create videos with AI actors that sound and look real",
+      "title_ko": "비디오 AI 미",
+      "summary_ko": "실제 사람처럼 보이고 들리는 AI 배우로 영상을 제작하는 서비스",
+      "analysis_ko": {
+        "description": "실제 사람과 구분하기 어려운 수준의 AI 아바타를 활용해 마케팅 영상, 교육 콘텐츠, 기업 홍보 영상을 제작할 수 있는 플랫폼입니다. 한국의 콘텐츠 제작 비용 절감과 효율성 향상에 기여할 수 있습니다.",
+        "market_fit": "한국은 영상 콘텐츠 소비가 매우 활발하고 유튜브, 틱톡 등 플랫폼 사용률이 높아 AI 영상 제작 도구에 대한 수요가 클 것으로 예상됩니다. K-콘텐츠 산업의 글로벌 확산과도 연계 가능합니다.",
+        "competitors_kr": [
+          "딥브레인AI",
+          "몬스터랩",
+          "엘리스AI",
+          "비디오스튜"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "딥브레인AI",
+            "founded_year": 2016,
+            "funding_status": "Series B $44M",
+            "differentiation": "기존 아바타 기술보다 더 자연스러운 표정과 음성 구현"
+          },
+          {
+            "name": "몬스터랩",
+            "founded_year": 2018,
+            "funding_status": "Series A $10M",
+            "differentiation": "AI 휴먼이 아닌 실제 배우 수준의 연기력 구현"
+          }
+        ],
+        "regulatory_notes": "딥페이크 관련 규제 준수, 초상권 및 음성권 보호 필요",
+        "localization_strategy": "한국인 얼굴형과 발음에 최적화된 AI 모델 개발, K-pop 스타일 아바타 제공",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI영상제작",
+          "딥페이크"
+        ],
+        "trend_index": 36,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 44
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 49
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 41
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 36
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 169,
+      "thumbnail_url": "https://ph-files.imgix.net/59d086af-edf3-4faf-ad74-2a936f34a41d.png?auto=format",
+      "created_at": "2026-04-27T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 40,
+        "timing": 75,
+        "overall": 69
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Synthesia (2017)",
+            "kr_equivalent": "딥브레인AI (2016)",
+            "gap_months": -12
+          },
+          {
+            "us_launch": "Runway ML (2018)",
+            "kr_equivalent": "몬스터랩 (2018)",
+            "gap_months": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47874647",
+      "rank": 4,
+      "source": "hackernews",
+      "source_url": "https://github.com/russellromney/honker",
+      "title_en": "Honker",
+      "tagline_en": "Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "title_ko": "혼커",
+      "summary_ko": "SQLite에서 PostgreSQL의 실시간 알림 기능을 구현하는 라이브러리",
+      "analysis_ko": {
+        "description": "SQLite 데이터베이스에서 PostgreSQL의 NOTIFY/LISTEN 기능을 구현하여 실시간 데이터 변경 알림을 가능하게 하는 오픈소스 라이브러리입니다. 경량 애플리케이션에서도 실시간 기능을 쉽게 구현할 수 있게 해줍니다.",
+        "market_fit": "한국의 많은 스타트업과 중소기업이 초기에는 SQLite를 사용하다가 확장성 때문에 PostgreSQL로 마이그레이션하는 패턴을 보이는데, 이 도구로 마이그레이션 시점을 늦출 수 있습니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음",
+        "localization_strategy": "한국어 문서화, 국내 개발 커뮤니티 대상 기술 세미나 개최",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "SQLite",
+          "실시간데이터베이스"
+        ],
+        "trend_index": 79,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 98
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 92
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 74
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 99
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 79
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 312,
+      "thumbnail_url": null,
+      "created_at": "2026-04-23T11:53:11.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 85,
+        "timing": 70,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Redis (2009)",
+            "kr_equivalent": "국내 도입 (2010)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "MongoDB (2009)",
+            "kr_equivalent": "국내 도입 (2011)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1132219",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/waitlister-3",
+      "title_en": "Waitlister",
+      "tagline_en": "The waitlist software to launch your product",
+      "title_ko": "웨이트리스터",
+      "summary_ko": "제품 출시 전 대기자 명단을 관리하는 소프트웨어",
+      "analysis_ko": {
+        "description": "신제품이나 서비스 출시 전에 잠재 고객들의 관심을 수집하고 관리할 수 있는 대기자 명단 관리 플랫폼입니다. 바이럴 마케팅 기능과 분석 도구를 제공하여 런칭 성공률을 높입니다.",
+        "market_fit": "한국의 스타트업 생태계가 활발해지면서 제품 런칭 전 시장 검증과 초기 고객 확보의 중요성이 커지고 있어 수요가 증가할 것으로 예상됩니다.",
+        "competitors_kr": [
+          "런치록",
+          "프리런치",
+          "얼리버드"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "런치록",
+            "founded_year": 2020,
+            "funding_status": "Seed $500K",
+            "differentiation": "단순 대기자 명단이 아닌 바이럴 마케팅과 분석 기능 강화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 마케팅 동의 절차 필요",
+        "localization_strategy": "한국 소셜미디어 플랫폼 연동, 국내 결제 시스템 통합",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "대기자명단",
+          "제품런칭"
+        ],
+        "trend_index": 34,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 43
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 32
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 57
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 27
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 20
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 19
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 24
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 34
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 188,
+      "thumbnail_url": "https://ph-files.imgix.net/8bfb3267-5549-4962-ae2b-ae0f5b740ca5.png?auto=format",
+      "created_at": "2026-04-27T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 80,
+        "timing": 75,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "LaunchRock (2011)",
+            "kr_equivalent": "런치록 (2020)",
+            "gap_months": 108
+          },
+          {
+            "us_launch": "Kickofflabs (2012)",
+            "kr_equivalent": "프리런치 (2021)",
+            "gap_months": 108
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47920787",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://github.com/dirac-run/dirac",
+      "title_en": "Dirac OSS Agent",
+      "tagline_en": "OSS Agent that topped TerminalBench on Gemini-3-flash-preview",
+      "title_ko": "디랙 OSS 에이전트",
+      "summary_ko": "터미널 벤치마크에서 최고 성능을 달성한 오픈소스 AI 에이전트",
+      "analysis_ko": {
+        "description": "터미널 환경에서 복잡한 명령어 실행과 시스템 관리 작업을 자동화하는 고성능 AI 에이전트로, 기존 상용 솔루션을 능가하는 성능을 보여줍니다. 개발자와 시스템 관리자의 생산성을 크게 향상시킬 수 있습니다.",
+        "market_fit": "한국의 IT 기업들이 DevOps와 자동화에 대한 관심이 높아지고 있고, 오픈소스 기반 솔루션을 선호하는 경향이 있어 시장 적합성이 높습니다.",
+        "competitors_kr": [
+          "네이버클라우드",
+          "카카오엔터프라이즈",
+          "LG CNS"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버클라우드",
+            "founded_year": 2017,
+            "funding_status": "Corporate",
+            "differentiation": "클라우드 서비스가 아닌 로컬 터미널 자동화에 특화"
+          }
+        ],
+        "regulatory_notes": "특별한 규제 사항 없음",
+        "localization_strategy": "한국어 명령어 지원, 국내 개발 도구와 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI자동화",
+          "터미널에이전트"
+        ],
+        "trend_index": 4,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 3
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 3
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 3
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 3
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 15
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 20
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 18
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 13
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 11
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 6
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 4
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 268,
+      "thumbnail_url": null,
+      "created_at": "2026-04-27T12:35:55.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 70,
+        "timing": 80,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 8,
+        "category_history": [
+          {
+            "us_launch": "GitHub Copilot (2021)",
+            "kr_equivalent": "국내 도입 (2022)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Cursor (2023)",
+            "kr_equivalent": "국내 사용 확산 (2023)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1133074",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/brew-finder",
+      "title_en": "Brew Finder",
+      "tagline_en": "Discover the best coffee shops to work at around you",
+      "title_ko": "브루 파인더",
+      "summary_ko": "주변의 업무하기 좋은 카페를 찾아주는 서비스",
+      "analysis_ko": {
+        "description": "원격근무와 카페 업무가 일반화된 환경에서 WiFi 속도, 콘센트 유무, 소음 수준 등을 고려해 업무에 최적화된 카페를 추천하는 플랫폼입니다. 사용자 리뷰와 실시간 정보를 바탕으로 정확한 정보를 제공합니다.",
+        "market_fit": "한국은 카페 밀도가 세계 최고 수준이고 카페에서 업무하는 문화가 매우 발달해 있어 이런 서비스에 대한 수요가 매우 클 것으로 예상됩니다. 특히 프리랜서와 원격근무자가 증가하는 추세입니다.",
+        "competitors_kr": [
+          "카페24",
+          "망고플레이트",
+          "포스퀘어"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "망고플레이트",
+            "founded_year": 2013,
+            "funding_status": "Series C $30M",
+            "differentiation": "음식점 정보가 아닌 업무 환경에 특화된 카페 정보"
+          }
+        ],
+        "regulatory_notes": "위치정보 수집 시 동의 절차 필요",
+        "localization_strategy": "한국 카페 문화에 맞는 평가 기준 적용, 주요 프랜차이즈와 파트너십",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "카페추천",
+          "원격근무카페"
+        ],
+        "trend_index": 25,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 18
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 22
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 21
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 24
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 61
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 37
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 34
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 25
+          }
+        ]
+      },
+      "category": "lifestyle",
+      "ph_votes": 126,
+      "thumbnail_url": "https://ph-files.imgix.net/faa8a21f-e5cc-4cbf-85ac-a84c7d625c2a.png?auto=format",
+      "created_at": "2026-04-27T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 85,
+        "timing": 85,
+        "overall": 83
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Foursquare (2009)",
+            "kr_equivalent": "포스퀘어 코리아 (2010)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Yelp (2004)",
+            "kr_equivalent": "망고플레이트 (2013)",
+            "gap_months": 108
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47899844",
+      "rank": 8,
+      "source": "hackernews",
+      "source_url": "https://github.com/nex-crm/wuphf",
+      "title_en": "Wuphf",
+      "tagline_en": "A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "title_ko": "우프",
+      "summary_ko": "AI 에이전트가 관리하는 마크다운 기반 지식 위키",
+      "analysis_ko": {
+        "description": "AI 에이전트들이 자동으로 업데이트하고 관리하는 지식 베이스로, 마크다운과 Git을 활용해 버전 관리와 협업이 가능한 위키 시스템입니다. 기업의 지식 관리와 문서화 업무를 자동화할 수 있습니다.",
+        "market_fit": "한국 기업들의 지식 관리 시스템 도입률이 낮고 문서화 문화가 부족한 상황에서, AI 기반 자동 문서화 솔루션에 대한 잠재 수요가 큽니다.",
+        "competitors_kr": [
+          "노션 코리아",
+          "컨플루언스",
+          "구루미",
+          "위키독스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "구루미",
+            "founded_year": 2018,
+            "funding_status": "Series A $3M",
+            "differentiation": "수동 문서 작성이 아닌 AI 에이전트 기반 자동 지식 관리"
+          }
+        ],
+        "regulatory_notes": "기업 기밀 정보 보호 관련 보안 요구사항 준수",
+        "localization_strategy": "한국어 자연어 처리 최적화, 국내 협업 도구와 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "지식관리시스템",
+          "AI문서화"
+        ],
+        "trend_index": 21,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 25
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 54
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 21
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 21
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 257,
+      "thumbnail_url": null,
+      "created_at": "2026-04-25T08:53:53.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 75,
+        "timing": 75,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Notion (2016)",
+            "kr_equivalent": "노션 코리아 (2019)",
+            "gap_months": 36
+          },
+          {
+            "us_launch": "Obsidian (2020)",
+            "kr_equivalent": "국내 사용 확산 (2021)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47876071",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+      "title_en": "Gaussian Splat Videogame",
+      "tagline_en": "Turning a Gaussian Splat into a videogame",
+      "title_ko": "가우시안 스플랫 비디오게임",
+      "summary_ko": "가우시안 스플래팅 기술을 활용한 실사 기반 게임 개발",
+      "analysis_ko": {
+        "description": "3D 가우시안 스플래팅 기술을 활용해 실제 공간을 스캔하여 초현실적인 게임 환경을 만드는 새로운 게임 개발 방식입니다. 기존 3D 모델링 대비 훨씬 사실적이고 몰입감 있는 게임 경험을 제공할 수 있습니다.",
+        "market_fit": "한국은 게임 산업이 매우 발달해 있고 VR/AR 기술에 대한 관심이 높아 이런 혁신적인 게임 기술에 대한 수용도가 높을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "넥슨",
+          "엔씨소프트",
+          "크래프톤",
+          "넷마블"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "크래프톤",
+            "founded_year": 2007,
+            "funding_status": "Public",
+            "differentiation": "기존 게임 엔진이 아닌 가우시안 스플래팅 기반 새로운 렌더링 기술"
+          }
+        ],
+        "regulatory_notes": "게임물관리위원회 심의 필요",
+        "localization_strategy": "한국 문화와 랜드마크를 활용한 게임 콘텐츠 개발",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "3D스캔게임",
+          "실사게임"
+        ],
+        "trend_index": 40,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 33
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 33
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 40
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 226,
+      "thumbnail_url": null,
+      "created_at": "2026-04-23T14:18:52.000Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 35,
+        "timing": 70,
+        "overall": 66
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "Unity (2005)",
+            "kr_equivalent": "국내 도입 (2008)",
+            "gap_months": 36
+          },
+          {
+            "us_launch": "Unreal Engine (1998)",
+            "kr_equivalent": "국내 도입 (2001)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1132869",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/atech",
+      "title_en": "Atech",
+      "tagline_en": "Snap-together electronics built from a chat",
+      "title_ko": "에이테크",
+      "summary_ko": "채팅으로 조립 가능한 전자부품을 설계하는 서비스",
+      "analysis_ko": {
+        "description": "대화형 인터페이스를 통해 전자회로를 설계하고 모듈형 부품으로 쉽게 조립할 수 있는 플랫폼입니다. 전자공학 지식이 없는 사용자도 IoT 기기나 간단한 전자제품을 만들 수 있게 해줍니다.",
+        "market_fit": "한국은 전자제품 제조업이 발달해 있고 메이커 문화가 확산되고 있어 이런 DIY 전자제품 플랫폼에 대한 관심이 높을 것으로 예상됩니다. 교육 시장에서도 활용 가능성이 큽니다.",
+        "competitors_kr": [
+          "아두이노 코리아",
+          "라즈베리파이 코리아",
+          "메이커스페이스"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "전자제품 안전 인증 필요, KC 마크 취득",
+        "localization_strategy": "한국어 음성 인식 지원, 국내 전자부품 유통업체와 파트너십",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "DIY전자제품",
+          "메이커"
+        ],
+        "trend_index": 56,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 79
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 78
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 56
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 141,
+      "thumbnail_url": "https://ph-files.imgix.net/84197a21-449d-4fac-9088-82e06bc4f386.png?auto=format",
+      "created_at": "2026-04-27T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 45,
+        "timing": 65,
+        "overall": 61
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Arduino (2005)",
+            "kr_equivalent": "아두이노 코리아 (2010)",
+            "gap_months": 60
+          },
+          {
+            "us_launch": "Raspberry Pi (2012)",
+            "kr_equivalent": "라즈베리파이 코리아 (2013)",
+            "gap_months": 12
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-27T20:51:11.786Z"
+}
