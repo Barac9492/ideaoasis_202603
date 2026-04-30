@@ -1,0 +1,1022 @@
+{
+  "date": "2026-04-30",
+  "ideas": [
+    {
+      "id": "ph-1100364",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/videoos-by-jupitrr-ai",
+      "title_en": "VideoOS by Jupitrr AI",
+      "tagline_en": "Your all-in-one video workflow",
+      "title_ko": "주피터 AI 비디오OS",
+      "summary_ko": "AI 기반 올인원 비디오 제작 및 편집 워크플로우 플랫폼",
+      "analysis_ko": {
+        "description": "AI를 활용하여 비디오 제작부터 편집, 배포까지 전체 워크플로우를 통합 관리하는 플랫폼입니다. 복잡한 비디오 제작 과정을 자동화하고 효율성을 극대화합니다.",
+        "market_fit": "한국의 크리에이터 경제와 영상 콘텐츠 시장이 급성장하고 있어 높은 시장 적합성을 보입니다. 특히 1인 크리에이터와 중소 제작사들이 전문적인 영상 제작 도구에 대한 니즈가 큽니다.",
+        "competitors_kr": [
+          "비디오스튜디오",
+          "플렉스클립",
+          "인샷"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "비디오스튜디오",
+            "founded_year": 2019,
+            "funding_status": "Series A $5M",
+            "differentiation": "AI 자동화 기능과 통합 워크플로우 관리 측면에서 차별화"
+          }
+        ],
+        "regulatory_notes": "저작권 및 개인정보보호법 준수 필요, 특별한 규제 장벽 없음",
+        "localization_strategy": "한국어 UI/UX, K-pop 및 한류 콘텐츠 템플릿 제공, 네이버/유튜브 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 영상편집",
+          "비디오 제작"
+        ],
+        "trend_index": 82,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 92
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 82
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 82
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 312,
+      "thumbnail_url": "https://ph-files.imgix.net/b41a7a47-2cd5-4fbb-953d-42614e481738.png?auto=format",
+      "created_at": "2026-04-30T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 65,
+        "timing": 90,
+        "overall": 79
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Canva (2013)",
+            "kr_equivalent": "미리캔버스 (2014)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Figma (2016)",
+            "kr_equivalent": "오븐 (2017)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1134689",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/mintlify-editor",
+      "title_en": "Mintlify Editor",
+      "tagline_en": "AI-native collaborative editor",
+      "title_ko": "민틀리파이 에디터",
+      "summary_ko": "AI 기반 실시간 협업 문서 편집기",
+      "analysis_ko": {
+        "description": "AI가 네이티브로 통합된 협업 문서 편집기로, 실시간 공동 작업과 AI 어시스턴트 기능을 제공합니다. 문서 작성, 편집, 검토 과정을 AI가 지원하여 생산성을 향상시킵니다.",
+        "market_fit": "한국의 원격근무 확산과 협업 도구 수요 증가로 시장 기회가 큽니다. 특히 스타트업과 IT 기업들의 문서 협업 니즈가 높아 적합성이 우수합니다.",
+        "competitors_kr": [
+          "노션",
+          "잔디",
+          "구름IDE"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "잔디",
+            "founded_year": 2012,
+            "funding_status": "Series C $30M",
+            "differentiation": "AI 네이티브 기능과 고급 문서 편집 기능에서 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 및 기업 데이터 보안 규정 준수 필요",
+        "localization_strategy": "한국어 AI 모델 적용, 한글 문서 최적화, 기업용 보안 기능 강화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "협업툴",
+          "AI 문서편집"
+        ],
+        "trend_index": 45,
+        "trend_direction": "flat",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 45
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 45
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 275,
+      "thumbnail_url": "https://ph-files.imgix.net/5daa9b0c-dec8-45be-856c-36a7e4957c32.png?auto=format",
+      "created_at": "2026-04-30T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 70,
+        "timing": 85,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Notion (2016)",
+            "kr_equivalent": "Typed (2018)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Slack (2013)",
+            "kr_equivalent": "잔디 (2014)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1133288",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/hera-launch-2",
+      "title_en": "Hera Launch",
+      "tagline_en": "Create studio-quality launch videos with AI",
+      "title_ko": "헤라 런치",
+      "summary_ko": "AI로 스튜디오급 제품 런칭 영상을 제작하는 플랫폼",
+      "analysis_ko": {
+        "description": "AI 기술을 활용하여 전문 스튜디오 수준의 제품 런칭 영상을 자동으로 생성하는 플랫폼입니다. 스타트업과 기업들이 마케팅 영상을 쉽고 빠르게 제작할 수 있도록 지원합니다.",
+        "market_fit": "한국의 스타트업 생태계 성장과 디지털 마케팅 중요성 증대로 높은 시장 적합성을 보입니다. 특히 제품 런칭과 브랜딩에 대한 니즈가 큰 시장입니다.",
+        "competitors_kr": [
+          "비디오몬스터",
+          "플렉스클립"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "비디오몬스터",
+            "founded_year": 2020,
+            "funding_status": "Seed $2M",
+            "differentiation": "제품 런칭 특화 템플릿과 AI 자동화 기능에서 차별화"
+          }
+        ],
+        "regulatory_notes": "저작권법 준수 필요, 특별한 규제 장벽 없음",
+        "localization_strategy": "한국 기업 브랜딩 스타일 반영, K-브랜드 템플릿 제공, 한국어 음성 지원",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "런칭영상",
+          "제품마케팅"
+        ],
+        "trend_index": 29,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 29
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 35
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 29
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 29
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 263,
+      "thumbnail_url": "https://ph-files.imgix.net/3755c965-4852-47ba-8523-671f0b3c5057.png?auto=format",
+      "created_at": "2026-04-30T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 75,
+        "timing": 80,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 15,
+        "category_history": [
+          {
+            "us_launch": "Loom (2016)",
+            "kr_equivalent": "리코더 (2018)",
+            "gap_months": 18
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1134873",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/wonder-2000",
+      "title_en": "Wonder",
+      "tagline_en": "The AI design agent that works on your canvas",
+      "title_ko": "원더",
+      "summary_ko": "캔버스에서 직접 작업하는 AI 디자인 에이전트",
+      "analysis_ko": {
+        "description": "디자인 캔버스에서 직접 작업하는 AI 에이전트로, 사용자의 요청에 따라 실시간으로 디자인을 생성하고 수정합니다. 전문 디자이너 없이도 고품질 디자인 작업이 가능합니다.",
+        "market_fit": "한국의 디자인 아웃소싱 시장과 1인 기업 증가로 AI 디자인 도구에 대한 수요가 높습니다. 특히 중소기업과 스타트업의 디자인 비용 절감 니즈가 큽니다.",
+        "competitors_kr": [
+          "미리캔버스",
+          "망고보드"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "미리캔버스",
+            "founded_year": 2014,
+            "funding_status": "Series B $15M",
+            "differentiation": "AI 에이전트의 실시간 캔버스 작업과 대화형 인터페이스에서 차별화"
+          }
+        ],
+        "regulatory_notes": "저작권 및 디자인권 관련 법규 준수 필요",
+        "localization_strategy": "한국 디자인 트렌드 학습, 한글 타이포그래피 최적화, 한국 문화 반영 템플릿",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 디자인",
+          "자동디자인"
+        ],
+        "trend_index": 70,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 70
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 237,
+      "thumbnail_url": "https://ph-files.imgix.net/c92d5a16-7188-4ae6-8934-57ffea5cda94.png?auto=format",
+      "created_at": "2026-04-30T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 55,
+        "timing": 75,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 20,
+        "category_history": [
+          {
+            "us_launch": "Canva (2013)",
+            "kr_equivalent": "미리캔버스 (2014)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47937380",
+      "rank": 5,
+      "source": "hackernews",
+      "source_url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+      "title_en": "Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+      "tagline_en": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+      "title_ko": "오토 아키텍처",
+      "summary_ko": "CPU 아키텍처를 자동으로 최적화하는 AI 시스템",
+      "analysis_ko": {
+        "description": "Karpathy의 루프 개념을 CPU 아키텍처 설계에 적용하여 자동으로 최적화된 프로세서 구조를 생성하는 AI 시스템입니다. 하드웨어 설계 과정을 자동화하고 성능을 향상시킵니다.",
+        "market_fit": "한국의 반도체 산업과 삼성, SK하이닉스 등 대기업의 R&D 투자로 높은 시장 잠재력을 가집니다. 특히 AI 칩 설계 분야에서 경쟁력 확보가 중요한 시점입니다.",
+        "competitors_kr": [
+          "시놉시스코리아",
+          "케이던스"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "반도체 기술 수출 규제 및 국가 핵심기술 보호법 고려 필요",
+        "localization_strategy": "한국 반도체 기업과의 파트너십, 정부 R&D 과제 참여, 기술이전 협력",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 반도체",
+          "칩설계"
+        ],
+        "trend_index": 71,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 92
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 85
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 99
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 97
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 71
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 236,
+      "thumbnail_url": null,
+      "created_at": "2026-04-28T17:12:30.000Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 30,
+        "timing": 70,
+        "overall": 66
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "Cadence (1988)",
+            "kr_equivalent": "케이던스코리아 (1995)",
+            "gap_months": 84
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1129120",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/gemini-deep-research-agent-2",
+      "title_en": "Gemini Deep Research Agent",
+      "tagline_en": "Web and MCP research agents, now in Gemini API",
+      "title_ko": "제미나이 딥 리서치 에이전트",
+      "summary_ko": "웹과 MCP를 활용한 AI 기반 심층 연구 도구",
+      "analysis_ko": {
+        "description": "Gemini API를 활용하여 웹과 MCP(Model Context Protocol)를 통해 심층적인 연구와 정보 수집을 자동화하는 AI 에이전트입니다. 복잡한 리서치 작업을 효율적으로 수행합니다.",
+        "market_fit": "한국의 연구개발 투자 증가와 학술연구 디지털화 트렌드로 시장 기회가 큽니다. 특히 대학과 연구소, 컨설팅 업계의 니즈가 높습니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오브레인"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "개인정보보호법 및 저작권법 준수 필요, 연구윤리 가이드라인 적용",
+        "localization_strategy": "한국어 학술 데이터베이스 연동, 국내 연구기관 API 통합, 한국 연구문화 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 연구",
+          "자동리서치"
+        ],
+        "trend_index": 45,
+        "trend_direction": "down",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 45
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 55
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 91
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 45
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 172,
+      "thumbnail_url": "https://ph-files.imgix.net/721ed556-69e4-4bce-8c58-a761f951430f.png?auto=format",
+      "created_at": "2026-04-30T07:01:00Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 60,
+        "timing": 75,
+        "overall": 66
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "GPT-3 (2020)",
+            "kr_equivalent": "HyperCLOVA (2021)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1133444",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/tabstack",
+      "title_en": "Tabstack",
+      "tagline_en": "Extract web data and automate browsers, no scraper required.",
+      "title_ko": "탭스택",
+      "summary_ko": "스크래퍼 없이 웹 데이터 추출과 브라우저 자동화를 제공하는 도구",
+      "analysis_ko": {
+        "description": "별도의 스크래퍼 없이 웹 데이터를 추출하고 브라우저 작업을 자동화하는 노코드 플랫폼입니다. 비개발자도 쉽게 웹 자동화 작업을 구현할 수 있습니다.",
+        "market_fit": "한국의 전자상거래와 데이터 분석 시장 성장으로 웹 데이터 수집 니즈가 높습니다. 특히 마케팅과 영업팀의 자동화 도구 수요가 큽니다.",
+        "competitors_kr": [
+          "옥타파스",
+          "웹하베스터"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "옥타파스",
+            "founded_year": 2014,
+            "funding_status": "bootstrapped",
+            "differentiation": "노코드 접근방식과 브라우저 자동화 통합 기능에서 차별화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 및 웹사이트 이용약관 준수 필요, 로봇배제표준 고려",
+        "localization_strategy": "한국 주요 사이트 최적화, 한글 데이터 처리 개선, 국내 법규 준수 기능",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "웹스크래핑",
+          "데이터수집"
+        ],
+        "trend_index": 39,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 38
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 55
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 37
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 20
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 18
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 22
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 31
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 39
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 113,
+      "thumbnail_url": "https://ph-files.imgix.net/a1e8c483-7b8f-44d3-8a73-32c0a5be8a0a.png?auto=format",
+      "created_at": "2026-04-30T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 70,
+        "timing": 80,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Zapier (2011)",
+            "kr_equivalent": "오토메이션애니웨어 (2013)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47945955",
+      "rank": 8,
+      "source": "hackernews",
+      "source_url": "https://rip.so",
+      "title_en": "Rip.so",
+      "tagline_en": "Show HN: Rip.so – a graveyard for dead internet things",
+      "title_ko": "립닷소",
+      "summary_ko": "사라진 인터넷 서비스들의 무덤 아카이브",
+      "analysis_ko": {
+        "description": "종료된 인터넷 서비스와 웹사이트들을 기록하고 보존하는 디지털 아카이브 플랫폼입니다. 인터넷 역사와 문화를 보존하며 사용자들이 추억을 공유할 수 있는 공간을 제공합니다.",
+        "market_fit": "한국의 디지털 문화 보존과 노스탤지어 마케팅 트렌드로 틈새 시장 기회가 있습니다. 특히 2000년대 인터넷 문화에 대한 관심이 높아지고 있습니다.",
+        "competitors_kr": [
+          "웨이백머신",
+          "디시인사이드 아카이브"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "저작권법 및 개인정보보호법 준수 필요, 아카이브 정책 수립 요구",
+        "localization_strategy": "한국 인터넷 서비스 히스토리 특화, 한글 콘텐츠 아카이빙, 커뮤니티 기반 운영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "인터넷역사",
+          "디지털아카이브"
+        ],
+        "trend_index": 60,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 57
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 55
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 21
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 26
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 14
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 29
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 60
+          }
+        ]
+      },
+      "category": "social",
+      "ph_votes": 179,
+      "thumbnail_url": null,
+      "created_at": "2026-04-29T09:21:32.000Z",
+      "score": {
+        "market_opportunity": 40,
+        "execution_difficulty": 85,
+        "timing": 60,
+        "overall": 58
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Archive.org (1996)",
+            "kr_equivalent": "웹아카이브 (2004)",
+            "gap_months": 96
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1083510",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/rova-ai",
+      "title_en": "Rova AI",
+      "tagline_en": "Autonomous, goal-driven testing for web & mobile apps",
+      "title_ko": "로바 AI",
+      "summary_ko": "웹과 모바일 앱을 위한 자율적 목표 지향 테스팅 도구",
+      "analysis_ko": {
+        "description": "AI가 자율적으로 웹과 모바일 애플리케이션을 테스트하는 도구로, 목표 지향적 접근방식을 통해 버그와 이슈를 자동으로 발견합니다. 개발팀의 QA 작업 부담을 크게 줄여줍니다.",
+        "market_fit": "한국의 소프트웨어 개발 시장 성장과 DevOps 문화 확산으로 자동화 테스팅 도구 수요가 증가하고 있습니다. 특히 스타트업과 중소 개발사의 니즈가 큽니다.",
+        "competitors_kr": [
+          "테스트웍스",
+          "큐브리드"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "테스트웍스",
+            "founded_year": 2000,
+            "funding_status": "IPO",
+            "differentiation": "AI 자율 테스팅과 목표 지향적 접근방식에서 차별화"
+          }
+        ],
+        "regulatory_notes": "소프트웨어 품질 관련 규정 준수, 특별한 규제 장벽 없음",
+        "localization_strategy": "한국어 앱 테스팅 최적화, 국내 개발 환경 통합, 한국 UX 패턴 학습",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "자동테스팅",
+          "AI QA"
+        ],
+        "trend_index": 60,
+        "trend_direction": "flat",
+        "period": "2026-01-01 ~ 2026-03-01",
+        "trend_data": [
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 60
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 106,
+      "thumbnail_url": "https://ph-files.imgix.net/9a176ba0-b228-4ae2-a8a7-c8ad922829ca.png?auto=format",
+      "created_at": "2026-04-30T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 50,
+        "timing": 85,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 30,
+        "category_history": [
+          {
+            "us_launch": "Selenium (2004)",
+            "kr_equivalent": "테스트웍스 (2000)",
+            "gap_months": -48
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47934261",
+      "rank": 10,
+      "source": "hackernews",
+      "source_url": "https://www.lumara-space.app/",
+      "title_en": "Live Sun and Moon Dashboard with NASA Footage",
+      "tagline_en": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+      "title_ko": "루마라 스페이스",
+      "summary_ko": "NASA 영상을 활용한 실시간 태양과 달 대시보드",
+      "analysis_ko": {
+        "description": "NASA의 실시간 영상 데이터를 활용하여 태양과 달의 현재 상태를 보여주는 라이브 대시보드입니다. 우주 과학 교육과 천문학 애호가들을 위한 시각적 정보 제공 플랫폼입니다.",
+        "market_fit": "한국의 우주 산업 발전과 과학 교육 관심 증가로 틈새 시장 기회가 있습니다. 특히 교육용 콘텐츠와 STEM 교육 분야에서 활용 가능성이 높습니다.",
+        "competitors_kr": [
+          "한국천문연구원",
+          "스페이스타임즈"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "NASA 데이터 사용 라이선스 준수, 특별한 국내 규제 없음",
+        "localization_strategy": "한국어 인터페이스, 한국 시간대 최적화, 교육기관 파트너십",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "우주과학",
+          "천문학"
+        ],
+        "trend_index": 63,
+        "trend_direction": "up",
+        "period": "2025-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-05-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 61
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 50
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 79
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 63
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 217,
+      "thumbnail_url": null,
+      "created_at": "2026-04-28T13:25:48.000Z",
+      "score": {
+        "market_opportunity": 45,
+        "execution_difficulty": 80,
+        "timing": 70,
+        "overall": 62
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "NASA Eyes (2010)",
+            "kr_equivalent": "한국천문연구원 앱 (2012)",
+            "gap_months": 24
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-04-30T20:50:30.463Z"
+}
