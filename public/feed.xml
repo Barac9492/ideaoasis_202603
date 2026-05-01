@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-04-30T20:50:32.323Z</updated>
+    <updated>2026-05-01T20:42:10.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-05-01 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-05-01</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-05-01T20:42:09.065Z</updated>
+        <summary type="html"><![CDATA[포스티즈 · 마르크스 파이낸스 · 부다 · 비트그레인 · 왓케이블 · 제드 1.0 · 립.소 · 젠스파크 포 워드 · 로키 · 고스트박스]]></summary>
+        <content type="html"><![CDATA[<h3>#1 포스티즈</h3><p>AI 에이전트를 활용한 소셜미디어 자동 스케줄링 플랫폼</p><h3>#2 마르크스 파이낸스</h3><p>AI 에이전트들이 시장을 분석하고 토론하는 금융 투자 플랫폼</p><h3>#3 부다</h3><p>AI 에이전트를 팀원으로 채용하여 회사 업무를 동기화된 팀으로 운영하는 플랫폼</p><h3>#4 비트그레인</h3><p>피그마보다 가볍고 캔바보다 유연한 디자인 스튜디오 툴</p><h3>#5 왓케이블</h3><p>USB-C 케이블의 성능과 규격을 확인해주는 맥 메뉴바 앱</p><h3>#6 제드 1.0</h3><p>고성능 오픈소스 멀티플레이어 코드 에디터</p><h3>#7 립.소</h3><p>사라진 인터넷 서비스들의 무덤 아카이브</p><h3>#8 젠스파크 포 워드</h3><p>마이크로소프트 워드 내에서 AI로 문서 작성, 편집, 리서치를 지원하는 도구</p><h3>#9 로키</h3><p>브랜치, 리플레이, 컬럼 계보 기능을 가진 Rust 기반 SQL 엔진</p><h3>#10 고스트박스</h3><p>글로벌 무료 티어에서 일회용 가상머신을 빌려주는 서비스</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-04-30 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-04-30</id>
@@ -244,13 +252,5 @@
         <updated>2026-03-24T09:15:12.935Z</updated>
         <summary type="html"><![CDATA[프로덕트브릿지 · 애즈터보 · 컴포저 2 · 어셈블리 2.0 · 클로드 코드 채널 · 깃에이전트 · 구글 AI 스튜디오 2.0 · 빌트포데브스 · 비스디프 · AI 스킬 매니저]]></summary>
         <content type="html"><![CDATA[<h3>#1 프로덕트브릿지</h3><p>여러 플랫폼에서 고객 피드백을 자동으로 수집하고 분석하는 AI 에이전트</p><h3>#2 애즈터보</h3><p>실제 사람처럼 보이는 AI 배우로 광고를 제작하는 플랫폼</p><h3>#3 컴포저 2</h3><p>빠르고 효율적인 최첨단 AI 코딩 모델</p><h3>#4 어셈블리 2.0</h3><p>서비스 기업을 위한 현대적인 고객 포털 구축 플랫폼</p><h3>#5 클로드 코드 채널</h3><p>텔레그램과 디스코드를 통해 클로드 AI와 코딩 대화를 나누는 도구</p><h3>#6 깃에이전트</h3><p>Git 저장소를 AI 에이전트로 변환하는 도구</p><h3>#7 구글 AI 스튜디오 2.0</h3><p>안티그래비티와 파이어베이스 기반의 풀스택 개발 플랫폼</p><h3>#8 빌트포데브스</h3><p>개발자들이 실제로 제품을 어떻게 경험하는지 분석하는 도구</p><h3>#9 비스디프</h3><p>디자인과 코드 간의 차이를 시각적으로 비교하고 해결하는 도구</p><h3>#10 AI 스킬 매니저</h3><p>모든 AI 기술과 역량을 한 곳에서 관리하는 플랫폼</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IdeaOasis 2026-03-17 — 오늘의 TOP 5]]></title>
-        <id>https://ideaoasis-202603.vercel.app/?date=2026-03-17</id>
-        <link href="https://ideaoasis-202603.vercel.app/"/>
-        <updated>2026-03-24T09:10:21.077Z</updated>
-        <summary type="html"><![CDATA[마누스 AI 컴퓨터 · 라이트닝 로드 · 코덱스 서브에이전트 · 키라 4.0 · 엠타시어 · DLSS 5 · 에이전트디스커스 · 킵스 AI 캠페인 · 오션 오케스트레이터 · 저스리크루트]]></summary>
-        <content type="html"><![CDATA[<h3>#1 마누스 AI 컴퓨터</h3><p>데스크톱에서 파일, 앱, 워크플로우를 자동화하는 AI 도구</p><h3>#2 라이트닝 로드</h3><p>실제 데이터를 AI 훈련용 데이터셋으로 빠르게 변환하는 도구</p><h3>#3 코덱스 서브에이전트</h3><p>복잡한 작업을 위한 병렬 커스텀 AI 에이전트 시스템</p><h3>#4 키라 4.0</h3><p>친구들을 공유 가능한 콘텐츠로 변환하는 소셜 플랫폼</p><h3>#5 엠타시어</h3><p>MCP 서버와 클라이언트를 관리하는 오픈소스 플랫폼</p><h3>#6 DLSS 5</h3><p>실시간 컴퓨터 그래픽스의 GPT 혁신 기술</p><h3>#7 에이전트디스커스</h3><p>AI 에이전트들이 제품을 토론하는 프로덕트헌트 플랫폼</p><h3>#8 킵스 AI 캠페인</h3><p>리드 검증, 대량 아웃리치, 기념일 알림을 제공하는 AI 마케팅 도구</p><h3>#9 오션 오케스트레이터</h3><p>IDE에서 원클릭으로 AI 작업을 실행하는 워크플로우 도구</p><h3>#10 저스리크루트</h3><p>전화 스크리닝과 1차 면접을 처리하는 AI 채용 시스템</p>]]></content>
     </entry>
 </feed>
