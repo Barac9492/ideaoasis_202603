@@ -1,0 +1,141 @@
+{
+  "week": "2026-W18",
+  "selected_idea": {
+    "id": "ph-1129347",
+    "rank": 1,
+    "source": "producthunt",
+    "source_url": "https://www.producthunt.com/posts/schole-2",
+    "title_en": "Scholé",
+    "tagline_en": "Turn everyday work into personalized AI learning",
+    "title_ko": "스콜레",
+    "summary_ko": "일상 업무를 개인 맞춤형 AI 학습으로 전환하는 플랫폼",
+    "analysis_ko": {
+      "description": "업무 중 발생하는 모든 활동을 AI가 분석하여 개인화된 학습 경험으로 변환하는 플랫폼입니다. 실제 업무 데이터를 기반으로 스킬 갭을 파악하고 맞춤형 교육 콘텐츠를 제공합니다.",
+      "market_fit": "한국의 평생학습 문화와 자기계발에 대한 높은 관심, 그리고 업무 효율성을 중시하는 기업 문화에 매우 적합합니다. 특히 대기업의 인재개발팀과 개인 학습자 모두에게 어필할 수 있습니다.",
+      "competitors_kr": [
+        "클래스101",
+        "패스트캠퍼스",
+        "인프런",
+        "엘리스"
+      ],
+      "competitors_kr_detailed": [
+        {
+          "name": "엘리스",
+          "founded_year": 2015,
+          "funding_status": "Series B $20M",
+          "differentiation": "엘리스는 정형화된 코딩 교육에 집중하는 반면, Scholé는 실제 업무 데이터를 활용한 개인화 학습에 특화"
+        },
+        {
+          "name": "패스트캠퍼스",
+          "founded_year": 2014,
+          "funding_status": "Series C $50M",
+          "differentiation": "패스트캠퍼스는 강의 중심의 일방향 교육인 반면, Scholé는 업무 맥락 기반의 실시간 학습 제공"
+        }
+      ],
+      "regulatory_notes": "개인정보보호법에 따른 업무 데이터 수집 및 처리에 대한 동의 절차 필요, 기업 내부 정보 보안 정책 준수 요구됨",
+      "localization_strategy": "한국 기업의 위계적 조직문화를 고려한 팀 단위 학습 기능, 한국어 자연어 처리 최적화, 국내 자격증 및 교육과정과의 연계",
+      "difficulty": "Medium"
+    },
+    "naver_trends": {
+      "keywords": [
+        "AI 학습",
+        "개인화 교육"
+      ],
+      "trend_index": 95,
+      "trend_direction": "up",
+      "period": "2025-05-01 ~ 2026-04-01",
+      "trend_data": [
+        {
+          "period": "2025-05-01",
+          "ratio": 93
+        },
+        {
+          "period": "2025-06-01",
+          "ratio": 90
+        },
+        {
+          "period": "2025-07-01",
+          "ratio": 100
+        },
+        {
+          "period": "2025-08-01",
+          "ratio": 81
+        },
+        {
+          "period": "2025-09-01",
+          "ratio": 83
+        },
+        {
+          "period": "2025-10-01",
+          "ratio": 84
+        },
+        {
+          "period": "2025-11-01",
+          "ratio": 98
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 71
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 78
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 70
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 88
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 95
+        }
+      ]
+    },
+    "category": "edtech",
+    "ph_votes": 223,
+    "thumbnail_url": "https://ph-files.imgix.net/e69331ce-e853-48ca-9671-9ce028bfeb01.png?auto=format",
+    "created_at": "2026-05-02T07:01:00Z",
+    "score": {
+      "market_opportunity": 85,
+      "execution_difficulty": 65,
+      "timing": 80,
+      "overall": 77
+    },
+    "timing_window": {
+      "avg_months": 18,
+      "category_history": [
+        {
+          "us_launch": "Coursera (2012)",
+          "kr_equivalent": "K-MOOC (2015)",
+          "gap_months": 36
+        },
+        {
+          "us_launch": "Udacity (2011)",
+          "kr_equivalent": "엘리스 (2015)",
+          "gap_months": 48
+        }
+      ]
+    }
+  },
+  "deep_dive_ko": {
+    "market_sizing": "한국 기업교육 시장은 연간 4조원 규모로, 이 중 디지털 학습 시장이 1.2조원을 차지합니다. TAM(전체 시장): 기업교육 + 개인학습 시장 약 5조원, SAM(서비스 가능 시장): AI 기반 개인화 학습 시장 약 8,000억원, SOM(실제 획득 가능 시장): 대기업 및 중견기업 대상 약 1,200억원. 특히 대기업 500개사 × 평균 2억원 연간 교육비 × 20% AI 전환율 = 200억원의 초기 시장 규모가 예상됩니다.",
+    "localization_playbook": [
+      "1단계: 삼성, LG, 현대 등 대기업 인사팀 대상 파일럿 프로그램 진행 (3개월)",
+      "2단계: 한국어 자연어 처리 엔진 최적화 및 한국 직무 역량 모델 구축 (6개월)",
+      "3단계: 국내 자격증 시스템(정보처리기사, PMP 등)과 연계 기능 개발 (3개월)",
+      "4단계: 한국 기업문화에 맞는 팀 단위 학습 및 멘토링 시스템 구축 (4개월)",
+      "5단계: 중견기업 및 공공기관으로 확장, B2B2C 모델로 개인 시장 진출 (12개월)"
+    ],
+    "comparable_kr_successes": [
+      "엘리스 — 2015년 설립, 시리즈B 200억원 투자 유치, 기업 대상 코딩 교육 플랫폼으로 성장",
+      "패스트캠퍼스 — 2014년 설립, 시리즈C 500억원 투자, 직무 교육 분야 1위 달성",
+      "인프런 — 2017년 설립, 개발자 교육 플랫폼으로 월 100만 사용자 확보",
+      "클래스101 — 2018년 설립, 시리즈C 1,000억원 투자, 개인 취미 교육에서 직무 교육으로 확장 성공"
+    ],
+    "estimated_build_timeline": "MVP 16주, 정식 런칭 8개월. MVP는 기본 업무 데이터 분석 및 학습 추천 기능 포함, 정식 런칭까지 한국어 최적화, 기업 연동 시스템, 보안 강화 완료 예정"
+  }
+}
