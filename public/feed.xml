@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-05-01T20:42:10.953Z</updated>
+    <updated>2026-05-02T20:31:38.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-05-02 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-05-02</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-05-02T20:31:35.426Z</updated>
+        <summary type="html"><![CDATA[스콜레 · 왓케이블 · 아라 · 마이크로소프트 코파일럿 헬스 · 페더 · 쿠아 · 마누스 클라우드 컴퓨터 · 로키 · 파일렉트 · 브레이크스]]></summary>
+        <content type="html"><![CDATA[<h3>#1 스콜레</h3><p>일상 업무를 개인 맞춤형 AI 학습으로 전환하는 플랫폼</p><h3>#2 왓케이블</h3><p>USB-C 케이블의 성능과 규격을 실시간으로 확인할 수 있는 메뉴바 앱</p><h3>#3 아라</h3><p>텍스트 메시지만으로 전체 비즈니스를 구축할 수 있는 AI 플랫폼</p><h3>#4 마이크로소프트 코파일럿 헬스</h3><p>개인 건강 데이터를 통합 관리하는 AI 기반 헬스케어 플랫폼</p><h3>#5 페더</h3><p>로컬 AI 기반 사진 편집 도구</p><h3>#6 쿠아</h3><p>커서를 점유하지 않고 백그라운드에서 macOS 앱을 자동 조작하는 도구</p><h3>#7 마누스 클라우드 컴퓨터</h3><p>봇과 소프트웨어 전용 클라우드 머신 서비스</p><h3>#8 로키</h3><p>브랜치, 리플레이, 컬럼 계보 기능을 갖춘 Rust 기반 SQL 엔진</p><h3>#9 파일렉트</h3><p>AI로 파일을 자동 정리하는 도구</p><h3>#10 브레이크스</h3><p>메뉴바에 상주하는 조용한 뽀모도로 타이머</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-05-01 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-05-01</id>
@@ -244,13 +252,5 @@
         <updated>2026-03-24T10:34:15.628Z</updated>
         <summary type="html"><![CDATA[클로드 코드 스케줄 태스크 · 클로드 코드 벤치 · 실리콘 프렌들리 · 컨텍스트 개발 · 진저 · 클리어워크 앱 · 몬티 파이낸스 · 엣지 클로드 코드 압축기 · 임베드풀 · 홀도르]]></summary>
         <content type="html"><![CDATA[<h3>#1 클로드 코드 스케줄 태스크</h3><p>로컬 및 클라우드에서 반복 작업을 쉽게 예약할 수 있는 AI 코딩 도구</p><h3>#2 클로드 코드 벤치</h3><p>Claude 코딩 세션을 저장, 검토, 공유할 수 있는 협업 플랫폼</p><h3>#3 실리콘 프렌들리</h3><p>웹사이트의 AI 친화성을 L0부터 L5까지 등급으로 평가하는 도구</p><h3>#4 컨텍스트 개발</h3><p>웹 스크래핑, 데이터 강화, 웹 이해를 위한 통합 API 서비스</p><h3>#5 진저</h3><p>실제와 같은 AI 후속 질문으로 면접을 소리내어 연습할 수 있는 도구</p><h3>#6 클리어워크 앱</h3><p>명확한 비전과 작업을 위한 AI 기반 프로젝트 관리 도구</p><h3>#7 몬티 파이낸스</h3><p>CFO 수준의 재무 의사결정을 몇 초 만에 내릴 수 있는 AI 도구</p><h3>#8 엣지 클로드 코드 압축기</h3><p>Claude Pro의 한계를 26.2% 확장시키는 코드 압축 도구</p><h3>#9 임베드풀</h3><p>쉬운 데이터 시각화로 어디든 임베드하고 공유할 수 있는 도구</p><h3>#10 홀도르</h3><p>AI 에이전트 작업 중 Mac이 절전모드로 들어가지 않도록 하는 도구</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IdeaOasis 2026-03-20 — 오늘의 TOP 5]]></title>
-        <id>https://ideaoasis-202603.vercel.app/?date=2026-03-20</id>
-        <link href="https://ideaoasis-202603.vercel.app/"/>
-        <updated>2026-03-24T09:15:12.935Z</updated>
-        <summary type="html"><![CDATA[프로덕트브릿지 · 애즈터보 · 컴포저 2 · 어셈블리 2.0 · 클로드 코드 채널 · 깃에이전트 · 구글 AI 스튜디오 2.0 · 빌트포데브스 · 비스디프 · AI 스킬 매니저]]></summary>
-        <content type="html"><![CDATA[<h3>#1 프로덕트브릿지</h3><p>여러 플랫폼에서 고객 피드백을 자동으로 수집하고 분석하는 AI 에이전트</p><h3>#2 애즈터보</h3><p>실제 사람처럼 보이는 AI 배우로 광고를 제작하는 플랫폼</p><h3>#3 컴포저 2</h3><p>빠르고 효율적인 최첨단 AI 코딩 모델</p><h3>#4 어셈블리 2.0</h3><p>서비스 기업을 위한 현대적인 고객 포털 구축 플랫폼</p><h3>#5 클로드 코드 채널</h3><p>텔레그램과 디스코드를 통해 클로드 AI와 코딩 대화를 나누는 도구</p><h3>#6 깃에이전트</h3><p>Git 저장소를 AI 에이전트로 변환하는 도구</p><h3>#7 구글 AI 스튜디오 2.0</h3><p>안티그래비티와 파이어베이스 기반의 풀스택 개발 플랫폼</p><h3>#8 빌트포데브스</h3><p>개발자들이 실제로 제품을 어떻게 경험하는지 분석하는 도구</p><h3>#9 비스디프</h3><p>디자인과 코드 간의 차이를 시각적으로 비교하고 해결하는 도구</p><h3>#10 AI 스킬 매니저</h3><p>모든 AI 기술과 역량을 한 곳에서 관리하는 플랫폼</p>]]></content>
     </entry>
 </feed>

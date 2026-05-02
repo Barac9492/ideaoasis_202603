@@ -1,0 +1,1163 @@
+{
+  "date": "2026-05-02",
+  "ideas": [
+    {
+      "id": "ph-1129347",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/schole-2",
+      "title_en": "Scholé",
+      "tagline_en": "Turn everyday work into personalized AI learning",
+      "title_ko": "스콜레",
+      "summary_ko": "일상 업무를 개인 맞춤형 AI 학습으로 전환하는 플랫폼",
+      "analysis_ko": {
+        "description": "업무 중 발생하는 모든 활동을 AI가 분석하여 개인화된 학습 경험으로 변환하는 플랫폼입니다. 실제 업무 데이터를 기반으로 스킬 갭을 파악하고 맞춤형 교육 콘텐츠를 제공합니다.",
+        "market_fit": "한국의 평생학습 문화와 자기계발에 대한 높은 관심, 그리고 업무 효율성을 중시하는 기업 문화에 매우 적합합니다. 특히 대기업의 인재개발팀과 개인 학습자 모두에게 어필할 수 있습니다.",
+        "competitors_kr": [
+          "클래스101",
+          "패스트캠퍼스",
+          "인프런",
+          "엘리스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "엘리스",
+            "founded_year": 2015,
+            "funding_status": "Series B $20M",
+            "differentiation": "엘리스는 정형화된 코딩 교육에 집중하는 반면, Scholé는 실제 업무 데이터를 활용한 개인화 학습에 특화"
+          },
+          {
+            "name": "패스트캠퍼스",
+            "founded_year": 2014,
+            "funding_status": "Series C $50M",
+            "differentiation": "패스트캠퍼스는 강의 중심의 일방향 교육인 반면, Scholé는 업무 맥락 기반의 실시간 학습 제공"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법에 따른 업무 데이터 수집 및 처리에 대한 동의 절차 필요, 기업 내부 정보 보안 정책 준수 요구됨",
+        "localization_strategy": "한국 기업의 위계적 조직문화를 고려한 팀 단위 학습 기능, 한국어 자연어 처리 최적화, 국내 자격증 및 교육과정과의 연계",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 학습",
+          "개인화 교육"
+        ],
+        "trend_index": 95,
+        "trend_direction": "up",
+        "period": "2025-05-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 98
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 78
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 88
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 95
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 223,
+      "thumbnail_url": "https://ph-files.imgix.net/e69331ce-e853-48ca-9671-9ce028bfeb01.png?auto=format",
+      "created_at": "2026-05-02T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 65,
+        "timing": 80,
+        "overall": 77
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Coursera (2012)",
+            "kr_equivalent": "K-MOOC (2015)",
+            "gap_months": 36
+          },
+          {
+            "us_launch": "Udacity (2011)",
+            "kr_equivalent": "엘리스 (2015)",
+            "gap_months": 48
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47972511",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://github.com/darrylmorley/whatcable",
+      "title_en": "WhatCable",
+      "tagline_en": "A tiny menu bar app for inspecting USB-C cables",
+      "title_ko": "왓케이블",
+      "summary_ko": "USB-C 케이블의 성능과 규격을 실시간으로 확인할 수 있는 메뉴바 앱",
+      "analysis_ko": {
+        "description": "외관상 동일해 보이는 USB-C 케이블들의 실제 성능(충전 속도, 데이터 전송 속도, 지원 프로토콜)을 Mac에서 실시간으로 확인할 수 있는 유틸리티입니다. 케이블을 연결하면 자동으로 스펙을 분석하여 표시합니다.",
+        "market_fit": "한국은 전자기기 사용률이 높고 다양한 USB-C 기기를 보유한 사용자가 많아 실용성이 높습니다. 특히 맥북 사용자와 IT 전문가들에게 유용한 도구가 될 것입니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음, 단순 유틸리티 소프트웨어로 분류",
+        "localization_strategy": "한국어 인터페이스 제공, 국내 주요 전자기기 브랜드(삼성, LG) 케이블 데이터베이스 구축, 한국 전자상거래 플랫폼과 연계한 케이블 추천 기능",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "USB-C 케이블",
+          "맥북 액세서리"
+        ],
+        "trend_index": 2,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 33
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 41
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 92
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 82
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 96
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 2
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 522,
+      "thumbnail_url": null,
+      "created_at": "2026-05-01T08:43:45.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 90,
+        "timing": 85,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "CleanMyMac (2009)",
+            "kr_equivalent": "알집 (2010)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Alfred (2010)",
+            "kr_equivalent": "울프런처 (2011)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1136441",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/ara-3",
+      "title_en": "Ara",
+      "tagline_en": "Build an entire business by texting",
+      "title_ko": "아라",
+      "summary_ko": "텍스트 메시지만으로 전체 비즈니스를 구축할 수 있는 AI 플랫폼",
+      "analysis_ko": {
+        "description": "카카오톡과 같은 메신저 인터페이스를 통해 웹사이트 제작, 결제 시스템 구축, 마케팅 자동화 등 비즈니스 운영에 필요한 모든 기능을 AI가 자동으로 생성해주는 플랫폼입니다. 코딩 지식 없이도 대화형 인터페이스로 비즈니스를 시작할 수 있습니다.",
+        "market_fit": "한국의 높은 모바일 메신저 사용률과 1인 창업 트렌드, 그리고 간편함을 선호하는 문화에 매우 적합합니다. 특히 소상공인과 개인 사업자들에게 큰 매력이 될 것입니다.",
+        "competitors_kr": [
+          "아임웹",
+          "카페24",
+          "고도몰",
+          "메이크샵"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "아임웹",
+            "founded_year": 2012,
+            "funding_status": "Series B $15M",
+            "differentiation": "아임웹은 드래그앤드롭 방식의 웹빌더인 반면, Ara는 대화형 AI를 통한 완전 자동화된 비즈니스 구축"
+          },
+          {
+            "name": "카페24",
+            "founded_year": 1999,
+            "funding_status": "Public (KOSDAQ)",
+            "differentiation": "카페24는 전통적인 이커머스 플랫폼인 반면, Ara는 메신저 기반의 노코드 비즈니스 빌더"
+          }
+        ],
+        "regulatory_notes": "전자상거래법, 개인정보보호법, 통신판매업 신고 등 온라인 비즈니스 관련 규제 준수 필요",
+        "localization_strategy": "카카오톡 연동, 한국 결제 시스템(토스페이, 카카오페이) 통합, 사업자등록 자동화, 한국 세법 및 회계 시스템 연계",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "노코드",
+          "1인창업"
+        ],
+        "trend_index": 0,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 24
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 29
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 57
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 29
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 27
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 24
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 21
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 20
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 21
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 20
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 0
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 106,
+      "thumbnail_url": "https://ph-files.imgix.net/39f0991d-08a1-4339-b23c-a944ea43e3f4.png?auto=format",
+      "created_at": "2026-05-02T07:01:00Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 45,
+        "timing": 85,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Shopify (2006)",
+            "kr_equivalent": "카페24 (1999)",
+            "gap_months": -84
+          },
+          {
+            "us_launch": "Webflow (2013)",
+            "kr_equivalent": "아임웹 (2012)",
+            "gap_months": -12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1129788",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/microsoft-copilot-health",
+      "title_en": "Microsoft Copilot Health",
+      "tagline_en": "Dedicated space to bring your personal health data together",
+      "title_ko": "마이크로소프트 코파일럿 헬스",
+      "summary_ko": "개인 건강 데이터를 통합 관리하는 AI 기반 헬스케어 플랫폼",
+      "analysis_ko": {
+        "description": "다양한 건강 관련 앱과 기기에서 수집된 데이터를 하나의 플랫폼에서 통합 관리하고, AI를 통해 개인화된 건강 인사이트와 추천을 제공하는 서비스입니다. 의료진과의 데이터 공유 기능도 포함되어 있습니다.",
+        "market_fit": "한국의 높은 건강 관심도와 웨어러블 기기 보급률, 그리고 디지털 헬스케어에 대한 정부 지원 정책이 시장 진입에 유리한 환경을 조성하고 있습니다.",
+        "competitors_kr": [
+          "닥터나우",
+          "굿닥",
+          "메디히어",
+          "웰트"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "웰트",
+            "founded_year": 2015,
+            "funding_status": "Series C $30M",
+            "differentiation": "웰트는 웨어러블 기기 중심인 반면, Copilot Health는 종합적인 건강 데이터 통합과 AI 분석에 특화"
+          },
+          {
+            "name": "닥터나우",
+            "founded_year": 2015,
+            "funding_status": "Series B $25M",
+            "differentiation": "닥터나우는 원격진료에 집중하는 반면, Copilot Health는 개인 건강 데이터 관리와 예방에 중점"
+          }
+        ],
+        "regulatory_notes": "의료법, 개인정보보호법, 생명윤리법 등 헬스케어 데이터 관련 엄격한 규제 준수 필요, 원격의료 관련 규제 변화 모니터링 필요",
+        "localization_strategy": "국민건강보험공단 데이터 연계, 한국 의료기관 EMR 시스템 통합, 한국어 의료 용어 및 건강 가이드라인 적용",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "디지털헬스케어",
+          "건강관리앱"
+        ],
+        "trend_index": 1,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 48
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 37
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 63
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 1
+          }
+        ]
+      },
+      "category": "healthtech",
+      "ph_votes": 124,
+      "thumbnail_url": "https://ph-files.imgix.net/61df0af0-291e-45de-8cfe-fe912b9009b9.png?auto=format",
+      "created_at": "2026-05-02T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 40,
+        "timing": 70,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "Apple Health (2014)",
+            "kr_equivalent": "삼성헬스 (2012)",
+            "gap_months": -24
+          },
+          {
+            "us_launch": "Fitbit (2009)",
+            "kr_equivalent": "웰트 (2015)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1135553",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/feather-14",
+      "title_en": "Feather",
+      "tagline_en": "Photo editor with local AI",
+      "title_ko": "페더",
+      "summary_ko": "로컬 AI 기반 사진 편집 도구",
+      "analysis_ko": {
+        "description": "클라우드 업로드 없이 로컬에서 AI 기술을 활용하여 사진을 편집할 수 있는 도구입니다. 개인정보 보호를 중시하면서도 고품질의 AI 사진 편집 기능을 제공합니다.",
+        "market_fit": "한국 사용자들의 높은 개인정보 보호 의식과 소셜미디어 사진 편집 수요가 결합되어 좋은 시장 적합성을 보입니다. 특히 인스타그램과 틱톡 사용자들에게 어필할 수 있습니다.",
+        "competitors_kr": [
+          "스노우",
+          "푸디",
+          "VSCO",
+          "라이트룸"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스노우",
+            "founded_year": 2015,
+            "funding_status": "Public (NAVER)",
+            "differentiation": "스노우는 클라우드 기반 필터 중심인 반면, Feather는 로컬 AI 기반의 고급 편집 기능에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 로컬 처리로 인한 데이터 보안 이슈는 상대적으로 적음",
+        "localization_strategy": "한국 사용자 선호 필터 스타일 학습, K-뷰티 트렌드 반영, 한국어 UI 및 튜토리얼 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 사진편집",
+          "로컬 AI"
+        ],
+        "trend_index": 3,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 91
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 89
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 81
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 93
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 3
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 168,
+      "thumbnail_url": "https://ph-files.imgix.net/a71f793f-18e7-4332-a16b-009aeb0fe9e9.png?auto=format",
+      "created_at": "2026-05-02T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 70,
+        "timing": 80,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Instagram (2010)",
+            "kr_equivalent": "스노우 (2015)",
+            "gap_months": 60
+          },
+          {
+            "us_launch": "VSCO (2011)",
+            "kr_equivalent": "푸디 (2014)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47936312",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://github.com/trycua/cua",
+      "title_en": "Cua",
+      "tagline_en": "Drive any macOS app in the background without stealing the cursor",
+      "title_ko": "쿠아",
+      "summary_ko": "커서를 점유하지 않고 백그라운드에서 macOS 앱을 자동 조작하는 도구",
+      "analysis_ko": {
+        "description": "사용자가 다른 작업을 하는 동안 백그라운드에서 macOS 애플리케이션을 자동으로 조작할 수 있는 도구입니다. AI 에이전트나 자동화 스크립트가 사용자의 작업을 방해하지 않고 앱을 제어할 수 있게 해줍니다.",
+        "market_fit": "한국의 높은 맥북 사용률과 업무 자동화에 대한 관심이 증가하는 추세에 부합합니다. 특히 개발자와 디지털 노마드들에게 유용한 도구가 될 것입니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음, 개발자 도구로 분류",
+        "localization_strategy": "한국어 macOS 앱 지원, 한국 개발자 커뮤니티 대상 마케팅, 국내 주요 업무용 앱들과의 호환성 확보",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "맥 자동화",
+          "개발자도구"
+        ],
+        "trend_index": 1,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 37
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 15
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 18
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 38
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 32
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 28
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 1
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 187,
+      "thumbnail_url": null,
+      "created_at": "2026-04-28T16:03:34.000Z",
+      "score": {
+        "market_opportunity": 55,
+        "execution_difficulty": 75,
+        "timing": 75,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 8,
+        "category_history": [
+          {
+            "us_launch": "Automator (2005)",
+            "kr_equivalent": "맥 자동화 도구들 (2010)",
+            "gap_months": 60
+          },
+          {
+            "us_launch": "Keyboard Maestro (2002)",
+            "kr_equivalent": "국산 매크로 도구들 (2008)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1136085",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/cloud-computer-by-manus",
+      "title_en": "Cloud Computer by Manus",
+      "tagline_en": "A dedicated cloud machine for bots and software",
+      "title_ko": "마누스 클라우드 컴퓨터",
+      "summary_ko": "봇과 소프트웨어 전용 클라우드 머신 서비스",
+      "analysis_ko": {
+        "description": "AI 봇과 자동화 소프트웨어를 위해 특별히 최적화된 클라우드 컴퓨팅 환경을 제공하는 서비스입니다. 일반적인 클라우드 서비스와 달리 봇 운영에 필요한 기능들이 사전 구성되어 있습니다.",
+        "market_fit": "한국의 높은 클라우드 도입률과 AI 자동화에 대한 기업들의 관심 증가로 인해 좋은 시장 기회가 있습니다. 특히 스타트업과 중소기업들이 주요 타겟이 될 것입니다.",
+        "competitors_kr": [
+          "네이버클라우드플랫폼",
+          "KT클라우드",
+          "가비아",
+          "AWS Korea"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버클라우드플랫폼",
+            "founded_year": 2017,
+            "funding_status": "Public (NAVER)",
+            "differentiation": "NCP는 범용 클라우드 서비스인 반면, Manus는 봇과 자동화에 특화된 전용 환경 제공"
+          }
+        ],
+        "regulatory_notes": "클라우드 서비스 제공자 신고, 개인정보보호법, 정보통신망법 준수 필요",
+        "localization_strategy": "한국 데이터센터 구축, 원화 결제 시스템, 한국어 기술 지원, 국내 기업 보안 요구사항 충족",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "클라우드컴퓨팅",
+          "AI봇"
+        ],
+        "trend_index": 0,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 41
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 48
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 0
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 201,
+      "thumbnail_url": "https://ph-files.imgix.net/a842fb62-c77e-4466-8206-86bf8780e048.png?auto=format",
+      "created_at": "2026-05-02T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 50,
+        "timing": 70,
+        "overall": 66
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "AWS (2006)",
+            "kr_equivalent": "KT ucloud (2009)",
+            "gap_months": 36
+          },
+          {
+            "us_launch": "DigitalOcean (2011)",
+            "kr_equivalent": "가비아 클라우드 (2013)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47935246",
+      "rank": 8,
+      "source": "hackernews",
+      "source_url": "https://github.com/rocky-data/rocky",
+      "title_en": "Rocky",
+      "tagline_en": "Rust SQL engine with branches, replay, column lineage",
+      "title_ko": "로키",
+      "summary_ko": "브랜치, 리플레이, 컬럼 계보 기능을 갖춘 Rust 기반 SQL 엔진",
+      "analysis_ko": {
+        "description": "Git과 같은 브랜치 기능을 SQL 데이터베이스에 적용하여 데이터 버전 관리와 실험을 가능하게 하는 혁신적인 SQL 엔진입니다. 데이터 계보 추적과 쿼리 리플레이 기능도 제공합니다.",
+        "market_fit": "한국의 강력한 데이터 분석 수요와 금융, 게임, 이커머스 등 데이터 중심 산업의 발달로 인해 좋은 시장 기회가 있습니다. 특히 데이터 엔지니어와 분석가들에게 유용할 것입니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음, 오픈소스 개발자 도구로 분류",
+        "localization_strategy": "한국 개발자 커뮤니티 참여, 한국어 문서화, 국내 주요 클라우드 플랫폼과의 통합 지원",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "데이터베이스",
+          "SQL엔진"
+        ],
+        "trend_index": 1,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 53
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 1
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 120,
+      "thumbnail_url": null,
+      "created_at": "2026-04-28T14:35:59.000Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 40,
+        "timing": 75,
+        "overall": 61
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "MongoDB (2009)",
+            "kr_equivalent": "국산 NoSQL 솔루션들 (2012)",
+            "gap_months": 36
+          },
+          {
+            "us_launch": "Redis (2009)",
+            "kr_equivalent": "국내 인메모리 DB (2011)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1133001",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/filect",
+      "title_en": "Filect",
+      "tagline_en": "Organize Your Files With AI",
+      "title_ko": "파일렉트",
+      "summary_ko": "AI로 파일을 자동 정리하는 도구",
+      "analysis_ko": {
+        "description": "AI 기술을 활용하여 컴퓨터의 파일들을 자동으로 분류하고 정리해주는 도구입니다. 파일 내용을 분석하여 적절한 폴더에 자동 배치하고 중복 파일을 찾아 정리합니다.",
+        "market_fit": "한국 사용자들의 높은 디지털 기기 사용률과 파일 관리의 어려움을 겪는 사용자들이 많아 실용적인 솔루션이 될 수 있습니다. 특히 재택근무가 증가하면서 개인 파일 관리의 중요성이 커지고 있습니다.",
+        "competitors_kr": [
+          "알집",
+          "반디집"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "알집",
+            "founded_year": 1999,
+            "funding_status": "Public (ESTsoft)",
+            "differentiation": "알집은 압축 프로그램 중심인 반면, Filect는 AI 기반 자동 파일 정리에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법에 따른 파일 내용 분석 시 사용자 동의 필요",
+        "localization_strategy": "한국어 파일명 및 내용 인식 최적화, 한국 사용자의 파일 정리 패턴 학습, 한글 문서 형식 지원 강화",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "파일정리",
+          "AI정리"
+        ],
+        "trend_index": 2,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 91
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 79
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 2
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 103,
+      "thumbnail_url": "https://ph-files.imgix.net/82f0a392-0d0b-469b-a02e-5744d0fcceba.png?auto=format",
+      "created_at": "2026-05-02T07:01:00Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 75,
+        "timing": 70,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Hazel (2008)",
+            "kr_equivalent": "국산 파일관리 도구들 (2010)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Gemini (2011)",
+            "kr_equivalent": "중복파일 찾기 도구들 (2012)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1135045",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/breaks",
+      "title_en": "Breaks",
+      "tagline_en": "A quiet Pomodoro that lives in your menu bar",
+      "title_ko": "브레이크스",
+      "summary_ko": "메뉴바에 상주하는 조용한 뽀모도로 타이머",
+      "analysis_ko": {
+        "description": "메뉴바에서 조용히 작동하는 뽀모도로 기법 타이머로, 방해받지 않으면서도 효과적인 시간 관리를 도와주는 미니멀한 생산성 도구입니다. 알림이 과하지 않아 집중력을 유지할 수 있습니다.",
+        "market_fit": "한국의 높은 업무 강도와 효율성을 중시하는 문화, 그리고 맥 사용자 증가로 인해 좋은 시장 적합성을 보입니다. 특히 개발자와 지식근로자들에게 유용할 것입니다.",
+        "competitors_kr": [
+          "포커스",
+          "타임트리"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 사항 없음, 단순 생산성 도구로 분류",
+        "localization_strategy": "한국 근무 문화에 맞는 시간 설정 프리셋, 한국어 인터페이스, 국내 캘린더 앱과의 연동",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "뽀모도로",
+          "시간관리"
+        ],
+        "trend_index": 3,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 94
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 88
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 78
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 83
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 3
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 109,
+      "thumbnail_url": "https://ph-files.imgix.net/12a3dc2f-2712-45ab-acbd-8afad13e2e3e.png?auto=format",
+      "created_at": "2026-05-02T07:01:00Z",
+      "score": {
+        "market_opportunity": 50,
+        "execution_difficulty": 85,
+        "timing": 75,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Focus (2010)",
+            "kr_equivalent": "국산 집중 앱들 (2011)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Be Focused (2012)",
+            "kr_equivalent": "포커스 타이머들 (2013)",
+            "gap_months": 8
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-05-02T20:31:35.426Z"
+}
