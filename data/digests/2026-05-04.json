@@ -1,0 +1,1096 @@
+{
+  "date": "2026-05-04",
+  "ideas": [
+    {
+      "id": "ph-1130040",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/mindra",
+      "title_en": "Mindra",
+      "tagline_en": "Agent Teams You Can Actually Delegate To",
+      "title_ko": "민드라",
+      "summary_ko": "실제로 업무를 위임할 수 있는 AI 에이전트 팀 플랫폼",
+      "analysis_ko": {
+        "description": "복잡한 업무를 여러 AI 에이전트가 협력하여 처리하는 자동화 플랫폼입니다. 단순한 챗봇이 아닌 실제 업무 프로세스를 이해하고 실행할 수 있는 에이전트 팀을 구성할 수 있습니다.",
+        "market_fit": "한국의 높은 업무 강도와 효율성 추구 문화에 매우 적합합니다. 특히 스타트업과 중소기업에서 인력 부족 문제 해결에 큰 도움이 될 것으로 예상됩니다.",
+        "competitors_kr": [
+          "뤼튼",
+          "클로바X",
+          "하이퍼클로바X"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "뤼튼",
+            "founded_year": 2021,
+            "funding_status": "Series A $15M",
+            "differentiation": "뤼튼은 개별 AI 도구 중심이지만, Mindra는 협업하는 에이전트 팀 구성에 특화"
+          },
+          {
+            "name": "클로바X",
+            "founded_year": 2023,
+            "funding_status": "Corporate backed by Naver",
+            "differentiation": "클로바X는 범용 AI 어시스턴트이지만, Mindra는 특정 업무 프로세스 자동화에 집중"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수 필요, 기업 데이터 보안 인증 요구됨",
+        "localization_strategy": "한국어 자연어 처리 최적화, 한국 기업 업무 프로세스 템플릿 제공, 국내 SaaS 도구들과의 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 에이전트",
+          "업무 자동화"
+        ],
+        "trend_index": 4,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 24
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 25
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 55
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 36
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 29
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 35
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 55
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 4
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 261,
+      "thumbnail_url": "https://ph-files.imgix.net/5ff5a193-a462-404e-8032-abce5121eeaf.png?auto=format",
+      "created_at": "2026-05-04T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 25,
+        "timing": 90,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 8,
+        "category_history": [
+          {
+            "us_launch": "ChatGPT (2022)",
+            "kr_equivalent": "클로바X (2023)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Notion AI (2022)",
+            "kr_equivalent": "뤼튼 (2023)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47972511",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://github.com/darrylmorley/whatcable",
+      "title_en": "WhatCable",
+      "tagline_en": "A tiny menu bar app for inspecting USB-C cables",
+      "title_ko": "왓케이블",
+      "summary_ko": "USB-C 케이블의 성능과 규격을 실시간으로 확인할 수 있는 맥 메뉴바 앱",
+      "analysis_ko": {
+        "description": "외관상 동일해 보이는 USB-C 케이블들의 실제 성능(충전 속도, 데이터 전송 속도 등)을 맥에서 실시간으로 확인할 수 있는 유틸리티입니다. 케이블 서랍에서 어떤 케이블이 고성능인지 즉시 알 수 있습니다.",
+        "market_fit": "한국은 전자기기 사용률이 높고 케이블 관리에 대한 니즈가 큽니다. 특히 개발자, 디자이너 등 맥 사용자들에게 매우 유용할 것입니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "특별한 규제 없음, 앱스토어 등록 시 애플 가이드라인 준수 필요",
+        "localization_strategy": "한국어 UI 번역, 국내 케이블 브랜드 데이터베이스 구축, 한국 전자상가 연동",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "USB-C 케이블",
+          "케이블 테스터"
+        ],
+        "trend_index": 6,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 97
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 92
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 84
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 90
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 6
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 555,
+      "thumbnail_url": null,
+      "created_at": "2026-05-01T08:43:45.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 85,
+        "timing": 80,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 3,
+        "category_history": [
+          {
+            "us_launch": "CleanMyMac (2009)",
+            "kr_equivalent": "클린마스터 (2010)",
+            "gap_months": 8
+          },
+          {
+            "us_launch": "Alfred (2010)",
+            "kr_equivalent": "유틸리티 앱들 (2011)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1138149",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/dropy-2",
+      "title_en": "Dropy",
+      "tagline_en": "Track prices on stores like Amazon, eBay, & AliExpress",
+      "title_ko": "드로피",
+      "summary_ko": "아마존, 이베이, 알리익스프레스 등 해외 쇼핑몰 가격 추적 서비스",
+      "analysis_ko": {
+        "description": "해외 직구 시 원하는 상품의 가격 변동을 추적하고 최저가 알림을 받을 수 있는 서비스입니다. 여러 쇼핑몰의 가격을 동시에 모니터링하여 최적의 구매 타이밍을 알려줍니다.",
+        "market_fit": "한국의 활발한 해외 직구 문화와 가격 민감도가 높은 소비자 특성에 매우 적합합니다. 특히 MZ세대의 스마트 쇼핑 트렌드와 부합합니다.",
+        "competitors_kr": [
+          "케치딜",
+          "직구왕",
+          "아임웹 가격비교"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "케치딜",
+            "founded_year": 2019,
+            "funding_status": "Seed $2M",
+            "differentiation": "케치딜은 국내 쇼핑몰 중심이지만, Dropy는 해외 직구 전문 가격 추적"
+          }
+        ],
+        "regulatory_notes": "개인통관고유부호 연동, 관세법 준수 안내 기능 필요",
+        "localization_strategy": "한국 배송대행지 연동, 관세 계산기 포함, 원화 환율 자동 적용",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "해외직구",
+          "가격비교"
+        ],
+        "trend_index": 5,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 81
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 74
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 61
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 5
+          }
+        ]
+      },
+      "category": "ecommerce",
+      "ph_votes": 145,
+      "thumbnail_url": "https://ph-files.imgix.net/28f8e57c-a423-4d68-9e8d-3927ab39b1ca.png?auto=format",
+      "created_at": "2026-05-04T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 70,
+        "timing": 85,
+        "overall": 78
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Honey (2012)",
+            "kr_equivalent": "케치딜 (2019)",
+            "gap_months": 84
+          },
+          {
+            "us_launch": "CamelCamelCamel (2008)",
+            "kr_equivalent": "가격비교 서비스들 (2015)",
+            "gap_months": 84
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1138321",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/aaavatar",
+      "title_en": "Aaavatar",
+      "tagline_en": "Branded team headshots in one drop",
+      "title_ko": "아바타",
+      "summary_ko": "팀 전체의 통일된 브랜드 프로필 사진을 한 번에 생성하는 AI 서비스",
+      "analysis_ko": {
+        "description": "기업이나 팀의 브랜딩에 맞는 일관된 스타일의 프로필 사진을 AI로 생성하는 서비스입니다. 개별 촬영 없이도 전체 팀원의 통일감 있는 헤드샷을 제작할 수 있습니다.",
+        "market_fit": "한국 기업들의 강한 브랜딩 의식과 통일성을 중시하는 문화에 적합합니다. 특히 스타트업과 에이전시에서 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "포토샵",
+          "스튜디오 촬영 업체"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "초상권 관련 동의서 필요, AI 생성 이미지 표시 의무",
+        "localization_strategy": "한국인 얼굴 특성 학습 모델 개발, 한국 기업 브랜딩 스타일 템플릿 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 프로필",
+          "팀 사진"
+        ],
+        "trend_index": 1,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 6
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 6
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 5
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 5
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 9
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 7
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 7
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 5
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 4
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 28
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 8
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 1
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 199,
+      "thumbnail_url": "https://ph-files.imgix.net/30c3bb70-f99a-43c8-9e96-b024aab81e32.png?auto=format",
+      "created_at": "2026-05-04T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 60,
+        "timing": 75,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Lensa AI (2022)",
+            "kr_equivalent": "스노우 AI 기능 (2023)",
+            "gap_months": 8
+          },
+          {
+            "us_launch": "Midjourney (2022)",
+            "kr_equivalent": "국내 AI 이미지 서비스들 (2023)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47985210",
+      "rank": 5,
+      "source": "hackernews",
+      "source_url": "https://piruet.app",
+      "title_en": "Piruetas",
+      "tagline_en": "A self-hosted diary app I built for my girlfriend",
+      "title_ko": "피루에타",
+      "summary_ko": "개인 서버에 설치할 수 있는 프라이빗 일기 앱",
+      "analysis_ko": {
+        "description": "클라우드 서비스에 의존하지 않고 개인 서버에 직접 설치하여 사용할 수 있는 일기 앱입니다. 완전한 프라이버시를 보장하면서도 심플하고 직관적인 인터페이스를 제공합니다.",
+        "market_fit": "개인정보 보호에 민감한 한국 사용자들에게 어필할 수 있습니다. 특히 개발자나 프라이버시를 중시하는 사용자층에서 수요가 있을 것입니다.",
+        "competitors_kr": [
+          "데이원",
+          "무드미터",
+          "감정일기"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "데이원",
+            "founded_year": 2020,
+            "funding_status": "Seed $1M",
+            "differentiation": "데이원은 클라우드 기반이지만, Piruetas는 완전한 셀프 호스팅으로 프라이버시 보장"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 셀프 호스팅으로 데이터 처리 책임 사용자에게 이전",
+        "localization_strategy": "한국어 UI 완전 번역, 한국 달력 시스템 지원, 한글 폰트 최적화",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "일기앱",
+          "프라이빗 다이어리"
+        ],
+        "trend_index": 6,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 95
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 51
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 6
+          }
+        ]
+      },
+      "category": "lifestyle",
+      "ph_votes": 70,
+      "thumbnail_url": null,
+      "created_at": "2026-05-02T10:42:55.000Z",
+      "score": {
+        "market_opportunity": 45,
+        "execution_difficulty": 80,
+        "timing": 70,
+        "overall": 63
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Day One (2011)",
+            "kr_equivalent": "데이원 (2020)",
+            "gap_months": 108
+          },
+          {
+            "us_launch": "Journey (2013)",
+            "kr_equivalent": "감정일기 앱들 (2018)",
+            "gap_months": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1137712",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/flowly-9",
+      "title_en": "Flowly",
+      "tagline_en": "Your personal AI assistant, native to your desktop",
+      "title_ko": "플로우리",
+      "summary_ko": "데스크톱에 네이티브로 통합된 개인 AI 어시스턴트",
+      "analysis_ko": {
+        "description": "웹브라우저가 아닌 데스크톱 환경에 직접 통합되어 작업 중인 앱들과 연동하며 도움을 주는 AI 어시스턴트입니다. 컨텍스트를 이해하고 현재 작업에 맞는 지원을 제공합니다.",
+        "market_fit": "한국의 높은 PC 사용률과 멀티태스킹 업무 환경에 적합합니다. 특히 사무직 근로자들의 생산성 향상에 기여할 수 있습니다.",
+        "competitors_kr": [
+          "클로바 노트",
+          "네이버 AI"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "클로바 노트",
+            "founded_year": 2021,
+            "funding_status": "Corporate backed by Naver",
+            "differentiation": "클로바 노트는 회의록 중심이지만, Flowly는 전체 데스크톱 워크플로우 지원"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 기업 보안 정책 고려 필요",
+        "localization_strategy": "한국어 자연어 처리 최적화, 한국 업무 소프트웨어와의 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "데스크톱 AI",
+          "AI 어시스턴트"
+        ],
+        "trend_index": 4,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 93
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 82
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 96
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 82
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 4
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 168,
+      "thumbnail_url": "https://ph-files.imgix.net/099957c1-6c19-4093-a14a-2064ec0a3736.png?auto=format",
+      "created_at": "2026-05-04T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 30,
+        "timing": 80,
+        "overall": 62
+      },
+      "timing_window": {
+        "avg_months": 10,
+        "category_history": [
+          {
+            "us_launch": "Cortana (2014)",
+            "kr_equivalent": "빅스비 (2017)",
+            "gap_months": 36
+          },
+          {
+            "us_launch": "Copilot (2023)",
+            "kr_equivalent": "클로바X (2023)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47985077",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "https://mljar.com/",
+      "title_en": "Mljar Studio",
+      "tagline_en": "Local AI data analyst that saves analysis as notebooks",
+      "title_ko": "엠엘자 스튜디오",
+      "summary_ko": "로컬에서 실행되는 AI 데이터 분석가가 분석 결과를 노트북으로 저장하는 도구",
+      "analysis_ko": {
+        "description": "데이터 분석 전문 지식 없이도 자연어로 질문하면 AI가 데이터를 분석하고 결과를 Jupyter 노트북 형태로 저장해주는 데스크톱 앱입니다. 완전히 로컬에서 실행되어 데이터 보안이 보장됩니다.",
+        "market_fit": "한국 기업들의 데이터 분석 니즈가 높아지고 있지만 전문 인력이 부족한 상황에 적합합니다. 특히 중소기업과 스타트업에서 유용할 것입니다.",
+        "competitors_kr": [
+          "태블로",
+          "파워BI 한국지사"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "기업 데이터 보안 정책 준수, 개인정보 처리 시 개인정보보호법 적용",
+        "localization_strategy": "한국어 자연어 쿼리 지원, 한국 기업 데이터 형식 템플릿 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "데이터 분석",
+          "AI 분석"
+        ],
+        "trend_index": 3,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 98
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 97
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 79
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 83
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 69
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 3
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 70,
+      "thumbnail_url": null,
+      "created_at": "2026-05-02T10:21:31.000Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 50,
+        "timing": 85,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 15,
+        "category_history": [
+          {
+            "us_launch": "Tableau (2003)",
+            "kr_equivalent": "태블로 한국 진출 (2015)",
+            "gap_months": 144
+          },
+          {
+            "us_launch": "DataRobot (2012)",
+            "kr_equivalent": "국내 AutoML 서비스들 (2020)",
+            "gap_months": 96
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1124668",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/visitor-profiles-and-timeline-by-croct",
+      "title_en": "Visitor profiles and timeline by Croct",
+      "tagline_en": "Uncover the story behind every click to optimize your site",
+      "title_ko": "크록트 방문자 프로필",
+      "summary_ko": "웹사이트 방문자의 행동 패턴을 시간순으로 분석하여 사이트 최적화를 돕는 도구",
+      "analysis_ko": {
+        "description": "웹사이트 방문자의 클릭, 스크롤, 체류시간 등을 개별 사용자별로 추적하여 타임라인으로 시각화하는 분석 도구입니다. 사용자 여정을 상세히 파악하여 UX 개선점을 찾을 수 있습니다.",
+        "market_fit": "한국의 높은 전자상거래 경쟁 환경에서 전환율 최적화가 중요한 이슈입니다. 특히 온라인 비즈니스를 운영하는 기업들에게 유용할 것입니다.",
+        "competitors_kr": [
+          "구글 애널리틱스",
+          "네이버 애널리틱스",
+          "와이즈로그"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "와이즈로그",
+            "founded_year": 2000,
+            "funding_status": "bootstrapped",
+            "differentiation": "와이즈로그는 기본 웹로그 분석이지만, Croct는 개별 사용자 여정 추적에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 쿠키 동의 절차 필요, 개인정보 처리방침 명시",
+        "localization_strategy": "한국 웹사이트 구조 최적화, GDPR 대신 개인정보보호법 준수 기능",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "웹 분석",
+          "사용자 추적"
+        ],
+        "trend_index": 60,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 133,
+      "thumbnail_url": "https://ph-files.imgix.net/aa72ba29-4c42-4722-9748-d1c78000885c.jpeg?auto=format",
+      "created_at": "2026-05-04T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 60,
+        "timing": 75,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Hotjar (2014)",
+            "kr_equivalent": "국내 히트맵 서비스들 (2018)",
+            "gap_months": 48
+          },
+          {
+            "us_launch": "FullStory (2013)",
+            "kr_equivalent": "와이즈로그 고도화 (2020)",
+            "gap_months": 84
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47977694",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://fusion.adam.new/install",
+      "title_en": "AI CAD Harness",
+      "tagline_en": "AI-powered CAD design automation tool",
+      "title_ko": "AI CAD 하네스",
+      "summary_ko": "AI로 CAD 설계를 자동화하는 도구",
+      "analysis_ko": {
+        "description": "자연어 명령으로 3D CAD 모델을 생성하고 수정할 수 있는 AI 기반 설계 도구입니다. 복잡한 CAD 소프트웨어 사용법을 몰라도 아이디어를 3D 모델로 구현할 수 있습니다.",
+        "market_fit": "한국의 강한 제조업 기반과 3D 프린팅 시장 성장에 적합합니다. 특히 프로토타이핑이 중요한 스타트업과 중소 제조업체에서 유용할 것입니다.",
+        "competitors_kr": [
+          "솔리드웍스 코리아",
+          "오토캐드"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "산업기술 보안 관련 규정 준수 필요",
+        "localization_strategy": "한국어 자연어 명령 처리, 한국 제조업 표준 부품 라이브러리 구축",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI CAD",
+          "3D 설계"
+        ],
+        "trend_index": 12,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 38
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 16
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 28
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 7
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 22
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 14
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 12
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 98,
+      "thumbnail_url": null,
+      "created_at": "2026-05-01T17:43:53.000Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 20,
+        "timing": 70,
+        "overall": 55
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Fusion 360 (2013)",
+            "kr_equivalent": "한국 CAD 시장 진출 (2015)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Onshape (2015)",
+            "kr_equivalent": "클라우드 CAD 도입 (2018)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1137077",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/panels-store",
+      "title_en": "Panels Store",
+      "tagline_en": "Buy DRM-free comics and read them instantly in Panels",
+      "title_ko": "패널스 스토어",
+      "summary_ko": "DRM 없는 디지털 만화를 구매하고 즉시 읽을 수 있는 플랫폼",
+      "analysis_ko": {
+        "description": "디지털 권리 관리(DRM) 없이 만화를 구매하여 완전히 소유할 수 있는 만화 플랫폼입니다. 구매한 만화는 Panels 앱에서 즉시 읽을 수 있으며, 다른 기기로도 자유롭게 이동 가능합니다.",
+        "market_fit": "한국의 거대한 웹툰 시장과 디지털 콘텐츠 소비 문화에 적합합니다. 특히 소장 욕구가 강한 만화 애호가들에게 어필할 수 있습니다.",
+        "competitors_kr": [
+          "네이버웹툰",
+          "카카오페이지",
+          "리디북스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "리디북스",
+            "founded_year": 2009,
+            "funding_status": "IPO (KOSDAQ)",
+            "differentiation": "리디북스는 DRM 적용하지만, Panels Store는 DRM-free로 완전한 소유권 제공"
+          },
+          {
+            "name": "네이버웹툰",
+            "founded_year": 2004,
+            "funding_status": "Corporate backed by Naver",
+            "differentiation": "네이버웹툰은 무료+광고 모델이지만, Panels Store는 유료 소장 모델"
+          }
+        ],
+        "regulatory_notes": "저작권법 준수, 웹툰 작가 계약 관련 규정 고려",
+        "localization_strategy": "한국 웹툰 작가들과 직접 계약, 한국어 만화 큐레이션, 원화 결제 시스템",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "디지털 만화",
+          "웹툰 소장"
+        ],
+        "trend_index": 3,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 42
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 24
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 3
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 109,
+      "thumbnail_url": "https://ph-files.imgix.net/2a6ce394-91bd-4f4b-9788-8707ac953749.vnd.microsoft.icon?auto=format",
+      "created_at": "2026-05-04T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 25,
+        "timing": 60,
+        "overall": 58
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "ComiXology (2007)",
+            "kr_equivalent": "리디북스 (2009)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Marvel Unlimited (2013)",
+            "kr_equivalent": "네이버웹툰 글로벌 (2014)",
+            "gap_months": 12
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-05-04T20:58:00.350Z"
+}
