@@ -1,0 +1,1008 @@
+{
+  "date": "2026-05-05",
+  "ideas": [
+    {
+      "id": "ph-1111197",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/kilo-code-v7-for-vs-code",
+      "title_en": "Kilo Code v7 for VS Code",
+      "tagline_en": "Parallel agents, diff reviewer, and multi-model comparisons",
+      "title_ko": "킬로 코드 v7",
+      "summary_ko": "VS Code용 병렬 AI 에이전트와 코드 리뷰 자동화 도구",
+      "analysis_ko": {
+        "description": "VS Code 확장으로 여러 AI 모델을 동시에 활용하여 코드 작성, 리뷰, 비교를 자동화하는 개발자 생산성 도구입니다. 병렬 에이전트 시스템으로 다양한 AI 모델의 결과를 비교하고 최적의 코드를 선택할 수 있습니다.",
+        "market_fit": "한국의 높은 개발자 밀도와 AI 도구 도입에 적극적인 IT 기업 문화를 고려할 때 매우 적합합니다. 특히 네이버, 카카오, 쿠팡 등 대형 테크 기업의 개발팀에서 높은 관심을 보일 것으로 예상됩니다.",
+        "competitors_kr": [
+          "깃허브 코파일럿",
+          "타이핑DNA",
+          "코드스테이츠"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "타이핑DNA",
+            "founded_year": 2021,
+            "funding_status": "Seed $2M",
+            "differentiation": "타이핑DNA는 코딩 스타일 분석에 집중하는 반면, Kilo Code는 다중 AI 모델 비교와 병렬 처리에 특화"
+          }
+        ],
+        "regulatory_notes": "개발자 도구로서 특별한 규제 이슈 없음",
+        "localization_strategy": "한국어 코드 주석 지원, 한국 개발 커뮤니티(OKKY, 개발자스럽다) 마케팅, 네이버 클라우드 플랫폼 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 코딩",
+          "개발자 도구"
+        ],
+        "trend_index": 9,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 71
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 89
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 78
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 81
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 9
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 441,
+      "thumbnail_url": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
+      "created_at": "2026-05-05T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 70,
+        "timing": 90,
+        "overall": 82
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "GitHub Copilot (2021)",
+            "kr_equivalent": "네이버 클로바 코드 (2022)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1138905",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/velo-2-0",
+      "title_en": "Velo 2.0",
+      "tagline_en": "Instantly turn your voice and screen into shareable videos",
+      "title_ko": "벨로 2.0",
+      "summary_ko": "음성과 화면을 즉시 공유 가능한 비디오로 변환하는 도구",
+      "analysis_ko": {
+        "description": "음성 녹음과 화면 캡처를 동시에 진행하여 자동으로 편집된 비디오 콘텐츠를 생성하는 크리에이터 도구입니다. 실시간 자막 생성과 자동 편집 기능으로 빠른 콘텐츠 제작이 가능합니다.",
+        "market_fit": "한국의 활발한 유튜브, 틱톡 크리에이터 생태계와 온라인 교육 시장 성장에 매우 적합합니다. 특히 1인 크리에이터와 에듀테크 기업들의 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "비디오스튜디오",
+          "플렉스클립",
+          "캔바"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "비디오스튜디오",
+            "founded_year": 2019,
+            "funding_status": "Series A $5M",
+            "differentiation": "비디오스튜디오는 템플릿 기반 편집에 집중하는 반면, Velo는 실시간 음성-화면 동기화에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법상 음성 데이터 처리 관련 주의 필요",
+        "localization_strategy": "한국어 자막 자동 생성, 유튜브 쇼츠 최적화, 인플루언서 마케팅",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "영상 편집",
+          "크리에이터 도구"
+        ],
+        "trend_index": 6,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 98
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 89
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 64
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 69
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 6
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 373,
+      "thumbnail_url": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
+      "created_at": "2026-05-05T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 85,
+        "timing": 85,
+        "overall": 83
+      },
+      "timing_window": {
+        "avg_months": 4,
+        "category_history": [
+          {
+            "us_launch": "Loom (2016)",
+            "kr_equivalent": "스크린캐스터 (2017)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1133619",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/flowstep-1-0",
+      "title_en": "Flowstep 1.0",
+      "tagline_en": "AI design engineer to turn your thoughts into editable UI",
+      "title_ko": "플로우스텝 1.0",
+      "summary_ko": "생각을 편집 가능한 UI로 변환하는 AI 디자인 엔지니어",
+      "analysis_ko": {
+        "description": "자연어 입력을 받아 실제 사용 가능한 UI 컴포넌트와 디자인을 자동 생성하는 AI 도구입니다. 디자이너와 개발자 간의 협업 과정을 단축하고 프로토타이핑 속도를 크게 향상시킵니다.",
+        "market_fit": "한국의 빠른 개발 주기를 요구하는 스타트업 생태계와 디자인 시스템 도입이 활발한 대기업에 매우 적합합니다. 특히 UI/UX 인력 부족 문제를 겪는 중소기업들에게 큰 도움이 될 것입니다.",
+        "competitors_kr": [
+          "피그마",
+          "스케치",
+          "제플린"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "디자인플러스",
+            "founded_year": 2020,
+            "funding_status": "Seed $1.5M",
+            "differentiation": "디자인플러스는 템플릿 기반 디자인에 집중하는 반면, Flowstep은 AI 기반 자동 UI 생성에 특화"
+          }
+        ],
+        "regulatory_notes": "디자인 도구로서 특별한 규제 이슈 없음",
+        "localization_strategy": "한국어 자연어 처리 최적화, 한국 디자인 트렌드 학습, 디자인 커뮤니티 파트너십",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 디자인",
+          "UI 자동화"
+        ],
+        "trend_index": 6,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 6
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 244,
+      "thumbnail_url": "https://ph-files.imgix.net/4fe50c0c-42ba-4242-8488-ab70129e5a29.png?auto=format",
+      "created_at": "2026-05-05T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 60,
+        "timing": 80,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 8,
+        "category_history": [
+          {
+            "us_launch": "Figma (2016)",
+            "kr_equivalent": "미리캔버스 (2017)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47972511",
+      "rank": 4,
+      "source": "hackernews",
+      "source_url": "https://github.com/darrylmorley/whatcable",
+      "title_en": "WhatCable",
+      "tagline_en": "A tiny menu bar app for inspecting USB-C cables",
+      "title_ko": "왓케이블",
+      "summary_ko": "USB-C 케이블의 성능과 사양을 확인하는 맥용 메뉴바 앱",
+      "analysis_ko": {
+        "description": "USB-C 케이블의 전력 전송 능력, 데이터 전송 속도, 지원 프로토콜을 실시간으로 확인할 수 있는 유틸리티 앱입니다. 외관상 동일해 보이는 케이블들의 실제 성능 차이를 쉽게 파악할 수 있습니다.",
+        "market_fit": "한국의 높은 맥북 사용률과 다양한 USB-C 기기 보급률을 고려할 때 실용적인 도구입니다. 특히 IT 전문가와 파워 유저들 사이에서 높은 관심을 받을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "시스템 정보",
+          "하드웨어 모니터"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "유틸리티 앱으로서 특별한 규제 이슈 없음",
+        "localization_strategy": "한국어 인터페이스, 맥 앱스토어 출시, 애플 커뮤니티 마케팅",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "USB-C",
+          "맥 유틸리티"
+        ],
+        "trend_index": 6,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 96
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 92
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 97
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 6
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 558,
+      "thumbnail_url": null,
+      "created_at": "2026-05-01T08:43:45.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 90,
+        "timing": 75,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 2,
+        "category_history": [
+          {
+            "us_launch": "CleanMyMac (2009)",
+            "kr_equivalent": "클린마스터 (2010)",
+            "gap_months": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1136284",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/waydev-agent",
+      "title_en": "Waydev Agent",
+      "tagline_en": "Prove ROI and see if your AI spend is actually paying off",
+      "title_ko": "웨이데브 에이전트",
+      "summary_ko": "AI 투자 ROI를 측정하고 증명하는 분석 도구",
+      "analysis_ko": {
+        "description": "기업의 AI 도구 도입 비용 대비 실제 생산성 향상과 ROI를 정량적으로 측정하고 분석하는 B2B SaaS 도구입니다. 개발팀의 AI 도구 사용 패턴과 성과를 추적하여 투자 효과를 입증합니다.",
+        "market_fit": "AI 도입에 적극적이지만 ROI 측정에 어려움을 겪는 한국 대기업들에게 매우 필요한 솔루션입니다. 특히 디지털 전환을 추진하는 전통 기업들의 높은 관심이 예상됩니다.",
+        "competitors_kr": [
+          "데이터독",
+          "뉴렐릭",
+          "스플렁크"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "모니터링플러스",
+            "founded_year": 2018,
+            "funding_status": "Series A $3M",
+            "differentiation": "모니터링플러스는 일반적인 시스템 모니터링에 집중하는 반면, Waydev는 AI 투자 ROI 측정에 특화"
+          }
+        ],
+        "regulatory_notes": "기업 데이터 분석 도구로서 개인정보보호법 준수 필요",
+        "localization_strategy": "한국 기업 문화에 맞는 ROI 지표 개발, 대기업 직접 영업, 컨설팅 파트너십",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI ROI",
+          "생산성 측정"
+        ],
+        "trend_index": 55,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 193,
+      "thumbnail_url": "https://ph-files.imgix.net/d4a76c42-98f2-40c2-9d10-95d5a96af1ae.png?auto=format",
+      "created_at": "2026-05-05T07:00:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 65,
+        "timing": 85,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Datadog (2010)",
+            "kr_equivalent": "와탭 (2013)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1102911",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/ghostwriter-5",
+      "title_en": "Ghostwriter",
+      "tagline_en": "Write and publish posts on LinkedIn & X",
+      "title_ko": "고스트라이터",
+      "summary_ko": "링크드인과 X(트위터)에 자동으로 글을 작성하고 게시하는 도구",
+      "analysis_ko": {
+        "description": "AI를 활용하여 개인 브랜딩에 적합한 소셜미디어 콘텐츠를 자동 생성하고 스케줄링하는 마케팅 도구입니다. 사용자의 톤앤매너를 학습하여 일관된 브랜드 보이스를 유지합니다.",
+        "market_fit": "한국의 활발한 링크드인 사용과 개인 브랜딩 트렌드 확산을 고려할 때 적합한 시장입니다. 특히 B2B 영업직과 프리랜서들 사이에서 높은 수요가 예상됩니다.",
+        "competitors_kr": [
+          "버퍼",
+          "후트스위트",
+          "스마트에디터"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "소셜봇",
+            "founded_year": 2020,
+            "funding_status": "bootstrapped",
+            "differentiation": "소셜봇은 단순 스케줄링에 집중하는 반면, Ghostwriter는 AI 기반 콘텐츠 생성에 특화"
+          }
+        ],
+        "regulatory_notes": "소셜미디어 자동화 도구로서 플랫폼 정책 준수 필요",
+        "localization_strategy": "한국어 콘텐츠 생성 최적화, 네이버 블로그 연동, 인플루언서 파트너십",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "소셜미디어 자동화",
+          "개인 브랜딩"
+        ],
+        "trend_index": 19,
+        "trend_direction": "flat",
+        "period": "2025-05-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 22
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 26
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 20
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 19
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 30
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 19
+          }
+        ]
+      },
+      "category": "social",
+      "ph_votes": 163,
+      "thumbnail_url": "https://ph-files.imgix.net/ae277827-600e-49ca-a58c-0ad1078730ee.png?auto=format",
+      "created_at": "2026-05-05T07:01:00Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 80,
+        "timing": 70,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Buffer (2010)",
+            "kr_equivalent": "소셜매트릭스 (2011)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-47949066",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "https://github.com/bruin-data/dac",
+      "title_en": "DAC",
+      "tagline_en": "Open-source dashboard as code tool for agents and humans",
+      "title_ko": "DAC",
+      "summary_ko": "에이전트와 인간을 위한 오픈소스 코드형 대시보드 도구",
+      "analysis_ko": {
+        "description": "코드로 대시보드를 정의하고 관리할 수 있는 오픈소스 도구로, AI 에이전트가 자동으로 대시보드를 생성하고 업데이트할 수 있습니다. GitOps 방식으로 대시보드 버전 관리와 협업이 가능합니다.",
+        "market_fit": "데이터 중심 의사결정이 확산되고 있는 한국 기업들에게 적합한 도구입니다. 특히 개발자 친화적인 접근 방식으로 스타트업과 테크 기업들의 관심을 받을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "태블로",
+          "파워BI",
+          "그라파나"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "데이터스튜디오플러스",
+            "founded_year": 2019,
+            "funding_status": "Series A $2M",
+            "differentiation": "데이터스튜디오플러스는 GUI 기반 대시보드에 집중하는 반면, DAC는 코드 기반 자동화에 특화"
+          }
+        ],
+        "regulatory_notes": "오픈소스 도구로서 특별한 규제 이슈 없음",
+        "localization_strategy": "한국어 문서화, 개발자 커뮤니티 참여, 기업용 지원 서비스 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "대시보드 자동화",
+          "데이터 시각화"
+        ],
+        "trend_index": 1,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 65
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 61
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 42
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 38
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 49
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 1
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 116,
+      "thumbnail_url": null,
+      "created_at": "2026-04-29T14:37:20.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 75,
+        "timing": 75,
+        "overall": 69
+      },
+      "timing_window": {
+        "avg_months": 8,
+        "category_history": [
+          {
+            "us_launch": "Grafana (2014)",
+            "kr_equivalent": "핀인사이트 (2015)",
+            "gap_months": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1136358",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/firstwork-2",
+      "title_en": "Firstwork",
+      "tagline_en": "Agentic AI for frontline hiring and onboarding",
+      "title_ko": "퍼스트워크",
+      "summary_ko": "현장직 채용과 온보딩을 위한 AI 에이전트",
+      "analysis_ko": {
+        "description": "현장직 근로자의 채용부터 온보딩까지 전 과정을 AI로 자동화하는 HR 솔루션입니다. 이력서 스크리닝, 면접 스케줄링, 온보딩 교육을 AI 에이전트가 처리하여 HR 업무 효율성을 크게 향상시킵니다.",
+        "market_fit": "인력 부족과 높은 이직률로 고민하는 한국의 제조업, 물류업, 서비스업에 매우 필요한 솔루션입니다. 특히 최저임금 인상과 근로환경 개선 요구가 높아지는 상황에서 효율적인 인력 관리 도구로 주목받을 것입니다.",
+        "competitors_kr": [
+          "사람인",
+          "잡코리아",
+          "워크넷"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "휴먼스케이프",
+            "founded_year": 2021,
+            "funding_status": "Seed $1M",
+            "differentiation": "휴먼스케이프는 일반적인 채용 플랫폼에 집중하는 반면, Firstwork는 현장직 특화 AI 자동화에 특화"
+          }
+        ],
+        "regulatory_notes": "근로기준법, 개인정보보호법 등 HR 관련 규제 준수 필요",
+        "localization_strategy": "한국 노동법 준수 기능, 현장직 특화 면접 프로세스, 대기업 HR 부서 직접 영업",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 채용",
+          "현장직 구인"
+        ],
+        "trend_index": 5,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 99
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 5
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 100,
+      "thumbnail_url": "https://ph-files.imgix.net/a1fd2791-02f2-46c2-941b-c64e77178b86.png?auto=format",
+      "created_at": "2026-05-05T07:00:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 55,
+        "timing": 80,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Workday (2005)",
+            "kr_equivalent": "더존 (2008)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48021420",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
+      "title_en": "Wordtrak",
+      "tagline_en": "1v1 and daily word dueling game",
+      "title_ko": "워드트랙",
+      "summary_ko": "1대1 및 일일 단어 대결 게임",
+      "analysis_ko": {
+        "description": "실시간 1대1 단어 게임과 일일 챌린지를 제공하는 소셜 워드 게임입니다. 워들과 스크래블의 요소를 결합하여 경쟁적이고 중독성 있는 게임플레이를 제공합니다.",
+        "market_fit": "한국의 활발한 모바일 게임 시장과 단어 게임에 대한 관심을 고려할 때 적합합니다. 특히 영어 학습에 관심이 높은 한국 사용자들에게 교육적 가치도 제공할 수 있습니다.",
+        "competitors_kr": [
+          "워들",
+          "애니팡",
+          "쿠키런"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "넥슨게임즈",
+            "founded_year": 1994,
+            "funding_status": "Public",
+            "differentiation": "넥슨은 대규모 MMORPG에 집중하는 반면, Wordtrak은 캐주얼 단어 게임에 특화"
+          }
+        ],
+        "regulatory_notes": "게임물관리위원회 등급 분류 필요",
+        "localization_strategy": "한국어 단어 게임 모드 추가, 구글 플레이스토어 최적화, 게임 커뮤니티 마케팅",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "단어게임",
+          "모바일게임"
+        ],
+        "trend_index": 9,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 87
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 83
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 78
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 84
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 74
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 9
+          }
+        ]
+      },
+      "category": "lifestyle",
+      "ph_votes": 58,
+      "thumbnail_url": null,
+      "created_at": "2026-05-05T12:14:17.000Z",
+      "score": {
+        "market_opportunity": 55,
+        "execution_difficulty": 85,
+        "timing": 65,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 3,
+        "category_history": [
+          {
+            "us_launch": "Wordle (2021)",
+            "kr_equivalent": "한글 워들 (2022)",
+            "gap_months": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1136356",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/hestus",
+      "title_en": "Hestus",
+      "tagline_en": "Native CAD autocomplete — 2.5x faster, 4x fewer clicks",
+      "title_ko": "헤스투스",
+      "summary_ko": "네이티브 CAD 자동완성 - 2.5배 빠르고 4배 적은 클릭",
+      "analysis_ko": {
+        "description": "CAD 소프트웨어에서 AI 기반 자동완성 기능을 제공하여 설계 작업의 속도와 효율성을 크게 향상시키는 도구입니다. 반복적인 설계 패턴을 학습하여 예측 기반 설계 지원을 제공합니다.",
+        "market_fit": "한국의 강력한 제조업 기반과 높은 CAD 소프트웨어 사용률을 고려할 때 매우 적합한 시장입니다. 특히 자동차, 조선, 반도체 산업의 설계팀들에게 높은 가치를 제공할 수 있습니다.",
+        "competitors_kr": [
+          "오토캐드",
+          "솔리드웍스",
+          "인벤터"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "지오매직",
+            "founded_year": 2015,
+            "funding_status": "Series B $10M",
+            "differentiation": "지오매직은 3D 모델링에 집중하는 반면, Hestus는 CAD 자동완성 기능에 특화"
+          }
+        ],
+        "regulatory_notes": "산업 설계 도구로서 특별한 규제 이슈 없음",
+        "localization_strategy": "한국 제조업 표준 준수, 대기업 설계팀 직접 영업, 기술 파트너십",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "CAD 자동화",
+          "설계 도구"
+        ],
+        "trend_index": 30,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 100,
+      "thumbnail_url": "https://ph-files.imgix.net/483c365d-c216-4044-ab82-a5630f36fe47.png?auto=format",
+      "created_at": "2026-05-05T07:00:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 50,
+        "timing": 75,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Fusion 360 (2013)",
+            "kr_equivalent": "캐디안 (2016)",
+            "gap_months": 36
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-05-05T20:53:10.970Z"
+}

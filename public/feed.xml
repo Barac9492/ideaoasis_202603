@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-05-04T20:58:02.464Z</updated>
+    <updated>2026-05-05T20:53:12.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-05-05 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-05-05</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-05-05T20:53:10.970Z</updated>
+        <summary type="html"><![CDATA[킬로 코드 v7 · 벨로 2.0 · 플로우스텝 1.0 · 왓케이블 · 웨이데브 에이전트 · 고스트라이터 · DAC · 퍼스트워크 · 워드트랙 · 헤스투스]]></summary>
+        <content type="html"><![CDATA[<h3>#1 킬로 코드 v7</h3><p>VS Code용 병렬 AI 에이전트와 코드 리뷰 자동화 도구</p><h3>#2 벨로 2.0</h3><p>음성과 화면을 즉시 공유 가능한 비디오로 변환하는 도구</p><h3>#3 플로우스텝 1.0</h3><p>생각을 편집 가능한 UI로 변환하는 AI 디자인 엔지니어</p><h3>#4 왓케이블</h3><p>USB-C 케이블의 성능과 사양을 확인하는 맥용 메뉴바 앱</p><h3>#5 웨이데브 에이전트</h3><p>AI 투자 ROI를 측정하고 증명하는 분석 도구</p><h3>#6 고스트라이터</h3><p>링크드인과 X(트위터)에 자동으로 글을 작성하고 게시하는 도구</p><h3>#7 DAC</h3><p>에이전트와 인간을 위한 오픈소스 코드형 대시보드 도구</p><h3>#8 퍼스트워크</h3><p>현장직 채용과 온보딩을 위한 AI 에이전트</p><h3>#9 워드트랙</h3><p>1대1 및 일일 단어 대결 게임</p><h3>#10 헤스투스</h3><p>네이티브 CAD 자동완성 - 2.5배 빠르고 4배 적은 클릭</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-05-04 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-05-04</id>
@@ -244,13 +252,5 @@
         <updated>2026-04-06T20:32:09.743Z</updated>
         <summary type="html"><![CDATA[문샷 · 픽스버스 V6 · 크레브 · 구피LM · 프레드플로우 AI · 블로고스피어 · 메토로 · 워키 · 엠비디아 · 어댑티드]]></summary>
         <content type="html"><![CDATA[<h3>#1 문샷</h3><p>맥에서 아르테미스 II 우주 미션을 실시간으로 추적하는 앱</p><h3>#2 픽스버스 V6</h3><p>살아있는 듯한 자연스러운 AI 비디오 생성 모델</p><h3>#3 크레브</h3><p>이커머스 브랜드를 위한 AI 크리에이티브 에이전트</p><h3>#4 구피LM</h3><p>언어모델 작동 원리를 이해하기 위한 초소형 LLM 교육 도구</p><h3>#5 프레드플로우 AI</h3><p>광고 성과 최적화를 위한 AI 에이전트</p><h3>#6 블로고스피어</h3><p>개인 블로그들을 위한 통합 프론트페이지</p><h3>#7 메토로</h3><p>쿠버네티스 장애를 자동 감지하고 해결하는 AI SRE</p><h3>#8 워키</h3><p>무료 로컬 음성-텍스트 변환 도구</p><h3>#9 엠비디아</h3><p>GPU를 직접 설계하고 제작하는 교육용 게임</p><h3>#10 어댑티드</h3><p>운동선수를 위한 AI 물리치료 서비스</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IdeaOasis 2026-03-25 — 오늘의 TOP 5]]></title>
-        <id>https://ideaoasis-202603.vercel.app/?date=2026-03-25</id>
-        <link href="https://ideaoasis-202603.vercel.app/"/>
-        <updated>2026-03-25T23:36:53.460Z</updated>
-        <summary type="html"><![CDATA[에이전트플레이스 AI 에이전트 · 클로드 자동 모드 · 레이어프루프 매트 · 중고차 약점 데이터베이스 · 크램 앤 컨커 · 플라워쇼 · 킵미클로즈 · 펜디움 · 터보퀀트 · AI 카메라 앱]]></summary>
-        <content type="html"><![CDATA[<h3>#1 에이전트플레이스 AI 에이전트</h3><p>실제 업무와 워크플로우를 위한 전문 AI 에이전트 생성 플랫폼</p><h3>#2 클로드 자동 모드</h3><p>사용자 대신 AI가 권한 결정을 자동으로 처리하는 지능형 권한 관리 시스템</p><h3>#3 레이어프루프 매트</h3><p>플랫폼별 최적화된 고유 콘텐츠로 소셜미디어 게시물을 재활용하는 크리에이터 도구</p><h3>#4 중고차 약점 데이터베이스</h3><p>987개 모델과 5,335개 엔진의 38,000개 이상 중고차 약점을 정리한 종합 데이터베이스</p><h3>#5 크램 앤 컨커</h3><p>고양이 캐릭터와 상세한 진도 추적 기능을 갖춘 개인화 가능한 플래시카드 학습 플랫폼</p><h3>#6 플라워쇼</h3><p>마크다운 문서를 몇 초 만에 아름다운 웹사이트로 변환하는 퍼블리싱 도구</p><h3>#7 킵미클로즈</h3><p>소중한 사람들과의 연락을 놓치지 않도록 도와주는 인맥 관리 앱</p><h3>#8 펜디움</h3><p>AI 에이전트가 적절한 사람들에게 나를 더 자주 추천하도록 돕는 개인 브랜딩 플랫폼</p><h3>#9 터보퀀트</h3><p>구글이 개발한 새로운 대규모 언어모델 압축 알고리즘</p><h3>#10 AI 카메라 앱</h3><p>첫 유료 사용자를 확보한 AI 기반 카메라 애플리케이션</p>]]></content>
     </entry>
 </feed>
