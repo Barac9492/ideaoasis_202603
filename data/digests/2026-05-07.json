@@ -1,0 +1,955 @@
+{
+  "date": "2026-05-07",
+  "ideas": [
+    {
+      "id": "ph-1139582",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/flowmarket-2",
+      "title_en": "FlowMarket",
+      "tagline_en": "A social network of AI agents generating B2B deals",
+      "title_ko": "플로우마켓",
+      "summary_ko": "B2B 거래를 생성하는 AI 에이전트들의 소셜 네트워크",
+      "analysis_ko": {
+        "description": "AI 에이전트들이 서로 소통하며 B2B 거래 기회를 자동으로 발굴하고 매칭하는 플랫폼입니다. 기업들의 영업 프로세스를 AI가 대신 수행하여 효율성을 극대화합니다.",
+        "market_fit": "한국의 중소기업들이 영업 인력 부족과 비효율적인 거래처 발굴에 어려움을 겪고 있어 높은 시장 적합성을 보입니다. 특히 제조업과 IT 서비스업에서 강한 수요가 예상됩니다.",
+        "competitors_kr": [
+          "세일즈봇",
+          "비즈니스온",
+          "아임웹"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "세일즈봇",
+            "founded_year": 2022,
+            "funding_status": "Seed $2M",
+            "differentiation": "FlowMarket은 AI 에이전트 간 네트워킹에 초점을 맞춘 반면, 세일즈봇은 단순 CRM 자동화에 집중"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수 및 B2B 데이터 처리에 대한 규제 검토 필요",
+        "localization_strategy": "한국 기업 문화에 맞는 정중한 커뮤니케이션 스타일 적용 및 네이버 클라우드 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 영업",
+          "B2B 자동화"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2026-04-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2026-04-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 388,
+      "thumbnail_url": "https://ph-files.imgix.net/a6f8e653-be2e-4aff-b85c-e79eff824864.png?auto=format",
+      "created_at": "2026-05-07T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 25,
+        "timing": 75,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Salesforce Einstein (2016)",
+            "kr_equivalent": "세일즈봇 (2022)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1139772",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/claude-agents-for-financial-services",
+      "title_en": "Claude Agents for Financial Services",
+      "tagline_en": "Finance agent templates for pitches, KYC, and closing books",
+      "title_ko": "금융서비스용 클로드 에이전트",
+      "summary_ko": "피칭, KYC, 장부 마감을 위한 금융 에이전트 템플릿",
+      "analysis_ko": {
+        "description": "금융업계 특화 AI 에이전트로 투자 제안서 작성, 고객 신원 확인, 회계 마감 업무를 자동화합니다. 복잡한 금융 규제와 문서 작업을 AI가 처리하여 업무 효율성을 높입니다.",
+        "market_fit": "한국 금융업계의 디지털 전환 가속화와 규제 준수 부담 증가로 인해 매우 높은 시장 수요가 예상됩니다. 특히 중소 증권사와 핀테크 기업에서 강한 관심을 보일 것입니다.",
+        "competitors_kr": [
+          "뱅크샐러드",
+          "토스뱅크",
+          "카카오뱅크"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "뱅크샐러드",
+            "founded_year": 2012,
+            "funding_status": "Series D $100M",
+            "differentiation": "Claude Agents는 B2B 금융업무 자동화에 특화된 반면, 뱅크샐러드는 B2C 금융 서비스에 집중"
+          }
+        ],
+        "regulatory_notes": "금융위원회 승인 및 개인신용정보보호법, 자본시장법 준수 필수",
+        "localization_strategy": "한국 금융 규제 및 회계 기준(K-IFRS) 반영, 금융감독원 가이드라인 준수",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "핀테크 AI",
+          "금융 자동화"
+        ],
+        "trend_index": 42,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2025-11-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 42
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 198,
+      "thumbnail_url": "https://ph-files.imgix.net/f9c97c9f-1744-4a04-a01b-1f99cec85f8d.jpeg?auto=format",
+      "created_at": "2026-05-07T07:01:00Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 20,
+        "timing": 80,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Plaid (2013)",
+            "kr_equivalent": "뱅크샐러드 (2015)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1130462",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/lingo-dev-v1",
+      "title_en": "Lingo.dev v1",
+      "tagline_en": "Localization engineering platform for consistent translation",
+      "title_ko": "링고닷데브",
+      "summary_ko": "일관된 번역을 위한 현지화 엔지니어링 플랫폼",
+      "analysis_ko": {
+        "description": "개발자와 번역팀이 협업하여 소프트웨어 현지화를 효율적으로 관리할 수 있는 플랫폼입니다. API 연동과 자동화된 워크플로우로 번역 품질과 일관성을 보장합니다.",
+        "market_fit": "한국 기업들의 글로벌 진출 증가와 해외 서비스의 한국 진입으로 현지화 수요가 급증하고 있어 매우 높은 시장 적합성을 보입니다.",
+        "competitors_kr": [
+          "플리토",
+          "로컬라이즈",
+          "번역센터"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "플리토",
+            "founded_year": 2015,
+            "funding_status": "Series B $15M",
+            "differentiation": "Lingo.dev는 개발자 중심의 기술적 접근에 특화된 반면, 플리토는 크라우드소싱 번역에 집중"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 및 데이터 국외 이전 관련 규제 검토 필요",
+        "localization_strategy": "한국어-영어 번역 특화 기능 및 한국 개발 환경(네이버 클라우드, 카카오 클라우드) 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "현지화",
+          "번역 자동화"
+        ],
+        "trend_index": 3,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 97
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 51
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 21
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 28
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 51
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 3
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 172,
+      "thumbnail_url": "https://ph-files.imgix.net/782b3127-7490-4f72-8e53-95695093cc46.png?auto=format",
+      "created_at": "2026-05-07T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 70,
+        "timing": 85,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Phrase (2017)",
+            "kr_equivalent": "플리토 (2015)",
+            "gap_months": -24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1130071",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/mesa",
+      "title_en": "MESA",
+      "tagline_en": "Describe your Shopify workflow. MESA builds it.",
+      "title_ko": "메사",
+      "summary_ko": "Shopify 워크플로우를 설명하면 자동으로 구축해주는 도구",
+      "analysis_ko": {
+        "description": "자연어로 Shopify 스토어의 업무 프로세스를 설명하면 AI가 자동으로 워크플로우를 생성하고 구현하는 노코드 플랫폼입니다. 주문 처리, 재고 관리, 고객 서비스 등을 자동화합니다.",
+        "market_fit": "한국의 급성장하는 이커머스 시장과 Shopify 도입 증가로 인해 높은 시장 수요가 예상됩니다. 특히 중소 온라인 쇼핑몰 운영자들에게 매력적입니다.",
+        "competitors_kr": [
+          "카페24",
+          "고도몰",
+          "메이크샵"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "카페24",
+            "founded_year": 1999,
+            "funding_status": "Public (KOSDAQ)",
+            "differentiation": "MESA는 AI 기반 자동화에 특화된 반면, 카페24는 전통적인 쇼핑몰 솔루션 제공"
+          }
+        ],
+        "regulatory_notes": "전자상거래법 및 개인정보보호법 준수 필요",
+        "localization_strategy": "한국 결제 시스템(토스페이, 카카오페이) 연동 및 배송업체(CJ대한통운, 로젠택배) API 통합",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "쇼피파이",
+          "이커머스 자동화"
+        ],
+        "trend_index": 6,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 41
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 58
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 59
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 44
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 41
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 36
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 34
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 6
+          }
+        ]
+      },
+      "category": "ecommerce",
+      "ph_votes": 158,
+      "thumbnail_url": "https://ph-files.imgix.net/6775009f-d8fa-4b86-9a15-ed844696e847.png?auto=format",
+      "created_at": "2026-05-07T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 60,
+        "timing": 75,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 15,
+        "category_history": [
+          {
+            "us_launch": "Shopify Plus (2014)",
+            "kr_equivalent": "카페24 (1999)",
+            "gap_months": -180
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48038257",
+      "rank": 5,
+      "source": "hackernews",
+      "source_url": "http://halupedia.com/",
+      "title_en": "Hallucinopedia",
+      "tagline_en": "Show HN: Hallucinopedia",
+      "title_ko": "할루시노피디아",
+      "summary_ko": "AI 환각 현상을 체계적으로 정리한 백과사전",
+      "analysis_ko": {
+        "description": "AI 모델들이 생성하는 잘못된 정보나 환각 현상을 수집하고 분류하여 연구자와 개발자들이 참고할 수 있는 데이터베이스입니다. AI 안전성과 신뢰성 향상에 기여합니다.",
+        "market_fit": "한국의 AI 연구 기관과 기업들이 AI 안전성에 대한 관심이 높아지고 있어 학술적, 상업적 가치가 있습니다. 특히 네이버, 카카오 등 AI 기업에서 활용 가능합니다.",
+        "competitors_kr": [
+          "AI허브",
+          "한국인공지능학회"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "AI 윤리 가이드라인 및 데이터 수집 관련 규제 검토 필요",
+        "localization_strategy": "한국어 AI 모델의 환각 현상 특화 연구 및 KAIST, 서울대 등 연구기관과 협력",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 환각",
+          "인공지능 안전성"
+        ],
+        "trend_index": 15,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 50
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 53
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 97
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 95
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 15
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 284,
+      "thumbnail_url": null,
+      "created_at": "2026-05-06T16:37:52.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 85,
+        "timing": 70,
+        "overall": 70
+      },
+      "timing_window": null
+    },
+    {
+      "id": "hn-48026342",
+      "rank": 6,
+      "source": "hackernews",
+      "source_url": "https://paletteinspiration.com/",
+      "title_en": "Explore color palettes inspired by 3000 master painter artworks",
+      "tagline_en": "I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters",
+      "title_ko": "명화 컬러 팔레트",
+      "summary_ko": "3000명 거장 화가들의 작품에서 추출한 컬러 팔레트 아카이브",
+      "analysis_ko": {
+        "description": "모네, 베르메르, 반 고흐 등 거장 화가들의 작품에서 색상 팔레트를 추출하여 디자이너들이 영감을 얻을 수 있는 브라우저블 아카이브입니다. 예술적 색감을 디지털 디자인에 활용할 수 있습니다.",
+        "market_fit": "한국의 활발한 디자인 업계와 웹툰, 게임 산업에서 높은 활용도가 예상됩니다. 특히 K-콘텐츠 제작자들에게 유용한 도구가 될 것입니다.",
+        "competitors_kr": [
+          "어도비 컬러",
+          "쿨러스"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "저작권법 관련 명화 이미지 사용 권한 검토 필요",
+        "localization_strategy": "한국 전통 색채와 현대 K-pop, 웹툰 색감 트렌드 반영한 팔레트 추가",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "컬러 팔레트",
+          "디자인 도구"
+        ],
+        "trend_index": 14,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 74
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 64
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 89
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 82
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 14
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 208,
+      "thumbnail_url": null,
+      "created_at": "2026-05-05T18:13:14.000Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 90,
+        "timing": 80,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Adobe Color (2014)",
+            "kr_equivalent": "네이버 디자인 (2015)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48037724",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "https://tilde.run/",
+      "title_en": "Tilde.run",
+      "tagline_en": "Agent sandbox with a transactional, versioned filesystem",
+      "title_ko": "틸드런",
+      "summary_ko": "트랜잭션 기반 버전 관리 파일시스템을 가진 에이전트 샌드박스",
+      "analysis_ko": {
+        "description": "AI 에이전트가 안전하게 실행될 수 있는 샌드박스 환경으로, 트랜잭션 기반의 버전 관리 파일시스템을 제공합니다. 에이전트의 모든 작업을 추적하고 롤백할 수 있어 안전성을 보장합니다.",
+        "market_fit": "한국의 AI 개발 기업들이 안전한 AI 에이전트 테스트 환경에 대한 수요가 증가하고 있어 B2B 시장에서 활용 가능성이 높습니다.",
+        "competitors_kr": [
+          "네이버 클라우드",
+          "NHN"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "클라우드 서비스 관련 규제 및 데이터 보안 기준 준수 필요",
+        "localization_strategy": "한국 클라우드 인프라 연동 및 국내 AI 개발 도구와의 호환성 확보",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 샌드박스",
+          "개발 환경"
+        ],
+        "trend_index": 50,
+        "trend_direction": "down",
+        "period": "2025-06-01 ~ 2025-11-01",
+        "trend_data": [
+          {
+            "period": "2025-06-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 50
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 190,
+      "thumbnail_url": null,
+      "created_at": "2026-05-06T15:58:34.000Z",
+      "score": {
+        "market_opportunity": 55,
+        "execution_difficulty": 30,
+        "timing": 65,
+        "overall": 50
+      },
+      "timing_window": null
+    },
+    {
+      "id": "ph-1140202",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/exploreyc",
+      "title_en": "ExploreYC",
+      "tagline_en": "Your data layer for Y Combinator's startup ecosystem",
+      "title_ko": "익스플로어YC",
+      "summary_ko": "Y Combinator 스타트업 생태계를 위한 데이터 레이어",
+      "analysis_ko": {
+        "description": "Y Combinator 출신 스타트업들의 데이터를 체계적으로 정리하고 분석할 수 있는 플랫폼입니다. 투자자, 창업자, 연구자들이 스타트업 트렌드와 성공 패턴을 파악할 수 있습니다.",
+        "market_fit": "한국의 스타트업 생태계가 성장하면서 데이터 기반 의사결정에 대한 수요가 증가하고 있어 VC와 액셀러레이터들에게 유용할 것입니다.",
+        "competitors_kr": [
+          "스타트업얼라이언스",
+          "벤처스퀘어"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "벤처스퀘어",
+            "founded_year": 2012,
+            "funding_status": "bootstrapped",
+            "differentiation": "ExploreYC는 글로벌 데이터에 특화된 반면, 벤처스퀘어는 한국 스타트업 정보에 집중"
+          }
+        ],
+        "regulatory_notes": "데이터 수집 및 활용 관련 개인정보보호법 검토 필요",
+        "localization_strategy": "한국 스타트업 데이터 추가 및 국내 투자사, 액셀러레이터 정보 통합",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "스타트업 데이터",
+          "벤처 투자"
+        ],
+        "trend_index": 6,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 81
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 64
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 56
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 55
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 6
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 131,
+      "thumbnail_url": "https://ph-files.imgix.net/bd8aed8b-c317-4152-b5ed-71a8afddf14c.png?auto=format",
+      "created_at": "2026-05-07T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 75,
+        "timing": 75,
+        "overall": 73
+      },
+      "timing_window": {
+        "avg_months": 9,
+        "category_history": [
+          {
+            "us_launch": "Crunchbase (2007)",
+            "kr_equivalent": "벤처스퀘어 (2012)",
+            "gap_months": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48038019",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://play.templatical.com",
+      "title_en": "Open-source email builder",
+      "tagline_en": "I built an open-source email builder, alternative to Beefree/Unlayer",
+      "title_ko": "오픈소스 이메일 빌더",
+      "summary_ko": "Beefree/Unlayer의 오픈소스 대안 이메일 빌더",
+      "analysis_ko": {
+        "description": "드래그 앤 드롭 방식으로 이메일 템플릿을 제작할 수 있는 오픈소스 도구입니다. 기존 상용 솔루션의 대안으로 개발자들이 자유롭게 커스터마이징할 수 있습니다.",
+        "market_fit": "한국 기업들의 이메일 마케팅 활용 증가와 오픈소스 선호도 상승으로 인해 중소기업과 스타트업에서 활용도가 높을 것입니다.",
+        "competitors_kr": [
+          "스티비",
+          "메일침프"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스티비",
+            "founded_year": 2014,
+            "funding_status": "Series A $5M",
+            "differentiation": "오픈소스 이메일 빌더는 무료 사용 가능한 반면, 스티비는 유료 SaaS 모델"
+          }
+        ],
+        "regulatory_notes": "정보통신망법 및 스팸 방지 규제 준수 필요",
+        "localization_strategy": "한국어 인터페이스 및 국내 이메일 서비스 제공업체와의 연동 지원",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "이메일 마케팅",
+          "오픈소스"
+        ],
+        "trend_index": 5,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 72
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 53
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 45
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 57
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 59
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 5
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 147,
+      "thumbnail_url": null,
+      "created_at": "2026-05-06T16:20:00.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 85,
+        "timing": 70,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Mailchimp (2001)",
+            "kr_equivalent": "스티비 (2014)",
+            "gap_months": 156
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1136471",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/productclank",
+      "title_en": "ProductClank",
+      "tagline_en": "Borrow Distribution, Not Capital",
+      "title_ko": "프로덕트클랭크",
+      "summary_ko": "자본이 아닌 유통망을 빌리는 플랫폼",
+      "analysis_ko": {
+        "description": "스타트업들이 자금 조달 대신 기존 기업의 유통망과 고객 기반을 활용할 수 있도록 연결해주는 플랫폼입니다. 파트너십을 통한 성장 모델을 제안합니다.",
+        "market_fit": "한국의 대기업-스타트업 협력 문화와 오픈 이노베이션 트렌드에 부합하여 높은 시장 적합성을 보입니다. 특히 제조업과 유통업에서 활용 가능성이 큽니다.",
+        "competitors_kr": [
+          "오픈이노베이션코리아",
+          "스타트업얼라이언스"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "공정거래법 및 대기업-중소기업 상생협력 관련 규제 검토 필요",
+        "localization_strategy": "한국 대기업들의 오픈 이노베이션 프로그램과 연계 및 정부 지원 사업 활용",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "오픈이노베이션",
+          "스타트업 협력"
+        ],
+        "trend_index": 9,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 86
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 98
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 67
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 53
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 69
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 75
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 9
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 119,
+      "thumbnail_url": "https://ph-files.imgix.net/39a3a369-79de-425e-a1d3-2289dde016e1.png?auto=format",
+      "created_at": "2026-05-07T07:00:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 55,
+        "timing": 80,
+        "overall": 71
+      },
+      "timing_window": null
+    }
+  ],
+  "generated_at": "2026-05-07T20:57:13.204Z"
+}
