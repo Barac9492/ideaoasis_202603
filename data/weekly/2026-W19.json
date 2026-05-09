@@ -1,0 +1,138 @@
+{
+  "week": "2026-W19",
+  "selected_idea": {
+    "id": "ph-1140632",
+    "rank": 5,
+    "source": "producthunt",
+    "source_url": "https://www.producthunt.com/posts/prism-00e67431-1004-462c-ba5d-3124fde2f5ce",
+    "title_en": "Prism",
+    "tagline_en": "Hire the best candidates, not just the available",
+    "title_ko": "프리즘",
+    "summary_ko": "최적의 인재를 찾는 AI 기반 채용 플랫폼",
+    "analysis_ko": {
+      "description": "단순히 지원한 후보자 중에서 선택하는 것이 아니라, AI를 활용해 시장에서 가장 적합한 인재를 능동적으로 발굴하고 매칭하는 채용 솔루션입니다. 숨겨진 인재풀까지 발굴하여 기업에 제안합니다.",
+      "market_fit": "한국의 심각한 인재 부족 현상과 높은 채용 비용 문제를 해결할 수 있어 시장 적합성이 매우 높습니다. 특히 IT 인재 확보에 어려움을 겪는 기업들에게 큰 가치를 제공할 수 있습니다.",
+      "competitors_kr": [
+        "사람인",
+        "잡코리아",
+        "로켓펀치"
+      ],
+      "competitors_kr_detailed": [
+        {
+          "name": "사람인",
+          "founded_year": 1998,
+          "funding_status": "상장기업",
+          "differentiation": "전통적 채용공고 플랫폼 vs AI 기반 능동적 인재발굴"
+        },
+        {
+          "name": "로켓펀치",
+          "founded_year": 2013,
+          "funding_status": "Series B $15M",
+          "differentiation": "IT 전문 네트워킹 vs AI 기반 매칭 알고리즘"
+        }
+      ],
+      "regulatory_notes": "개인정보보호법, 채용절차의 공정성에 관한 법률 준수 필요",
+      "localization_strategy": "한국 기업 문화 반영, 국내 대학 및 교육기관 연계, 한국어 이력서 분석 최적화",
+      "difficulty": "Medium"
+    },
+    "naver_trends": {
+      "keywords": [
+        "AI채용",
+        "인재매칭"
+      ],
+      "trend_index": 14,
+      "trend_direction": "down",
+      "period": "2025-05-01 ~ 2026-05-01",
+      "trend_data": [
+        {
+          "period": "2025-05-01",
+          "ratio": 92
+        },
+        {
+          "period": "2025-06-01",
+          "ratio": 77
+        },
+        {
+          "period": "2025-07-01",
+          "ratio": 71
+        },
+        {
+          "period": "2025-08-01",
+          "ratio": 74
+        },
+        {
+          "period": "2025-09-01",
+          "ratio": 100
+        },
+        {
+          "period": "2025-10-01",
+          "ratio": 68
+        },
+        {
+          "period": "2025-11-01",
+          "ratio": 87
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 75
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 65
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 70
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 89
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 75
+        },
+        {
+          "period": "2026-05-01",
+          "ratio": 14
+        }
+      ]
+    },
+    "category": "saas",
+    "ph_votes": 169,
+    "thumbnail_url": "https://ph-files.imgix.net/e7e6aade-0ffd-4cce-a202-e014aba72c18.png?auto=format",
+    "created_at": "2026-05-09T07:01:00Z",
+    "score": {
+      "market_opportunity": 90,
+      "execution_difficulty": 60,
+      "timing": 85,
+      "overall": 80
+    },
+    "timing_window": {
+      "avg_months": 20,
+      "category_history": [
+        {
+          "us_launch": "LinkedIn (2003)",
+          "kr_equivalent": "사람인 (1998)",
+          "gap_months": -60
+        }
+      ]
+    }
+  },
+  "deep_dive_ko": {
+    "market_sizing": "한국 채용 시장 규모는 약 2조원(TAM)이며, AI 기반 채용 솔루션 시장은 약 2,000억원(SAM)으로 추정됩니다. 프리즘이 타겟하는 능동적 인재발굴 시장은 약 500억원(SOM)으로, 연평균 25% 성장이 예상됩니다. 특히 IT 인재 부족 심화로 헤드헌팅 시장이 급성장하고 있으며, 기존 채용공고 방식의 한계를 극복하는 솔루션에 대한 수요가 폭발적으로 증가하고 있습니다.",
+    "localization_playbook": [
+      "1단계: 한국 주요 대학 졸업생 데이터베이스 구축 및 국내 개발자 커뮤니티(OKKY, 개발자스럽다) 연동",
+      "2단계: 한국어 이력서 분석 엔진 개발 및 한국 기업 문화에 맞는 매칭 알고리즘 최적화",
+      "3단계: 네이버, 카카오, 쿠팡 등 대기업 HR 부서와 파일럿 프로그램 진행",
+      "4단계: 사람인, 잡코리아와 차별화된 능동적 인재발굴 포지셔닝으로 시장 진입",
+      "5단계: 중소 IT기업 대상 확산 및 전 업종으로 서비스 확장"
+    ],
+    "comparable_kr_successes": [
+      "원티드 — 2012년 설립, 시리즈D 1,600억원 투자 유치로 추천 기반 채용 플랫폼 성공",
+      "로켓펀치 — IT 전문 네트워킹으로 시작해 채용 플랫폼으로 확장, 연매출 100억원 달성",
+      "점핏 — AI 기반 채용 솔루션으로 대기업 고객 확보, 2023년 네이버에 인수"
+    ],
+    "estimated_build_timeline": "MVP 12주, 베타 출시 6개월, 정식 서비스 론칭 9개월"
+  }
+}
