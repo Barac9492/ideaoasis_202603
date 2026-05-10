@@ -1,0 +1,930 @@
+{
+  "date": "2026-05-10",
+  "ideas": [
+    {
+      "id": "ph-1142238",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/investorfinder",
+      "title_en": "InvestorFinder",
+      "tagline_en": "Find investors who've backed founders just like you",
+      "title_ko": "인베스터파인더",
+      "summary_ko": "나와 비슷한 창업자에게 투자한 투자자를 찾아주는 플랫폼",
+      "analysis_ko": {
+        "description": "창업자의 배경, 업종, 단계 등을 분석해 유사한 프로필의 창업자에게 투자한 경험이 있는 투자자를 매칭해주는 서비스입니다. AI 기반으로 투자자의 투자 패턴과 선호도를 분석해 맞춤형 투자자 리스트를 제공합니다.",
+        "market_fit": "한국의 스타트업 생태계가 급성장하면서 투자 유치의 어려움이 커지고 있어 높은 시장 적합성을 보입니다. 특히 초기 창업자들이 적합한 투자자를 찾는 데 어려움을 겪고 있어 실질적인 니즈가 존재합니다.",
+        "competitors_kr": [
+          "더브이씨",
+          "스타트업얼라이언스",
+          "플래텀"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "더브이씨",
+            "founded_year": 2016,
+            "funding_status": "Series A $3M",
+            "differentiation": "더브이씨는 투자자 정보 제공에 집중하는 반면, InvestorFinder는 AI 기반 개인화된 매칭에 특화"
+          }
+        ],
+        "regulatory_notes": "금융투자업법상 투자중개업 관련 규제 검토 필요, 개인정보보호법 준수 필수",
+        "localization_strategy": "한국 투자자 DB 구축, 한국형 투자 문화 반영, 네트워킹 이벤트 연계",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "스타트업 투자",
+          "엔젤투자"
+        ],
+        "trend_index": 11,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 69
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 73
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 55
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 11
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 208,
+      "thumbnail_url": "https://ph-files.imgix.net/43973f52-c69a-4d2c-b5fa-23e738090a32.jpeg?auto=format",
+      "created_at": "2026-05-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 65,
+        "timing": 90,
+        "overall": 80
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "AngelList (2010)",
+            "kr_equivalent": "더브이씨 (2016)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1142580",
+      "rank": 2,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/adject-2-0-2",
+      "title_en": "Adject 2.0",
+      "tagline_en": "Create hyperrealistic product visuals with AI",
+      "title_ko": "애드젝트 2.0",
+      "summary_ko": "AI로 초현실적인 제품 비주얼을 생성하는 도구",
+      "analysis_ko": {
+        "description": "AI 기술을 활용해 제품의 고품질 마케팅 이미지와 비주얼을 자동으로 생성하는 서비스입니다. 전문 사진 촬영 없이도 브랜드에 맞는 제품 이미지를 빠르게 제작할 수 있습니다.",
+        "market_fit": "한국의 이커머스 시장 급성장과 소상공인들의 마케팅 비용 부담으로 인해 높은 수요가 예상됩니다. 특히 쿠팡, 11번가 등 온라인 플랫폼에서 제품 이미지의 중요성이 커지고 있습니다.",
+        "competitors_kr": [
+          "스튜디오지니",
+          "픽스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스튜디오지니",
+            "founded_year": 2021,
+            "funding_status": "Seed $500K",
+            "differentiation": "스튜디오지니는 실제 촬영 스튜디오 서비스 중심인 반면, Adject는 완전 AI 기반 생성"
+          }
+        ],
+        "regulatory_notes": "저작권법, 상표법 관련 AI 생성 이미지 권리 관계 명확화 필요",
+        "localization_strategy": "한국 제품 카테고리 특화, K-뷰티/패션 스타일 템플릿 제공, 한글 텍스트 지원",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 이미지 생성",
+          "제품 사진"
+        ],
+        "trend_index": 12,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 52
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 51
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 99
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 64
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 70
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 56
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 44
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 12
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 153,
+      "thumbnail_url": "https://ph-files.imgix.net/71bffed4-4e53-4c02-aff9-d9d5cf2fcd84.png?auto=format",
+      "created_at": "2026-05-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 70,
+        "timing": 85,
+        "overall": 78
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Midjourney (2022)",
+            "kr_equivalent": "노벨AI (2023)",
+            "gap_months": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1136576",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/reelfluent-web",
+      "title_en": "ReelFluent Web",
+      "tagline_en": "Reels, but for language learning",
+      "title_ko": "릴플루언트",
+      "summary_ko": "숏폼 비디오 형태로 언어를 학습하는 플랫폼",
+      "analysis_ko": {
+        "description": "틱톡, 인스타그램 릴스와 같은 숏폼 비디오 형식으로 언어 학습 콘텐츠를 제공하는 플랫폼입니다. 짧고 재미있는 영상을 통해 자연스럽게 언어를 습득할 수 있도록 설계되었습니다.",
+        "market_fit": "한국의 높은 영어 학습 열기와 MZ세대의 숏폼 콘텐츠 선호도를 고려할 때 매우 높은 시장 적합성을 보입니다. 특히 기존 교육 방식에 지친 학습자들에게 새로운 대안이 될 수 있습니다.",
+        "competitors_kr": [
+          "듀오링고",
+          "버즈잉글리시",
+          "스픽"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스픽",
+            "founded_year": 2019,
+            "funding_status": "Series B $15M",
+            "differentiation": "스픽은 AI 회화 중심인 반면, ReelFluent는 숏폼 비디오 기반 학습에 특화"
+          }
+        ],
+        "regulatory_notes": "교육 콘텐츠 관련 품질 인증, 청소년 보호법 준수 필요",
+        "localization_strategy": "K-pop, K-드라마 콘텐츠 활용, 한국어-영어 학습 특화, 한국 문화 맥락 반영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "영어 학습",
+          "숏폼 교육"
+        ],
+        "trend_index": 5,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 68
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 67
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 66
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 89
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 85
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 90
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 5
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 14,
+      "thumbnail_url": "https://ph-files.imgix.net/9b244fc0-4f18-43f6-9fa6-7675201b7496.png?auto=format",
+      "created_at": "2026-05-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 85,
+        "timing": 95,
+        "overall": 90
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Duolingo (2011)",
+            "kr_equivalent": "듀오링고 한국 진출 (2012)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1136403",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/keel-3",
+      "title_en": "Keel",
+      "tagline_en": "An AI assistant whose memory belongs to you",
+      "title_ko": "킬",
+      "summary_ko": "사용자가 완전히 소유하는 메모리를 가진 AI 어시스턴트",
+      "analysis_ko": {
+        "description": "사용자의 개인 데이터와 대화 기록을 완전히 사용자가 통제할 수 있는 프라이버시 중심의 AI 어시스턴트입니다. 클라우드가 아닌 로컬 또는 사용자 지정 서버에 데이터를 저장합니다.",
+        "market_fit": "한국의 높은 개인정보보호 의식과 데이터 주권에 대한 관심 증가로 좋은 시장 적합성을 보입니다. 특히 기업과 전문직 종사자들의 민감한 정보 처리 니즈에 부합합니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오 아이"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 클로바",
+            "founded_year": 2017,
+            "funding_status": "Corporate backed",
+            "differentiation": "클로바는 클라우드 기반인 반면, Keel은 완전한 데이터 소유권과 프라이버시에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 데이터 3법 준수, AI 윤리 가이드라인 적용",
+        "localization_strategy": "한국어 자연어처리 최적화, 온프레미스 배포 옵션 제공, 기업용 보안 인증 획득",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 어시스턴트",
+          "개인정보보호"
+        ],
+        "trend_index": 12,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 73
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 60
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 86
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 54
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 45
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 57
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 12
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 107,
+      "thumbnail_url": "https://ph-files.imgix.net/32853b66-3ec5-45be-ab9d-9ba68b39c41d.png?auto=format",
+      "created_at": "2026-05-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 45,
+        "timing": 80,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "ChatGPT (2022)",
+            "kr_equivalent": "네이버 하이퍼클로바X (2023)",
+            "gap_months": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1140273",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/lumichats-offline-free",
+      "title_en": "LumiChats Offline",
+      "tagline_en": "Your AI, fully offline with Zero data collection & 100% free",
+      "title_ko": "루미챗 오프라인",
+      "summary_ko": "완전 오프라인에서 작동하는 무료 AI 채팅 서비스",
+      "analysis_ko": {
+        "description": "인터넷 연결 없이 로컬에서 작동하는 AI 챗봇으로, 사용자 데이터를 전혀 수집하지 않고 완전 무료로 제공됩니다. 프라이버시를 중시하는 사용자들을 위한 대안적 AI 솔루션입니다.",
+        "market_fit": "한국의 강한 개인정보보호 의식과 무료 서비스 선호도를 고려할 때 좋은 시장 적합성을 보입니다. 특히 보안이 중요한 업무 환경이나 개인 사용자들에게 어필할 수 있습니다.",
+        "competitors_kr": [
+          "오픈AI 한국",
+          "업스테이지"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "업스테이지",
+            "founded_year": 2020,
+            "funding_status": "Series B $100M",
+            "differentiation": "업스테이지는 클라우드 기반 B2B 서비스인 반면, LumiChats는 완전 오프라인 개인용에 특화"
+          }
+        ],
+        "regulatory_notes": "오프라인 특성상 데이터 규제 이슈 최소화, 소프트웨어 라이선스 관련 검토 필요",
+        "localization_strategy": "한국어 모델 최적화, 낮은 사양 기기 지원, 한국 사용자 UI/UX 개선",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "오프라인 AI",
+          "프라이버시 AI"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2025-12-01 ~ 2025-12-01",
+        "trend_data": [
+          {
+            "period": "2025-12-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 107,
+      "thumbnail_url": "https://ph-files.imgix.net/68cedf94-f705-4d45-8e60-6a72313ae1ae.png?auto=format",
+      "created_at": "2026-05-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 75,
+        "timing": 85,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Ollama (2023)",
+            "kr_equivalent": "로컬 AI 솔루션들 (2024)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1139500",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/deepsec",
+      "title_en": "deepsec",
+      "tagline_en": "Open-source coding security harness",
+      "title_ko": "딥섹",
+      "summary_ko": "오픈소스 코딩 보안 도구",
+      "analysis_ko": {
+        "description": "개발자들이 코드 작성 과정에서 보안 취약점을 실시간으로 탐지하고 수정할 수 있도록 도와주는 오픈소스 보안 도구입니다. IDE에 통합되어 코딩 중 즉시 보안 피드백을 제공합니다.",
+        "market_fit": "한국의 디지털 전환 가속화와 사이버보안 위협 증가로 높은 시장 수요가 있습니다. 특히 금융권과 대기업의 보안 강화 요구사항이 증가하고 있어 좋은 시장 기회를 제공합니다.",
+        "competitors_kr": [
+          "시큐어코딩",
+          "스패로우"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스패로우",
+            "founded_year": 2019,
+            "funding_status": "Series A $5M",
+            "differentiation": "스패로우는 상용 솔루션인 반면, deepsec은 오픈소스로 접근성과 커스터마이징이 용이"
+          }
+        ],
+        "regulatory_notes": "정보보호산업법, 개인정보보호법 관련 컴플라이언스 지원 기능 필요",
+        "localization_strategy": "한국 보안 표준 준수, 금융보안원 가이드라인 반영, 한국어 보안 룰셋 제공",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "코드 보안",
+          "개발 보안"
+        ],
+        "trend_index": 60,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 189,
+      "thumbnail_url": "https://ph-files.imgix.net/593ff5e2-9d11-491c-ab63-9e929e894214.jpeg?auto=format",
+      "created_at": "2026-05-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 40,
+        "timing": 90,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "SonarQube (2008)",
+            "kr_equivalent": "스패로우 (2019)",
+            "gap_months": 132
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48038257",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "http://halupedia.com/",
+      "title_en": "Hallucinopedia",
+      "tagline_en": "Show HN: Hallucinopedia",
+      "title_ko": "할루시노피디아",
+      "summary_ko": "AI 환각 현상을 다루는 위키피디아 형태의 플랫폼",
+      "analysis_ko": {
+        "description": "AI의 환각(hallucination) 현상에 대한 정보를 체계적으로 정리하고 공유하는 위키피디아 형태의 플랫폼입니다. AI 개발자와 연구자들이 환각 현상 사례와 해결책을 공유할 수 있습니다.",
+        "market_fit": "한국의 AI 산업 발전과 함께 AI 신뢰성에 대한 관심이 높아지고 있어 좋은 시장 적합성을 보입니다. 특히 AI 도입을 고려하는 기업들의 리스크 관리 니즈에 부합합니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "AI 윤리 가이드라인, 정보통신망법 관련 콘텐츠 관리 정책 필요",
+        "localization_strategy": "한국 AI 연구 커뮤니티 연계, 한국어 AI 환각 사례 수집, 학술 기관 파트너십",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 환각",
+          "AI 신뢰성"
+        ],
+        "trend_index": 25,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 63
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 52
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 53
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 99
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 96
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 25
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 304,
+      "thumbnail_url": null,
+      "created_at": "2026-05-06T16:37:52.000Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 90,
+        "timing": 75,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Papers with Code (2018)",
+            "kr_equivalent": "AI Hub (2019)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48037724",
+      "rank": 8,
+      "source": "hackernews",
+      "source_url": "https://tilde.run/",
+      "title_en": "Tilde.run",
+      "tagline_en": "Agent sandbox with a transactional, versioned filesystem",
+      "title_ko": "틸드런",
+      "summary_ko": "트랜잭션 기반 버전 관리 파일시스템을 가진 AI 에이전트 샌드박스",
+      "analysis_ko": {
+        "description": "AI 에이전트가 안전하게 실행될 수 있는 샌드박스 환경을 제공하며, 트랜잭션 기반의 버전 관리 파일시스템을 통해 에이전트의 모든 작업을 추적하고 롤백할 수 있습니다.",
+        "market_fit": "한국의 AI 에이전트 개발 증가와 보안에 대한 높은 관심으로 좋은 시장 기회가 있습니다. 특히 금융, 의료 등 규제가 엄격한 산업에서의 AI 도입 시 필수적인 솔루션이 될 수 있습니다.",
+        "competitors_kr": [
+          "네이버클라우드",
+          "카카오엔터프라이즈"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버클라우드",
+            "founded_year": 2017,
+            "funding_status": "Corporate backed",
+            "differentiation": "네이버클라우드는 일반 클라우드 서비스인 반면, Tilde.run은 AI 에이전트 전용 샌드박스에 특화"
+          }
+        ],
+        "regulatory_notes": "클라우드서비스법, 정보보호관리체계(ISMS) 인증 필요",
+        "localization_strategy": "한국 클라우드 인프라 연동, 금융권 보안 요구사항 준수, 온프레미스 배포 지원",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 샌드박스",
+          "에이전트 보안"
+        ],
+        "trend_index": 35,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "saas",
+      "ph_votes": 199,
+      "thumbnail_url": null,
+      "created_at": "2026-05-06T15:58:34.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 35,
+        "timing": 80,
+        "overall": 63
+      },
+      "timing_window": {
+        "avg_months": 30,
+        "category_history": [
+          {
+            "us_launch": "Docker (2013)",
+            "kr_equivalent": "한국 컨테이너 서비스들 (2016)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1137273",
+      "rank": 9,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/tailgrids-3-0",
+      "title_en": "Tailgrids 3.0",
+      "tagline_en": "Open-source React UI library for Tailwind and AI Workflow",
+      "title_ko": "테일그리드 3.0",
+      "summary_ko": "Tailwind CSS와 AI 워크플로우를 위한 오픈소스 React UI 라이브러리",
+      "analysis_ko": {
+        "description": "Tailwind CSS 기반의 React 컴포넌트 라이브러리로, AI 워크플로우에 최적화된 UI 요소들을 제공합니다. 개발자들이 빠르게 현대적인 웹 애플리케이션을 구축할 수 있도록 도와줍니다.",
+        "market_fit": "한국의 활발한 웹 개발 생태계와 스타트업들의 빠른 프로토타이핑 니즈에 잘 맞습니다. 특히 AI 서비스를 개발하는 스타트업들에게 유용한 도구가 될 수 있습니다.",
+        "competitors_kr": [
+          "토스 디자인시스템",
+          "라인 디자인시스템"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "토스 디자인시스템",
+            "founded_year": 2021,
+            "funding_status": "Corporate backed",
+            "differentiation": "토스는 내부용인 반면, Tailgrids는 오픈소스로 누구나 사용 가능하며 AI 워크플로우에 특화"
+          }
+        ],
+        "regulatory_notes": "오픈소스 라이선스 관련 법적 검토, 지적재산권 보호 방안 필요",
+        "localization_strategy": "한국어 문서화, 한국 개발자 커뮤니티 구축, 로컬 디자인 트렌드 반영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "React 라이브러리",
+          "UI 컴포넌트"
+        ],
+        "trend_index": 27,
+        "trend_direction": "up",
+        "period": "2025-05-01 ~ 2026-01-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 10
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 12
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 27
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 252,
+      "thumbnail_url": "https://ph-files.imgix.net/7ecc20a2-9410-43c5-9121-5dc66db93b66.png?auto=format",
+      "created_at": "2026-05-10T07:01:00Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 85,
+        "timing": 70,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Material-UI (2014)",
+            "kr_equivalent": "한국 UI 라이브러리들 (2015)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48038019",
+      "rank": 10,
+      "source": "hackernews",
+      "source_url": "https://play.templatical.com",
+      "title_en": "Templatical",
+      "tagline_en": "I built an open-source email builder, alternative to Beefree/Unlayer",
+      "title_ko": "템플래티컬",
+      "summary_ko": "Beefree/Unlayer의 오픈소스 대안 이메일 빌더",
+      "analysis_ko": {
+        "description": "드래그 앤 드롭 방식으로 전문적인 이메일 템플릿을 제작할 수 있는 오픈소스 이메일 빌더입니다. 기존 상용 솔루션의 무료 대안으로 개발자와 마케터들이 쉽게 사용할 수 있습니다.",
+        "market_fit": "한국의 이메일 마케팅 시장 성장과 중소기업들의 비용 절감 니즈에 잘 부합합니다. 특히 스타트업과 소상공인들이 저렴하게 전문적인 이메일 마케팅을 시작할 수 있는 기회를 제공합니다.",
+        "competitors_kr": [
+          "스티비",
+          "메일침프 코리아"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스티비",
+            "founded_year": 2014,
+            "funding_status": "Series B $10M",
+            "differentiation": "스티비는 유료 SaaS인 반면, Templatical은 오픈소스로 자유로운 커스터마이징 가능"
+          }
+        ],
+        "regulatory_notes": "정보통신망법상 이메일 발송 규제, 개인정보보호법 준수 필요",
+        "localization_strategy": "한국어 인터페이스, 한국형 이메일 템플릿 제공, 국내 이메일 서비스 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "이메일 마케팅",
+          "뉴스레터"
+        ],
+        "trend_index": 15,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 81
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 86
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 91
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 15
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 162,
+      "thumbnail_url": null,
+      "created_at": "2026-05-06T16:20:00.000Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 80,
+        "timing": 75,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Mailchimp (2001)",
+            "kr_equivalent": "스티비 (2014)",
+            "gap_months": 156
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-05-10T20:37:41.253Z"
+}
