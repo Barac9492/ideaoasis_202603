@@ -1,0 +1,972 @@
+{
+  "date": "2026-05-12",
+  "ideas": [
+    {
+      "id": "ph-1139974",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/kelviq-2",
+      "title_en": "Kelviq",
+      "tagline_en": "Payments, tax, and billing for SaaS & AI companies",
+      "title_ko": "켈빅",
+      "summary_ko": "SaaS와 AI 기업을 위한 통합 결제, 세무, 청구 솔루션",
+      "analysis_ko": {
+        "description": "SaaS와 AI 기업의 복잡한 결제 처리, 세무 관리, 청구서 발행을 하나의 플랫폼에서 해결하는 핀테크 솔루션입니다. 글로벌 결제 처리와 각국의 세무 규정 준수를 자동화하여 스타트업의 운영 부담을 크게 줄여줍니다.",
+        "market_fit": "한국의 급성장하는 SaaS 시장과 AI 스타트업들이 해외 진출 시 겪는 결제/세무 복잡성을 해결할 수 있어 시장 적합성이 높습니다. 특히 B2B SaaS 기업들의 글로벌 확장 니즈가 증가하고 있어 타이밍이 좋습니다.",
+        "competitors_kr": [
+          "토스페이먼츠",
+          "NHN페이코",
+          "이니시스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "토스페이먼츠",
+            "founded_year": 2021,
+            "funding_status": "Series C $200M",
+            "differentiation": "토스페이먼츠는 일반 결제에 집중하는 반면, Kelviq은 SaaS 특화 세무/청구 자동화에 특화"
+          }
+        ],
+        "regulatory_notes": "한국의 전자금융거래법, 개인정보보호법 준수 필요. 금융위원회 전자금융업 등록 필수",
+        "localization_strategy": "한국 세무 시스템(홈택스) 연동, 원화 결제 지원, 한국 회계 기준 준수",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "SaaS 결제",
+          "구독 청구"
+        ],
+        "trend_index": 75,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "fintech",
+      "ph_votes": 387,
+      "thumbnail_url": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon?auto=format",
+      "created_at": "2026-05-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 25,
+        "timing": 80,
+        "overall": 67
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Stripe (2010)",
+            "kr_equivalent": "토스페이먼츠 (2021)",
+            "gap_months": 132
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48096842",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://andreaturchet.github.io/website/index.html",
+      "title_en": "TikTok but for scientific papers",
+      "tagline_en": "TikTok but for scientific papers",
+      "title_ko": "논문 틱톡",
+      "summary_ko": "과학 논문을 짧은 영상으로 소비할 수 있는 틱톡 스타일 플랫폼",
+      "analysis_ko": {
+        "description": "복잡한 과학 논문을 짧고 이해하기 쉬운 영상 형태로 요약하여 제공하는 소셜 플랫폼입니다. 연구자들이 최신 연구 동향을 빠르게 파악하고, 일반인들도 과학 지식에 쉽게 접근할 수 있도록 돕습니다.",
+        "market_fit": "한국의 높은 교육열과 과학기술 관심도를 고려할 때 시장 잠재력이 큽니다. 특히 대학생, 연구자, 과학 관심층을 타겟으로 한 에듀테크 시장에서 차별화된 포지셔닝이 가능합니다.",
+        "competitors_kr": [
+          "사이언스올",
+          "KISTI",
+          "네이버 지식백과"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "사이언스올",
+            "founded_year": 2009,
+            "funding_status": "정부 지원",
+            "differentiation": "사이언스올은 정적 콘텐츠 중심인 반면, 논문 틱톡은 동영상 기반 인터랙티브 학습에 특화"
+          }
+        ],
+        "regulatory_notes": "저작권법 준수 필요, 논문 요약 시 원저작자 동의 및 출처 표기 의무",
+        "localization_strategy": "한국어 논문 요약 지원, 국내 대학/연구소 논문 우선 큐레이션, 한국 과학기술정보통신부 협력",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "과학 교육",
+          "논문 요약"
+        ],
+        "trend_index": 9,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 50
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 27
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 6
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 39
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 37
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 38
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 13
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 3
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 4
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 42
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 27
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 9
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 173,
+      "thumbnail_url": null,
+      "created_at": "2026-05-11T16:05:50.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 60,
+        "timing": 85,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "TikTok (2016)",
+            "kr_equivalent": "틱톡 한국 (2018)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1142848",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/hyperswitch-prism",
+      "title_en": "Hyperswitch Prism",
+      "tagline_en": "Library to plug-n-switch payment processors",
+      "title_ko": "하이퍼스위치 프리즘",
+      "summary_ko": "결제 처리업체를 쉽게 교체할 수 있는 플러그 앤 플레이 라이브러리",
+      "analysis_ko": {
+        "description": "개발자가 코드 변경 없이 다양한 결제 처리업체 간 전환할 수 있도록 하는 통합 결제 라이브러리입니다. 결제 업체별 API 차이를 추상화하여 개발 복잡성을 크게 줄이고 결제 안정성을 높입니다.",
+        "market_fit": "한국의 복잡한 결제 생태계(카드사, 간편결제, 해외결제 등)를 고려할 때 매우 유용한 솔루션입니다. 특히 이커머스와 핀테크 스타트업들의 결제 인프라 구축 부담을 크게 줄일 수 있습니다.",
+        "competitors_kr": [
+          "이니시스",
+          "KG이니시스",
+          "나이스페이"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "이니시스",
+            "founded_year": 1998,
+            "funding_status": "상장사",
+            "differentiation": "이니시스는 단일 결제 게이트웨이인 반면, 하이퍼스위치는 멀티 프로세서 통합 관리에 특화"
+          }
+        ],
+        "regulatory_notes": "전자금융거래법, PCI DSS 인증 필요. 각 결제사별 별도 계약 및 인증 과정 필요",
+        "localization_strategy": "국내 주요 결제사 API 통합, 원화 결제 지원, 한국 특화 결제 수단(네이버페이, 카카오페이) 연동",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "결제 API",
+          "결제 통합"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2025-09-01 ~ 2025-09-01",
+        "trend_data": [
+          {
+            "period": "2025-09-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 178,
+      "thumbnail_url": "https://ph-files.imgix.net/a3335b9a-9d57-46f8-ba00-fd6d008c5b59.png?auto=format",
+      "created_at": "2026-05-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 30,
+        "timing": 75,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Stripe Connect (2012)",
+            "kr_equivalent": "토스페이먼츠 (2021)",
+            "gap_months": 108
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1144152",
+      "rank": 4,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/whale-starts",
+      "title_en": "Whale Starts",
+      "tagline_en": "The website builder that can copy any design on the web",
+      "title_ko": "웨일 스타츠",
+      "summary_ko": "웹상의 모든 디자인을 복사할 수 있는 AI 기반 웹사이트 빌더",
+      "analysis_ko": {
+        "description": "사용자가 원하는 웹사이트 디자인을 URL로 입력하면 AI가 자동으로 분석하여 유사한 디자인의 웹사이트를 생성해주는 노코드 툴입니다. 디자인 스킬이 없는 사용자도 전문적인 웹사이트를 쉽게 만들 수 있습니다.",
+        "market_fit": "한국의 높은 창업 열기와 소상공인들의 디지털 전환 니즈를 고려할 때 시장 잠재력이 큽니다. 특히 디자인 비용 부담을 줄이고 싶어하는 스타트업과 중소기업에게 매력적인 솔루션입니다.",
+        "competitors_kr": [
+          "아임웹",
+          "카페24",
+          "고도몰"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "아임웹",
+            "founded_year": 2011,
+            "funding_status": "Series B $30M",
+            "differentiation": "아임웹은 템플릿 기반인 반면, 웨일 스타츠는 AI 기반 디자인 복제 기능에 특화"
+          }
+        ],
+        "regulatory_notes": "저작권법 준수 필요, 디자인 복제 시 원작자 권리 침해 방지 조치 필요",
+        "localization_strategy": "한국어 UI/UX, 국내 웹 디자인 트렌드 학습, 한국 기업 사이트 템플릿 우선 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "웹사이트 제작",
+          "노코드"
+        ],
+        "trend_index": 3,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 25
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 26
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 21
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 22
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 20
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 19
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 17
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 12
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 12
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 12
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 3
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 116,
+      "thumbnail_url": "https://ph-files.imgix.net/0f5b7322-e9f6-4ce0-a642-e121c8c79ef3.svg?auto=format",
+      "created_at": "2026-05-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 55,
+        "timing": 80,
+        "overall": 70
+      },
+      "timing_window": {
+        "avg_months": 15,
+        "category_history": [
+          {
+            "us_launch": "Webflow (2013)",
+            "kr_equivalent": "아임웹 (2011)",
+            "gap_months": -24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48111896",
+      "rank": 5,
+      "source": "hackernews",
+      "source_url": "https://github.com/cactus-compute/needle",
+      "title_en": "Needle",
+      "tagline_en": "We Distilled Gemini Tool Calling into a 26M Model",
+      "title_ko": "니들",
+      "summary_ko": "제미니의 도구 호출 기능을 2600만 파라미터로 압축한 경량 AI 모델",
+      "analysis_ko": {
+        "description": "구글 제미니의 함수 호출 기능을 26M 파라미터의 경량 모델로 구현하여 일반 소비자 기기에서도 빠르게 실행할 수 있는 오픈소스 AI 모델입니다. 6000 tok/s의 빠른 처리 속도로 실시간 AI 애플리케이션 개발을 가능하게 합니다.",
+        "market_fit": "한국의 AI 스타트업들이 고비용 클라우드 API 대신 자체 인프라로 AI 기능을 구현할 수 있어 비용 효율성이 높습니다. 특히 데이터 보안이 중요한 기업들에게 온프레미스 AI 솔루션으로 활용 가능합니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오브레인",
+          "업스테이지"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "업스테이지",
+            "founded_year": 2020,
+            "funding_status": "Series C $100M",
+            "differentiation": "업스테이지는 대형 모델 중심인 반면, 니들은 경량화와 온디바이스 실행에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, AI 윤리 가이드라인 준수. 오픈소스 라이선스 조건 확인 필요",
+        "localization_strategy": "한국어 함수 호출 지원, 국내 AI 개발 커뮤니티 참여, 한국 기업 대상 기술 지원",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "경량 AI",
+          "온디바이스 AI"
+        ],
+        "trend_index": 27,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 96
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 80
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 27
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 127,
+      "thumbnail_url": null,
+      "created_at": "2026-05-12T18:03:11.000Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 70,
+        "timing": 90,
+        "overall": 81
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "GPT-3 (2020)",
+            "kr_equivalent": "하이퍼클로바 (2021)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1142241",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/heynews",
+      "title_en": "HeyNews",
+      "tagline_en": "Your newsletter, your voice, ready to publish in 5 minutes",
+      "title_ko": "헤이뉴스",
+      "summary_ko": "5분 만에 개인 브랜드 뉴스레터를 제작하고 발행할 수 있는 플랫폼",
+      "analysis_ko": {
+        "description": "개인이나 기업이 자신만의 목소리로 뉴스레터를 빠르게 제작하고 구독자에게 발송할 수 있는 올인원 플랫폼입니다. AI 기반 콘텐츠 생성과 디자인 템플릿을 제공하여 전문 지식 없이도 고품질 뉴스레터를 만들 수 있습니다.",
+        "market_fit": "한국의 개인 브랜딩 열풍과 콘텐츠 크리에이터 증가 트렌드에 부합합니다. 특히 B2B 마케팅과 개인 브랜딩에 관심이 높은 직장인들에게 매력적인 솔루션입니다.",
+        "competitors_kr": [
+          "스티비",
+          "메일침프 코리아",
+          "카페24 메일"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "스티비",
+            "founded_year": 2014,
+            "funding_status": "Series A $5M",
+            "differentiation": "스티비는 이메일 마케팅 중심인 반면, 헤이뉴스는 개인 브랜드 뉴스레터 제작에 특화"
+          }
+        ],
+        "regulatory_notes": "정보통신망법, 개인정보보호법 준수. 스팸 방지를 위한 수신 동의 절차 필수",
+        "localization_strategy": "한국어 템플릿 제공, 국내 트렌드 반영 콘텐츠 추천, 네이버/다음 메일 최적화",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "뉴스레터",
+          "개인 브랜딩"
+        ],
+        "trend_index": 20,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 94
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 81
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 79
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 81
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 93
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 77
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 20
+          }
+        ]
+      },
+      "category": "creator",
+      "ph_votes": 102,
+      "thumbnail_url": "https://ph-files.imgix.net/ca40cacf-22d4-4a5c-a8a8-ee1d602b73eb.png?auto=format",
+      "created_at": "2026-05-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 80,
+        "timing": 85,
+        "overall": 77
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Substack (2017)",
+            "kr_equivalent": "브런치 (2015)",
+            "gap_months": -24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1144799",
+      "rank": 7,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/free-ai-seo-auditor",
+      "title_en": "Free AI SEO Auditor",
+      "tagline_en": "Audit your site for the AI search era. 100% Open Source",
+      "title_ko": "AI SEO 감사관",
+      "summary_ko": "AI 검색 시대를 위한 무료 오픈소스 웹사이트 SEO 감사 도구",
+      "analysis_ko": {
+        "description": "ChatGPT, 구글 Bard 등 AI 검색 엔진에 최적화된 SEO 감사를 제공하는 무료 오픈소스 도구입니다. 기존 SEO와 달리 AI가 이해하기 쉬운 콘텐츠 구조와 정보 제공 방식을 분석하여 개선점을 제안합니다.",
+        "market_fit": "한국 기업들의 디지털 마케팅 투자 증가와 AI 기술 도입 관심이 높아지는 시점에서 시장 적합성이 좋습니다. 특히 중소기업들이 무료로 활용할 수 있어 진입 장벽이 낮습니다.",
+        "competitors_kr": [
+          "SEO마케팅",
+          "랭크트래커",
+          "구글 서치콘솔"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "SEO마케팅",
+            "founded_year": 2018,
+            "funding_status": "bootstrapped",
+            "differentiation": "기존 SEO 도구들은 전통적 검색엔진 중심인 반면, AI SEO 감사관은 AI 검색 최적화에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법 준수, 웹사이트 크롤링 시 robots.txt 준수 필요",
+        "localization_strategy": "한국어 SEO 가이드라인 제공, 네이버 검색 최적화 기능 추가, 한국 웹사이트 특성 반영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI SEO",
+          "검색 최적화"
+        ],
+        "trend_index": 24,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 31
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 13
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 29
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 38
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 43
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 13
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 51
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 24
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 129,
+      "thumbnail_url": "https://ph-files.imgix.net/86809410-f59c-4762-96c8-4a34aa03d0b6.png?auto=format",
+      "created_at": "2026-05-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 85,
+        "timing": 90,
+        "overall": 82
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Ahrefs (2011)",
+            "kr_equivalent": "SEO마케팅 (2018)",
+            "gap_months": 84
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1134105",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/tracktalent",
+      "title_en": "TrackTalent",
+      "tagline_en": "Track jobs, get matched, and land offers faster",
+      "title_ko": "트랙탤런트",
+      "summary_ko": "구직 활동을 추적하고 AI 매칭으로 더 빠르게 취업하는 플랫폼",
+      "analysis_ko": {
+        "description": "구직자의 지원 현황을 체계적으로 관리하고 AI 알고리즘을 통해 적합한 채용 공고를 매칭해주는 취업 지원 플랫폼입니다. 지원 이력 추적, 면접 일정 관리, 개인화된 채용 정보 추천 등을 제공합니다.",
+        "market_fit": "한국의 높은 청년 실업률과 치열한 취업 경쟁 상황에서 구직자들에게 실질적인 도움을 줄 수 있는 솔루션입니다. 특히 체계적인 구직 활동 관리에 대한 니즈가 높아 시장 잠재력이 큽니다.",
+        "competitors_kr": [
+          "사람인",
+          "잡코리아",
+          "원티드"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "원티드",
+            "founded_year": 2012,
+            "funding_status": "상장사",
+            "differentiation": "원티드는 채용 공고 중심인 반면, 트랙탤런트는 개인 구직 활동 관리와 AI 매칭에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 직업안정법 준수. 구직자 개인정보 처리 시 엄격한 보안 조치 필요",
+        "localization_strategy": "한국 기업 채용 문화 반영, 국내 주요 채용 사이트 연동, 한국어 이력서 템플릿 제공",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "취업 관리",
+          "구직 추적"
+        ],
+        "trend_index": 70,
+        "trend_direction": "up",
+        "period": "estimated"
+      },
+      "category": "productivity",
+      "ph_votes": 99,
+      "thumbnail_url": "https://ph-files.imgix.net/159f3b5f-f985-4112-8f5c-ebc05f39b514.png?auto=format",
+      "created_at": "2026-05-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 65,
+        "timing": 75,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "LinkedIn (2003)",
+            "kr_equivalent": "사람인 (1998)",
+            "gap_months": -60
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48083580",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://theindex.fyi",
+      "title_en": "An index of indie web/blog indexes",
+      "tagline_en": "I saw a comment here about how there are so many indexes of indie sites, blogs, etc but there wasn't an index of all the indexes. So I built it.",
+      "title_ko": "인디 웹 인덱스의 인덱스",
+      "summary_ko": "개인 블로그와 인디 웹사이트 인덱스들을 모아놓은 메타 디렉토리",
+      "analysis_ko": {
+        "description": "흩어져 있는 개인 블로그와 인디 웹사이트 디렉토리들을 한 곳에 모아 탐색할 수 있게 해주는 메타 인덱스 서비스입니다. 개인 웹사이트와 블로그의 발견 가능성을 높이고 인디 웹 생태계를 활성화하는 역할을 합니다.",
+        "market_fit": "한국의 개인 블로그 문화와 브런치, 티스토리 등의 플랫폼 사용자들에게 새로운 발견 경험을 제공할 수 있습니다. 특히 개인 브랜딩과 콘텐츠 크리에이터 증가 트렌드와 부합합니다.",
+        "competitors_kr": [
+          "브런치",
+          "티스토리",
+          "네이버 블로그"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "브런치",
+            "founded_year": 2015,
+            "funding_status": "카카오 자회사",
+            "differentiation": "브런치는 플랫폼 내 콘텐츠 중심인 반면, 인덱스는 외부 독립 사이트들의 발견에 특화"
+          }
+        ],
+        "regulatory_notes": "저작권법 준수, 개인정보보호법 적용. 외부 사이트 링크 시 책임 범위 명확화 필요",
+        "localization_strategy": "한국 개인 블로그 플랫폼 연동, 한국어 태그 시스템, 국내 인디 웹 커뮤니티 참여",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "개인 블로그",
+          "인디 웹"
+        ],
+        "trend_index": 8,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 91
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 61
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 33
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 17
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 19
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 16
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 17
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 25
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 23
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 8
+          }
+        ]
+      },
+      "category": "social",
+      "ph_votes": 145,
+      "thumbnail_url": null,
+      "created_at": "2026-05-10T12:50:31.000Z",
+      "score": {
+        "market_opportunity": 60,
+        "execution_difficulty": 90,
+        "timing": 70,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 6,
+        "category_history": [
+          {
+            "us_launch": "Indie Hackers (2016)",
+            "kr_equivalent": "개발자 커뮤니티 (2017)",
+            "gap_months": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1144488",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/fileflan",
+      "title_en": "FileFlan",
+      "tagline_en": "Instant private universal file sharing",
+      "title_ko": "파일플랜",
+      "summary_ko": "즉석 프라이빗 파일 공유 서비스",
+      "analysis_ko": {
+        "description": "별도 회원가입 없이 즉시 파일을 안전하게 공유할 수 있는 프라이빗 파일 전송 서비스입니다. 엔드투엔드 암호화를 통해 보안을 보장하며, 임시 링크를 통해 빠르고 간편한 파일 공유가 가능합니다.",
+        "market_fit": "한국의 높은 개인정보 보호 의식과 보안에 대한 관심을 고려할 때 시장 적합성이 좋습니다. 특히 기업들의 보안 강화 요구와 원격근무 증가로 인한 안전한 파일 공유 니즈가 증가하고 있습니다.",
+        "competitors_kr": [
+          "센드애니웨어",
+          "파일박스",
+          "네이버 마이박스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "센드애니웨어",
+            "founded_year": 2004,
+            "funding_status": "상장사",
+            "differentiation": "센드애니웨어는 기업용 중심인 반면, 파일플랜은 개인용 즉석 공유에 특화"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법, 정보통신망법 준수. 암호화 기술 사용 시 관련 규정 확인 필요",
+        "localization_strategy": "한국어 인터페이스, 국내 클라우드 인프라 활용, 한국 기업 보안 요구사항 반영",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "파일 공유",
+          "보안 전송"
+        ],
+        "trend_index": 20,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 99
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 96
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 65
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 60
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 20
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 96,
+      "thumbnail_url": "https://ph-files.imgix.net/ed274470-d9cc-4f28-bb69-aa8a597df134.png?auto=format",
+      "created_at": "2026-05-12T07:01:00Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 75,
+        "timing": 80,
+        "overall": 72
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "WeTransfer (2009)",
+            "kr_equivalent": "센드애니웨어 (2004)",
+            "gap_months": -60
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-05-12T21:10:45.824Z"
+}

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-05-11T21:09:54.314Z</updated>
+    <updated>2026-05-12T21:10:48.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-05-12 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-05-12</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-05-12T21:10:45.824Z</updated>
+        <summary type="html"><![CDATA[켈빅 · 논문 틱톡 · 하이퍼스위치 프리즘 · 웨일 스타츠 · 니들 · 헤이뉴스 · AI SEO 감사관 · 트랙탤런트 · 인디 웹 인덱스의 인덱스 · 파일플랜]]></summary>
+        <content type="html"><![CDATA[<h3>#1 켈빅</h3><p>SaaS와 AI 기업을 위한 통합 결제, 세무, 청구 솔루션</p><h3>#2 논문 틱톡</h3><p>과학 논문을 짧은 영상으로 소비할 수 있는 틱톡 스타일 플랫폼</p><h3>#3 하이퍼스위치 프리즘</h3><p>결제 처리업체를 쉽게 교체할 수 있는 플러그 앤 플레이 라이브러리</p><h3>#4 웨일 스타츠</h3><p>웹상의 모든 디자인을 복사할 수 있는 AI 기반 웹사이트 빌더</p><h3>#5 니들</h3><p>제미니의 도구 호출 기능을 2600만 파라미터로 압축한 경량 AI 모델</p><h3>#6 헤이뉴스</h3><p>5분 만에 개인 브랜드 뉴스레터를 제작하고 발행할 수 있는 플랫폼</p><h3>#7 AI SEO 감사관</h3><p>AI 검색 시대를 위한 무료 오픈소스 웹사이트 SEO 감사 도구</p><h3>#8 트랙탤런트</h3><p>구직 활동을 추적하고 AI 매칭으로 더 빠르게 취업하는 플랫폼</p><h3>#9 인디 웹 인덱스의 인덱스</h3><p>개인 블로그와 인디 웹사이트 인덱스들을 모아놓은 메타 디렉토리</p><h3>#10 파일플랜</h3><p>즉석 프라이빗 파일 공유 서비스</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-05-11 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-05-11</id>
@@ -244,13 +252,5 @@
         <updated>2026-04-13T20:43:09.427Z</updated>
         <summary type="html"><![CDATA[크리스프 유튜브 억양 변환기 · 클레오 랩스 · 루마 에이전트 · 보링바 · 클람 · CSS 스튜디오 · 컨텍스트풀 · 복스CPM2 · 플루이드CAD · 브라이트빈 스튜디오]]></summary>
         <content type="html"><![CDATA[<h3>#1 크리스프 유튜브 억양 변환기</h3><p>유튜브 영상의 다양한 억양을 실시간으로 표준 발음으로 변환해주는 AI 도구</p><h3>#2 클레오 랩스</h3><p>물리적 제품의 글로벌 판매를 위한 규제 준수를 자동화하는 B2B 솔루션</p><h3>#3 루마 에이전트</h3><p>창작 맥락을 완전히 이해하며 기획부터 반복 개선까지 수행하는 AI 에이전트</p><h3>#4 보링바</h3><p>macOS용 작업표시줄 스타일의 독 대체 앱</p><h3>#5 클람</h3><p>리드를 자동으로 포착, 검증, 라우팅하는 AI 인바운드 마케팅 솔루션</p><h3>#6 CSS 스튜디오</h3><p>수동 디자인을 AI 에이전트가 자동으로 코드로 변환하는 웹 디자인 도구</p><h3>#7 컨텍스트풀</h3><p>AI 코딩 에이전트를 위한 지속적 메모리 시스템</p><h3>#8 복스CPM2</h3><p>음성 디자인과 클로닝 기능을 갖춘 오픈소스 고품질 TTS 엔진</p><h3>#9 플루이드CAD</h3><p>자바스크립트 기반의 파라메트릭 CAD 설계 도구</p><h3>#10 브라이트빈 스튜디오</h3><p>Claude와 Codex로 3주 만에 개발한 소셜미디어 관리 도구</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IdeaOasis 2026-04-12 — 오늘의 TOP 5]]></title>
-        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-12</id>
-        <link href="https://ideaoasis-202603.vercel.app/"/>
-        <updated>2026-04-12T20:24:16.874Z</updated>
-        <summary type="html"><![CDATA[제미나이 인터랙티브 시뮬레이션 · 일레븐랩스 음악 마켓플레이스 · 레이 · CSS 스튜디오 · R0Y · 레이어드 · 플루이드CAD · 클래리파이어AI · 마리모 페어 · 보링바]]></summary>
-        <content type="html"><![CDATA[<h3>#1 제미나이 인터랙티브 시뮬레이션</h3><p>AI 대화형 학습을 통해 개념을 직접 체험할 수 있는 교육 플랫폼</p><h3>#2 일레븐랩스 음악 마켓플레이스</h3><p>AI로 음악을 생성하고 라이선싱을 통해 수익을 창출하는 크리에이터 플랫폼</p><h3>#3 레이</h3><p>터미널에서 작동하는 개인 재무관리 AI 어시스턴트</p><h3>#4 CSS 스튜디오</h3><p>수동 디자인과 AI 에이전트 코딩을 결합한 웹 디자인 도구</p><h3>#5 R0Y</h3><p>자연어로 투자 대시보드를 즉시 생성하는 AI 투자 분석 도구</p><h3>#6 레이어드</h3><p>셀카를 통해 개인 맞춤형 AI 스타일리스트 서비스를 제공하는 패션 앱</p><h3>#7 플루이드CAD</h3><p>자바스크립트 기반 파라메트릭 CAD 설계 도구</p><h3>#8 클래리파이어AI</h3><p>메시지 작성과 번역을 10배 빠르게 해주는 AI 글쓰기 도구</p><h3>#9 마리모 페어</h3><p>AI 에이전트를 위한 반응형 파이썬 노트북 환경</p><h3>#10 보링바</h3><p>macOS용 작업표시줄 스타일 독 대체 앱</p>]]></content>
     </entry>
 </feed>
