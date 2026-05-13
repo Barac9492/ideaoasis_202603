@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-05-12T21:10:48.057Z</updated>
+    <updated>2026-05-13T21:16:43.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-05-13 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-05-13</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-05-13T21:16:41.796Z</updated>
+        <summary type="html"><![CDATA[메모켓 젬 · 과학 논문 틱톡 · 클로드 코드용 래티튜드 · 블레이즈 2.0 · 프론트데스크 AI · 니들: 2600만 파라미터 함수 호출 모델 · 크래프트봇 리빙 UI · 스테이트라이트 - AI 에이전트 안정성 도구 · API덱 MCP 서버 · 사이드노트]]></summary>
+        <content type="html"><![CDATA[<h3>#1 메모켓 젬</h3><p>하루 종일 대화를 기억하는 AI 웨어러블 디바이스</p><h3>#2 과학 논문 틱톡</h3><p>과학 논문을 짧은 영상으로 소개하는 틱톡 스타일 플랫폼</p><h3>#3 클로드 코드용 래티튜드</h3><p>클로드 코드의 토큰 사용량을 추적하고 최적화하는 도구</p><h3>#4 블레이즈 2.0</h3><p>중소기업을 위한 AI 마케팅 자동화 플랫폼</p><h3>#5 프론트데스크 AI</h3><p>중소기업을 대기업처럼 운영하는 AI COO 솔루션</p><h3>#6 니들: 2600만 파라미터 함수 호출 모델</h3><p>소비자 기기에서 고속으로 실행되는 경량 AI 함수 호출 모델</p><h3>#7 크래프트봇 리빙 UI</h3><p>스스로 진화하는 살아있는 소프트웨어 UI</p><h3>#8 스테이트라이트 - AI 에이전트 안정성 도구</h3><p>AI 에이전트의 신뢰성을 높이는 시각적 상태 머신 도구</p><h3>#9 API덱 MCP 서버</h3><p>200개 이상 앱의 실시간 데이터에 AI 에이전트가 접근할 수 있게 하는 서버</p><h3>#10 사이드노트</h3><p>화면 옆에서 메모할 수 있는 노트 앱</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-05-12 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-05-12</id>
@@ -244,13 +252,5 @@
         <updated>2026-04-14T20:42:43.718Z</updated>
         <summary type="html"><![CDATA[에이전트용 피그마 · 소프터 AI 코빌더 · 퓨즈AI · 리콜 2.0 · 이티하사스]]></summary>
         <content type="html"><![CDATA[<h3>#1 에이전트용 피그마</h3><p>디자인 시스템과 연결된 AI 에이전트와 함께 디자인하는 협업 도구</p><h3>#2 소프터 AI 코빌더</h3><p>실제로 작동하는 비즈니스 앱을 AI와 함께 구축하는 노코드 플랫폼</p><h3>#3 퓨즈AI</h3><p>AI 에이전트로 매출을 10배 증가시키는 세일즈 자동화 플랫폼</p><h3>#5 리콜 2.0</h3><p>사용자가 아는 모든 것을 학습하는 개인화된 AI 어시스턴트</p><h3>#9 이티하사스</h3><p>힌두 서사시 캐릭터 탐색기</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IdeaOasis 2026-04-13 — 오늘의 TOP 5]]></title>
-        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-13</id>
-        <link href="https://ideaoasis-202603.vercel.app/"/>
-        <updated>2026-04-13T20:43:09.427Z</updated>
-        <summary type="html"><![CDATA[크리스프 유튜브 억양 변환기 · 클레오 랩스 · 루마 에이전트 · 보링바 · 클람 · CSS 스튜디오 · 컨텍스트풀 · 복스CPM2 · 플루이드CAD · 브라이트빈 스튜디오]]></summary>
-        <content type="html"><![CDATA[<h3>#1 크리스프 유튜브 억양 변환기</h3><p>유튜브 영상의 다양한 억양을 실시간으로 표준 발음으로 변환해주는 AI 도구</p><h3>#2 클레오 랩스</h3><p>물리적 제품의 글로벌 판매를 위한 규제 준수를 자동화하는 B2B 솔루션</p><h3>#3 루마 에이전트</h3><p>창작 맥락을 완전히 이해하며 기획부터 반복 개선까지 수행하는 AI 에이전트</p><h3>#4 보링바</h3><p>macOS용 작업표시줄 스타일의 독 대체 앱</p><h3>#5 클람</h3><p>리드를 자동으로 포착, 검증, 라우팅하는 AI 인바운드 마케팅 솔루션</p><h3>#6 CSS 스튜디오</h3><p>수동 디자인을 AI 에이전트가 자동으로 코드로 변환하는 웹 디자인 도구</p><h3>#7 컨텍스트풀</h3><p>AI 코딩 에이전트를 위한 지속적 메모리 시스템</p><h3>#8 복스CPM2</h3><p>음성 디자인과 클로닝 기능을 갖춘 오픈소스 고품질 TTS 엔진</p><h3>#9 플루이드CAD</h3><p>자바스크립트 기반의 파라메트릭 CAD 설계 도구</p><h3>#10 브라이트빈 스튜디오</h3><p>Claude와 Codex로 3주 만에 개발한 소셜미디어 관리 도구</p>]]></content>
     </entry>
 </feed>
