@@ -1,0 +1,1009 @@
+{
+  "date": "2026-05-14",
+  "ideas": [
+    {
+      "id": "ph-1058199",
+      "rank": 1,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/spellar-3-0-5",
+      "title_en": "Spellar 3.0",
+      "tagline_en": "AI Meeting companion with cross-meeting memory",
+      "title_ko": "스펠라 3.0",
+      "summary_ko": "회의 간 기억을 유지하는 AI 미팅 동반자",
+      "analysis_ko": {
+        "description": "회의 내용을 기록하고 분석하며, 이전 회의들과의 연관성을 파악해 지속적인 맥락을 제공하는 AI 미팅 어시스턴트입니다. 단순한 회의록 작성을 넘어 회의 간 연결점을 찾아 업무 연속성을 높입니다.",
+        "market_fit": "한국의 회의 문화와 업무 효율성에 대한 관심이 높아지면서 AI 미팅 도구에 대한 수요가 증가하고 있습니다. 특히 대기업과 스타트업에서 원격 회의가 일상화되면서 회의 관리 솔루션의 필요성이 커지고 있습니다.",
+        "competitors_kr": [
+          "클로바노트",
+          "네이버 클로바",
+          "카카오워크"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "클로바노트",
+            "founded_year": 2020,
+            "funding_status": "네이버 자회사",
+            "differentiation": "회의 간 연결성과 맥락 유지 기능이 차별화 포인트"
+          }
+        ],
+        "regulatory_notes": "개인정보보호법에 따른 음성 데이터 처리 및 저장에 대한 규제 준수 필요",
+        "localization_strategy": "한국어 음성 인식 정확도 향상, 한국 기업 문화에 맞는 회의 분석 기능 개발",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 회의",
+          "미팅 도구"
+        ],
+        "trend_index": 15,
+        "trend_direction": "flat",
+        "period": "2025-06-01 ~ 2026-04-01",
+        "trend_data": [
+          {
+            "period": "2025-06-01",
+            "ratio": 44
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 88
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 15
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 15
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 390,
+      "thumbnail_url": "https://ph-files.imgix.net/06ff0df7-631d-44e8-8951-92f5147a43fe.gif?auto=format",
+      "created_at": "2026-05-14T07:01:00Z",
+      "score": {
+        "market_opportunity": 85,
+        "execution_difficulty": 65,
+        "timing": 90,
+        "overall": 80
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Otter.ai (2016)",
+            "kr_equivalent": "클로바노트 (2020)",
+            "gap_months": 48
+          },
+          {
+            "us_launch": "Zoom (2011)",
+            "kr_equivalent": "네이버 웍스 (2017)",
+            "gap_months": 72
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48111896",
+      "rank": 2,
+      "source": "hackernews",
+      "source_url": "https://github.com/cactus-compute/needle",
+      "title_en": "Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "tagline_en": "26M parameter function-calling model running at 6000 tok/s prefill",
+      "title_ko": "니들: 2600만 파라미터 함수 호출 모델",
+      "summary_ko": "소비자 기기에서 고속으로 실행되는 경량화된 AI 함수 호출 모델",
+      "analysis_ko": {
+        "description": "대형 언어모델의 함수 호출 기능을 2600만 파라미터로 압축한 경량 모델로, 일반 소비자 기기에서도 빠른 속도로 실행됩니다. 엣지 컴퓨팅과 온디바이스 AI 애플리케이션에 최적화되어 있습니다.",
+        "market_fit": "한국의 AI 스타트업들이 비용 효율적인 AI 솔루션을 찾고 있으며, 특히 온디바이스 AI에 대한 관심이 높아지고 있습니다. 삼성, LG 등 대기업의 AI 칩셋 개발과도 시너지가 있습니다.",
+        "competitors_kr": [
+          "네이버 하이퍼클로바X",
+          "카카오브레인"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "네이버 하이퍼클로바X",
+            "founded_year": 2023,
+            "funding_status": "네이버 자회사",
+            "differentiation": "경량화와 온디바이스 실행에 특화된 접근법"
+          }
+        ],
+        "regulatory_notes": "AI 모델의 오픈소스 배포에 대한 특별한 규제는 없으나, 상업적 활용 시 데이터 보호 규정 준수 필요",
+        "localization_strategy": "한국어 함수 호출 최적화, 국내 클라우드 인프라와의 통합",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "경량 AI",
+          "온디바이스 AI"
+        ],
+        "trend_index": 34,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 49
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 28
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 62
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 46
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 96
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 80
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 87
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 34
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 726,
+      "thumbnail_url": null,
+      "created_at": "2026-05-12T18:03:11.000Z",
+      "score": {
+        "market_opportunity": 90,
+        "execution_difficulty": 45,
+        "timing": 85,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "GPT-3 (2020)",
+            "kr_equivalent": "하이퍼클로바 (2021)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "LLaMA (2023)",
+            "kr_equivalent": "SOLAR (2023)",
+            "gap_months": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1140630",
+      "rank": 3,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/naptick-ai",
+      "title_en": "Naptick AI",
+      "tagline_en": "AI sleep companion that helps fall asleep without struggle",
+      "title_ko": "냅틱 AI",
+      "summary_ko": "수면 유도를 돕는 AI 수면 동반자",
+      "analysis_ko": {
+        "description": "AI 기술을 활용해 개인의 수면 패턴을 분석하고 맞춤형 수면 유도 콘텐츠를 제공하는 앱입니다. 음성, 음악, 명상 등 다양한 방식으로 자연스러운 잠들기를 도와줍니다.",
+        "market_fit": "한국의 수면 부족 문제가 심각하며, 특히 직장인과 학생들의 불면증이 사회적 이슈입니다. 웰니스와 멘탈헬스에 대한 관심 증가로 수면 관련 앱 시장이 성장하고 있습니다.",
+        "competitors_kr": [
+          "슬립사운드",
+          "코슬립",
+          "마음챙김"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "슬립사운드",
+            "founded_year": 2019,
+            "funding_status": "Seed $500K",
+            "differentiation": "AI 개인화와 실시간 적응형 콘텐츠 제공"
+          }
+        ],
+        "regulatory_notes": "의료기기법 적용 가능성 검토 필요, 수면 데이터 수집 시 개인정보보호 규정 준수",
+        "localization_strategy": "한국어 ASMR 콘텐츠, 한국인 수면 패턴 데이터 학습, K-pop 기반 수면 음악",
+        "difficulty": "Easy"
+      },
+      "naver_trends": {
+        "keywords": [
+          "수면앱",
+          "불면증"
+        ],
+        "trend_index": 25,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 97
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 92
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 90
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 97
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 70
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 83
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 69
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 25
+          }
+        ]
+      },
+      "category": "healthtech",
+      "ph_votes": 309,
+      "thumbnail_url": "https://ph-files.imgix.net/768542e3-e0be-44b7-8547-cde9ad144423.jpeg?auto=format",
+      "created_at": "2026-05-14T07:01:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 80,
+        "timing": 85,
+        "overall": 79
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "Calm (2012)",
+            "kr_equivalent": "마음챙김 (2018)",
+            "gap_months": 72
+          },
+          {
+            "us_launch": "Headspace (2010)",
+            "kr_equivalent": "코슬립 (2019)",
+            "gap_months": 108
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48096842",
+      "rank": 4,
+      "source": "hackernews",
+      "source_url": "https://andreaturchet.github.io/website/index.html",
+      "title_en": "TikTok but for scientific papers",
+      "tagline_en": "Short-form video platform for academic research",
+      "title_ko": "과학논문 틱톡",
+      "summary_ko": "학술 논문을 짧은 영상으로 소개하는 플랫폼",
+      "analysis_ko": {
+        "description": "복잡한 학술 논문을 짧고 이해하기 쉬운 영상으로 요약해서 제공하는 플랫폼입니다. 연구자들이 자신의 연구를 대중에게 쉽게 설명하고, 일반인들도 최신 과학 연구에 접근할 수 있게 합니다.",
+        "market_fit": "한국의 높은 교육열과 과학기술에 대한 관심, 그리고 숏폼 콘텐츠 소비 문화가 결합되어 큰 잠재력을 가지고 있습니다. 특히 대학생과 연구자들 사이에서 인기를 얻을 가능성이 높습니다.",
+        "competitors_kr": [
+          "사이언스타임즈",
+          "동아사이언스"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "사이언스타임즈",
+            "founded_year": 2000,
+            "funding_status": "정부 지원",
+            "differentiation": "숏폼 영상 형태와 소셜 기능으로 차별화"
+          }
+        ],
+        "regulatory_notes": "저작권법상 논문 요약 및 인용에 대한 규정 준수 필요",
+        "localization_strategy": "한국 대학 및 연구기관과의 파트너십, 한국어 자막 및 더빙 서비스",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "과학 영상",
+          "학술 콘텐츠"
+        ],
+        "trend_index": 73,
+        "trend_direction": "up",
+        "period": "2025-07-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 33
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 40
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 40
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 33
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 73
+          }
+        ]
+      },
+      "category": "edtech",
+      "ph_votes": 189,
+      "thumbnail_url": null,
+      "created_at": "2026-05-11T16:05:50.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 75,
+        "timing": 80,
+        "overall": 74
+      },
+      "timing_window": {
+        "avg_months": 36,
+        "category_history": [
+          {
+            "us_launch": "TikTok (2016)",
+            "kr_equivalent": "틱톡 한국 (2018)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Coursera (2012)",
+            "kr_equivalent": "K-MOOC (2015)",
+            "gap_months": 36
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1140851",
+      "rank": 5,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/tendem-by-toloka",
+      "title_en": "Tendem by Toloka",
+      "tagline_en": "AI platform to hand off any task to a human expert",
+      "title_ko": "텐뎀 바이 톨로카",
+      "summary_ko": "AI가 처리하기 어려운 작업을 인간 전문가에게 연결하는 플랫폼",
+      "analysis_ko": {
+        "description": "AI가 해결하기 어려운 복잡한 작업들을 적절한 인간 전문가에게 자동으로 배정하는 하이브리드 플랫폼입니다. AI의 한계를 인정하고 인간의 전문성을 효율적으로 활용하는 새로운 접근법을 제시합니다.",
+        "market_fit": "한국의 긱 이코노미 성장과 전문가 네트워크 플랫폼에 대한 수요가 증가하고 있습니다. 특히 번역, 디자인, 컨설팅 등 전문 서비스 분야에서 활용도가 높을 것으로 예상됩니다.",
+        "competitors_kr": [
+          "크몽",
+          "숨고",
+          "탈잉"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "크몽",
+            "founded_year": 2012,
+            "funding_status": "Series C $30M",
+            "differentiation": "AI 기반 자동 매칭과 작업 분배 시스템"
+          }
+        ],
+        "regulatory_notes": "플랫폼 노동자 보호법 및 근로기준법 적용 가능성 검토 필요",
+        "localization_strategy": "한국 전문가 네트워크 구축, 한국어 작업 분류 시스템 개발",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "전문가 플랫폼",
+          "긱 이코노미"
+        ],
+        "trend_index": 33,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 74
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 56
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 48
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 95
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 66
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 62
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 31
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 74
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 92
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 33
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 193,
+      "thumbnail_url": "https://ph-files.imgix.net/b18f1c41-98fa-4ae8-a0da-549be2be9a72.jpeg?auto=format",
+      "created_at": "2026-05-14T07:01:00Z",
+      "score": {
+        "market_opportunity": 80,
+        "execution_difficulty": 70,
+        "timing": 75,
+        "overall": 76
+      },
+      "timing_window": {
+        "avg_months": 30,
+        "category_history": [
+          {
+            "us_launch": "Upwork (2015)",
+            "kr_equivalent": "크몽 (2012)",
+            "gap_months": -36
+          },
+          {
+            "us_launch": "TaskRabbit (2008)",
+            "kr_equivalent": "숨고 (2015)",
+            "gap_months": 84
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1137047",
+      "rank": 6,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/theneo-2",
+      "title_en": "Theneo",
+      "tagline_en": "The API management platform for humans and agents",
+      "title_ko": "테네오",
+      "summary_ko": "인간과 AI 에이전트를 위한 API 관리 플랫폼",
+      "analysis_ko": {
+        "description": "개발자와 AI 에이전트 모두가 쉽게 사용할 수 있는 API 문서화 및 관리 플랫폼입니다. 복잡한 API를 직관적으로 이해하고 활용할 수 있도록 도와주며, AI 시대에 맞는 새로운 API 경험을 제공합니다.",
+        "market_fit": "한국의 개발자 커뮤니티가 활발하고 API 이코노미가 성장하고 있어 좋은 시장 기회가 있습니다. 특히 핀테크, 이커머스 분야에서 API 활용이 급증하고 있습니다.",
+        "competitors_kr": [
+          "스웨거허브",
+          "포스트맨"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "API 보안 및 데이터 보호 관련 규정 준수 필요",
+        "localization_strategy": "한국어 API 문서 자동 생성, 국내 개발 도구와의 연동",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "API 관리",
+          "개발자 도구"
+        ],
+        "trend_index": 9,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 85
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 75
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 37
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 34
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 35
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 15
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 18
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 39
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 38
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 32
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 28
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 9
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 185,
+      "thumbnail_url": "https://ph-files.imgix.net/f8b82f28-04da-47f5-b97a-fb4a4479b4bf.png?auto=format",
+      "created_at": "2026-05-14T07:00:00Z",
+      "score": {
+        "market_opportunity": 75,
+        "execution_difficulty": 65,
+        "timing": 85,
+        "overall": 75
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Postman (2012)",
+            "kr_equivalent": "국내 도입 (2014)",
+            "gap_months": 24
+          },
+          {
+            "us_launch": "Swagger (2011)",
+            "kr_equivalent": "국내 활용 (2013)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48108778",
+      "rank": 7,
+      "source": "hackernews",
+      "source_url": "https://github.com/statewright/statewright",
+      "title_en": "Statewright – Visual state machines that make AI agents reliable",
+      "tagline_en": "Visual state machines for reliable AI agent development",
+      "title_ko": "스테이트라이트",
+      "summary_ko": "AI 에이전트의 신뢰성을 높이는 시각적 상태 머신 도구",
+      "analysis_ko": {
+        "description": "AI 에이전트의 동작을 시각적 상태 머신으로 모델링하여 예측 가능하고 신뢰할 수 있는 AI 시스템을 구축할 수 있게 해주는 개발 도구입니다. 복잡한 AI 에이전트의 행동을 체계적으로 관리하고 디버깅할 수 있습니다.",
+        "market_fit": "한국의 AI 스타트업들이 안정적인 AI 서비스 구축에 어려움을 겪고 있어, 이런 도구에 대한 수요가 있습니다. 특히 금융, 의료 등 신뢰성이 중요한 분야에서 활용도가 높을 것입니다.",
+        "competitors_kr": [
+          "네이버 클로바",
+          "카카오브레인"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "AI 시스템의 투명성 및 설명가능성 요구사항 충족에 도움",
+        "localization_strategy": "한국어 인터페이스, 국내 AI 프레임워크와의 통합",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "AI 개발도구",
+          "상태머신"
+        ],
+        "trend_index": 23,
+        "trend_direction": "flat",
+        "period": "2025-12-01 ~ 2026-01-01",
+        "trend_data": [
+          {
+            "period": "2025-12-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 23
+          }
+        ]
+      },
+      "category": "ai",
+      "ph_votes": 120,
+      "thumbnail_url": null,
+      "created_at": "2026-05-12T14:24:55.000Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 50,
+        "timing": 75,
+        "overall": 65
+      },
+      "timing_window": {
+        "avg_months": 15,
+        "category_history": [
+          {
+            "us_launch": "TensorFlow (2015)",
+            "kr_equivalent": "국내 도입 (2016)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "PyTorch (2016)",
+            "kr_equivalent": "국내 활용 (2017)",
+            "gap_months": 18
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1140478",
+      "rank": 8,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/causo-for-fundraising",
+      "title_en": "Causo for Fundraising",
+      "tagline_en": "Pitch the right VCs, skip the grind",
+      "title_ko": "카우소 펀드레이징",
+      "summary_ko": "적합한 VC를 찾아 효율적으로 투자유치를 돕는 플랫폼",
+      "analysis_ko": {
+        "description": "스타트업과 벤처캐피털 간의 매칭을 AI로 최적화하여 효율적인 투자유치를 가능하게 하는 플랫폼입니다. 스타트업의 특성과 VC의 투자 성향을 분석해 최적의 매칭을 제공합니다.",
+        "market_fit": "한국의 스타트업 생태계가 성장하면서 투자유치 플랫폼에 대한 수요가 증가하고 있습니다. 특히 초기 스타트업들이 적합한 투자자를 찾는 데 어려움을 겪고 있어 시장 기회가 있습니다.",
+        "competitors_kr": [
+          "플래텀",
+          "스타트업얼라이언스",
+          "벤처스퀘어"
+        ],
+        "competitors_kr_detailed": [
+          {
+            "name": "플래텀",
+            "founded_year": 2013,
+            "funding_status": "Series A $5M",
+            "differentiation": "AI 기반 정밀 매칭과 자동화된 피칭 프로세스"
+          }
+        ],
+        "regulatory_notes": "자본시장법상 투자중개업 관련 규정 검토 필요",
+        "localization_strategy": "한국 VC 데이터베이스 구축, 한국 투자 문화에 맞는 피칭 가이드",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "투자유치",
+          "스타트업 펀딩"
+        ],
+        "trend_index": 19,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 89
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 93
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 82
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 97
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 84
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 80
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 77
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 71
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 57
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 53
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 19
+          }
+        ]
+      },
+      "category": "fintech",
+      "ph_votes": 155,
+      "thumbnail_url": "https://ph-files.imgix.net/a9fa067d-d885-40aa-8913-5579b75c422f.png?auto=format",
+      "created_at": "2026-05-14T07:01:00Z",
+      "score": {
+        "market_opportunity": 65,
+        "execution_difficulty": 70,
+        "timing": 80,
+        "overall": 71
+      },
+      "timing_window": {
+        "avg_months": 24,
+        "category_history": [
+          {
+            "us_launch": "AngelList (2010)",
+            "kr_equivalent": "플래텀 (2013)",
+            "gap_months": 36
+          },
+          {
+            "us_launch": "Gust (2004)",
+            "kr_equivalent": "벤처스퀘어 (2012)",
+            "gap_months": 96
+          }
+        ]
+      }
+    },
+    {
+      "id": "hn-48076815",
+      "rank": 9,
+      "source": "hackernews",
+      "source_url": "https://github.com/nooga/let-go",
+      "title_en": "I made a Clojure-like language in Go, boots in 7ms",
+      "tagline_en": "Clojure-like language written in Go with 7ms boot time",
+      "title_ko": "렛고 언어",
+      "summary_ko": "7ms 부팅 시간을 가진 Go 기반 Clojure 유사 언어",
+      "analysis_ko": {
+        "description": "Go로 작성된 Clojure 호환 프로그래밍 언어로, JVM 대비 50배 빠른 부팅 속도를 자랑합니다. 함수형 프로그래밍의 장점을 유지하면서 성능을 크게 개선한 새로운 언어입니다.",
+        "market_fit": "한국의 개발자들 사이에서 함수형 프로그래밍에 대한 관심이 증가하고 있으며, 특히 고성능이 요구되는 서버 개발 분야에서 활용 가능성이 있습니다.",
+        "competitors_kr": [],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "오픈소스 라이선스 관련 규정 준수",
+        "localization_strategy": "한국어 문서화, 국내 개발자 커뮤니티 구축",
+        "difficulty": "Hard"
+      },
+      "naver_trends": {
+        "keywords": [
+          "함수형 프로그래밍",
+          "Clojure"
+        ],
+        "trend_index": 100,
+        "trend_direction": "flat",
+        "period": "2025-05-01 ~ 2026-01-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 100
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 100
+          }
+        ]
+      },
+      "category": "saas",
+      "ph_votes": 280,
+      "thumbnail_url": null,
+      "created_at": "2026-05-09T17:52:13.000Z",
+      "score": {
+        "market_opportunity": 45,
+        "execution_difficulty": 40,
+        "timing": 60,
+        "overall": 48
+      },
+      "timing_window": {
+        "avg_months": 12,
+        "category_history": [
+          {
+            "us_launch": "Go (2009)",
+            "kr_equivalent": "국내 도입 (2010)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Rust (2010)",
+            "kr_equivalent": "국내 활용 (2012)",
+            "gap_months": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "ph-1139893",
+      "rank": 10,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/posts/fei-design-mode",
+      "title_en": "Fei Design Mode",
+      "tagline_en": "Directly edit and tweak UI pixels live with AI agents",
+      "title_ko": "페이 디자인 모드",
+      "summary_ko": "AI 에이전트와 함께 실시간으로 UI를 편집하는 도구",
+      "analysis_ko": {
+        "description": "AI 에이전트의 도움을 받아 웹사이트의 UI를 실시간으로 편집하고 수정할 수 있는 혁신적인 디자인 도구입니다. 코딩 없이도 픽셀 단위의 정밀한 디자인 조정이 가능합니다.",
+        "market_fit": "한국의 웹 디자인 및 개발 시장에서 노코드/로코드 도구에 대한 수요가 증가하고 있습니다. 특히 중소기업과 스타트업에서 빠른 프로토타이핑 도구로 활용도가 높을 것입니다.",
+        "competitors_kr": [
+          "위즈",
+          "스튜디오"
+        ],
+        "competitors_kr_detailed": [],
+        "regulatory_notes": "웹 접근성 관련 규정 준수 지원 기능 필요",
+        "localization_strategy": "한국어 AI 명령어 지원, 한국 웹 디자인 트렌드 반영",
+        "difficulty": "Medium"
+      },
+      "naver_trends": {
+        "keywords": [
+          "노코드 디자인",
+          "AI 디자인"
+        ],
+        "trend_index": 29,
+        "trend_direction": "down",
+        "period": "2025-05-01 ~ 2026-05-01",
+        "trend_data": [
+          {
+            "period": "2025-05-01",
+            "ratio": 76
+          },
+          {
+            "period": "2025-06-01",
+            "ratio": 77
+          },
+          {
+            "period": "2025-07-01",
+            "ratio": 100
+          },
+          {
+            "period": "2025-08-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-09-01",
+            "ratio": 83
+          },
+          {
+            "period": "2025-10-01",
+            "ratio": 64
+          },
+          {
+            "period": "2025-11-01",
+            "ratio": 78
+          },
+          {
+            "period": "2025-12-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-01-01",
+            "ratio": 68
+          },
+          {
+            "period": "2026-02-01",
+            "ratio": 58
+          },
+          {
+            "period": "2026-03-01",
+            "ratio": 76
+          },
+          {
+            "period": "2026-04-01",
+            "ratio": 72
+          },
+          {
+            "period": "2026-05-01",
+            "ratio": 29
+          }
+        ]
+      },
+      "category": "productivity",
+      "ph_votes": 125,
+      "thumbnail_url": "https://ph-files.imgix.net/6bb7c3fd-34f2-4137-85bb-509f4219450d.png?auto=format",
+      "created_at": "2026-05-14T07:01:00Z",
+      "score": {
+        "market_opportunity": 70,
+        "execution_difficulty": 60,
+        "timing": 75,
+        "overall": 68
+      },
+      "timing_window": {
+        "avg_months": 18,
+        "category_history": [
+          {
+            "us_launch": "Figma (2016)",
+            "kr_equivalent": "국내 도입 (2017)",
+            "gap_months": 12
+          },
+          {
+            "us_launch": "Webflow (2013)",
+            "kr_equivalent": "위즈 (2015)",
+            "gap_months": 24
+          }
+        ]
+      }
+    }
+  ],
+  "generated_at": "2026-05-14T21:03:46.509Z"
+}
