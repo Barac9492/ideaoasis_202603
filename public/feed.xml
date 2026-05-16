@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-05-15T20:49:51.262Z</updated>
+    <updated>2026-05-16T20:38:15.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-05-16 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-05-16</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-05-16T20:38:13.691Z</updated>
+        <summary type="html"><![CDATA[루바 에이전트 · 에이전트메모리 · 레이빔 · 개인금융 ChatGPT · 니들 · 과학논문 틱톡 · 번 애프터 · 스테이트라이트 · 링 · 에픽]]></summary>
+        <content type="html"><![CDATA[<h3>#1 루바 에이전트</h3><p>AI 감독이 영화 같은 영상을 쉽게 제작해주는 도구</p><h3>#2 에이전트메모리</h3><p>코딩 AI 에이전트를 위한 지속적 메모리 시스템</p><h3>#3 레이빔</h3><p>macOS를 위한 향상된 화면 공유 도구</p><h3>#4 개인금융 ChatGPT</h3><p>ChatGPT 기반 개인 재정 관리 가이드</p><h3>#5 니들</h3><p>2600만 파라미터로 압축된 고성능 AI 도구 호출 모델</p><h3>#6 과학논문 틱톡</h3><p>과학 논문을 틱톡 형식으로 소비할 수 있는 플랫폼</p><h3>#7 번 애프터</h3><p>열람 후 자동 삭제되는 일회용 파일 링크 서비스</p><h3>#8 스테이트라이트</h3><p>AI 에이전트를 안정적으로 만드는 시각적 상태 머신</p><h3>#9 링</h3><p>메뉴 클릭 한 번으로 접근하는 개발자 도구</p><h3>#10 에픽</h3><p>Git 기반 분산 이슈 트래커 터미널 인터페이스</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-05-15 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-05-15</id>
@@ -244,13 +252,5 @@
         <updated>2026-04-17T20:35:17.056Z</updated>
         <summary type="html"><![CDATA[빌드 체크 · 임원 변동 추적기 · 헬로 아리아 · 캘린더파이프 · 랭알파 · 리브레토 · 스테이지 · 스몰 머신 · 패닉락 · 코드번]]></summary>
         <content type="html"><![CDATA[<h3>#1 빌드 체크</h3><p>앱 아이디어의 시장성과 실현 가능성을 AI로 검증해주는 창업 검증 플랫폼</p><h3>#2 임원 변동 추적기</h3><p>상장기업의 CEO, CFO 등 임원 변동을 실시간으로 추적하고 보상 데이터를 분석하는 플랫폼</p><h3>#3 헬로 아리아</h3><p>채팅을 할 일, 알림, 메모로 자동 변환해주는 AI 개인 비서 앱</p><h3>#4 캘린더파이프</h3><p>인간과 AI 에이전트를 위한 프로그래밍 가능한 캘린더 동기화 도구</p><h3>#5 랭알파</h3><p>금융업계 전용으로 최적화된 AI 코딩 어시스턴트 플랫폼</p><h3>#6 리브레토</h3><p>AI 에이전트를 위한 결정론적 브라우저 자동화 도구</p><h3>#7 스테이지</h3><p>단계별 가이드를 제공하는 인간 중심의 코드 리뷰 도구</p><h3>#8 스몰 머신</h3><p>초고속 콜드스타트를 지원하는 휴대용 가상머신 플랫폼</p><h3>#9 패닉락</h3><p>맥북 덮개를 닫으면 TouchID를 비활성화하여 패스워드 입력을 강제하는 보안 도구</p><h3>#10 코드번</h3><p>Claude Code의 토큰 사용량을 작업별로 분석하는 비용 최적화 도구</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IdeaOasis 2026-04-16 — 오늘의 TOP 5]]></title>
-        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-16</id>
-        <link href="https://ideaoasis-202603.vercel.app/"/>
-        <updated>2026-04-16T20:38:59.090Z</updated>
-        <summary type="html"><![CDATA[클로드 코드 데스크톱 앱 리디자인 · 미국 상장기업 CEO/CFO 변동 실시간 추적 · 구글 크롬 스킬즈 · X-파일럿 · 맨틀 세이프 · 랭알파 · 펠로우 iOS · 이티하사스 · 클레이호그 · 리브레토]]></summary>
-        <content type="html"><![CDATA[<h3>#1 클로드 코드 데스크톱 앱 리디자인</h3><p>하나의 데스크톱 워크스페이스에서 여러 코딩 에이전트를 병렬로 실행하는 개발 도구</p><h3>#2 미국 상장기업 CEO/CFO 변동 실시간 추적</h3><p>SEC 공시를 실시간으로 모니터링하여 상장기업 임원진 변동사항을 추출하고 분석하는 플랫폼</p><h3>#3 구글 크롬 스킬즈</h3><p>AI 프롬프트를 크롬에서 원클릭 도구로 변환하는 브라우저 확장 프로그램</p><h3>#4 X-파일럿</h3><p>문서부터 동영상 강의까지 모든 콘텐츠를 정확하게 설명해주는 AI 도구</p><h3>#5 맨틀 세이프</h3><p>DocuSign 없이 무료로 SAFE 계약서를 발행하고 서명할 수 있는 플랫폼</p><h3>#6 랭알파</h3><p>월스트리트를 위해 특화된 클로드 코드 버전의 금융 데이터 분석 도구</p><h3>#7 펠로우 iOS</h3><p>대면 회의를 위한 AI 회의록 작성 iOS 앱</p><h3>#8 이티하사스</h3><p>힌두 서사시 등장인물을 탐색할 수 있는 캐릭터 익스플로러</p><h3>#9 클레이호그</h3><p>AI가 당신의 브랜드와 경쟁사에 대해 어떻게 평가하는지 보여주는 도구</p><h3>#10 리브레토</h3><p>AI 브라우저 자동화를 결정론적으로 만드는 도구</p>]]></content>
     </entry>
 </feed>
