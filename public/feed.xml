@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideaoasis-202603.vercel.app</id>
     <title>IdeaOasis</title>
-    <updated>2026-05-16T20:38:15.491Z</updated>
+    <updated>2026-05-17T20:39:56.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>IdeaOasis</name>
@@ -13,6 +13,14 @@
     <subtitle>매일 아침, 실리콘밸리에서 온 스타트업 아이디어 10선. 한국 시장 분석과 트렌드 데이터까지.</subtitle>
     <icon>https://ideaoasis-202603.vercel.app/favicon.ico</icon>
     <rights>2026 IdeaOasis</rights>
+    <entry>
+        <title type="html"><![CDATA[IdeaOasis 2026-05-17 — 오늘의 TOP 5]]></title>
+        <id>https://ideaoasis-202603.vercel.app/?date=2026-05-17</id>
+        <link href="https://ideaoasis-202603.vercel.app/"/>
+        <updated>2026-05-17T20:39:54.872Z</updated>
+        <summary type="html"><![CDATA[비바고 비디오 에이전트 · 니들: 2600만 파라미터 함수 호출 모델 · 페어 AI · 과학논문 틱톡 · SUN-투-스포티파이 · 스테이트라이트 - 신뢰할 수 있는 AI 에이전트를 위한 시각적 상태 머신 · 오프셸프: 학습과 집중 · 파일즈 SDK · 렛고: 7ms에 부팅되는 Clojure 언어 · 인디 웹 인덱스의 인덱스]]></summary>
+        <content type="html"><![CDATA[<h3>#1 비바고 비디오 에이전트</h3><p>프롬프트 없이 일관성 있는 매력적인 영상을 자동 제작하는 AI 비디오 생성 도구</p><h3>#2 니들: 2600만 파라미터 함수 호출 모델</h3><p>소비자 기기에서 초고속으로 실행되는 경량화된 AI 함수 호출 모델</p><h3>#3 페어 AI</h3><p>시장 신호를 분석해 암호화폐와 예측 시장 거래를 자동 실행하는 AI 에이전트</p><h3>#4 과학논문 틱톡</h3><p>과학 논문을 숏폼 비디오로 소개하는 학술 연구 발견 플랫폼</p><h3>#5 SUN-투-스포티파이</h3><p>SUN AI로 오디오를 생성하고 스포티파이 라이브러리에 직접 추가하는 도구</p><h3>#6 스테이트라이트 - 신뢰할 수 있는 AI 에이전트를 위한 시각적 상태 머신</h3><p>AI 에이전트의 신뢰성을 높이는 시각적 상태 머신 프레임워크</p><h3>#7 오프셸프: 학습과 집중</h3><p>학습 미루기를 방지하고 집중력을 높이는 학습 관리 앱</p><h3>#8 파일즈 SDK</h3><p>다양한 클라우드 스토리지를 통합 관리하는 개발자용 SDK</p><h3>#9 렛고: 7ms에 부팅되는 Clojure 언어</h3><p>Go로 작성된 초고속 부팅 Clojure 호환 프로그래밍 언어</p><h3>#10 인디 웹 인덱스의 인덱스</h3><p>개인 웹사이트와 블로그 발견을 위한 인덱스들을 모아놓은 메타 인덱스</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IdeaOasis 2026-05-16 — 오늘의 TOP 5]]></title>
         <id>https://ideaoasis-202603.vercel.app/?date=2026-05-16</id>
@@ -244,13 +252,5 @@
         <updated>2026-04-18T20:25:12.812Z</updated>
         <summary type="html"><![CDATA[클로드 디자인 · 스몰 머신 · 패닉락 · 제미니 노트북 · 크래프트봇 · 리브레토 · 스테이지 · ChatGPT 쇼핑 · 맥마인드 · 홈 메모리]]></summary>
         <content type="html"><![CDATA[<h3>#1 클로드 디자인</h3><p>대화만으로 프로토타입, 슬라이드, 원페이저를 제작하는 AI 디자인 도구</p><h3>#2 스몰 머신</h3><p>1초 미만 콜드스타트를 지원하는 초경량 가상머신 플랫폼</p><h3>#3 패닉락</h3><p>맥북 덮개를 닫으면 TouchID를 비활성화하여 강제 잠금해제를 방지하는 보안 도구</p><h3>#4 제미니 노트북</h3><p>프로젝트, 채팅, 파일을 하나의 통합된 공간에서 관리하는 AI 워크스페이스</p><h3>#5 크래프트봇</h3><p>로컬에서 실행되는 자체 호스팅 능동형 AI 어시스턴트</p><h3>#6 리브레토</h3><p>AI 브라우저 자동화를 결정론적으로 만드는 도구</p><h3>#7 스테이지</h3><p>단계별 가이드를 통해 코드 리뷰를 체계적으로 진행하는 도구</p><h3>#8 ChatGPT 쇼핑</h3><p>더 풍부하고 시각적으로 몰입감 있는 AI 쇼핑 경험 제공</p><h3>#9 맥마인드</h3><p>1989년 매킨토시의 하이퍼카드에서 구현한 트랜스포머 신경망</p><h3>#10 홈 메모리</h3><p>집안의 케이블과 배관까지 기록하는 로컬 주택 데이터베이스</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IdeaOasis 2026-04-17 — 오늘의 TOP 5]]></title>
-        <id>https://ideaoasis-202603.vercel.app/?date=2026-04-17</id>
-        <link href="https://ideaoasis-202603.vercel.app/"/>
-        <updated>2026-04-17T20:35:17.056Z</updated>
-        <summary type="html"><![CDATA[빌드 체크 · 임원 변동 추적기 · 헬로 아리아 · 캘린더파이프 · 랭알파 · 리브레토 · 스테이지 · 스몰 머신 · 패닉락 · 코드번]]></summary>
-        <content type="html"><![CDATA[<h3>#1 빌드 체크</h3><p>앱 아이디어의 시장성과 실현 가능성을 AI로 검증해주는 창업 검증 플랫폼</p><h3>#2 임원 변동 추적기</h3><p>상장기업의 CEO, CFO 등 임원 변동을 실시간으로 추적하고 보상 데이터를 분석하는 플랫폼</p><h3>#3 헬로 아리아</h3><p>채팅을 할 일, 알림, 메모로 자동 변환해주는 AI 개인 비서 앱</p><h3>#4 캘린더파이프</h3><p>인간과 AI 에이전트를 위한 프로그래밍 가능한 캘린더 동기화 도구</p><h3>#5 랭알파</h3><p>금융업계 전용으로 최적화된 AI 코딩 어시스턴트 플랫폼</p><h3>#6 리브레토</h3><p>AI 에이전트를 위한 결정론적 브라우저 자동화 도구</p><h3>#7 스테이지</h3><p>단계별 가이드를 제공하는 인간 중심의 코드 리뷰 도구</p><h3>#8 스몰 머신</h3><p>초고속 콜드스타트를 지원하는 휴대용 가상머신 플랫폼</p><h3>#9 패닉락</h3><p>맥북 덮개를 닫으면 TouchID를 비활성화하여 패스워드 입력을 강제하는 보안 도구</p><h3>#10 코드번</h3><p>Claude Code의 토큰 사용량을 작업별로 분석하는 비용 최적화 도구</p>]]></content>
     </entry>
 </feed>
